@@ -1,274 +1,122 @@
 # COMP Course Catalog
 
-## COMP 101: Fluency in Information Technology
-
-The nature of computers, their capabilities, and limitations. How computers work, popular applications, problem-solving skills, algorithms and programming. Lectures and laboratory assignments. Students may not receive credit for this course after receiving credit for COMP 110 or higher.
-
-## COMP 110: Introduction to Programming and Data Science
-
-Introduces students to programming and data science from a computational perspective. With an emphasis on modern applications in society, students gain experience with problem decomposition, algorithms for data analysis, abstraction design, and ethics in computing. No prior programming experience expected. Foundational concepts include data types, sequences, boolean logic, control flow, functions/methods, recursion, classes/objects, input/output, data organization, transformations, and visualizations. Students may not enroll in COMP 110 after receiving credit for COMP 210. Honors version available.
-
-## COMP 116: Introduction to Scientific Programming
-
-An introduction to programming for computationally oriented scientists. Fundamental programming skills, typically using MATLAB or Python. Problem analysis and algorithm design with examples drawn from simple numerical and discrete problems.
-
-## COMP 126: Practical Web Design and Development for Everyone
-
-A ground-up introduction to current principles, standards, and best practice in website design, usability, accessibility, development, and management through project-based skills development in HTML5, CSS, and basic JavaScript. Intended for nonmajors.
-
-## COMP 180: Enabling Technologies
-
-We will investigate ways computer technology can be used to mitigate the effects of disabilities and the sometimes surprising response of those we intended to help. Honors version available.
-
-## COMP 185: Serious Games
-
-Concepts of computer game development and their application beyond entertainment to fields such as education, health, and business. Course includes team development of a game. Excludes COMP majors. Honors version available.
-
-## COMP 190: Topics in Computing
-
-Special topics in computing targeted primarily for students with no computer science background. This course has variable content and may be taken multiple times for credit. As the content will vary with each offering, there are no set requisites but permission from instructor is required.
-
-## COMP 210: Data Structures and Analysis
-
-This course will teach you how to organize the data used in computer programs so that manipulation of that data can be done efficiently on large problems and large data instances. Rather than learning to use the data structures found in the libraries of programming languages, you will be learning how those libraries are constructed, and why the items that are included in them are there (and why some are excluded).
-
-## COMP 211: Systems Fundamentals
-
-This is the first course in the introductory systems sequence. Students enter the course having taken an introductory programming course in a high-level programming language (COMP 110) and a course in discrete structures. The overarching goal is to bridge the gap between a students' knowledge of a high-level programming language (COMP 110) and computer organization (COMP 311).
-
-## COMP 222: ACM Programming Competition Practice
-
-Structured practice to develop and refine programming skills in preparation for the ACM programming competition.
-
-## COMP 227: Effective Peer Teaching in Computer Science
-
-Fundamentals of computer science pedagogy and instructional practice with primary focus on training undergraduate learning assistants for computer science courses. Emphasis on awareness of social identity in learning, active learning in the computer science classroom, and effective mentorship. All students must be granted a computer science learning assistantship or obtain prior approval to substitute relevant practicum experience prior to enrollment.
-
-## COMP 283: Discrete Structures
-
-Introduces discrete structures (sets, tuples, relations, functions, graphs, trees) and the formal mathematics (logic, proof, induction) used to establish their properties and those of algorithms that work with them. Develops problem-solving skills through puzzles and applications central to computer science. Honors version available.
-
-## COMP 290: Special Topics in Computer Science
-
-Non-technical topics in computer science for computer science majors. May not be used to satisfy any degree requirements for a computer science major. This course has variable content and may be taken multiple times for credit.
-
-## COMP 293: Internship in Computer Science
-
-Computer science majors only. A signed learning contract is required before a student may register. Work experience in non-elementary computer science. Permission of instructor and director of undergraduate studies required.
-
-## COMP 301: Foundations of Programming
-
-Students will learn how to reason about how their code is structured, identify whether a given structure is effective in a given context, and look at ways of organizing units of code that support larger programs. In a nutshell, the primary goal of the course is to equip students with tools and techniques that will help them not only in later courses in the major but also in their careers afterwards.
-
-## COMP 311: Computer Organization
-
-Introduction to computer organization and design. Students will be introduced to the conceptual design of a basic microprocessor, along with assembly programming. The course includes fundamental concepts such as binary numbers, binary arithmetic, and representing information as well as instructions. Students learn to program in assembly (i.e., machine) language. The course covers the fundamentals of computer hardware design, transistors and logic gates, progressing through basic combinational and sequential components, culminating in the conceptual design CPU.
-
-## COMP 325: How to Build a Software Startup
-
-Explores real-world skills for successfully developing and launching a software startup in an experiential learning environment. Customer outreach and feedback, market analysis, business model development, agile product development, with mentors from the entrepreneurship community.
-
-## COMP 380: Technology, Ethics, & Culture
-
-This discussion-based, participatory course explores the personal, sociocultural, and ethical effects and implications of the development and use of computing technologies and the Internet. Honors version available.
-
-## COMP 388: Advanced Cyberculture Studies
-
-Explores Internet history and cyberphilosophy; online identity construction, community, communication, creativity; bodies/cyborgs; intelligence and AI. Students perform independent research into and analyze virtual worlds, social media, anonymous bulletin boards, mobile media, and more, and create digital art and literature. Seminar-style; students collaborate on designing and leading class.
-
-## COMP 390: Computer Science Elective Topics
-
-Elective topics in computer science for computer science majors. May not be used to satisfy any degree requirements for a computer science major. This course has variable content and may be taken multiple times for credit.
-
-## COMP 401: Foundation of Programming
-
-Required preparation, a first formal course in computer programming (e.g., COMP 110, COMP 116). Advanced programming: object-oriented design, classes, interfaces, packages, inheritance, delegation, observers, MVC (model view controller), exceptions, assertions. Students may not receive credit for this course after receiving credit for COMP 301. Honors version available.
-
-## COMP 410: Data Structures
-
-The analysis of data structures and their associated algorithms. Abstract data types, lists, stacks, queues, trees, and graphs. Sorting, searching, hashing. Students may not receive credit for this course after receiving credit for COMP 210.
-
-## COMP 411: Computer Organization
-
-Digital logic, circuit components. Data representation, computer architecture and implementation, assembly language programming. Students may not receive credit for this course after receiving credit for COMP 311.
-
-## COMP 421: Files and Databases
-
-Placement of data on secondary storage. File organization. Database history, practice, major models, system structure and design. Previously offered as COMP 521.
-
-## COMP 426: Modern Web Programming
-
-Developing applications for the World Wide Web including both client-side and server-side programming. Emphasis on Model-View-Controller architecture, AJAX, RESTful Web services, and database interaction.
-
-## COMP 431: Internet Services and Protocols
-
-Application-level protocols HTTP, SMTP, FTP, transport protocols TCP and UDP, and the network-level protocol IP. Internet architecture, naming, addressing, routing, and DNS. Sockets programming. Physical-layer technologies. Ethernet, ATM, and wireless.
-
-## COMP 433: Mobile Computing Systems
-
-Principles of mobile applications, mobile OS, mobile networks, and embedded sensor systems. Coursework includes programming assignments, reading from recent research literature, and a semester long project on a mobile computing platform (e.g., Android, Arduino, iOS, etc.).
-
-## COMP 435: Computer Security Concepts
-
-Introduction to topics in computer security including confidentiality, integrity, availability, authentication policies, basic cryptography and cryptographic protocols, ethics, and privacy. A student may not receive credit for this course after receiving credit for COMP 535.
-
-## COMP 447: Quantum Computing
-
-Recommended preparation, some knowledge of basic linear algebra. An introduction to quantum computing. Basic math and quantum mechanics necessary to understand the operation of quantum bits. Quantum gates, circuits, and algorithms, including Shor's algorithm for factoring and Grover's search algorithm. Entanglement and error correction. Quantum encryption, annealing, and simulation. Brief discussion of technologies.
-
-## COMP 455: Models of Languages and Computation
-
-Introduction to the theory of computation. Finite automata, regular languages, pushdown automata, context-free languages, and Turing machines. Undecidable problems.
-
-## COMP 475: 2D Computer Graphics
-
-Fundamentals of modern software 2D graphics; geometric primitives, scan conversion, clipping, transformations, compositing, texture sampling. Advanced topics may include gradients, antialiasing, filtering, parametric curves, and geometric stroking.
-
-## COMP 486: Applications of Natural Language Processing
-
-Natural language processing (NLP) uses mathematics, machine learning, linguistics, and computer science to make language computationally accessible and analyzable. In this course, you will learn to do essential NLP tasks using Python and survey a selection of NLP applications to describe the problems or tasks each addresses, the materials and methods used, and how the applications are evaluated. At least a semester of Python or equivalent practical experience is highly recommended.
-
-## COMP 487: Information Retrieval
-
-Study of information retrieval and question answering techniques, including document classification, retrieval and evaluation techniques, handling of large data collections, and the use of feedback.
-
-## COMP 488: Data Science in the Business World
-
-Business and Computer Science students join forces in this course to create data-driven business insights. We transgress the data science pipeline using cloud computing, artificial intelligence, and real-world datasets. Students acquire hands-on skills in acquiring data, wrangling vast unstructured data, building advanced models, and telling compelling stories with data that managers can understand.
-
-## COMP 495: Mentored Research in Computer Science
-
-Independent research conducted under the direct mentorship of a computer science faculty member. If repeated, the repeated course can not be counted for the major. For computer science majors only. Permission of instructor required.
-
-## COMP 496: Independent Study in Computer Science
-
-Permission of the department. Computer science majors only. For advanced majors in computer science who wish to conduct an independent study or research project with a faculty supervisor. May be taken repeatedly for up to a total of six credit hours.
-
-## COMP 520: Compilers
-
-Design and construction of compilers. Theory and pragmatics of lexical, syntactic, and semantic analysis. Interpretation. Code generation for a modern architecture. Run-time environments. Includes a large compiler implementation project.
-
-## COMP 523: Software Engineering Laboratory
-
-Organization and scheduling of software engineering projects, structured programming, and design. Each team designs, codes, and debugs program components and synthesizes them into a tested, documented program product.
-
-## COMP 524: Programming Language Concepts
-
-Concepts of high-level programming and their realization in specific languages. Data types, scope, control structures, procedural abstraction, classes, concurrency. Run-time implementation.
-
-## COMP 530: Operating Systems
-
-Types of operating systems. Concurrent programming. Management of storage, processes, devices. Scheduling, protection. Case study. Course includes a programming laboratory. Honors version available.
-
-## COMP 533: Distributed Systems
-
-Distributed systems and their goals; resource naming, synchronization of distributed processes; consistency and replication; fault tolerance; security and trust; distributed object-based systems; distributed file systems; distributed Web-based systems; and peer-to-peer systems.
-
-## COMP 535: Introduction to Computer Security
-
-Principles of securing the creation, storage, and transmission of data and ensuring its integrity, confidentiality and availability. Topics include access control, cryptography and cryptographic protocols, network security, and online privacy.
-
-## COMP 537: Cryptography
-
-Introduces both the applied and theoretical sides of cryptography. Main focus will be on the inner workings of cryptographic primitives and how to use them correctly. Begins with standard cryptographic tools such as symmetric and public-key encryption, message authentication, key exchange, and digital signatures before moving on to more advanced topics. Potential advanced topics include elliptic curves, post-quantum cryptography, and zero-knowledge proofs. Honors version available.
-
-## COMP 541: Digital Logic and Computer Design
-
-This course is an introduction to digital logic as well as the structure and electronic design of modern processors. Students will implement a working computer during the laboratory sessions.
-
-## COMP 545: Programming Intelligent Physical Systems
-
-Introduction to programming embedded control systems that lie at the heart of robots, drones, and autonomous vehicles. Topics will include modeling physical systems, designing feedback controllers, timing analysis of embedded systems and software, software implementations of controllers on distributed embedded platforms and their verification. Honors version available.
-
-## COMP 550: Algorithms and Analysis
-
-Formal specification and verification of programs. Techniques of algorithm analysis. Problem-solving paradigms. Survey of selected algorithms.
-
-## COMP 555: Bioalgorithms
-
-Bioinformatics algorithms. Topics include DNA restriction mapping, finding regulatory motifs, genome rearrangements, sequence alignments, gene prediction, graph algorithms, DNA sequencing, protein sequencing, combinatorial pattern matching, approximate pattern matching, clustering and evolution, tree construction, Hidden Markov Models, randomized algorithms.
-
-## COMP 560: Artificial Intelligence
-
-Introduction to techniques and applications of modern artificial intelligence. Combinatorial search, probabilistic models and reasoning, and applications to natural language understanding, robotics, and computer vision.
-
-## COMP 562: Introduction to Machine Learning
-
-Machine learning as applied to speech recognition, tracking, collaborative filtering, and recommendation systems. Classification, regression, support vector machines, hidden Markov models, principal component analysis, and deep learning. Honors version available.
-
-## COMP 572: Computational Photography
-
-The course provides a hands on introduction to techniques in computational photography--the process of digitally recording light and then performing computational manipulations on those measurements to produce an image or other representation. The course includes an introduction to relevant concepts in computer vision and computer graphics.
-
-## COMP 575: Introduction to Computer Graphics
-
-Hardware, software, and algorithms for computer graphics. Scan conversion, 2-D and 3-D transformations, object hierarchies. Hidden surface removal, clipping, shading, and antialiasing. Not for graduate computer science credit.
-
-## COMP 576: Mathematics for Image Computing
-
-Mathematics relevant to image processing and analysis using real image computing objectives and provided by computer implementations.
-
-## COMP 580: Enabling Technologies
-
-We will investigate ways computer technology can be used to mitigate the effects of disabilities and the sometimes surprising response of those we intended to help.
-
-## COMP 581: Introduction to Robotics
-
-Hands-on introduction to robotics with a focus on the computational aspects. Students will build and program mobile robots. Topics include kinematics, actuation, sensing, configuration spaces, control, and motion planning. Applications include industrial, mobile, personal, and medical robots. Honors version available.
-
-## COMP 585: Serious Games
-
-Concepts of computer game development and their application beyond entertainment to fields such as education, health, and business. Course includes team development of a game. Honors version available.
-
-## COMP 586: Natural Language Processing
-
-Through this course, students will develop an understanding of the general field of Natural Language Processing with an emphasis on state-of-the-art solutions for classic NLP problems. Topics include: text representation and classification, parts-of-speech tagging, parsing, translation, and language modeling.
-
-## COMP 590: Topics in Computer Science
-
-This course has variable content and may be taken multiple times for credit. Different sections may be taken in the same semester. Honors version available.
-
-## COMP 630: Operating System Implementation
-
-Students will learn how to write OS kernel code in C and a small amount of assembly. Students will implement major components of the OS kernel, such as page tables, scheduling, and program loading.
-
-## COMP 631: Networked and Distributed Systems
-
-Topics in designing global-scale computer networks (link layer, switching, IP, TCP, congestion control) and large-scale distributed systems (data centers, distributed hash tables, peer-to-peer infrastructures, name systems).
-
-## COMP 633: Parallel and Distributed Computing
-
-Required preparation, a first course in operating systems and a first course in algorithms (e.g., COMP 530 and 550). Principles and practices of parallel and distributed computing. Models of computation. Concurrent programming languages and systems. Architectures. Algorithms and applications. Practicum.
-
-## COMP 635: Wireless and Mobile Communications
-
-This course builds an understanding of the core issues encountered in the design of wireless (vs. wired) networks. It also exposes students to fairly recent paradigms in wireless communication.
-
-## COMP 636: Distributed Collaborative Systems
-
-Design and implementation of distributed collaborative systems. Collaborative architectures, consistency of replicated objects, collaborative user-interfaces, application and system taxonomies, application-level multicast, performance, causality, operation transformation, and concurrency and access control.
-
-## COMP 651: Computational Geometry
-
-Required preparation, a first course in algorithms (e.g., COMP 550). Design and analysis of algorithms and data structures for geometric problems. Applications in graphics, CAD/CAM, robotics, GIS, and molecular biology.
-
-## COMP 662: Scientific Computation II
-
-Theory and practical issues arising in linear algebra problems derived from physical applications, e.g., discretization of ODEs and PDEs. Linear systems, linear least squares, eigenvalue problems, singular value decomposition.
-
-## COMP 664: Deep Learning
-
-Introduction to the field of deep learning and its applications. Basics of building and optimizing neural networks, including model architectures and training schemes.
-
-## COMP 665: Images, Graphics, and Vision
-
-Required preparation, a first course in data structures and a first course in discrete mathematics (e.g., COMP 410 and MATH 383). Display devices and procedures. Scan conversion. Matrix algebra supporting viewing transformations in computer graphics. Basic differential geometry. Coordinate systems, Fourier analysis, FDFT algorithm. Human visual system, psychophysics, scale in vision.
-
-## COMP 672: Simulation Modeling and Analysis
-
-Introduces students to modeling, programming, and statistical analysis applicable to computer simulations. Emphasizes statistical analysis of simulation output for decision-making. Focuses on discrete-event simulations and discusses other simulation methodologies such as Monte Carlo and agent-based simulations. Students model, program, and run simulations using specialized software. Familiarity with computer programming recommended.
-
-## COMP 683: Computational Biology
-
-Algorithms and data mining techniques used in modern biomedical data science and single-cell bioinformatics. Graph signal processing, graph diffusion, clustering, multimodal data integration.
-
+- [COMP 101: Fluency in Information Technology](COMP_101_Fluency_in_Information_Technology)
+- [COMP 110: Introduction to Programming and Data Science](COMP_110_Introduction_to_Programming_and_Data_Science)
+- [COMP 116: Introduction to Scientific Programming](COMP_116_Introduction_to_Scientific_Programming)
+- [COMP 126: Practical Web Design and Development for Everyone](COMP_126_Practical_Web_Design_and_Development_for_Everyone)
+- [COMP 180: Enabling Technologies](COMP_180_Enabling_Technologies)
+- [COMP 185: Serious Games](COMP_185_Serious_Games)
+- [COMP 190: Topics in Computing](COMP_190_Topics_in_Computing)
+- [COMP 210: Data Structures and Analysis](COMP_210_Data_Structures_and_Analysis)
+- [COMP 211: Systems Fundamentals](COMP_211_Systems_Fundamentals)
+- [COMP 222: ACM Programming Competition Practice](COMP_222_ACM_Programming_Competition_Practice)
+- [COMP 227: Effective Peer Teaching in Computer Science](COMP_227_Effective_Peer_Teaching_in_Computer_Science)
+- [COMP 283: Discrete Structures](COMP_283_Discrete_Structures)
+- [COMP 290: Special Topics in Computer Science](COMP_290_Special_Topics_in_Computer_Science)
+- [COMP 293: Internship in Computer Science](COMP_293_Internship_in_Computer_Science)
+- [COMP 301: Foundations of Programming](COMP_301_Foundations_of_Programming)
+- [COMP 311: Computer Organization](COMP_311_Computer_Organization)
+- [COMP 325: How to Build a Software Startup](COMP_325_How_to_Build_a_Software_Startup)
+- [COMP 380: Technology, Ethics, & Culture](COMP_380_Technology,_Ethics,_&_Culture)
+- [COMP 388: Advanced Cyberculture Studies](COMP_388_Advanced_Cyberculture_Studies)
+- [COMP 390: Computer Science Elective Topics](COMP_390_Computer_Science_Elective_Topics)
+- [COMP 401: Foundation of Programming](COMP_401_Foundation_of_Programming)
+- [COMP 410: Data Structures](COMP_410_Data_Structures)
+- [COMP 411: Computer Organization](COMP_411_Computer_Organization)
+- [COMP 421: Files and Databases](COMP_421_Files_and_Databases)
+- [COMP 426: Modern Web Programming](COMP_426_Modern_Web_Programming)
+- [COMP 431: Internet Services and Protocols](COMP_431_Internet_Services_and_Protocols)
+- [COMP 433: Mobile Computing Systems](COMP_433_Mobile_Computing_Systems)
+- [COMP 435: Computer Security Concepts](COMP_435_Computer_Security_Concepts)
+- [COMP 447: Quantum Computing](COMP_447_Quantum_Computing)
+- [COMP 455: Models of Languages and Computation](COMP_455_Models_of_Languages_and_Computation)
+- [COMP 475: 2D Computer Graphics](COMP_475_2D_Computer_Graphics)
+- [COMP 486: Applications of Natural Language Processing](COMP_486_Applications_of_Natural_Language_Processing)
+- [COMP 487: Information Retrieval](COMP_487_Information_Retrieval)
+- [COMP 488: Data Science in the Business World](COMP_488_Data_Science_in_the_Business_World)
+- [COMP 495: Mentored Research in Computer Science](COMP_495_Mentored_Research_in_Computer_Science)
+- [COMP 496: Independent Study in Computer Science](COMP_496_Independent_Study_in_Computer_Science)
+- [COMP 520: Compilers](COMP_520_Compilers)
+- [COMP 523: Software Engineering Laboratory](COMP_523_Software_Engineering_Laboratory)
+- [COMP 524: Programming Language Concepts](COMP_524_Programming_Language_Concepts)
+- [COMP 530: Operating Systems](COMP_530_Operating_Systems)
+- [COMP 533: Distributed Systems](COMP_533_Distributed_Systems)
+- [COMP 535: Introduction to Computer Security](COMP_535_Introduction_to_Computer_Security)
+- [COMP 537: Cryptography](COMP_537_Cryptography)
+- [COMP 541: Digital Logic and Computer Design](COMP_541_Digital_Logic_and_Computer_Design)
+- [COMP 545: Programming Intelligent Physical Systems](COMP_545_Programming_Intelligent_Physical_Systems)
+- [COMP 550: Algorithms and Analysis](COMP_550_Algorithms_and_Analysis)
+- [COMP 555: Bioalgorithms](COMP_555_Bioalgorithms)
+- [COMP 560: Artificial Intelligence](COMP_560_Artificial_Intelligence)
+- [COMP 562: Introduction to Machine Learning](COMP_562_Introduction_to_Machine_Learning)
+- [COMP 572: Computational Photography](COMP_572_Computational_Photography)
+- [COMP 575: Introduction to Computer Graphics](COMP_575_Introduction_to_Computer_Graphics)
+- [COMP 576: Mathematics for Image Computing](COMP_576_Mathematics_for_Image_Computing)
+- [COMP 580: Enabling Technologies](COMP_580_Enabling_Technologies)
+- [COMP 581: Introduction to Robotics](COMP_581_Introduction_to_Robotics)
+- [COMP 585: Serious Games](COMP_585_Serious_Games)
+- [COMP 586: Natural Language Processing](COMP_586_Natural_Language_Processing)
+- [COMP 590: Topics in Computer Science](COMP_590_Topics_in_Computer_Science)
+- [COMP 630: Operating System Implementation](COMP_630_Operating_System_Implementation)
+- [COMP 631: Networked and Distributed Systems](COMP_631_Networked_and_Distributed_Systems)
+- [COMP 633: Parallel and Distributed Computing](COMP_633_Parallel_and_Distributed_Computing)
+- [COMP 635: Wireless and Mobile Communications](COMP_635_Wireless_and_Mobile_Communications)
+- [COMP 636: Distributed Collaborative Systems](COMP_636_Distributed_Collaborative_Systems)
+- [COMP 651: Computational Geometry](COMP_651_Computational_Geometry)
+- [COMP 662: Scientific Computation II](COMP_662_Scientific_Computation_II)
+- [COMP 664: Deep Learning](COMP_664_Deep_Learning)
+- [COMP 665: Images, Graphics, and Vision](COMP_665_Images,_Graphics,_and_Vision)
+- [COMP 672: Simulation Modeling and Analysis](COMP_672_Simulation_Modeling_and_Analysis)
+- [COMP 683: Computational Biology](COMP_683_Computational_Biology)
+- [COMP 715: Visualization in the Sciences](COMP_715_Visualization_in_the_Sciences)
+- [COMP 720: Compilers](COMP_720_Compilers)
+- [COMP 721: Database Management Systems](COMP_721_Database_Management_Systems)
+- [COMP 722: Data Mining](COMP_722_Data_Mining)
+- [COMP 723: Software Design and Implementation](COMP_723_Software_Design_and_Implementation)
+- [COMP 724: Programming Languages](COMP_724_Programming_Languages)
+- [COMP 730: Operating Systems](COMP_730_Operating_Systems)
+- [COMP 734: Distributed Systems](COMP_734_Distributed_Systems)
+- [COMP 735: Distributed and Concurrent Algorithms](COMP_735_Distributed_and_Concurrent_Algorithms)
+- [COMP 737: Real-Time Systems](COMP_737_Real-Time_Systems)
+- [COMP 740: Computer Architecture and Implementation](COMP_740_Computer_Architecture_and_Implementation)
+- [COMP 741: Elements of Hardware Systems](COMP_741_Elements_of_Hardware_Systems)
+- [COMP 744: VLSI Systems Design](COMP_744_VLSI_Systems_Design)
+- [COMP 750: Algorithm Analysis](COMP_750_Algorithm_Analysis)
+- [COMP 752: Mechanized Mathematical Inference](COMP_752_Mechanized_Mathematical_Inference)
+- [COMP 755: Machine Learning](COMP_755_Machine_Learning)
+- [COMP 761: Introductory Computer Graphics](COMP_761_Introductory_Computer_Graphics)
+- [COMP 763: Semantics and Program Correctness](COMP_763_Semantics_and_Program_Correctness)
+- [COMP 764: Monte Carlo Method](COMP_764_Monte_Carlo_Method)
+- [COMP 766: Visual Solid Shape](COMP_766_Visual_Solid_Shape)
+- [COMP 767: Geometric and Solid Modeling](COMP_767_Geometric_and_Solid_Modeling)
+- [COMP 768: Physically Based Modeling and Simulation](COMP_768_Physically_Based_Modeling_and_Simulation)
+- [COMP 770: Computer Graphics](COMP_770_Computer_Graphics)
+- [COMP 775: Image Processing and Analysis](COMP_775_Image_Processing_and_Analysis)
+- [COMP 776: Computer Vision in our 3D World](COMP_776_Computer_Vision_in_our_3D_World)
+- [COMP 777: Optimal Estimation in Image Analysis](COMP_777_Optimal_Estimation_in_Image_Analysis)
+- [COMP 781: Robotics](COMP_781_Robotics)
+- [COMP 782: Motion Planning in Physical and Virtual Worlds](COMP_782_Motion_Planning_in_Physical_and_Virtual_Worlds)
+- [COMP 786: Natural Language Processing](COMP_786_Natural_Language_Processing)
+- [COMP 787: Visual Perception](COMP_787_Visual_Perception)
+- [COMP 788: Expert Systems](COMP_788_Expert_Systems)
+- [COMP 822: Topics in Discrete Optimization](COMP_822_Topics_in_Discrete_Optimization)
+- [COMP 824: Functional Programming](COMP_824_Functional_Programming)
+- [COMP 825: Logic Programming](COMP_825_Logic_Programming)
+- [COMP 831: Internet Architecture and Performance](COMP_831_Internet_Architecture_and_Performance)
+- [COMP 832: Multimedia Networking](COMP_832_Multimedia_Networking)
+- [COMP 841: Advanced Computer Architecture](COMP_841_Advanced_Computer_Architecture)
+- [COMP 842: Advanced Computer Implementation](COMP_842_Advanced_Computer_Implementation)
+- [COMP 844: Advanced Design of VLSI Systems](COMP_844_Advanced_Design_of_VLSI_Systems)
+- [COMP 850: Advanced Analysis of Algorithms](COMP_850_Advanced_Analysis_of_Algorithms)
+- [COMP 870: Advanced Image Synthesis](COMP_870_Advanced_Image_Synthesis)
+- [COMP 872: Exploring Virtual Worlds](COMP_872_Exploring_Virtual_Worlds)
+- [COMP 875: Recent Advances in Image Analysis](COMP_875_Recent_Advances_in_Image_Analysis)
+- [COMP 911: Professional Writing in Computer Science](COMP_911_Professional_Writing_in_Computer_Science)
+- [COMP 915: Technical Communication in Computer Science](COMP_915_Technical_Communication_in_Computer_Science)
+- [COMP 916: Seminar in Professional Practice](COMP_916_Seminar_in_Professional_Practice)
+- [COMP 917: Seminar in Research](COMP_917_Seminar_in_Research)
+- [COMP 918: Research Administration for Scientists](COMP_918_Research_Administration_for_Scientists)
+- [COMP 980: Computers and Society](COMP_980_Computers_and_Society)
+- [COMP 992: Master's (Non-Thesis)](COMP_992_Master's_(Non-Thesis))
+- [COMP 993: Master's Research and Thesis](COMP_993_Master's_Research_and_Thesis)
+- [COMP 994: Doctoral Research and Dissertation](COMP_994_Doctoral_Research_and_Dissertation)

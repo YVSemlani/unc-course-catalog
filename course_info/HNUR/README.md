@@ -1,0 +1,18 @@
+# HNUR Course Catalog
+
+- [HNUR 101: Elementary Hindi-Urdu I](HNUR_101_Elementary_Hindi-Urdu_I)
+- [HNUR 102: Elementary Hindi-Urdu II](HNUR_102_Elementary_Hindi-Urdu_II)
+- [HNUR 203: Intermediate Hindi-Urdu I](HNUR_203_Intermediate_Hindi-Urdu_I)
+- [HNUR 204: Intermediate Hindi-Urdu II](HNUR_204_Intermediate_Hindi-Urdu_II)
+- [HNUR 220: Introduction to the Hindi Script (Devanagari)](HNUR_220_Introduction_to_the_Hindi_Script_(Devanagari))
+- [HNUR 221: Introduction to the Urdu Script (Nastaliq)](HNUR_221_Introduction_to_the_Urdu_Script_(Nastaliq))
+- [HNUR 305: Advanced Hindi-Urdu I](HNUR_305_Advanced_Hindi-Urdu_I)
+- [HNUR 306: Advanced Hindi-Urdu II](HNUR_306_Advanced_Hindi-Urdu_II)
+- [HNUR 308: Hindi-Urdu Languages across the Curriculum Recitation](HNUR_308_Hindi-Urdu_Languages_across_the_Curriculum_Recitation)
+- [HNUR 407: South Asian Society and Culture](HNUR_407_South_Asian_Society_and_Culture)
+- [HNUR 408: South Asian Media and Film](HNUR_408_South_Asian_Media_and_Film)
+- [HNUR 409: Sex and Social Justice in South Asia](HNUR_409_Sex_and_Social_Justice_in_South_Asia)
+- [HNUR 410: Seminar on the Urdu-Hindi Ghazal](HNUR_410_Seminar_on_the_Urdu-Hindi_Ghazal)
+- [HNUR 411: Health and Medicine in South Asia](HNUR_411_Health_and_Medicine_in_South_Asia)
+- [HNUR 490: Topics in Hindi-Urdu Literature and Language](HNUR_490_Topics_in_Hindi-Urdu_Literature_and_Language)
+- [HNUR 592: Religious Conflict and Literature in India](HNUR_592_Religious_Conflict_and_Literature_in_India)

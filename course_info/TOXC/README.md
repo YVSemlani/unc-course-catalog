@@ -1,0 +1,16 @@
+# TOXC Course Catalog
+
+- [TOXC 423: Developmental Toxicology and Teratology](TOXC_423_Developmental_Toxicology_and_Teratology)
+- [TOXC 701: Current Topics in Toxicology](TOXC_701_Current_Topics_in_Toxicology)
+- [TOXC 702: Principles of Pharmacology and Physiology](TOXC_702_Principles_of_Pharmacology_and_Physiology)
+- [TOXC 707: Advanced Toxicology](TOXC_707_Advanced_Toxicology)
+- [TOXC 721: Toxicology Seminar II](TOXC_721_Toxicology_Seminar_II)
+- [TOXC 722: Toxicology Seminar III](TOXC_722_Toxicology_Seminar_III)
+- [TOXC 735: Regulatory Toxicology-Interacting with regulatory agencies & approval for drug, device, and chemical](TOXC_735_Regulatory_Toxicology-Interacting_with_regulatory_agencies_&_approval_for_drug,_device,_and_chemical)
+- [TOXC 749: Biochemical Toxicology](TOXC_749_Biochemical_Toxicology)
+- [TOXC 760: Toxicokinetics](TOXC_760_Toxicokinetics)
+- [TOXC 792: Seminar in Carcinogenesis](TOXC_792_Seminar_in_Carcinogenesis)
+- [TOXC 821: Scientific Writing](TOXC_821_Scientific_Writing)
+- [TOXC 992: Master's (Non-Thesis)](TOXC_992_Master's_(Non-Thesis))
+- [TOXC 993: Master's Research and Thesis](TOXC_993_Master's_Research_and_Thesis)
+- [TOXC 994: Doctoral Research and Dissertation](TOXC_994_Doctoral_Research_and_Dissertation)

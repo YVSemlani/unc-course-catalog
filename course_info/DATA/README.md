@@ -1,0 +1,17 @@
+# DATA Course Catalog
+
+- [DATA 110: Introduction to Data Science](DATA_110_Introduction_to_Data_Science)
+- [DATA 120: Ethics of Data Science and Artificial Intelligence](DATA_120_Ethics_of_Data_Science_and_Artificial_Intelligence)
+- [DATA 130: Critical Data Literacy](DATA_130_Critical_Data_Literacy)
+- [DATA 140: Introduction to Data Structures and Management](DATA_140_Introduction_to_Data_Structures_and_Management)
+- [DATA 150: Communication for Data Scientists](DATA_150_Communication_for_Data_Scientists)
+- [DATA 710: Introduction to Applied Data Science](DATA_710_Introduction_to_Applied_Data_Science)
+- [DATA 715: Advanced Databases for Data Science](DATA_715_Advanced_Databases_for_Data_Science)
+- [DATA 720: Programming Methods for Data Science](DATA_720_Programming_Methods_for_Data_Science)
+- [DATA 730: Statistical Modeling and Inference for Data Science](DATA_730_Statistical_Modeling_and_Inference_for_Data_Science)
+- [DATA 740: Governance, Bias, and Ethics in Data Science and Artificial Intelligence](DATA_740_Governance,_Bias,_and_Ethics_in_Data_Science_and_Artificial_Intelligence)
+- [DATA 750: Mathematical Tools for Data Science](DATA_750_Mathematical_Tools_for_Data_Science)
+- [DATA 760: Visualization and Communication in Data Science](DATA_760_Visualization_and_Communication_in_Data_Science)
+- [DATA 780: Machine Learning](DATA_780_Machine_Learning)
+- [DATA 890: Special Topics in Data Science](DATA_890_Special_Topics_in_Data_Science)
+- [DATA 992: Master's (Non-Thesis)](DATA_992_Master's_(Non-Thesis))

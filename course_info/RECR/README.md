@@ -1,0 +1,15 @@
+# RECR Course Catalog
+
+- [RECR 710: Leisure and Organized Recreation in the United States](RECR_710_Leisure_and_Organized_Recreation_in_the_United_States)
+- [RECR 770: Administration of Therapeutic Recreation Services](RECR_770_Administration_of_Therapeutic_Recreation_Services)
+- [RECR 775: Principles and Procedures in Therapeutic Recreation](RECR_775_Principles_and_Procedures_in_Therapeutic_Recreation)
+- [RECR 790: Independent Field Study](RECR_790_Independent_Field_Study)
+- [RECR 830: Managing Organizational Behavior in Recreation Services](RECR_830_Managing_Organizational_Behavior_in_Recreation_Services)
+- [RECR 865: Issues and Trends in Recreation Management](RECR_865_Issues_and_Trends_in_Recreation_Management)
+- [RECR 876: Issues and Trends in Therapeutic Recreation](RECR_876_Issues_and_Trends_in_Therapeutic_Recreation)
+- [RECR 880: Internship in Recreation Administration](RECR_880_Internship_in_Recreation_Administration)
+- [RECR 881: Internship in Recreation Administration](RECR_881_Internship_in_Recreation_Administration)
+- [RECR 890: Seminar in Leisure Studies](RECR_890_Seminar_in_Leisure_Studies)
+- [RECR 950: Recreation Research Design and Methods I](RECR_950_Recreation_Research_Design_and_Methods_I)
+- [RECR 951: Recreation Research Design and Methods II](RECR_951_Recreation_Research_Design_and_Methods_II)
+- [RECR 993: Master's Research and Thesis](RECR_993_Master's_Research_and_Thesis)

@@ -1,0 +1,16 @@
+# SPHG Course Catalog
+
+- [SPHG 101: Exploring Public Health Fields](SPHG_101_Exploring_Public_Health_Fields)
+- [SPHG 351: Foundations of Public Health](SPHG_351_Foundations_of_Public_Health)
+- [SPHG 352: Public Health Systems and Solutions](SPHG_352_Public_Health_Systems_and_Solutions)
+- [SPHG 428: Public Health Entrepreneurship](SPHG_428_Public_Health_Entrepreneurship)
+- [SPHG 429: Public Health, Entrepreneurship, and Food Systems in Southeast Asia](SPHG_429_Public_Health,_Entrepreneurship,_and_Food_Systems_in_Southeast_Asia)
+- [SPHG 600: Introduction to Public Health](SPHG_600_Introduction_to_Public_Health)
+- [SPHG 701: Leading from the Inside-Out](SPHG_701_Leading_from_the_Inside-Out)
+- [SPHG 702: Practicum Assignments & Interprofessional Practice Activities](SPHG_702_Practicum_Assignments_&_Interprofessional_Practice_Activities)
+- [SPHG 711: Data Analysis for Public Health](SPHG_711_Data_Analysis_for_Public_Health)
+- [SPHG 712: Methods and Measures for Public Health Practice](SPHG_712_Methods_and_Measures_for_Public_Health_Practice)
+- [SPHG 713: Systems Approaches to Understanding Public Health Issues](SPHG_713_Systems_Approaches_to_Understanding_Public_Health_Issues)
+- [SPHG 721: Public Health Solutions: Systems, Policy and Advocacy](SPHG_721_Public_Health_Solutions:_Systems,_Policy_and_Advocacy)
+- [SPHG 722: Developing, Implementing, and Evaluating Public Health Solutions](SPHG_722_Developing,_Implementing,_and_Evaluating_Public_Health_Solutions)
+- [SPHG 992: Master's (Non-Thesis)](SPHG_992_Master's_(Non-Thesis))

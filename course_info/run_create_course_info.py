@@ -19,6 +19,17 @@ def create_course_folders(catalog_file, department_code, base_dir):
     # Find all courses in the catalog
     courses = course_pattern.findall(content)
 
+    # Create department-level README.md
+    dept_readme_path = os.path.join(base_dir, 'README.md')
+    with open(dept_readme_path, 'w', encoding='utf-8') as dept_readme_file:
+        dept_readme_content = f"# {department_code} Course Catalog\n\n"
+        for course in courses:
+            course_number, course_name, _ = course
+            dept_readme_content += f"- [{department_code} {course_number}: {course_name}]({department_code}_{course_number}_{course_name.replace(' ', '_')})\n"
+        dept_readme_file.write(dept_readme_content)
+
+    print(f"Created department-level README.md for {department_code}")
+
     for course in courses:
         course_number = course[0].strip()
         course_name = course[1].strip()
