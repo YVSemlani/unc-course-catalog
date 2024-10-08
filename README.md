@@ -6,6 +6,8 @@ Welcome to the UNC Course Catalog Repository! This student-run repository relies
 
 The repository is organized as follows:
 
+
+- **Course Info:** Contains course information for all courses.
 - **Department Level:** Each department has its own folder, e.g., `COMP` for Computer Science, `MATH` for Mathematics.
 - **Course Level:** Within each department folder, courses are organized by Course Number -- Course Name, e.g., `210_Data_Structures_and_Analysis`.
 - **Professor Level:** Inside each course folder, materials are organized by Professor's name.
