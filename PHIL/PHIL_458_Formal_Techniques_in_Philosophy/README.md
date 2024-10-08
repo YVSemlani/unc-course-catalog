@@ -1,0 +1,3 @@
+# PHIL 458: Formal Techniques in Philosophy
+
+In a variety of subfields of philosophy, philosophers have found formal techniques to be useful tools for making progress on important philosophical questions. These subfields include, but are not limited to: metaphysics, epistemology, philosophy of language, philosophy of mind, ethics, and political philosophy. This course is a general introduction to some of the formal tools that have been most influential in these fields.

@@ -1,0 +1,3 @@
+# MEJO 721: Usability and Multimedia Design
+
+Introduces students to five basic areas of multimedia design and develops expertise in each. By examining the latest eye-tracking research and usability testing, students will assess the practical application of many concepts. Through critiques and original storyboards, students will work to expertly integrate all this knowledge into well-designed packages.

@@ -1,0 +1,3 @@
+# HIST 305: Elizabeth I and her World: Gender, Power, and the Beginnings of the Global
+
+This class explores the world of Elizabeth I of England (1558-1603) through three complementary lenses: the queen as powerful political actor; gender; and emergent globalization. Particular attention is paid to the ways in which Elizabeth fashioned the images that she projected, and how she was perceived by others.

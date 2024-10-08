@@ -1,0 +1,3 @@
+# PSYC 493: Internship in Psychology
+
+Required preparation, minimum of two other psychology courses and junior/senior standing. Designed for highly motivated psychology majors interested in exploring professional opportunities in psychology-related areas. Students complete hands-on internships at community sites for approximately 120 hours across the semester. Students also attend a weekly one-hour class with other interns.

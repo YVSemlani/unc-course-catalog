@@ -1,0 +1,3 @@
+# ECON 487: Economics of Life: Applying Economics to Life's Big Questions
+
+This course explores the intersection of economics and self-examination in trying to live a good life. Students will learn about economic models, data, and research in the following areas: 1.) education, 2.) career, 3.) finance, 4.) well-being, 5.) family, and 6.) groups. Students will review evidence and readings from published economic research, classic economic thinkers, contemporary economists, and academic thinkers from related fields (primarily philosophy, psychology, and political science).

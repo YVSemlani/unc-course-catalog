@@ -1,0 +1,3 @@
+# ENGL 380: Topics In Film History
+
+This course examines one or more topics in film history, focusing on specific periods. The scope may be national or transnational. Films are analyzed for how they address and reflect key historical developments. Restricted to any undergraduate student who is a Sophomore, Junior, or Senior with a GPA or 3.0 or higher, OR any First-Year student. Honors version available.

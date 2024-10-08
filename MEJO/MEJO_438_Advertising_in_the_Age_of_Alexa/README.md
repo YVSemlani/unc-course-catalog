@@ -1,0 +1,3 @@
+# MEJO 438: Advertising in the Age of Alexa
+
+An exploration of established advertising and brand theory and their evolving best practices in response to decades of continuous digital disruption. Through selected readings, engaging discussion, student research, and live interface with some of today's most enlightened, real-world practitioners, we'll investigate how content on powerful platforms shapes both attitudes and behavior, how marketing communications methods have been challenged and discarded, and why fundamental objectives in creating brand-based relationships remain remarkably constant.

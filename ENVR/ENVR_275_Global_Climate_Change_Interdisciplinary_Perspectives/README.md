@@ -1,0 +1,3 @@
+# ENVR 275: Global Climate Change: Interdisciplinary Perspectives
+
+This class addresses the complexity and importance of global climate change from several disciplines. A top expert from a different discipline will lecture each week, addressing several themes including the science of human influences on climate, impacts and adaptation, global energy technology, communication, and economics and policy. Pass/Fail only. Course previously offered as ENVR 475.

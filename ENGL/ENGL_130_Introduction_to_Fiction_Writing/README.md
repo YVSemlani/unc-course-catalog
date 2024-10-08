@@ -1,0 +1,3 @@
+# ENGL 130: Introduction to Fiction Writing
+
+Intended for sophomores and first-year students. A writing-intensive introductory workshop in fiction. Close study of a wide range of short stories; emphasis on technical problems. Composition, discussion, and revision of original student stories. Students may not receive credit for both ENGL 130 and ENGL 132H. This course (or ENGL 132H) serves as a prerequisite for other courses in the fiction sequence of the creative writing program.

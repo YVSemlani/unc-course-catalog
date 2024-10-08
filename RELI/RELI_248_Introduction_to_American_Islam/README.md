@@ -1,0 +1,3 @@
+# RELI 248: Introduction to American Islam
+
+This course surveys Muslim communities in North America in their religious, historical, political, social, and cultural dimensions. Discussion frames include methods for the study of American Muslims, the role of public and media representations of Islam and Muslims, and the place of American Muslims within the larger American religious landscape. Honors version available.

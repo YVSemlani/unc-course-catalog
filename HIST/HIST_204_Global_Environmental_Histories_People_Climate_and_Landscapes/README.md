@@ -1,0 +1,3 @@
+# HIST 204: Global Environmental Histories: People, Climate, and Landscapes
+
+Global warming? Hurricanes, floods, fires, food security: focusing on critical issues of human rights and changing forces in our natural world, this course prepares students to explore different sources on a variety of topics for present-day environmental issues and the entangled relations between nature and society on our planet.

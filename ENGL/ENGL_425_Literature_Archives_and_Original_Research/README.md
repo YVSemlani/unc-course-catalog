@@ -1,0 +1,3 @@
+# ENGL 425: Literature, Archives, and Original Research
+
+"Archives" are documents - manuscripts, photographs, recordings, diaries, letters, and other materials - that are so valuable they need to be preserved in a special place. In this course, the instructor will guide students as they conduct original research in literary archives, such as online databases or physical archives (at Wilson Library, for example). We will learn how to formulate research questions and how to identify key documents. Previously offered as ENGL 342.

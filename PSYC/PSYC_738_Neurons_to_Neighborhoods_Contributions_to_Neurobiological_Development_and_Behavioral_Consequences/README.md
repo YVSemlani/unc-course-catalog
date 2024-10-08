@@ -1,0 +1,3 @@
+# PSYC 738: Neurons to Neighborhoods: Contributions to Neurobiological Development and Behavioral Consequences
+
+This course provides an overview of what the field of human neuroscience has revealed about neural structure and function with an eye to examining individual differences. Current knowledge about the neural mechanisms supporting cognitive and emotional function will be investigated in depth through chapters, review articles, and empirical studies.

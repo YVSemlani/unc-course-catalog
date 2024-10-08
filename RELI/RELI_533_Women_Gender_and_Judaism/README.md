@@ -1,0 +1,3 @@
+# RELI 533: Women, Gender, and Judaism
+
+This course examines historical developments in the study of women and gender in Judaism. We will discuss efforts to challenge and revitalize Jewish tradition through the lens of gender theory and other critical interpretive approaches. Topics to be addressed include biblical interpretation, Jewish law, feminist Jewish theology and liturgy, the renewal of ritual, the rabbinic ordination of women, gender identity, race, sexuality, queer, trans, and non-binary approaches, and representations of these themes in various media.

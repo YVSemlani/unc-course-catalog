@@ -1,0 +1,3 @@
+# GEOG 215: Introduction to Spatial Data Science
+
+This course will introduce students to data science with a focus on spatial (geographic) data, data that are referenced to a location on Earth's surface. Students will learn concepts and techniques to apply various facets of data science practice, including data collection, management, and integration, descriptive modeling, exploratory spatial data analysis, and communication via visualization and mapping. Real world examples and datasets spanning physical, social, and health sciences will be used throughout the course.

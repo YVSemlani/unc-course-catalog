@@ -1,0 +1,3 @@
+# ANTH 706: The Practice of Anthropology - Professionalization Seminar
+
+This professionalization seminar covers a range of practical skills and processes (e.g. grant writing, teaching, research methods, academic publishing, career placement, etc.) necessary for functioning and thriving in a career in anthropology. The fall and spring course is required for first-year students and serves as a locus of professional training and departmental culture. Anthropology graduate students only.

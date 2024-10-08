@@ -1,0 +1,3 @@
+# BIOL 546: Biology of Aging
+
+This course is designed for undergraduate or graduate students who are interested in understanding how aging is controlled at an advanced level. Emphasis will be placed on molecular and cellular mechanisms of aging in metazoans. Emphasis will also be placed on healthy aging and on how progress and discoveries are made in the field of aging. This course is based on scientific research or review papers and has no textbook.

@@ -1,0 +1,3 @@
+# HIST 787: Readings in Modern Central Asian History
+
+The peoples of Islamic Central Eurasia are united by linguistic, cultural, and religious ties. Their history is divided between study fields: Soviet/Russian, Chinese, and Islamic Studies. Course takes historiographical diversity as a point of departure, interrogating the major debates that have animated the study of Islamic Central Asia across disciplines.

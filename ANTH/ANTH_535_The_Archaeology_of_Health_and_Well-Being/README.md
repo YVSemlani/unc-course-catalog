@@ -1,0 +1,3 @@
+# ANTH 535: The Archaeology of Health and Well-Being
+
+In this course, we will engage the juxtaposition between traditional cures and the institutionalized ones of the 21st century through analyzing earlier material manifestations of health care and well-being. We will trace the growth of medical care in America from the early colonial years, and consider how they resulted in wholly American circumstances and applications.

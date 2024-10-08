@@ -1,0 +1,3 @@
+# GEOG 110: The Blue Planet: An Introduction to Earth's Environmental Systems
+
+Emphasizes geographic patterns and interrelationships in energy, climate, terrain, and life. Develops integrative view of how atmospheric, hydrologic, geomorphic, and biotic processes create global patterns in the environment. Incorporates influence of human activities on earth. Class will help students understand the natural environment, both globally and in North Carolina. Honors version available.

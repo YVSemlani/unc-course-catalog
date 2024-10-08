@@ -1,0 +1,3 @@
+# ENVR 760: Uncertainty Quantification for Environmental Systems
+
+Quantitative assessment of how uncertainty in mechanistic models (subsurface, ocean, atmosphere, global climate), parameters, and auxiliary conditions of a model is manifest in uncertainty in model predictions. Topics include: model formulations, statistical tools, Monte Carlo methods, moment methods, estimation methods, statistical simulation methods, reduced order models, and data assimilation approaches.

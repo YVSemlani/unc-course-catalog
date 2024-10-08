@@ -1,0 +1,3 @@
+# ANTH 711: Feminist Ethnography
+
+This graduate seminar considers issues in qualitative research methodology through reading and discussing feminist ethnographies and critical assessments of such work. Asks questions about interdisciplinarity and the dilemmas of field research and writing. Highlights the feminist politics of positionality of the researcher and the ethnographic representation of subjects of research.

@@ -1,0 +1,3 @@
+# POLI 888: Applying Data Analysis to Transatlantic Studies
+
+This course is designed to get students to expand multivariate data analysis skills and to think critically about the presentation of information in professional settings and the media. A key goal is to give participants the confidence to critically evaluate whether the presentation of data is professionally sound. Another central goal is to expand skills in multivariate analysis by engaging in a semester-long research project that culminates in a publication quality paper.

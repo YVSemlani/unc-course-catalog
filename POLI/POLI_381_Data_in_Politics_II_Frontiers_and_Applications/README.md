@@ -1,0 +1,3 @@
+# POLI 381: Data in Politics II: Frontiers and Applications
+
+New approaches to data analysis are having a transformative effect on business, journalism, law, and policy - to name just a few sectors. This course is for students who have a basic familiarity working with social science data. It uses this foundation to teach more advanced ways to think about inference and uncertainty, with an emphasis on cutting-edge techniques and applications to real world problems.

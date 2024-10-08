@@ -1,0 +1,3 @@
+# MEJO 544: Career Exploration and Preparation
+
+This course will provide detailed information about all communications careers, help you discover which careers best suit you, make sure your brand matches your career choice, help you maximize mentor relationships while becoming more effective networkers, and help you better understand all available job search resources. This will essentially be the final step in making sure you look and sound impressive while your portfolios maximize the magnitude of your experience.

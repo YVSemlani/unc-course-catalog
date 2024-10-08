@@ -1,0 +1,3 @@
+# PSYC 180: Social Media, Technology, and the Adolescent Brain
+
+In this course, we will learn about current evidence, theory, and controversies with regards to how technology use may affect adolescent development. Questions such as how technology is changing adolescents' social relationships, impacting their mental health, and interacting with the developing brain to influence social, emotional, and cognitive development will be explored.

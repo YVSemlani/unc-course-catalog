@@ -1,0 +1,3 @@
+# RELI 350: Islamic and Jewish Legal Systems
+
+In this course, on both Jewish and Islamic law, we will explore the nature, structure, development, and significance of the legal system of each of these two religions. Topics discussed include rituals, purity laws, commerce, warfare, and gender relations. There is no need to have any background in Hebrew or Arabic: all texts are provided in English, and no previous knowledge on Islam or Judaism is assumed.

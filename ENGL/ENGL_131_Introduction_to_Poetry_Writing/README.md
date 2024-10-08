@@ -1,0 +1,3 @@
+# ENGL 131: Introduction to Poetry Writing
+
+Intended for sophomores and first-year students. A writing-intensive introductory workshop in poetry. Close study of a wide range of published poetry and of poetic terms and techniques. Composition, discussion, and revision of original student poems. Students may not receive credit for both ENGL 131 and ENGL 133H. This course (or ENGL 133H) serves as a prerequisite for other courses in the poetry sequence of the creative writing concentration and minor.

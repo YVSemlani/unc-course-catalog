@@ -1,0 +1,3 @@
+# ENVR 758: Environmental Engineering Project
+
+Permission of the instructor. Ad hoc project designed for a student team in addressing a current problem in environmental engineering. Projects may include laboratory or pilot-scale studies, collection and analysis of data from full-scale systems, or comprehensive analysis of relevant problems in environmental engineering practice. Three lecture hours per week.

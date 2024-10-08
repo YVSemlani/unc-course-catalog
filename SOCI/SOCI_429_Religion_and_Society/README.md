@@ -1,0 +1,3 @@
+# SOCI 429: Religion and Society
+
+Sociological analysis of group beliefs and practices, both traditionally religious and secular, through which fundamental life experiences are given coherence and meaning. This course is a special version of SOCI 129 for juniors and seniors that explores the meanings and experiences of religion, as well as religion's role in communities, institutions, and societies through hands-on intensive research experience. Students may not receive credit for both SOCI 129 and SOCI/RELI 429.

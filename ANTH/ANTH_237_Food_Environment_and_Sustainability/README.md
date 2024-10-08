@@ -1,0 +1,3 @@
+# ANTH 237: Food, Environment, and Sustainability
+
+Explores the nexus of agricultural, ecological, and food systems as they dynamically interact. The class examines case studies from North Carolina and other parts of the world. Themes include nutrition, food security, agroecology, and sustainable livelihoods. Students engage in readings, class projects, and hands-on activities in a laboratory setting.

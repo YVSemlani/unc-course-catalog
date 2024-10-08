@@ -1,0 +1,3 @@
+# ENVR 753: Programming for Environmental Applications
+
+A one-credit course designed to give new graduate students the tools to apply the Python programming language to their own research and work. The course covers introductory material including the variable types and data structures and progresses to more advanced capabilities, such as regression analysis and optimization. The course is heavily focused on bi-/weekly assignments meant to reinforce the lectures and highlights basic applications in environmental science. Companion course to ENVR 755.

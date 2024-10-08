@@ -1,0 +1,3 @@
+# PSYC 821: Affective Science and The Study of Change in Individuals
+
+This course provides a foundation in affect, emotion, mood, and emotion regulation in theory and empirical findings, followed by a review of the tools needed to study change in individuals. Students will master a broad overview of current thinking on affect, emotion, mood, and emotion regulation. They will then learn about methods for studying change affect or emotion in individuals and propose a research project using what they have learned in the class.

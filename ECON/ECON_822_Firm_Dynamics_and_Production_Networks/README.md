@@ -1,0 +1,3 @@
+# ECON 822: Firm Dynamics and Production Networks
+
+This course studies producer heterogeneity and its macroeconomic implications, i.e., aggregate growth or fluctuations. It introduces a set of theoretical and quantitative tools and aims to provide a coherent view of aggregate production from a disaggregated perspective. The course starts from classic firm-dynamics models and their applications, emphasizing the cross-sectional variation among firms. The second part introduces networks in macroeconomics and their implications, focusing on the connections among firms. Specific topics may differ each year.

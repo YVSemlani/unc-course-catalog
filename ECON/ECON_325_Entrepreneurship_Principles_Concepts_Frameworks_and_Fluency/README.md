@@ -1,0 +1,3 @@
+# ECON 325: Entrepreneurship: Principles, Concepts, Frameworks, and Fluency
+
+This class provides a foundation in key principles, concepts, and fluency in entrepreneurship, specifically in the areas of design thinking, understanding consumers and customers, company strategy, and entrepreneurial finance and capital formation. Additionally, the class introduces important skills and tools important in startups and growth companies such as branding, storytelling and video making. Priority is given to students accepted into the Shuford Minor in Entrepreneurship. Honors version available.

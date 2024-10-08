@@ -1,0 +1,3 @@
+# ENGL 154: Race and Racism in the Premodern World
+
+This course investigates the history of race (as an idea) and racism (as a practice) in Western culture, from the very first discussions of race in classical antiquity until 1700. Topics to be considered may include the history of slavery, the origins of "scientific" racism, early examples of resistance to racial prejudice, and the historical intersection of race with gender and class.

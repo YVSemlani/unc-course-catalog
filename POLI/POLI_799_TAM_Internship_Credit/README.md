@@ -1,0 +1,3 @@
+# POLI 799: TAM Internship Credit
+
+POLI 799 includes both an internship and an academic component. The student intern is required to work at least 8 hours per week, for a minimum of 100 hours, at the internship agency. In addition to the hours worked, the student must, under the supervision of the faculty supervisor, write a research paper or complete a comparable project, and keep a journal of internship activities.

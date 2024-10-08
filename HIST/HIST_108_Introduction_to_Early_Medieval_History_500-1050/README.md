@@ -1,0 +1,3 @@
+# HIST 108: Introduction to Early Medieval History 500-1050
+
+An introductory-level survey of early medieval political, cultural, religious and social history between ca.500 and ca.1050 with a geographical focus on Europe. This course also considers eastern Christianity and Islam, as well as parts of Asia, for comparison. Throughout the course students will closely analyze the evidence for the period.

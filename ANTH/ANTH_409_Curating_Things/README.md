@@ -1,0 +1,3 @@
+# ANTH 409: Curating Things
+
+Curating things focuses on the curation and care of archaeological collections. Students will learn about collections management through readings, discussions, lectures, and hands-on work at the Research Laboratories of Archaeology's curation facility, which houses the North Carolina Archaeological Collection. We'll explore basic principles of curation and data management and issues that affect curation nation-wide and internationally, such as collection accessibility and accountability, conservation and preservation, policies and regulations, and ethical concerns.

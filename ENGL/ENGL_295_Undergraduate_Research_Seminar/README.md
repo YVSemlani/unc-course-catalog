@@ -1,0 +1,3 @@
+# ENGL 295: Undergraduate Research Seminar
+
+Guides students through the processes of developing an original research topic, conducting research, and analyzing research, leading students to produce a high-quality presentation of their findings. Topic varies by instructor but may focus on literary studies or closely-related arenas such as medical humanities, digital humanities, and creative writing, among others. Honors version available.

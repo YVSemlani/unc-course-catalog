@@ -1,0 +1,3 @@
+# ENGL 138: Introduction to Creative Nonfiction
+
+Intended for sophomores and first-year students. An introductory workshop in creative nonfiction, a genre that is rooted in fact and composed in artful prose. Through readings and writing prompts, we will explore the full spectrum of the genre, including memoir, travelogues, nature writing, literary journalism, lyric essays, and visual autobiography. We will workshop and revise student essays as well. This course serves as a prerequisite for other courses in the creative writing concentration and minor. Honors version available.

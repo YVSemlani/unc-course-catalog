@@ -1,0 +1,3 @@
+# POLI 422: Minority Representation in the American States
+
+This class explores the political representation of blacks, Latina/os, women, and gays and lesbians in the American states. How do these groups achieve descriptive and substantive representation? How does state context shape the political representation of these minorities? Students taking this course should have a strong interest in state politics.

@@ -1,0 +1,3 @@
+# BIOL 250: Evolutionary Biology
+
+This course will foster an understanding of how the science of evolutionary biology can be used to understand life on the planet. Topics to be explored include the causes of speciation and extinction, why humans get sick and age, and how genomes evolve. Students will learn how to interpret data from an evolutionary perspective, apply evolutionary principles to applications in medicine, conservation, agriculture and other disciplines, and prepare for more advanced work in biology.

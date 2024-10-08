@@ -1,0 +1,3 @@
+# MEJO 500: Freelance Fundamentals
+
+Students gain an understanding of the fundamentals of freelancing in the media and journalism industry. The course will utilize online learning tools to offer an introduction to skills and concepts necessary to manage a creative communication production business. MEJO undergraduate and graduate student initially. Open to other majors once courses open to campus wide.

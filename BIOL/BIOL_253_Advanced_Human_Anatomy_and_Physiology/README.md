@@ -1,0 +1,3 @@
+# BIOL 253: Advanced Human Anatomy and Physiology
+
+In-depth study of physiological mechanisms at molecular, cellular, and system levels of organization. Students will develop analytical and problem solving skills. Intended for preprofessional students requiring a second semester of anatomy and physiology. Can be used as an allied science elective but not a biology elective course for the major or minor.

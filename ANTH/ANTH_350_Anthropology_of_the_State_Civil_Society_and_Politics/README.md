@@ -1,0 +1,3 @@
+# ANTH 350: Anthropology of the State, Civil Society, and Politics
+
+This course is a thematically organized investigation of political processes in modern nation-states and corporate states in the current era of globalization. Using ethnographic and historical studies, we ask: what is happening to the contemporary nation-state, social and political life, and the conditions for human welfare given these processes? Previously offered as ANTH 491.

@@ -1,0 +1,3 @@
+# ANTH 582: Fieldwork with Social Models of Well-Being
+
+Required preparation, at least one introductory cultural medical anthropology course. This course highlights approaches and organizations that pursue well-being through social relations and social change, rather than through medical treatment and cure. Students will: 1) learn the conceptual understandings that inform social models of well-being in disability studies/disability rights, occupational science, and critical gerontology; and 2) learn and apply anthropological methods of participant-observation fieldwork and interviewing in local organizations that implement these social models.

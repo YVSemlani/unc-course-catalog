@@ -1,0 +1,3 @@
+# ECON 411: Game Theory
+
+Game theory is the study of strategic interactions, where the best choice for the individual depends directly on what other individuals are doing. This course formalizes strategic interactions as mathematical games. Students examine the concept of a strategy, examine what it means to be rational or irrational, and define solution concepts that correspond to different assumptions.

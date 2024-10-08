@@ -1,0 +1,3 @@
+# SOCI 302: Fieldwork in Entrepreneurship
+
+Great ideas don't always result in entrepreneurial success -- you also have to know your audience or customer base. In this research methodology course, students will receive hands-on experience in conducting interviews and focus groups and engaging in participant observation in order to determine potential customer/client interest in a product, service, or nonprofit. Special attention will be paid to analyzing research findings in order to create actionable insights. Cross-referenced with Shuford Program in Entrepreneurship.

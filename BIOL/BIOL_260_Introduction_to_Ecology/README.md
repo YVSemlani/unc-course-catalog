@@ -1,0 +1,3 @@
+# BIOL 260: Introduction to Ecology
+
+This course is a survey of the field of ecology intended for undergraduates who are early in their studies of biology. The course will provide a broad and detailed understanding of the field of ecology, including major concepts, broad empirical patterns, important contemporary directions, and ecological applications. Students will read and discuss primary literature, analyze ecological data sets, and consider effective science communication strategies.

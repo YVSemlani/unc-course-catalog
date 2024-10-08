@@ -1,0 +1,3 @@
+# RELI 283: The Buddhist Tradition: India, Nepal, and Tibet
+
+Examines the diverse beliefs, practices, and cultures associated with Buddhism in the Himalayan regions of India, Nepal, and Tibet. Topics include Buddhism's development and spread, the cultural dynamics of Himalayan societies, monasticism, folk religion, revivalism, tourism, gender, globalization, and the role of the state in shaping Buddhist life and culture.

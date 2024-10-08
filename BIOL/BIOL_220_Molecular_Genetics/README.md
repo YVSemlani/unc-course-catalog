@@ -1,0 +1,3 @@
+# BIOL 220: Molecular Genetics
+
+This intermediate-level biology course is geared towards advanced first years, sophomores, and juniors majoring in biology or in related fields. This is a comprehensive course for majors, covering transmission and molecular genetics; DNA replication, repair and mutation; the central dogma, gene regulation mechanisms, and manipulation of genes at the molecular level. We will also learn the impact of molecular genetics on development and disease. Honors section available. Honors version available.

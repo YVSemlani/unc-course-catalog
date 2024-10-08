@@ -1,0 +1,3 @@
+# GEOG 259: Society and Environment in Latin America
+
+This survey course examines political, cultural, and biophysical dimensions of human- environment relations across the ecologically diverse and historically rich region of Latin America. It draws on multiple data sources, perspectives, and media to explore sub-regions and their biocultural histories, including the Caribbean, Andes, Amazon, Central and North America, and their relationship with the United States.

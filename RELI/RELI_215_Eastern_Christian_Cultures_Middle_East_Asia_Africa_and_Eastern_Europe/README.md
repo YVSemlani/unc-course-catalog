@@ -1,0 +1,3 @@
+# RELI 215: Eastern Christian Cultures: Middle East, Asia, Africa, and Eastern Europe
+
+Although Christianity is characteristically identified with "the West", the Middle East, Asia, and Africa have been home to native Christian populations for 2,000 years. This course surveys the diversity of these 300 million "Eastern" and/or "Orthodox" Christians, often marginalized in surveys of global Christianity. It highlights how these communities articulate their identities around particular linguistic, ritual, and cultural markers, and the struggle they face preserving these identities in the West following refugee and migrant experiences.

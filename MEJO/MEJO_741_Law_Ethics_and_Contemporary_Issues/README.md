@@ -1,0 +1,3 @@
+# MEJO 741: Law, Ethics, and Contemporary Issues
+
+This course will provide students with a basic framework for current legal issues, including libel, copyright and First Amendment law, as well as discussion of journalism ethics and contemporary issues. In this course, you will explore the delicate balance that traditionally has existed between freedom and control of the media and how digital media and politics have shaken that balance. You will study both the old and the new law because both are relevant today. Restricted to students in the Master of Arts in Media and Communication program.

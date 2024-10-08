@@ -1,0 +1,3 @@
+# ENVR 575: Global Climate Change: Science, Impacts, Solutions
+
+This class addresses the importance of climate change in its entirety. The first half of the course addresses climate science, followed by climate change impacts, energy and mitigation technologies, economics, and international politics. Improving communication and quantitative skills is emphasized through homework, in-class presentations, and a research paper.

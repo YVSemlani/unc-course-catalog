@@ -1,0 +1,3 @@
+# POLI 233: Comparative Politics of the Middle East
+
+This course is designed as an introduction to contemporary Middle Eastern politics for advanced undergraduates. To explore this topic, the course combines systematic analytical approaches to big questions with concrete knowledge of events and developments in specific countries. In so doing, it aims to give students a critical understanding of politics while simultaneously building empirical knowledge about the Middle East/North Africa region. Honors version available.

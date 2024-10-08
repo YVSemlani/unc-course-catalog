@@ -1,0 +1,3 @@
+# BIOL 255: The Evolution of Extraordinary Adaptations
+
+In this honors Course-based Undergraduate Research (CURE) class, students will learn how to do science. This includes reading the relevant scientific literature, formulating a research question, collecting data, performing statistical analysis, and presenting research results. Students will test new hypotheses in ecology and evolution for spectacular adaptations in organisms using field and laboratory experiments and observations. This course counts as a lab elective for Biology degrees. Honors version available.

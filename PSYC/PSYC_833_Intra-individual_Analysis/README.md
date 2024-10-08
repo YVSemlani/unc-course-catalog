@@ -1,0 +1,3 @@
+# PSYC 833: Intra-individual Analysis
+
+This course is designed for graduate students seeking training in quantitative methods for analyzing a range of data often encountered in psychological and neural sciences studies where numerous observations are collected across time per individual. This data enables the possibility for intra-individual variability analysis (IVA), or how to quantitatively describe individuals' dynamic process.

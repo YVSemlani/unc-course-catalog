@@ -1,0 +1,3 @@
+# ENVR 416: Aerosol Physics and Chemistry
+
+Permission of the instructor for nonmajors. Physical and chemical principles underlying behavior of particles suspended in air. Topics include rectilinear and curvilinear motion of the particles in a force field, diffusion, evaporation, and condensation, electrical and optical properties, and particle coagulation. Three lecture hours a week and two laboratory sessions.

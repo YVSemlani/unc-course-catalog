@@ -1,0 +1,3 @@
+# ANTH 421: Archaeological Geology
+
+The application of geological principles and techniques to the solution of archaeological problems. Studies geological processes and deposits pertinent to archaeological sites, geologic framework of archaeology in the southeastern United States, and techniques of archaeological geology. Field trips to three or more sites; written reports required. Course previously offered as GEOL 421. Permission of the instructor.

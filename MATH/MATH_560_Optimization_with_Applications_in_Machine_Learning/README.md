@@ -1,0 +1,3 @@
+# MATH 560: Optimization with Applications in Machine Learning
+
+This course will provide an introduction to convex optimization, including convex sets and functions, modeling, conic problems, optimality conditions and algorithms. The second part of the course will address non-convex problems, focusing on contemporary optimization challenges in large-scale optimization and practical approaches for machine learning and deep learning.

@@ -1,0 +1,3 @@
+# ECON 425: Financial Economics
+
+How does a risk averse individual allocate their funds? Students begin by defining and measuring risk, making connection to their microeconomics training. They then develop and use asset pricing models to explore the interplay between risk and return. Finally, students use these tools to develop a mean-variance optimal portfolio allocation. Students are introduced to basic quantitative tools and participate in myriad practical applications.

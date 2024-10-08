@@ -1,0 +1,3 @@
+# BIOL 635: Careers in Biotechnology
+
+This seminar course will provide graduate and advanced undergraduate students information on career opportunities and culture in the field of biotechnology. The instructor and guest lecturers will present examples of global challenges addressed by modern biotechnology, and how research and development are carried out in the industry. Students will develop and present their own plan for a new biotechnology venture. Does not count within the Biology major or minor.

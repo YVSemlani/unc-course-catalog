@@ -1,0 +1,3 @@
+# PSYC 435: Gender and Pronouns
+
+This course offers an inside look at pronouns from an interdisciplinary perspective. From a cognitive perspective, we examine major models of the role that pronouns play, and the mental processes involved in using them. From a social perspective, we examine the role pronouns play in marking gender identity, and how both language usage and gender concepts are currently in flux. Students also learn about research methods and conduct a novel empirical study.

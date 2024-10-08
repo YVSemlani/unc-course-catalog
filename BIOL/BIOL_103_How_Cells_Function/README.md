@@ -1,0 +1,3 @@
+# BIOL 103: How Cells Function
+
+This class is designed for first- or second-year students beginning their study of biological sciences. The course will cover both biological concepts and scientific competencies necessary for a foundational mastery of genetics, molecular biology, and cellular biology. For biology majors, this is one of the three mandatory fundamentals courses required before taking relevant 200-level core classes and upper-level electives.

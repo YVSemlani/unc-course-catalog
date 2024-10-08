@@ -1,0 +1,3 @@
+# MEJO 532: International Public Relations
+
+This course aims to introduce students to the global and international perspectives of public relations. Corporations, governments, and non-government organizations (NGOs) actively seek to build and maintain mutually beneficial relationships with the public in other countries beyond their national boundaries. Public relations agencies serve foreign clients facing a variety of issues and challenges on a global scale. Key literature on international public relations, public diplomacy, global reputation management, and international media relations will be covered.

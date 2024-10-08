@@ -1,0 +1,3 @@
+# PHIL 426: Nietzsche
+
+This course examines the philosophy of Friedrich Nietzsche, covering all three conventionally recognized periods of his philosophy in chronological sequence, tracing the historical and philosophical development of his views from the early Birth of Tragedy to the late Twilight of Idols. The main question we will face when studying all these different writings is how Nietzsche tries to solve the problem of nihilism. Completion of one previous PHIL course preferred.

@@ -1,0 +1,3 @@
+# ECON 292: Career Preparation for Economics Majors
+
+This course prepares ECON majors for their careers upon graduation. This class will teach students skills needed to shape their career from first job through last. We emphasize how to market yourself, network, interview techniques and creating an effective resume. We will build core transferable skills that will help students in pursuing a career not just right out of college but years in the future for jobs that may not have even been created yet. Majors only.

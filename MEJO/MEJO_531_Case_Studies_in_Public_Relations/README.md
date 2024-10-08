@@ -1,0 +1,3 @@
+# MEJO 531: Case Studies in Public Relations
+
+Helps students think as public relations professionals who deal with the demanding, dynamic environment of corporate, government, and nonprofit public relations. Students examine real-world situations and strategies, discussing factors that affect how public relations is practiced in organizations, including identifying stakeholder groups, developing strategies, embracing diversity, and recognizing ethical issues. Previously offered as MEJO 431.

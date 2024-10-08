@@ -1,0 +1,3 @@
+# PSYC 899: History and Systems of Psychology
+
+This is an independent study course on the topic of history and systems of psychology, providing a background on the origins and the development of core ideas in the field of psychology including psychoanalysis, behaviorism, and cognitive psychology, and on the development of applied and professional psychology in the United States. Restricted to: Clinical psychology doctoral students only.

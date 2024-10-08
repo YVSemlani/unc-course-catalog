@@ -1,0 +1,3 @@
+# HIST 331: Sex, Religion, and Violence: Revolutionary Thought in Modern South Asia
+
+Which of the following would you consider potentially political issues: celibacy; semen retention; body-building; depiction of gods/goddesses; or bomb making? Well, they all are. This course examines debates over sex, religion, and violence that constituted a key part of revolutionary thought and anti-colonial struggles in modern South Asia.

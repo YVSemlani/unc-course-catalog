@@ -1,0 +1,3 @@
+# BIOL 115: Reasoning with Data: Navigating a Quantitative World
+
+Students will use mathematical and statistical methods to address societal problems, make personal decisions, and reason critically about the world. Authentic contexts may include voting, health and risk, digital humanities, finance, and human behavior. This course does not count as credit towards the psychology or neuroscience majors.

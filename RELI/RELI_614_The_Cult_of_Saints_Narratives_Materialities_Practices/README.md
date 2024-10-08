@@ -1,0 +1,3 @@
+# RELI 614: The Cult of Saints: Narratives, Materialities, Practices
+
+By late antiquity, the cult of martyrs and other saints had become "so popular among all levels of Christians, rich and poor, cleric and layperson, rustic and urban dweller, monastic and spouse," that it represented a "rudimentary framework for Christianity" (Limberis 2011). This course traces the origins and development of the cult, conceptualizing it as a network of discourses, practices, and representations. It also explores the cult's impact on neighboring, non-Christian cultures.

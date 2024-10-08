@@ -1,0 +1,3 @@
+# ANTH 676: Research Methods in Human Biology
+
+This course focuses on laboratory and field research methods in human biology. Through readings, in-class exercises, data collection outside of class, and laboratory analysis, students will examine issues of epistemology, ethics, data and biomarker collection methods, analysis and data processing. We will pay particular attention to issues of bias and validity, as well as precision and accuracy in human biology research.

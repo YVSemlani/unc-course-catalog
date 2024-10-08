@@ -1,0 +1,3 @@
+# BIOL 405: Good Genes: Human Reproduction in the Social Context
+
+Reproduction is the most ancient feature of life and a continued focus of cutting-edge medical technology. This interdisciplinary course examines our biological imperative and cultural quest to make babies. We examine reproduction from the perspectives of bioethics, reproductive medicine, behavioral economics, genetic engineering, disability studies, and gender studies. Teaching methods include traditional lectures, in-class discussions, group work, peer teaching, and occasional flipped-classroom. Students who previously took BIOL 89/490 with Dr. Zwemer may not enroll.

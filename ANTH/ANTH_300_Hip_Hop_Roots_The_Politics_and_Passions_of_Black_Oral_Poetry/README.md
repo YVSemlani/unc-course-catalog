@@ -1,0 +1,3 @@
+# ANTH 300: Hip Hop Roots: The Politics and Passions of Black Oral Poetry
+
+A journey into the prehistory of hip hop, exploring the hidden and erased legacies of Black oral poetry. Guided by poets and emcees, we'll demonstrate oral poetry's longstanding role as a key marker of Black identity, and as a critical voice of cultural affirmation and political dissent. Rather than focusing on contemporary hip hop, this course instead explores the roots that gave it rise, with students conducting original research to re-write the music's history. Honors version available.

@@ -1,0 +1,3 @@
+# POLI 444: Terrorism and International Peace
+
+The U.S. 9/11 attack represents the defining terrorist attack to Americans, but in most of the world, terrorism has long been part of politics. We will examine what motivates individuals to consider violence, how individuals organize to protect their political interests, the types of tactics used by violent groups and the state's response, before concluding with a study of collapsed states, the international implications of political violence, and possibilities for conflict resolution.

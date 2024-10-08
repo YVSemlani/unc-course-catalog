@@ -1,0 +1,3 @@
+# HIST 456: The Holocaust, Genocide and Historical Methodology
+
+This seminar will familiarize students with foundational works of Holocaust historiography as well as with newer works that challenge old interpretations and methodologies. Throughout the course we will look at the mutual influences of historical writing and memory of the Holocaust as societies have come to terms with the dark past of the Second World War; the course will also examine historical writing as a form of representation and memory. Previously offered as HIST 743.

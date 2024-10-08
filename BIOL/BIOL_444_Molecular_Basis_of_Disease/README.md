@@ -1,0 +1,3 @@
+# BIOL 444: Molecular Basis of Disease
+
+This course investigates the biological causes behind human diseases via critical thinking and analysis of experimental research outcomes. It approaches topics from a research perspective similar to a graduate seminar. Topics covered include genetic/inherited diseases, metabolic diseases, immunological disorders, infectious diseases, cancer, cardiovascular diseases, and neurological diseases.

@@ -1,0 +1,3 @@
+# ENGL 480: Digital Humanities History and Methods
+
+Students will explore the history of computer-assisted humanities scholarship, from its beginnings in computational linguistics, media studies, and humanities computing to its current incarnation as "digital humanities." The course will provide an introduction to the field and to digital research methodologies and prepare students to develop their own digital projects. Previously offered as ENGL 530.

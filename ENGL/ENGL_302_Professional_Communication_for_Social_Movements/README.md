@@ -1,0 +1,3 @@
+# ENGL 302: Professional Communication for Social Movements
+
+Advanced course focused on writing for professional audiences in non-profit, public policy, social justice, and social entrepreneurship settings. Includes oral, written, and digital compositions. Students will compose documents such as grant proposals, policy reports, websites, public presentations, or multimedia videos to advance social causes.

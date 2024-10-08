@@ -1,0 +1,3 @@
+# PSYC 569: Practical Wisdom from Advanced Social Psychology
+
+Surveys cutting-edge research across the field of social psychology and how it matters for everyday life. Topics include morality, mind perception, judgment and decision making, happiness, affective forecasting, emotion, relationships, negotiation, personality, free will, stress/health, and religion. Clear communication of research also emphasized through figures, presentations, and papers.

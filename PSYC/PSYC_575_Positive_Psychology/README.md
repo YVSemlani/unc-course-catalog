@@ -1,0 +1,3 @@
+# PSYC 575: Positive Psychology
+
+This course examines positive psychology, also called the science of thriving. One basic premise of positive psychology is that thriving individuals and thriving communities require the presence and interplay of positive emotions, positive relationships, and positive meaning. A second basic premise is that thriving does not result simply by curing pathology and eliminating problems. Rather, thriving requires building and capitalizing on human strengths and capacities. Students will apply course concepts in their everyday lives.

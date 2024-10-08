@@ -1,0 +1,3 @@
+# ANTH 405: Mental Health, Psychiatry, and Culture
+
+This course explores mental illness as subjective experience, social process, key cultural symbol, and object of intervention and expert knowledge. Our questions include: Does mental illness vary across cultural and social settings? How do psychiatric ways of categorizing, diagnosing, and treating mental illness shape people's subjective experience of their affliction? How is psychiatry predicated on cultural ideas about self and society? What does this contingency mean for the movement for global mental health?

@@ -1,0 +1,3 @@
+# BIOL 117: Pre-Health Thrive-1 Considering Health Professions
+
+This course provides exposure to a variety of health professions, emphasizing ways health care teams work together (interprofessional interactions). Self-assessments will be utilized to examine articulation between strengths and interests and the skills and competencies required in healthcare careers. Throughout the course, practitioners will provide insight into their professions such as allopathic and osteopathic medicine, podiatric medicine, veterinary medicine, optometry, dentistry, pharmacy, nursing, social work, and occupational therapy. Does not count toward major.

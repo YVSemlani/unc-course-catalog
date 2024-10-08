@@ -1,0 +1,3 @@
+# RELI 448: Native and Christian: Indigenous Engagements with Christianity
+
+This course examines diverse indigenous engagements with Christianity from earliest contacts to the present. Topics range from missionary contestations in colonial Mexico to the fight for religious freedom in 20th-century United States, from historical revitalization movements like the Ghost Dance to contemporary indigenous theologies in North and South America.

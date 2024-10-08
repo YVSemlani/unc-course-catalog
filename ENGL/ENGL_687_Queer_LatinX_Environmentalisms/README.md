@@ -1,0 +1,3 @@
+# ENGL 687: Queer LatinX Environmentalisms
+
+This mixed level undergraduate and graduate student course examines queer LatinX literature from the 1970s to the present as it intersects with ecological and environmental concerns. We pay close attention to LatinX cultural productions that approach ecology and environmental justice from queer perspectives and that queer ecological concerns from minoritized perspectives.

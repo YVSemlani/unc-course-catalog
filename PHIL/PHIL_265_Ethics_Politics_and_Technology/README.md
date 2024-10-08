@@ -1,0 +1,3 @@
+# PHIL 265: Ethics, Politics, and Technology
+
+In the near future, our taxis will be driver-less, our wars will be fought by autonomous drones, and our towns will be kept safe by algorithms foreseeing crimes. This course explores the ethical implications of this new technological revolution and invites students to debate the challenges it engenders. We will debate how new technologies ought to be governed and what limits should be imposed on their implementation.

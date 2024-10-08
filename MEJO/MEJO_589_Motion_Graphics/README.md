@@ -1,0 +1,3 @@
+# MEJO 589: Motion Graphics
+
+Detailed study and application of motion-graphic techniques that utilize the combination of words, photos, graphics, video, sound, and voice-overs to convey stories for news and entertainment. Students learn Adobe After Effects software and the art of storytelling to enable them to conceptualize and execute digital animations. Previously offered as MEJO 486. Permission of the instructor.

@@ -1,0 +1,3 @@
+# HIST 302: Movies Make History: Films as Primary Sources in Europe and America
+
+This course explains how and why certain films helped shape the medium even as they reflected broader aspects of historical change. Beginning with the development of narrative film in 1908, the course looks at those nationally specific genres that had repercussions beyond national borders, ending in about 1968. Honors version available.

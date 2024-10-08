@@ -1,0 +1,3 @@
+# ECON 874: Advanced Topics in Causal Inference
+
+This course covers recent advanced topics in causal inference, such as potential outcome models, randomized experiments, selection on observables, instrumental variables, testability of identifying assumptions, difference-in-differences models, changes-in-changes approach, synthetic control methods, regression discontinuity designs, and sample selection.

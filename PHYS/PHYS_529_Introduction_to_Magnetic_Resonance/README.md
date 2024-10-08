@@ -1,0 +1,3 @@
+# PHYS 529: Introduction to Magnetic Resonance
+
+This course will provide a broad coverage of important physics principles behind nuclear magnetic resonance (NMR) spectroscopy, especially the applications of quantum mechanics. Theoretical approaches and tools for grasping the design principles of various important NMR spectroscopic techniques will be discussed. It will show, for instance, how to use NMR spectroscopy to determine molecular structures and dynamics, and how to obtain images and functional information using magnetic resonance imaging (MRI).

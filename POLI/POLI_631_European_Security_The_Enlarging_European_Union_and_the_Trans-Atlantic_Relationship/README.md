@@ -1,0 +1,3 @@
+# POLI 631: European Security: The Enlarging European Union and the Trans-Atlantic Relationship
+
+Permission of the instructor for undergraduates. Since the collapse of communism from 1989 to 1991, the European Union has faced a fundamentally different geopolitical neighborhood and an evolving relationship with the United States. We will explore how Europe has addressed new challenges to its security in its neighborhood and beyond.

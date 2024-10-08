@@ -1,0 +1,3 @@
+# ECON 452: Economics of Global Pandemics
+
+During this course, students will explore the effects of past pandemics and consider the micro- and macroeconomic impacts of the COVID19 pandemic on individuals, firms, and societies. Some topics include interpreting infection and mortality data, fiscal and monetary policy responses, encouraging research and development of vaccines, effects of pandemics on labor markets, allocation of scarce resources during pandemics, and the implications of the pandemic on racial, gender, and income inequality.

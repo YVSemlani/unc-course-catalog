@@ -1,0 +1,3 @@
+# PSYC 880: Social Psychobiology
+
+Psychological processes are increasingly being appreciated as key predictors of morbidity, mortality, and well-being. But how, exactly, do factors in the social environment "get under the skin" to influence health? This is the main question we will investigate in this course. We will accomplish this primarily through extensive reading and discussion of journal articles and presentations on a variety of biomarkers, physiological processes, and pharmacological approaches.

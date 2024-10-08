@@ -1,0 +1,3 @@
+# ECON 400: Introduction to Data Science and Econometrics
+
+This course is a comprehensive introduction to statistics, including descriptive statistics and statistical graphics, probability theory, distributions, parameter estimation, hypothesis testing, simple and multiple regression, and use of powerful statistical estimation software. This course includes a substantial introduction to basic econometrics. Honors version available.

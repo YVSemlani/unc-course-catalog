@@ -1,0 +1,3 @@
+# ANTH 423: Written in Bone: CSI and the Science of Death Investigation from Skeletal Remains
+
+This course combines laboratory training, field projects, lectures, films, discussion, and student presentations into a course on the science of human skeletal analysis. Students learn the laboratory methods scientists use to study human remains and the role of skeletal analysis in the study of contemporary forensic cases.

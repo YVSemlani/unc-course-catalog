@@ -1,0 +1,3 @@
+# CHEM 701: Introduction to Laboratory Safety
+
+Permission of the instructor for undergraduates. This introductory course in laboratory chemical safety is required for all entering chemistry graduate students. Topics include laboratory emergencies, chemical hazards, laboratory inspections and compliance, working with chemicals, waste handling, case studies of university accidents, laboratory equipment, biosafety, radiation, animals, and microfabrication and nanomaterials.

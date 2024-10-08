@@ -1,0 +1,3 @@
+# PHIL 282: Human Rights: Philosophical Interrogations
+
+The philosophy of human rights addresses questions about the existence, content, nature, universality, justification, and legal status of human rights. The strong claims made on behalf of human rights frequently provoke skeptical doubts and countering philosophical defenses. These will be addressed through classical and contemporary history of philosophy.

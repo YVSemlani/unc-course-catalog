@@ -1,0 +1,3 @@
+# RELI 514: Judaism and the Search for Christian Origins
+
+Although the origins of Christianity clearly lie in Judaism--the religious framework inherited by Jesus and his disciples--scholars disagree over how and when the two traditions diverged. This course explores critical issues in the conceptualization of this parting, including the theoretical difficulty of distinguishing religion from ethnicity in a premodern context, competing ways of analyzing intermediate groups ("Jewish Christianities"), and the methodological and ethical problems of 19th-20th century scholarship in this area (e.g., Protestant bias, antisemitism).

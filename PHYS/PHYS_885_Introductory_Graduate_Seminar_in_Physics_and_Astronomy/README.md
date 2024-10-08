@@ -1,0 +1,3 @@
+# PHYS 885: Introductory Graduate Seminar in Physics and Astronomy
+
+Introduction to skills needed for success in graduate courses and research, including practice using general-purpose mathematical/computational tools, assessment of the research landscape and research project design, preparing a proposal, and participating in peer review. Professional development topics such as ethics and etiquette, time management, and career planning are also covered.

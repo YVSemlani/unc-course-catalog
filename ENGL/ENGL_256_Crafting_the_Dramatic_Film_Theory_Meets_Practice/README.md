@@ -1,0 +1,3 @@
+# ENGL 256: Crafting the Dramatic Film: Theory Meets Practice
+
+This course places students behind the camera and in front of the screen as they alternate between creative and critical approaches to cinema. They learn how to practice the basic principles of narrative film production (producing, directing, cinematography, editing, and sound design) while engaging critically with key debates in film theory and criticism (semiotic, cognitive, psychoanalytic, feminist, and phenomenological). Honors version available.

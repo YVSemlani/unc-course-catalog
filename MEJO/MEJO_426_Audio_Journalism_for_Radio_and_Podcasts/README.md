@@ -1,0 +1,3 @@
+# MEJO 426: Audio Journalism for Radio and Podcasts
+
+A practicum class in which students work under faculty guidance to produce news stories, features, interviews, sports, and other audio content. Student work is broadcast on "Carolina Connection" -- a weekly radio program -- and is distributed on iTunes and other digital platforms. Students also have the opportunity to produce their own podcasts in the Carroll Hall studios.

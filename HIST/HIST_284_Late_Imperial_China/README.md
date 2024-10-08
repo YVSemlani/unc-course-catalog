@@ -1,0 +1,3 @@
+# HIST 284: Late Imperial China
+
+This course introduces undergraduates to significant themes of the Ming (1368-1644) and Qing (1644-1911) dynasties. Topics include family, religion, art, fiscal change, trade networks, conquest, emperorship, Manchu ethnicity, the examination system and book culture, legal codes, gender, the Taiping Rebellion, and the Boxer Uprising, among others. No prior coursework required.

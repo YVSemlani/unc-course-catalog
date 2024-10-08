@@ -1,0 +1,3 @@
+# ANTH 144: Archaeology and the Media
+
+This class will examine how archaeology is represented in the media. This will include the characterization of archaeology and archaeologists in film and written fiction. This course will also examine the dissemination of archaeological findings through fact based presentations such as television documentaries and material published for the general public's consumption.

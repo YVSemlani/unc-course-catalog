@@ -1,0 +1,3 @@
+# ANTH 347: Anthropology of Travel and Tourism
+
+This course considers anthropological approaches to travel and tourism in the contemporary world. We examine differences of race, class, gender, sexual orientation, and nationality in the experiences of travelers as well as of those who work in the service industries that accommodate travelers' needs--and the ways in which travel destinations are represented and marketed.

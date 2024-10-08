@@ -1,0 +1,3 @@
+# BIOL 547: Synaptic Plasticity: Analysis of Primary Literature
+
+In this highly interactive, small-group course, we will read a series of scientific papers that elegantly demonstrate molecular events that are fundamental to synaptic plasticity, a key mechanism of learning and memory. Students will become familiar with this exciting neuroscience topic, and also learn how to interpret experimental data and read papers critically and objectively. We will also think about the future experiments suggested by each paper we read.

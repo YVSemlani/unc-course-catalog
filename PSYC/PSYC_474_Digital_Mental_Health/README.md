@@ -1,0 +1,3 @@
+# PSYC 474: Digital Mental Health
+
+This course will provide an overview of the use of digital technologies to increase opportunities for training in, access to, and use of evidence-based mental health services. Coverage will include the current status of and future directions in research, innovations in service delivery, and policy implications. Special attention will be given to the evolution of the field, the potential costs and benefits, and the promise to address health disparities in particular.

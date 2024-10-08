@@ -1,0 +1,3 @@
+# BIOL 480: Discoveries in Prevention and Cure of Infectious Disease in London
+
+This is a Burch summer honors course taught in London. We will examine three major discoveries relating to infectious disease (vaccination, transmission via water, and antibiotics) and one major epidemic (plague) which led to no scientific response and explore how the thought of the time influenced scientific research. Honors version available.

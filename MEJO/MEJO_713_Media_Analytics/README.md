@@ -1,0 +1,3 @@
+# MEJO 713: Media Analytics
+
+How do communicators extract useful information and knowledge from data in digital and social platforms? What does data actually mean, and how can that knowledge be used strategically? Students will learn to apply data in a variety of ways, from data-driven storytelling to creating actionable insights. They will learn to identify the appropriate analytics tools for projects, uncover stories in data, and analyze data to make evidence-based decisions. Restricted to students in the Master of Arts in Digital Communication program.

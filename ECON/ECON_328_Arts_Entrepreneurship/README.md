@@ -1,0 +1,3 @@
+# ECON 328: Arts Entrepreneurship
+
+The goal of this course is to build upon the teachings of ECON 125 and ECON 325 by conceptualizing, writing, preparing, and presenting formal business plans for entrepreneurial ventures in the arts. We will examine the challenges and changing nature of entrepreneurship and innovation as they relate to the arts with a goal to provide business world examples of such challenges.

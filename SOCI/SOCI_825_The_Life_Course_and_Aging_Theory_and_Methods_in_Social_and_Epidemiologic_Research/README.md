@@ -1,0 +1,3 @@
+# SOCI 825: The Life Course and Aging: Theory and Methods in Social and Epidemiologic Research
+
+This seminar surveys the major theoretical paradigms, methodological tools and empirical studies of aging and cohort analysis that are of enduring importance to the understanding of social change, epidemiologic trends, and related population and life course processes and dynamics. It aims to provide a sweeping review of the theoretical models in recent life course and aging research and introduce useful guidelines on how to conduct empirical analysis.

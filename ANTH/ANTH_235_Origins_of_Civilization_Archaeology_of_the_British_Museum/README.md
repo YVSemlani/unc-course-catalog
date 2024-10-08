@@ -1,0 +1,3 @@
+# ANTH 235: Origins of Civilization: Archaeology of the British Museum
+
+The collections of the British Museum, a product of Britain's Colonial Empire, include famous objects from the Ancient Near East such as the Rosetta Stone. In this course we examine how these objects are often used to tell grand stories about the 'rise of civilization' emphasizing themes of progress but also tell more subtle, implicit stories such as the inevitability of European colonial domination.

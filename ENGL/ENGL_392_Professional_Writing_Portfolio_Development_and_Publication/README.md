@@ -1,0 +1,3 @@
+# ENGL 392: Professional Writing Portfolio Development and Publication
+
+Students research, refine, and compose a portfolio of advanced written work for professional audiences or publication. Each portfolio will contain an array of written work that demonstrates the student's versatility as a writer, researcher, and editor. The portfolio is intended for presentation to professional audiences, potential employers, prospective graduate programs, and/or publication. Previously offered as ENGL 492.

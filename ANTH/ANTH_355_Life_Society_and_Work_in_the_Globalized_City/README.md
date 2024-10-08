@@ -1,0 +1,3 @@
+# ANTH 355: Life, Society and Work in the Globalized City
+
+Contemporary cities are undergoing major transformations due to globalization, economic restructuring, political conflict, and transnational migration. This course is a comparative study of the structures of power, everyday life, and social inequalities in globalized cities in North America, Asia, and Europe. Previously offered as ANTH 567.

@@ -1,0 +1,3 @@
+# ANTH 750: Seminar in Medical Anthropology
+
+Specially designed for, but not restricted to, students who are specializing in medical anthropology. Medicine as part of culture; medicine and social structure viewed crossculturally; medicine in the perspective of anthropological theory; research methods. A special purpose is to help students plan their own research projects, theses, and dissertations.

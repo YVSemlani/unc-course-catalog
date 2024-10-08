@@ -1,0 +1,3 @@
+# SOCI 172: Introduction to Population Health in the United States
+
+This course aims to provide an introduction to the study of population health in the United States. Key goals include understanding the measurement and theoretical frameworks underlying the study of population health, understanding trends and disparities in U.S. population health, and understanding policy options to improve population health.

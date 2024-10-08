@@ -1,0 +1,3 @@
+# MEJO 860: Content Analysis
+
+Students will use appropriate research designs to collect content data for coding and analysis, conceptual and operational definitions of variables for coding, reliability testing of coding protocol and procedures, and appropriate statistical analysis of collected data. Additionally, students will select a topic, produce a content analysis study, and submit the study to a peer-reviewed convention or journal.

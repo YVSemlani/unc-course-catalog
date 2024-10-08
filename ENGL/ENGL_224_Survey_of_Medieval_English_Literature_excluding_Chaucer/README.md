@@ -1,0 +1,3 @@
+# ENGL 224: Survey of Medieval English Literature, excluding Chaucer
+
+This course surveys the canonical works of Old and Middle English literature from the eighth to the 15th centuries, with the sole exception of the poetry of Geoffrey Chaucer. Topics to be considered may include the development of courtly love, the history of meter, religious visions and visionary experience, and the birth of modern English. Previously offered as ENGL 319. Honors version available.

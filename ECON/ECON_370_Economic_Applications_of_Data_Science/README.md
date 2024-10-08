@@ -1,0 +1,3 @@
+# ECON 370: Economic Applications of Data Science
+
+This course is a broad-based introduction to numerical and data-science methods used in economics. The R programming language will be introduced assuming no prior experience. Subsequent lectures will focus on real-world data with economic applications. Methods will include wrangling, cleaning, and visualizing data, descriptive analysis, optimization, and statistical learning. Majors only.

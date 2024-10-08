@@ -1,0 +1,3 @@
+# MEJO 759: Public Life Reporting II
+
+This course will delve into racial, social, ethnic and economic disparities in public policy and how to cover them more honestly and completely. It will also examine how media have dealt with these topics over the years, for better and for worse. Students will critique local and state coverage of some of these issues. They also will do some of their own in-depth reporting on these topics, individually and in small groups. Restricted to students in the Master of Arts in Media and Communication program.

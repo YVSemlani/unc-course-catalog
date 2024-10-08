@@ -1,0 +1,3 @@
+# RELI 114: Early Christian Worship, Ritual, and Bodies
+
+What did the earliest Christian churches look like? How did Christians worship, and what behaviors and gestures set them apart from other ancient communities? This course probes these questions, illustrating how different Christian groups developed different ways of regulating the body, food, space, and gender, and how this diversity still impacts contemporary global Christian cultures. Topics include the evolution of baptism, exorcism, marriage, speaking in tongues, and burial rites. Previously offered as RELI 214.

@@ -1,0 +1,3 @@
+# MEJO 533: Crisis Communication
+
+Provides an assessment and understanding of crises, examining the role public relations professionals play in helping organizations use mass communication theories and best practices. Includes media training. Introduces students to areas of crisis research, allowing them to complete the Federal Emergency Management Agency's National Incident Management System certification. Previously offered as MEJO 433.

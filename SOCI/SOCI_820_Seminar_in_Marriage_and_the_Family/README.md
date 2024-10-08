@@ -1,0 +1,3 @@
+# SOCI 820: Seminar in Marriage and the Family
+
+Introduces students to a wide range of studies in the sociology of family, to develop familiarity with the empirical, theoretical, and methodological foundations of family research in sociology. Examines demographic trends; marriage and family relationships; race/ethnicity; poverty and social class; work/family issues; childbearing and rearing; and mate selection.

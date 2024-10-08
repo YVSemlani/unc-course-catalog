@@ -1,0 +1,3 @@
+# ENGL 211: Writing Political Fiction
+
+An intermediate-level creative writing workshop intended for students who have already taken ENGL 130 or ENGL 132H, this course focuses on the art and craft of fiction that features visible politics. Rather than encouraging a didactic approach to storytelling, this course teaches students to ask better questions of themselves and their readers. Instead of using storytelling as a tool for propaganda, students will learn how well-crafted fiction can combat false narratives, social injustices, and tyranny.

@@ -1,0 +1,3 @@
+# POLI 475: Environmental Political Theory
+
+This course brings the tools and techniques of political theory to bear on contemporary environmental challenges. Students will examine different conceptions of nature and of human-nature relations, investigate arguments about the moral and political status of nonhuman others, think about the role of individual responsibility in addressing climate change, and grapple with issues of inequality, environmental justice, and power.

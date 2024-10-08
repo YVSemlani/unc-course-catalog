@@ -1,0 +1,3 @@
+# PSYC 823: Clinical Supervision and Consultation: Theory, Research, and Practice
+
+This course will familiarize fourth year clinical psychology doctoral students with methods and models of clinical supervision and consultation in an ethical and multicultural context. Includes a didactic seminar component and an applied supervision training component. Restricted to fourth year doctoral students in clinical psychology.

@@ -1,0 +1,3 @@
+# HIST 810: Colonial Encounters
+
+This course introduces students to a variety of theoretical and methodological approaches to the study of colonialism. It encourages them to examine critically the ways in which scholars apply and use the concepts of "coloniality" and "postcoloniality," and to assess the avenues through which those concepts might prove to be productive in informing their own research.

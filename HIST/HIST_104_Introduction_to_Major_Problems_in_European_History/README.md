@@ -1,0 +1,3 @@
+# HIST 104: Introduction to Major Problems in European History
+
+This course explores major events and themes in European history from the Early Modern period through the present. We will focus our attention on several key religious, social, and political developments, including the growth of the modern state and economy, the history and legacy of European imperialism, the rise and fall of various intellectual and social movements and their effects on society, and the making and unmaking of identities based on culture, nation, and region.

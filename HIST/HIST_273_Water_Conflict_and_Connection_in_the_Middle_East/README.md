@@ -1,0 +1,3 @@
+# HIST 273: Water, Conflict, and Connection in the Middle East
+
+Water has played many pivotal roles in the societies and politics of Middle Eastern peoples. This course will survey the history of water in the region, including its uses in agriculture and ritual, transport, and technology. We will explore water's impact on public health and the effects of water pollution on local societies. Finally, we will focus on the effects of the region's water scarcity in cross-border political conflicts.

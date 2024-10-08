@@ -1,0 +1,3 @@
+# PHYS 231: Physical Computing
+
+Physical Computing is an introduction to the interaction between a computing unit and the outside world, using measurement and control. The tools for this implementation of physical computing are microcontrollers, software, sensors, a variety of analog and digital electronic components, and algorithms that anticipate and respond in ways that humans perceive as NOT inherently computerized. Honors version available.

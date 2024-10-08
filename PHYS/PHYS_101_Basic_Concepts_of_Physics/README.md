@@ -1,0 +1,3 @@
+# PHYS 101: Basic Concepts of Physics
+
+This is an introductory physics course for non-science majors. This course focuses on basic physics concepts and connections to everyday life. Course topics include Newtonian mechanics, fluids, heat, vibrations, electricity and magnetism, light and sound, quantum phenomenon, nuclear radiation, relativity, and cosmology. Connections to everyday life and society include energy conservation, global warming, nuclear energy, the origin of the universe, pseudoscience, and the search for extraterrestrial life.

@@ -1,0 +1,3 @@
+# ENVR 779: Project Management and Implementation
+
+This course presents program/project management and implementation concepts, tools and methods applicable to global public health projects. Students will learn and practice the skills necessary to successfully plan, implement and evaluate a project including how to organize and lead successful project teams in complex environments. This course is designed to give students the skills to successfully develop, engage and support global public health projects.

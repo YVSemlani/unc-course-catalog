@@ -1,0 +1,3 @@
+# ECON 416: Behavioral Economics
+
+This course covers alternatives to the standard rational choice model featured in ECON 410. The course covers four themes: choice under certainty (e.g. menu and endowment effects), choice under uncertainty (e.g. prospect theory), intertemporal choice (e.g. hyperbolic preferences), and strategic choices by individuals (e.g., social preferences, envy, altruism). The readings focus on the contributions of experimental economics and neuroeconomics.

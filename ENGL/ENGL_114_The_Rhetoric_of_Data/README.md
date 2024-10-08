@@ -1,0 +1,3 @@
+# ENGL 114: The Rhetoric of Data
+
+This course uses a rhetorical approach to explore the concept of data. Questions of race, gender, class and other markers of identity will guide our analysis of how data is rhetorically used to shape knowledge in our contemporary world. This course is especially well suited for those in the WEDP concentration in English & Comparative Literature as well as those interested in fields such as data science, social media, technical communication, and digital humanities.

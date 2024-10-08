@@ -1,0 +1,3 @@
+# ECON 550: Advanced Health Econometrics
+
+Get your hands dirty with health data. Learn the econometric tools necessary for empirical analysis of health-related outcomes and behaviors. Use economic theory to construct hypotheses and use econometrics to measure effects of individual, organizational, and public policy determinants. Empirically analyze detailed data to understand medical care demand, health behaviors, and health production. Interpret statistical findings using health-related applications.

@@ -1,0 +1,3 @@
+# MEJO 847: Communication for Social Justice
+
+Examines the role of media and communication projects in advancing social justice goals. Surveys canonical literature and introduces students to the most recent approaches. Traditionally, the field has considered Global South projects and grassroots communication; this course pays attention to projects and programs for underserved populations of the Global North.

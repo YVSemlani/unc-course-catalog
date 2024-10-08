@@ -1,0 +1,3 @@
+# HIST 580: International Relations and Public History
+
+The course combines an academic and practical approach to policy formulation, implementation, and critical evaluation at the global level and based on a solid historical foundation. This course is tightly integrated with the UNC Krasno Global Events Series. Many of the talks in the series as well as the reading material in preparation deal with issues of 20th history, such as the Cold War years, US foreign policy, America's relations with the wider world.

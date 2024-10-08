@@ -1,0 +1,3 @@
+# GEOG 555: Cartography of the Global South
+
+This course presents cartographic techniques for better map design, with a focus on mapping the geographies of the Global South. Modern techniques and software will be used for developing and demonstrating proficiency in what are considered standard map design techniques, and we will also study examples from places and map makers outside of dominant cartographic traditions, and maps meant for actors and audiences in the Global South.

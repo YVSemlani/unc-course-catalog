@@ -1,0 +1,3 @@
+# RELI 430: Dimensions of Evil
+
+This course explores the meaning of evil. By investigating the moral dimensions of evil, its social uses, its figuration in cross-cultural religious texts, theology, folklore, and political imaginaries, this course develops a critical framework for understanding the diverse manifestations and varied cultural renderings of evil in the modern world. Previously offered as RELI 526.

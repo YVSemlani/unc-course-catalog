@@ -1,0 +1,3 @@
+# BIOL 105: Biological Research Skills
+
+What is research and how is it done? This course aims to give you a first-hand exposure to the scientific approach in real world situations. You will build your science skills toolkit--experimental design, data processing and interpretation, basic statistics, system modeling, interdisciplinary approaches, and science communication and policy--then use it to explore relevant societal issues like global warming, virus evolution and vaccine development, cancer therapeutics, machine learning, and more! Majors only.

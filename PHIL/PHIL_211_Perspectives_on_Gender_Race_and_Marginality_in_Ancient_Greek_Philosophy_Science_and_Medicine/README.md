@@ -1,0 +1,3 @@
+# PHIL 211: Perspectives on Gender, Race, and Marginality in Ancient Greek Philosophy, Science, and Medicine
+
+This course studies through the examination of several infamous, ignored, or otherwise uncharted Ancient Greek texts the views about gender and race as presented in ancient Greek philosophy, medicine, and science. Our aims are to generate a new understanding of how the male elite used such views to further promote or justify (or perhaps challenge) the existing marginalization and silencing of women, foreigners, and less privileged men.

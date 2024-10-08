@@ -1,0 +1,3 @@
+# MATH 235: Mathematics for Data Science
+
+This course introduces students to some of the key mathematical tools underlying algorithmic data science. The primary focus of the course is matrix algebra and multivariable calculus. The mathematical topics covered in the course will be motivated and connected by concrete applications in data science, with an emphasis on machine learning and optimization.

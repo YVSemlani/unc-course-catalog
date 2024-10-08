@@ -1,0 +1,3 @@
+# ECON 573: Machine Learning and Econometrics
+
+Big data and Machine learning techniques with economic applications. Students will learn how to explore, visualize, and analyze high-dimensional datasets, build predictive models, and estimate causal effects in R. Topics include an advanced overview of linear and logistic regression, model selection and regularization, LASSO, cross-validation, experiments and causal inference, treatment effects with high-dimensional controls, difference-in-differences, networks, classification and clustering, latent variable models, bagging and the bootstrap, decision trees and random forests, deep learning, textual analysis.

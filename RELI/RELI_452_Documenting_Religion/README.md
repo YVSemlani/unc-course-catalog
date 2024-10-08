@@ -1,0 +1,3 @@
+# RELI 452: Documenting Religion
+
+This course examines the politics of representing religious difference. What happens when journalists, pollsters, filmmakers, or pundits attempt to describe, explain or decode religious communities they do not belong to? How do these efforts constitute cultural centers and margins? We examine the political and ethical problems inherent to representing religion. Topics might include documentary film, photojournalism, reality television, opinion polling, news media, and more.

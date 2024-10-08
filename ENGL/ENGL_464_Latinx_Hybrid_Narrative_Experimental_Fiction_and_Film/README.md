@@ -1,0 +1,3 @@
+# ENGL 464: Latinx Hybrid Narrative: Experimental Fiction and Film
+
+Latinx narrative in fiction and film has continually challenged the form and function of "genre". This course will examine books, films, and videos that are narrative in nature. We will focus on cultural productions reflecting some of these innovations to consider how authors and film makers engage concerns intersecting at different points of self-conception, including but not limited to experiences of dis/ability, diaspora, gender, geography, race, nationality, sexuality, spirituality, and transnationalism.

@@ -1,0 +1,3 @@
+# ENGL 105: English Composition and Rhetoric
+
+This college-level course focuses on written and oral argumentation, composition, research, information literacy, and rhetorical analysis. The course introduces students to the specific disciplinary contexts for written work and oral presentations required in college courses. Students may not receive credit for both ENGL 102 and ENGL 102I, 105, or 105I.

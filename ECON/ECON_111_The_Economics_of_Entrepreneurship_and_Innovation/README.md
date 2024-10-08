@@ -1,0 +1,3 @@
+# ECON 111: The Economics of Entrepreneurship and Innovation
+
+This course will present the fundamental concepts of economics necessary to the understanding of the theory and practice of entrepreneurship. Topics include supply and demand, consumer choice, profit maximization and choice under uncertainty. The presentation of these topics will be structured around a series of case studies of entrepreneurial innovation.

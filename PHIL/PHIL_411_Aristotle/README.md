@@ -1,0 +1,3 @@
+# PHIL 411: Aristotle
+
+An examination of some representative works of Aristotle, with reference to common emphases and basic problems, together with an analysis of their philosophic content. The aim to provide students with a more thorough understanding of the key texts, doctrines, notions, and ideas in Aristotle's philosophy as a whole and with the capacities and confidence to conduct a short, independent, ancient philosophical research project on Aristotle's philosophy.

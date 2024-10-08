@@ -1,0 +1,3 @@
+# ECON 445: Industrial Organization
+
+The course covers the causes and consequences of firms' strategic behavior, focusing on situations in which firms have market power. The main analytical tools are microeconomic theory and game theory. Topics covered include: pricing, product design, imperfect competition, collusion and cartels, firm-to-firm supply relationships, mergers, and antitrust policy. Students may not receive credit for both ECON 345 and 445.

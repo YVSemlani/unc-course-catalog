@@ -1,0 +1,3 @@
+# GEOG 567: Geospatial Data Analysis with Google Earth Engine
+
+This course teaches students key concepts and skills for geospatial data analysis using the rich geospatial data resources, tools, and cloud computing facility on Google Earth Engine for environmental monitoring, mapping, modeling, and visualization. The course will enable students to pursue geospatial data analysis ranging from local to global scales to extract critical information for scientific understanding of the environment and for making science-based policies to address the environmental challenges we face today.

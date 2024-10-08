@@ -1,0 +1,3 @@
+# ANTH 326: Practicing Medical Anthropology
+
+A workshop on careers in medical anthropology and the kinds of contributions that medical anthropologists make to health care professions. Students will learn skills including interviewing methods, writing for diverse audiences, blogging. Intended for medical anthropology minors and students interested in bringing anthropological perspectives to a range of practical contexts.

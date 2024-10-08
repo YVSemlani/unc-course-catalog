@@ -1,0 +1,3 @@
+# MEJO 153: Writing and Reporting
+
+A laboratory course that teaches journalistic skills essential to writing across platforms. Practice in using news gathering tools, such as sourcing and interviewing techniques; writing stories, including leads, organization, quotations, and data; editing for grammar, punctuation, brevity, style, and accuracy; and critical thinking about news values and audiences.

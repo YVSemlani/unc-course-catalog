@@ -1,0 +1,3 @@
+# HIST 315: Nation-Building in Latin America
+
+This course focuses on Mexico, several Caribbean and South America countries, and the U.S. as examples of the major debates that have arisen in the past and in our own time over citizenship and the nation-state in the multi-ethnic and culturally complex societies of the Americas. It explores history and memory around issues of human rights, gender, enslavement and emancipation, Indigenous peoples, religion and secular society, territory, and the nation-state. Previously offered as HIST 529. Honors version available.

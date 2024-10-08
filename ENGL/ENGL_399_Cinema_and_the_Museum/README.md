@@ -1,0 +1,3 @@
+# ENGL 399: Cinema and the Museum
+
+Museums have long been considered repositories for artifacts and sites of pedagogy, far removed from contemporary visual practices. And yet, today's museums are full of moving images, from interactive displays to IMAX theaters to screen-based art. In this class we will consider interactions between the cinema and the museum. Topics to be addressed include immersive viewing technologies, film and ethnography, expanded cinema, virtual reality, and installation art. This course includes visits to campus museums.

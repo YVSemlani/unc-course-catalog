@@ -1,0 +1,3 @@
+# ECON 522: Macroeconomic Analysis of the Labor Market
+
+This course addresses all aspects of the labor market that have economy-wide relevance. Both in the long run and in the short run, the labor market is of central importance for the national economy for many key policy questions, and for individual well-being. We will cover topics such as long-term trends in income, employment, and hours worked; determinants and consequences of income inequality; and application to minimum-wage, transfer-program, fiscal-stimulus and unemployment-insurance policies.

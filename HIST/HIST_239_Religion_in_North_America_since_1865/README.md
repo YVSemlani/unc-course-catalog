@@ -1,0 +1,3 @@
+# HIST 239: Religion in North America since 1865
+
+A survey of modern religion in the United States and Canada. Themes include religious pluralism; new religious movements, immigrant faiths; the relationship between religion and urban life, industrialization, and new science; religion and foreign affairs; questions of church and state; and the conflict between secular modernity and religious fundamentalism.

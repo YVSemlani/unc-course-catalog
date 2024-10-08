@@ -1,0 +1,3 @@
+# ANTH 461: Colonialism and Postcolonialism: History and Anthropology
+
+This course examines colonialism and postcolonialism through the lenses of history and anthropology respectively. Through history, it asks, What were the dynamics of colonialism then? Through anthropology, it questions, What are the conditions, quandaries, and possibilities of postcolonialism now? Regional focus varies by instructor and year.

@@ -1,0 +1,3 @@
+# ENGL 329: Medieval Feminisms
+
+This course explores the contributions of the Middle Ages, and of medieval women, to the history of feminism and women's writing. Over the course of the semester, we will explore four different types of work by and about women: literary writing, theological writing, life writing, and the performance of identity and dramatic character. Along the way, we will also read selections from contemporary feminist theory, including Sara Ahmed, Lauren Berlant, Luce Irigaray, and Judith Butler.

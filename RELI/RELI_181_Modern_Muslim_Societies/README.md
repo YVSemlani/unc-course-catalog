@@ -1,0 +1,3 @@
+# RELI 181: Modern Muslim Societies
+
+This course surveys important developments in modern Muslim societies since the 16th century and up to the present. Topics covered include Muslim experiences with colonialism and nationalism, modernist reform movements, fundamentalism, women's activism and changes in Qur'an interpretation, Islamic law, and religious practice. Students may not receive credit for both RELI 181/ASIA 181 and ASIA 139/HIST 139.

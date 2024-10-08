@@ -1,0 +1,3 @@
+# PSYC 562: Psychology of Race and Racism
+
+This course offers an overview of research investigating the psychological underpinnings and impacts of racialization, racism, and racial inequality. It will center research in social psychology, but will also feature work from other areas of psychology (e.g., developmental), as well as other social science disciplines (e.g., sociology, political science).

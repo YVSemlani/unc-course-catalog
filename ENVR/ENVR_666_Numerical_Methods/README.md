@@ -1,0 +1,3 @@
+# ENVR 666: Numerical Methods
+
+Numerical methods for solving problems arising in sciences and engineering. Solution of linear equations using direct and iterative approaches, solution of nonlinear systems of algebraic equations, solution of ordinary differential equations including single and multistep methods, and methods for stiff systems of ODEs and collocation methods for linear and nonlinear PDEs.

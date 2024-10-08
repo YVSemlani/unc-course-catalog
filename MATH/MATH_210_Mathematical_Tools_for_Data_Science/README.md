@@ -1,0 +1,3 @@
+# MATH 210: Mathematical Tools for Data Science
+
+This course introduces students to the tools of linear algebra and optimization, including solving linear systems, matrices as linear transformations, eigenvalues and eigenvectors, singular value decomposition, derivatives, and the method of gradient descent. Includes applications to data science such as image compression, principal component analysis, and neural networks. Computational tools (e.g. Python) will be used to implement algorithms. No programming experience needed. A student cannot receive credit after receiving credit for MATH 347 or 577.

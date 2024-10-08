@@ -1,0 +1,3 @@
+# MEJO 720: Communication Strategy and Planning
+
+How do communicators determine when and where to engage with target audiences? With all the media options available, how does one decide what to do and what not to do, based on the consumer decision journey? Students will develop the strategic skills needed to execute a go-to-market plan, enabling them to market anything to anyone. They will learn to find an underlying business problem, set attainable communications goals, and craft a compelling message that spreads. Restricted to students in the M.A. in Digital Communication program.

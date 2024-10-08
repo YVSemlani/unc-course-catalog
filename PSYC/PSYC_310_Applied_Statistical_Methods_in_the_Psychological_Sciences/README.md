@@ -1,0 +1,3 @@
+# PSYC 310: Applied Statistical Methods in the Psychological Sciences
+
+This course extends statistical and data analytic concepts covered in PSYC 210 with direct applications to empirical data commonly encountered in psychological research. Topics include measurement, group comparisons, linear associations, and prediction. An equal balance is placed on statistical concepts, computer-based data analysis, and interpretation of findings.

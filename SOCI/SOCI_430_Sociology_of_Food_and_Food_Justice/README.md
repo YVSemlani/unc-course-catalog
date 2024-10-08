@@ -1,0 +1,3 @@
+# SOCI 430: Sociology of Food and Food Justice
+
+We explore key sociological concepts through the lens of food: labor, power, social status, political economy, social inequalities, social movements, globalization, and social justice. Additionally, we examine the emergence of food related social movements, food policy, and food related social problems (famine, obesity, food deserts, food insecurity, GMOs (genetically modified organisms), CAFOs (concentrated animal feeding operations), industrial agriculture, environmental degradation, and poor health).

@@ -1,0 +1,3 @@
+# PHYS 586: Introduction to Biomedical Imaging Science
+
+This course offers an introduction to the most common biomedical imaging modalities, including Magnetic Resonance Imaging (MRI), Computed-Tomography (CT), Positron Emission Tomography (PET), Single-Photon Emission Computed Tomography (SPECT), Ultrasound, and Optical Imaging. Lectures include discussions of imaging hardware, and relevant physics, as well as pre-clinical and clinical applications.

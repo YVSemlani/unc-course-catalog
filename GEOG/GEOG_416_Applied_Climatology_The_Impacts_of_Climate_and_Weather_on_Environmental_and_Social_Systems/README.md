@@ -1,0 +1,3 @@
+# GEOG 416: Applied Climatology: The Impacts of Climate and Weather on Environmental and Social Systems
+
+Applied climatology involves the interdisciplinary application of climate data and techniques to solve a wide range of societal and environmental problems. This projects-based course investigates how climate impacts a range of sectors, including water resources, urban environments, ecosystems, and human health.

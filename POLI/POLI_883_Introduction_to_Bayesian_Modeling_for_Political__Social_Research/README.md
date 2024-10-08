@@ -1,0 +1,3 @@
+# POLI 883: Introduction to Bayesian Modeling for Political & Social Research
+
+Introduction to Bayesian modeling and data analysis. The course focuses on basic Bayesian and MCMC theory, as well as applications in the context of common regression and measurement models, including multilevel (generalized) linear models, mixture models, item-response theory models and models for text classification. Basic knowledge of mathematical statistics is desirable, and working knowledge of both the R programming language and the maximum likelihood estimation framework is required.

@@ -1,0 +1,3 @@
+# ENGL 488: Critical Security Studies
+
+Introduces major topics in the interdisciplinary field of critical security studies. Critically analyzing the public construction of risk and security in military, technological, informational, and environmental domains, the course explores major theories that attempt to make sense of the transnational proliferation of violence and risk in historical and contemporary contexts.

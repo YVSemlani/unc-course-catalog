@@ -1,0 +1,3 @@
+# MEJO 144: Introduction to Political Communication
+
+This course provides an overview of the various actors, institutions, and processes involved in political communication. The course will introduce students to definitions of key concepts and provide an overview of varieties of political communication across the globe. The course provides a model for understanding the interaction of political and media systems, and especially focuses on the contemporary role of technology and social media platforms as distribution channels, infrastructure, technologies, policymakers, and profit-making firms.

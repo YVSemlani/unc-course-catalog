@@ -1,0 +1,3 @@
+# LING 422: Research Methods in Phonetics and Laboratory Phonology
+
+Focuses on the practical skills required to carry out basic experiments in speech production or perception. Includes training in a general-purpose programming language (such as Perl) for automating repetitive tasks, experiment-control software, audio stimulus manufacture and editing, palatography, aerodynamic measurements, and other laboratory techniques relevant to student interests.

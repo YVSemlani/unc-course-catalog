@@ -1,0 +1,3 @@
+# PHIL 102: Introduction to Philosophy: Central Problems, Great Minds, Big Ideas
+
+This course introduces students to the experience of thinking like philosophers and aims at developing students' capacity to think carefully and critically about philosophical arguments. The central skills to be practiced are those involved in productive philosophical discussion. The course emphasizes how philosophy is and has been done through dialogue, that philosophical claims must be tested against the objections of one's fellow thinkers, and how philosophical disagreement can lead to productive insights.

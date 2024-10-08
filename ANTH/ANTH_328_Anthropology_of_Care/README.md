@@ -1,0 +1,3 @@
+# ANTH 328: Anthropology of Care
+
+In this course, we study how medical anthropologists have come to think and write about the concept and practice of care over the last two decades. We will draw on ethnographic literature from a wide range of sites, such as the home, the hospital, the arctic circle, and international border posts, to explore big-picture questions about the efficacy of modern medicine, state of social justice, and challenges facing humanity in the world today. Restricted to medical anthropology majors.

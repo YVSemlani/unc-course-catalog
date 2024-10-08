@@ -1,0 +1,3 @@
+# MEJO 703: Mass Communication Research Methods
+
+Covers a broad range of research methods used in industry and academic research. Course content includes the process and organization of writing research; applying a variety of quantitative and qualitative research methods; evaluating research design; and ethical issues inherent in research. Required course for all doctoral students and theory and research master's students.

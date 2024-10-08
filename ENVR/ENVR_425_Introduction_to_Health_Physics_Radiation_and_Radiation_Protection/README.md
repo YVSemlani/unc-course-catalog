@@ -1,0 +1,3 @@
+# ENVR 425: Introduction to Health Physics: Radiation and Radiation Protection
+
+This course concentrates on fundamentals of radiation and protection, including types of radiation, radioactive decay, interaction with matter, biological effects, detection and measurement, protection methods/techniques, external and internal dose, etc. Lectures include hazards in categories of environmental radiation, nuclear energy, medical applications, industrial uses, etc.

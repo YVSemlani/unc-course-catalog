@@ -1,0 +1,3 @@
+# ENGL 153: Sex, Gender, and Sexuality in the Premodern World
+
+What did people think about sex, and how did they do it, before Darwin, Stonewall, and the Sexual Revolution? This course will introduce students to the rich and varied history of sex, sexuality, and gender in Western culture before 1700. Topics to be considered may include the evolution of marriage, same-sex love in the classical world, trans identities in medieval Europe, and the history of true love.

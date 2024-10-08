@@ -1,0 +1,3 @@
+# MEJO 758: Public Life Reporting I
+
+This course introduces the structure and functions of city, county, and state government and focuses on understanding their impact on the daily lives of their citizens. We will examine and assess their decisions, financial choices, and community outcomes. We will focus on the main areas of impact, which include: education, health and social services, public safety, housing and community development, environment, transportation, and politics and elections. Master of Arts in Media and Communication students only.

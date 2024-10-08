@@ -1,0 +1,3 @@
+# ENGL 119: Picture This: Principles of Visual Rhetoric
+
+Today, writers in almost every profession use visual evidence persuasively and effectively. How do we interpret and analyze those messages? How do we generate effective visuals that avoid misleading audiences? That is the domain of visual rhetoric, an area of study we will explore in this course. This course is useful for those planning careers in science, computer science, technical communication, business, and data science as well as those interested in cultural and historical aspects.

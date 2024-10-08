@@ -1,0 +1,3 @@
+# RELI 108: Classic Jewish Texts: From Bible and Dead Sea Scrolls to Kabbalah and Hassidism
+
+This course will explore Jewish literary works that are considered "fundamental," "classic," "traditional" (often, all of the above), including the Hebrew Bible, the Mishnah, the Babylonian Talmud, midrashic collections, works by Maimonides, major codes of Jewish law, major kabbalistic, philosophic, poetic, and ethical works, hassidic compositions, and more.

@@ -1,0 +1,3 @@
+# MATH 563: Introduction to Fluid Mechanics
+
+Mathematical methods applied to problems in fluid dynamics. Particular attention will be given to the power of dimensional analysis and scaling arguments. Topics will include: particle motion (e.g. the dynamics of sports balls), animal locomotion (e.g. swimming and flying), viscous flows (e.g. geological fluid dynamics), rotating and stratified flows (geophysical fluid dynamics), gravity currents and plumes (environmental fluid mechanics), drops, bubbles, and films.

@@ -1,0 +1,3 @@
+# POLI 447: Immigrant Integration in Contemporary Western Europe
+
+Immigrant integration has been one of the most intense political issues in Western Europe in recent decades. The extent to which these immigrants have successfully integrated is a hot topic of debate across Europe, and there is no consensus about the best way to promote integration. This course explores these debates. Honors version available.

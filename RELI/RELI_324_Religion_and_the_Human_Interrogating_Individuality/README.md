@@ -1,0 +1,3 @@
+# RELI 324: Religion and the Human: Interrogating Individuality
+
+Notions of what a human being is--and what this means for how one should live--lie at the root of all religious traditions and also of secular ideologies. This course explores the ways that different religious and cultural communities have conceptualized human nature and how those understandings are reflected in personal identity and ways of organizing public life. Readings include historic and contemporary texts and case studies engaging Buddhism, Hinduism, and Christianity.

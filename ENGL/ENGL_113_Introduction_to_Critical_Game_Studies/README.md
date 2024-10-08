@@ -1,0 +1,3 @@
+# ENGL 113: Introduction to Critical Game Studies
+
+This course introduces students to the new field of critical game studies, which uses rhetorical and literary theories to explore the impact that games have on our culture. Students will analyze the impact of immersive narratives on players and explore issues of representation and identity by playing through selected games and reading core texts. No gaming experience or equipment is needed.

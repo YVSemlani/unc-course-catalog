@@ -1,0 +1,3 @@
+# ECON 327: Venture-Creation Workshop
+
+This course applies to the entrepreneurial process with hands-on activities and guidance from experienced entrepreneurs. Students work in teams to experience first-hand what it is like to create a new venture. Different sections are offered for the following types of ventures: commercial, sports management, media and entertainment, arts, and scientific. Each section instructor has entrepreneurial experience in that venture type. Other track courses for the Entrepreneurship Minor are listed at Shuford.unc.edu. Honors version available.

@@ -1,0 +1,3 @@
+# LING 560: Mesoamerican Languages and Linguistics
+
+Surveys the basic characteristics that unify Mesoamerica as a cultural and linguistic area (e.g. sound systems, word order, color systems, diffused vocabulary, etc.), the basic sources of cultural and linguistic information available (e.g. ancient hieroglyphs, colonial manuscripts, contemporary documents, linguistic fieldwork), and the consequences of ancient and modern cross-cultural interaction.

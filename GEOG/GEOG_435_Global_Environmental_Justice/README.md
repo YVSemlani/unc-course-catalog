@@ -1,0 +1,3 @@
+# GEOG 435: Global Environmental Justice
+
+This advanced course brings geographical perspectives on place, space, scale, and environmental change to the study of environmental justice. In lectures, texts, and research projects, students examine environmental concerns as they intersect with racial, economic and political differences. Topics include environmental policy processes, environmental justice movements, environmental health risks, conservation, urban environments, and the role of science in environmental politics and justice. (GHA)

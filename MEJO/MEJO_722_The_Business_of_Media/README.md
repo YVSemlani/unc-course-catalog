@@ -1,0 +1,3 @@
+# MEJO 722: The Business of Media
+
+What are the broad economic issues affecting today's media landscape? How do media leaders evaluate the strategies of their businesses and competitors? Students will explore these questions for the industry through a comparative case study approach, investigating specific business challenges confronting start-ups and established companies. They will analyze the drivers of other content providers, such as streaming services, online aggregators, and commerce sites, to gain lessons applicable across industry segments. Restricted to students in the M.A. in Digital Communication program.

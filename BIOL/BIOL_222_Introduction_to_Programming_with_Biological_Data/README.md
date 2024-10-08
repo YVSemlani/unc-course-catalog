@@ -1,0 +1,3 @@
+# BIOL 222: Introduction to Programming with Biological Data
+
+All subdisciplines of biology deal with data. As the amount of data increases, automated methods of reading, manipulating and displaying data are necessary. This course covers the basics of practical computer programming to deal with this biological data. The emphasis is on learning techniques of reading, manipulating, analyzing and visualizing biological data. For Biology majors, the course satisfies the computer programming option, but does not count as a biology elective.

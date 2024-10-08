@@ -1,0 +1,3 @@
+# ENVR 742: Theory and Practice of Evaluating Human Health Risks of Chemicals
+
+ENVR/TOXC 707 and ENVR 470 are highly recommended. This course will provide students who already have good knowledge of the basic principles of toxicology and environmental health with real-life examples of how the information is integrated for the purpose of judging what chemical exposures may pose risk to human health.

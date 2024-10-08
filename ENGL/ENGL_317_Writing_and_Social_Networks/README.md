@@ -1,0 +1,3 @@
+# ENGL 317: Writing and Social Networks
+
+This class explores writing in and about contemporary social media spaces. The course focuses on developing writing projects that study and participate in online social networks. Topics include the rhetoric of the Internet; collaboration online; information ethics; amateur content creation; networks and social interaction; networks and literacy; data and privacy; and remix composition.

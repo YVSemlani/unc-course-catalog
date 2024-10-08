@@ -1,0 +1,3 @@
+# ENVR 505: Chemical Oceanography
+
+Graduate students only; undergraduates must have permission of the instructor. Overview of chemical processes in the ocean. Topics include physical chemistry of seawater, major element cycles, hydrothermal vents, geochemical tracers, air-sea gas exchange, particle transport, sedimentary processes, and marine organic geochemistry. Three lecture and two recitation hours per week. Course previously offered as GEOL 505/MASC 505.

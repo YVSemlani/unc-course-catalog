@@ -1,0 +1,3 @@
+# HIST 489: The History of the 2008 Financial Crisis
+
+This course explores the 2008 financial crisis as a window into the longer history of global capitalism. We consider the construction of the sub-prime mortgage market, mass securitization, deregulation, and the interconnected nature of global finance, as well as the historical development of crises within financial capitalism. Honors version available.

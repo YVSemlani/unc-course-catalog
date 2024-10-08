@@ -1,0 +1,3 @@
+# ECON 525: Advanced Financial Economics
+
+Building upon the foundation developed in ECON 425, students take part in each of the five steps of the asset allocation process (explore, explain, predict, allocate, and protect) by addressing the following questions. How does the modern financial economist acquire, clean, and transform data? What drives asset returns? Can we forecast returns? How do we form a portfolio in the presence of risk? How do we assess and manage risk?

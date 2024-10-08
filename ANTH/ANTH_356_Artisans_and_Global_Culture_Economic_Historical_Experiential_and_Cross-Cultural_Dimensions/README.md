@@ -1,0 +1,3 @@
+# ANTH 356: Artisans and Global Culture: Economic, Historical, Experiential, and Cross-Cultural Dimensions
+
+An anthropological investigation of the role of skilled handiwork in the creation of contemporary culture and society. It includes field work with a local artisan. Ethnographies about artisan industries and apprenticeship in Latin America, Africa, and Southeast Asia guide our conceptual focus. Honors version available.

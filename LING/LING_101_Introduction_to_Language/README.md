@@ -1,0 +1,3 @@
+# LING 101: Introduction to Language
+
+Introduction to the formal analysis of human language, including sounds, words, sentences, and language meaning, plus child language acquisition, language change over time, social attitudes toward language, and similarities and differences among languages. Other topics may include writing systems, animal communication, and language analysis by computers. Honors version available.

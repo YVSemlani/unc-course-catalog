@@ -1,0 +1,3 @@
+# BIOL 564: Population Ecology
+
+Permission of the instructor for those lacking the prerequisites. Corequisite, BIOL 546L. Principles governing the phenomena of single and interacting populations are examined, from basic tenets to cutting-edge research questions. Population and community-level perspectives are integrated by drawing parallels between approaches and considering how to scale up from phenomena involving one or a few species to the structure and dynamics of whole communities. This course is intended for advanced undergraduate and beginning graduate students. Emphasis will be on theoretical concepts and corresponding mathematical approaches.

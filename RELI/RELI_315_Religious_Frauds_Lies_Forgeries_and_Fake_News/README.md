@@ -1,0 +1,3 @@
+# RELI 315: Religious Frauds: Lies, Forgeries, and Fake News
+
+This course explores the problem of religious fraud-and more specifically, "pious fraud"-drawing case studies from Christian history. Although Christianity espouses a high moral code, some Christians have used deception to advance their beliefs and agendas: forging documents, inventing stories, and fabricating artifacts. Others have been suspected of these same activities. Throughout the semester, students wade through the thorny moral/ethical issues presented by the practice of pious fraud and debate possible cases. Honors version available.

@@ -1,0 +1,3 @@
+# POLI 428: Sexuality, Race, and Gender: Identity and Political Representation
+
+Analyzing the impact of the descriptive representation of marginalized communities on public policy, legislation, and social change. Sexual orientation, identity, gender, ethnicity and race, and the intersectionality of these communities. We seek to understand the role that elected officials can have in driving change, affecting their colleagues and constituents.

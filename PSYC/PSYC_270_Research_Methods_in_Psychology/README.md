@@ -1,0 +1,3 @@
+# PSYC 270: Research Methods in Psychology
+
+Students in this course will be exposed to a survey of methodology (i.e., experimental, quasi-experimental, non-experimental) used across various disciplines in psychology (i.e., social, clinical, development, cognitive, and neuroscience). In addition, students will work as a class to conduct research projects on a common theme. Students will spend class time planning, conducting, and writing up the results of this project. Class time will also be used to discuss methodological considerations in psychological research more broadly.

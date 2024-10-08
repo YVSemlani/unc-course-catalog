@@ -1,0 +1,3 @@
+# MEJO 137: Principles of Advertising and Public Relations
+
+Survey of the economics, philosophy, and history of both fields with emphasis on research, foundations, design, execution, and assessment of strategic communication efforts. Provides an understanding of both disciplines, including historical developments, issues and controversies, best practices, career opportunities, and components of successful advertising and public relations campaigns.

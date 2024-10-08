@@ -1,0 +1,3 @@
+# MATH 110: Algebra
+
+Provides a one-semester review of the basics of algebra. Basic algebraic expressions, functions, exponents, and logarithms are included, with an emphasis on problem solving. This course does not satisfy any general education requirements. It is intended for students who need it as a prerequisite for other classes. A student cannot receive credit for this course after receiving credit for MATH 231 or higher.

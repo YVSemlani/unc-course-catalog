@@ -1,0 +1,3 @@
+# BIOL 428: Biology of Viruses
+
+Historically viruses are microscopic disease-causing vectors that make headlines around the world as they emerge, spread, and evolve. More recently, viruses are being used as therapeutic agents to treat disease. The course will provide a historical perspective of viruses past to present. Students will learn virus history, molecular biology of viruses and infection, discovery and treatment of emerging viruses, and the impact of viruses on society.

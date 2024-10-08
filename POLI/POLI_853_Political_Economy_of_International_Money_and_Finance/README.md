@@ -1,0 +1,3 @@
+# POLI 853: Political Economy of International Money and Finance
+
+Investigates the linkages between politics and economics in various realms of global finance, including exchange rates, sovereign debt, and foreign direct investment. Consider efforts to govern global finance, as well as the intersections between domestic politics and the international economy. Classical works and recent research in this area.

@@ -1,0 +1,3 @@
+# CHEM 758: Introduction to Chemical Crystallography
+
+The course "Introduction to Chemical Crystallography" is intended for graduate students who wish to acquire a basic understanding of crystallography, the mathematical foundations of diffraction principles, the hands-on experience in the operation of X-ray diffractometers, computer software for crystal structure determination and visualization, as well as crystallographic databases. The goal of the course is to prepare students to independently operate diffractometers and carry out X-ray structure determinations for their Ph.D. or M.S. theses.

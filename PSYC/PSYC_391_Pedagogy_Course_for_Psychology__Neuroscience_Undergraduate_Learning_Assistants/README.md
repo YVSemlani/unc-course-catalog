@@ -1,0 +1,3 @@
+# PSYC 391: Pedagogy Course for Psychology & Neuroscience Undergraduate Learning Assistants
+
+This course gives an overview of teaching methods that facilitate the acquisition of knowledge and understanding as well as entails hands-on experience in the classroom. Common misconceptions of learning as well as legal and ethical considerations related to working closely with an undergraduate population will also be covered. Departmental application and approval required.

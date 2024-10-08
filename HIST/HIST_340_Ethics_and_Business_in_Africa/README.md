@@ -1,0 +1,3 @@
+# HIST 340: Ethics and Business in Africa
+
+Explores sub-Saharan Africa both as a historical site of exploitative, extractive labor practices and initiatives to make business more ethical. Starting in the precolonial period, it considers topics such as ending the slave trades, the foundations of colonial economies, development projects postindependence, and the use of conflict minerals. Previously offered as HIST 540. Honors version available.

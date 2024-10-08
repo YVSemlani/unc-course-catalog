@@ -1,0 +1,3 @@
+# MEJO 530: Green Brand Lab
+
+Development and design of creative strategies for green products and good services. Students innovate environmentally sustainable products, services, and processes that lead to brand loyalty and positive impact. Triple bottom line: social, ecological and financial strategies, brand development, advocacy communications, research, data, and storytelling come together to make the world a better place. Course previously offered as MEJO 335.

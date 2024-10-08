@@ -1,0 +1,3 @@
+# ENGL 163: Introduction to Health Humanities
+
+This course will introduce students to the key critical concepts, debates, and questions of practice in the interdisciplinary field of health humanities. Students will draw on humanities methods to analyze topics related to human health, illness, and disability. Topics to be considered may include narrative medicine, disability studies, chronic illness, graphic medicine, health activism, mortality, and healthcare systems.

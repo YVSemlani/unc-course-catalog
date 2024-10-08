@@ -1,0 +1,3 @@
+# MEJO 725: Media Innovation in Practice
+
+What iterative design-thinking approaches work for entrepreneurship and innovation? Students will experience the start-up process that allows them to think creatively about how to develop original media products and services. Using marketing, journalism, technology, public speaking, and business, they will engage in a direct experience where they will make quick decisions in the face of uncertainty, learn from failures and feedback, and assess the viability and sustainability of digital products and services. Majors only.

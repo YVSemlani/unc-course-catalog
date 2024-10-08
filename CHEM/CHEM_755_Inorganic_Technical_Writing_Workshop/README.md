@@ -1,0 +1,3 @@
+# CHEM 755: Inorganic Technical Writing Workshop
+
+Students will participate in 11 workshop sessions co-presented by the instructor and TA covering the basics of technical writing. They are designed to help students prepare successful proposals for external graduate fellowships, but skills practiced are readily extended to the 2nd-year prospectus, 3rd-year proposal, manuscript preparation, the thesis, and beyond.

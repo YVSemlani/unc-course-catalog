@@ -1,0 +1,3 @@
+# MEJO 723: Visual Literacy and User Experience
+
+What is distinctive, usable, and understandable design? How is it central to a communicator's success? Students will explore best practices in online user experience (UX), user interface design, and website/app usability testing. They will experience a flexible and creativity-based learning environment while developing methods to design for user needs, strategies to map and optimize the user journey through visual elements, and visual literacy techniques to ensure success when managing digital design decisions. Restricted to students in the M.A. in Digital Communication program.

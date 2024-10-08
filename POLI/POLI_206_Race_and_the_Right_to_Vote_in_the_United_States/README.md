@@ -1,0 +1,3 @@
+# POLI 206: Race and the Right to Vote in the United States
+
+This course surveys scholarly literature on political psychology, electoral institutions, racial politics, and access to the ballot in the United States. In 30 hours of community service with partner organizations, students forge deeper connections between the university and the broader community. Through consistent reflections on the importance and potential downfalls of service learning, students gain a multi-faceted view of the practice and learn how to become better service learners.

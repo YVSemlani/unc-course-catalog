@@ -1,0 +1,3 @@
+# GEOG 212: Environmental Conservation and Global Change
+
+Survey of environmental change as driven by physical processes and human activity. Problem-solving methods are explored. Focus on issues such as global warming, ozone depletion, deforestation, extinction, pollution, wetland loss. This course will provide significant background in physical geography in the context of today's most pressing environmental concerns and with reference to the societal implications and management strategies. (No lab.) (Core)

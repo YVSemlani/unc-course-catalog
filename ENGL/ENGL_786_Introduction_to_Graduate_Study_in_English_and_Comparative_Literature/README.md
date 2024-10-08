@@ -1,0 +1,3 @@
+# ENGL 786: Introduction to Graduate Study in English and Comparative Literature
+
+This course introduces students to the field of literary studies in English and comparative literature. Students will survey a range of approaches, methods, and controversies that have emerged from the field. The focus on critical and institutional histories will provide a foundation for graduate work and for developing professional objectives.

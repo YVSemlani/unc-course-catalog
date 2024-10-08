@@ -1,0 +1,3 @@
+# PSYC 838: Regression Models with Categorical Dependent Variables
+
+The goal of the course is to provide a firm foundation in the regression analysis of binary, ordinal, nominal, or count dependent variables. In addition, the course provides helpful background to those using other methods with categorical outcomes (e.g., item response theory, structural equation models). Students should have a solid background in OLS regression analysis and some familiarity with matrix notation.

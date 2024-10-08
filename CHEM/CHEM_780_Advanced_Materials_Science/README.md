@@ -1,0 +1,3 @@
+# CHEM 780: Advanced Materials Science
+
+This course covers the physical fundamentals of material science with an in-depth discussion of structure formation in soft and hard materials and how structure determines material mechanical, electrical, thermal, and optical properties. Topics include amorphous and crystal structures, defects, dislocation theory, thermodynamics and phase diagrams, diffusion, interfaces and microstructures, solidification, and theory of phase transformation. Special emphasis will be on the structure-property relationships of (bio)polymers, (nano)composites, and their structure property relationships.

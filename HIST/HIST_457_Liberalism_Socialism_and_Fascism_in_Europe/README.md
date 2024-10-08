@@ -1,0 +1,3 @@
+# HIST 457: Liberalism, Socialism, and Fascism in Europe
+
+This seminar examines liberal, socialist, communist, and fascist political systems in Europe during the twentieth century by comparing and contrasting their ideologies and approaches to their citizens' welfare. The seminar compares European and US experiences, and also attends to conservative critiques of the expansion of government activity in the 1940s.

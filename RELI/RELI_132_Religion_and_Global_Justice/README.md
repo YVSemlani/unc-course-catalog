@@ -1,0 +1,3 @@
+# RELI 132: Religion and Global Justice
+
+In this course, students review the intersections of religious thought and social justice around the globe. We will review how liberation theologies emerge, for example, as pathways for addressing various social issues related to food insecurity, reproductive health, migration and citizenship, race, poverty, and religious freedom. Students will explore various debates related to ethics and social justice in relation to the study of religion in multiple geographic contexts.

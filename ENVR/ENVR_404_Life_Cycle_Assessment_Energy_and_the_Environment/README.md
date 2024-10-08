@@ -1,0 +1,3 @@
+# ENVR 404: Life Cycle Assessment: Energy and the Environment
+
+A systems approach to dealing with environmental pollution problems is highlighted and Life Cycle Assessment (LCA) is introduced as an assessment tool. Topics include basic environmental interactions; biogeochemical cycles and environmental impacts (global, regional, and local); and application of LCA to waste management and energy conversion systems; are addressed.

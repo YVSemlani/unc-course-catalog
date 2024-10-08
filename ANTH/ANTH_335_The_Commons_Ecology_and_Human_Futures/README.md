@@ -1,0 +1,3 @@
+# ANTH 335: The Commons, Ecology, and Human Futures
+
+Commons are shared resources that make human life sustainable over time, and are an alternative to private property and the state. This course explores the Commons in terms of property rights, environmental problems, and political challenges using case studies from the fisheries, waterways, forests, and pasture management. Previously offered as ANTH 440.

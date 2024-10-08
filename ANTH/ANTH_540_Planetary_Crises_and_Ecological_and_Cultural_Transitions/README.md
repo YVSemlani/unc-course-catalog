@@ -1,0 +1,3 @@
+# ANTH 540: Planetary Crises and Ecological and Cultural Transitions
+
+Analysis of the social-environmental crisis and approaches to redress it, particularly those that posit ecological and cultural transitions beyond current globalization models. Participants will construct their own scenarios for transitions to sustainable and pluralistic societies. The course will have an in-built, collective research component. Intended for upper-division undergraduates.

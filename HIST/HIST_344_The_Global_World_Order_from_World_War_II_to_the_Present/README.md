@@ -1,0 +1,3 @@
+# HIST 344: The Global World Order from World War II to the Present
+
+This course deals with the establishment and development of the rules-based global order towards the end of World War II. The course will help us to understand the driving forces, fears, and ideas that have led to the post-war global order and the emergence of new states and international organizations. We will discuss this system as well as the forces of nationalism, imperialism, just war ideas, great power theories, and many related themes.

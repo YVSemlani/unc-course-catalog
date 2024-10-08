@@ -1,0 +1,3 @@
+# POLI 439: Analyzing European Public Opinion
+
+The course introduces students to the theory and practice of studying European public opinion. The course is split into four parts. In the first part, we will discuss core concepts and important problems in the study of public opinion. In the second part, we will study tools and common data sets for the analysis of European public opinion. In the third part, we will examine several recent contributions on different aspects of European public opinion.

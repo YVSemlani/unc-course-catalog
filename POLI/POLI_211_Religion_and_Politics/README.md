@@ -1,0 +1,3 @@
+# POLI 211: Religion and Politics
+
+Religion and politics are deeply intertwined in contemporary America, as evidenced by heated and often highly partisan debates over a wide variety of political issues such as abortion and immigration. This course addresses the variety of ways in which religion and politics intersect for voters and political elites with a focus on understanding how scholars operationalize religious concepts and use data to make empirical claims about the relationship between religion and politics.

@@ -1,0 +1,3 @@
+# MEJO 851: Textual Analysis
+
+Textual analysis is a set of methods that focuses on written, visual and spoken language--what it represents and how it's used to make sense of the world. Qualitative text-based approaches are transdisciplinary and treat media texts as cultural artifacts that contain traces of socially constructed realities. These methods will be explored in reading and discussion, and students will complete original research.

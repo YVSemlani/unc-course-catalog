@@ -1,0 +1,3 @@
+# GEOG 492: Radical Black Thought
+
+The premise of this course is that the possibilities articulated by radical Black intellectuals and artists in Africa and its diaspora are key to dismantling systems of oppression. It includes theories of unfreedoms derived from experiences of oppression-colonization, slavery, mass incarceration, racial inequity. It also examines radical Black responses to unfreedoms through practices of mental (de)colonization and moral courage, epistemology and pedagogy, human-earth relationships and environmental justice.

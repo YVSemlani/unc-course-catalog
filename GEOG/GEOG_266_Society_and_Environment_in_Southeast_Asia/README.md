@@ -1,0 +1,3 @@
+# GEOG 266: Society and Environment in Southeast Asia
+
+This survey integrates sociological, biophysical, and geographical elements to examine interactions of population and environment across the ecologically-diverse and historically-rich region of Southeast Asia. Draws on multiple data sources, perspectives, and media to explore Vietnam, Indonesia, Malaysia, Thailand, Burma/Myanmar, the Philippines, and neighboring countries.

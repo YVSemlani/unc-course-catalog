@@ -1,0 +1,3 @@
+# HIST 353: Cinema, Culture, and Society
+
+After the First World War, culture in Germany became a forum for radical experimentation and a source of deep conflict. Through a consideration of art and literature, and with emphasis on mass cultural forms such as film and newspapers, this course explores the complex relationships between politics and culture and how such relationships were understood and debated in both the Weimar Republic and Nazi Germany.

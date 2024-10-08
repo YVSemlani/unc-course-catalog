@@ -1,0 +1,3 @@
+# MEJO 780: Fundamentals of Visual Journalism
+
+This bootcamp course will teach you the foundational skills and concepts you will need to succeed in the Video Journalism and Interactive Journalism master's programs. The course will be divided into two sections, one focusing on interactive journalism and the other on visual (photography and video) storytelling. Combined, you will leave this course, in five weeks, with the ability to hit the ground running when the fall semester begins. Restricted to students in the Master of Arts in Media and Communication program.

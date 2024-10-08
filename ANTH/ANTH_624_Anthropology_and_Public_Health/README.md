@@ -1,0 +1,3 @@
+# ANTH 624: Anthropology and Public Health
+
+This course compares disciplinary approaches of public health and anthropology. We begin by examining the social determinants of health paradigms and relationships between inequality, poverty, and global health. We will explore epidemiological, biocultural, and symbolic approaches to these problems. Public policy and health development will also be examined.

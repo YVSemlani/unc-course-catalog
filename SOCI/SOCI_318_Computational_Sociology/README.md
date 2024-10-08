@@ -1,0 +1,3 @@
+# SOCI 318: Computational Sociology
+
+The surge of digital technology over the past three decades has reconfigured society - increasing political polarization, generating new types of discrimination in job searches, and expanding government surveillance. This course introduces the budding field of computational sociology. We will examine the ways that new kinds of data are being collected and analyzed and the impact these changes are having in society.
