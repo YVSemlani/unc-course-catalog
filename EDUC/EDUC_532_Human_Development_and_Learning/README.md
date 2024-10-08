@@ -1,0 +1,3 @@
+# EDUC 532: Human Development and Learning
+
+This course examines the field of human development as it contributes to the teaching and learning of all children and youth. The emphasis is on understanding the nature of development in family and educational contexts and the implications of research and theory on human development for teacher practice and human services and the creation of supportive learning environments for all children and youth.

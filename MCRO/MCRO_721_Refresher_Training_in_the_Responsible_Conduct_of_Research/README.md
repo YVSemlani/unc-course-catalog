@@ -1,0 +1,3 @@
+# MCRO 721: Refresher Training in the Responsible Conduct of Research
+
+MCRO 721 is a modular course that meets the requirements of the National Institutes of Health for refresher training in the Responsible Conduct of Research. The course involves a mixture of assigned readings, formal presentations by department faculty who are active in research, and small group discussions. The course grade is based on attendance and participation.

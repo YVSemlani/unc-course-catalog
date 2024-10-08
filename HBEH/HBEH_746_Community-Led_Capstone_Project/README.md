@@ -1,0 +1,3 @@
+# HBEH 746: Community-Led Capstone Project
+
+Capstone (HBEH 746/992) is a year-long, community-led, group-based, mentored service-learning course that gives students an opportunity to apply HB MPH knowledge and skills to community-identified public health projects in partnership with local organizations. As the culminating experience of the HB MPH program, the products produced for this course serve as a substitute to The Graduate School's master's thesis requirement.

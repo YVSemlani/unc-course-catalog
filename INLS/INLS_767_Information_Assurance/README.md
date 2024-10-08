@@ -1,0 +1,3 @@
+# INLS 767: Information Assurance
+
+Information assurance is a broader concept than (computerized) information security. It deals with aspects of data integrity, privacy, paper and human security issues, and security from several perspectives: legal issues, technical tools and methods, social and ethical concerns, and organization's policies and procedures, and standards. Previously offered as INLS 566.

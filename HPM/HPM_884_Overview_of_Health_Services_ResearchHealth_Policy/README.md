@@ -1,0 +1,3 @@
+# HPM 884: Overview of Health Services Research/Health Policy
+
+Pre-doctoral standing or permission of the instructor. This course provides an overview of the field of health services research and health policy. It introduces basic components of the research process, including literature synthesis, development of a research question and hypothesis, and use of conceptual models to guide research questions.

@@ -1,0 +1,3 @@
+# NURS 671: Nursing Inquiry and Evidence-Based Practice for Advanced Scholarship
+
+Introduction to scientific inquiry, evidence-based practice, and nursing/healthcare innovations. Emphasis on: theory; ethics; problem identification; question development; design selection; data analysis and interpretation; statistical applications; and appraisal of research reports. Admission to an undergraduate BSN program and eligible to take required undergraduate nursing research course; the Hillman Scholars program; or PhD in Nursing Program required.

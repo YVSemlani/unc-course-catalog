@@ -1,0 +1,3 @@
+# SPAN 713: War, History, and Society in Iberian Narrative and Film
+
+Focuses on the narrative production of Iberian literature in Castilian, Catalan, Basque, and Galician since 1936, with their corresponding film adaptations when available. Begins with the end of the Spanish Civil War, continuing with the years of the Francoist dictatorship and the transition to democracy, and concludes with Spain today.

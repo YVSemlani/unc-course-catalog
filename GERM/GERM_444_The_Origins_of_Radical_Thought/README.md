@@ -1,0 +1,3 @@
+# GERM 444: The Origins of Radical Thought
+
+This course examines the historical conditions governing the emergence of radical thought in the nineteenth century with an emphasis on the German context. It will analyze some of the boldest thought experiments of the period--whether conservative or revolutionary, ideologically right or left--by following an intellectual itinerary from Hegel to Marx. We will then interrogate the consequences of this trajectory for contemporary theory and culture.

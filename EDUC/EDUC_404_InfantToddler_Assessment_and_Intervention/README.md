@@ -1,0 +1,3 @@
+# EDUC 404: Infant/Toddler Assessment and Intervention
+
+Restricted to majors. Permission of the instructor for nonmajors. Provides students with knowledge of program models and curricula/intervention strategies for working with infants and toddlers with and without disabilities. Information is provided regarding identification and assessment strategies for infants, toddlers, and two-year-olds. Program models for working with families are emphasized.

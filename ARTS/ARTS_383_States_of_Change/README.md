@@ -1,0 +1,3 @@
+# ARTS 383: States of Change
+
+This course will investigate the idea of a lived practice. As a class in studio arts, the course is organized around several perspectives on what it means to be rooted in social engagement. As a catalyst to our own art making and understanding of our mediums and fields, we will explore the proximity of art and social action and the utility of social engagement through service-learning projects set in the global landscape.

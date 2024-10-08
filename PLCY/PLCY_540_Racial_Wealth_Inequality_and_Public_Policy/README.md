@@ -1,0 +1,3 @@
+# PLCY 540: Racial Wealth Inequality and Public Policy
+
+This course critically examines the causes, consequences of racial wealth inequality and social policies to address these disparities. More specifically, we will examine the merits and limitation of various paradigms aimed at explaining these persistent disparities, explore how economic inequality is affected by race, systemic racism, and sociodemographic factors (education, gender, marriage) and identify evidence-based policy options and proposals for reducing wealth inequality.

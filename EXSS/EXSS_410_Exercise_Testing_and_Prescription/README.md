@@ -1,0 +1,3 @@
+# EXSS 410: Exercise Testing and Prescription
+
+This course is designed to provide theoretical and practical knowledge in basic exercise testing and prescription for both healthy and select special populations. This course includes both lectures and a lab. Priority registration is given to EXSS- Fitness Professional students and permission to enroll is obtained by completing the form linked in the registration section in Connect Carolina.

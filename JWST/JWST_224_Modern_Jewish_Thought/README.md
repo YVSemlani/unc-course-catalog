@@ -1,0 +1,3 @@
+# JWST 224: Modern Jewish Thought
+
+This course examines how contemporary thinkers have considered philosophy, ethics, and theology from a Jewish perspective. Methodological points of inquiry include: the role of interpretation in Judaism, revelation and redemption, authority and tradition, pluralism and inclusion, suffering and evil, gender and Jewish philosophy, and 20th-century approaches to God. Honors version available.

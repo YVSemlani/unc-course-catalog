@@ -1,0 +1,3 @@
+# CRMH 705: Ethical, Legal, and Professional Issues in Counseling
+
+This course will assist students' development of foundational knowledge of ethical, legal, and professional issues within the counseling profession, with a specific emphasis on clinical mental health counseling and clinical rehabilitation counseling practice. Students will learn to recognize ethical dilemmas and practice resolving them using ethical decision making models.

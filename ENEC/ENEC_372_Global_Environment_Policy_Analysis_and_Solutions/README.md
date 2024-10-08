@@ -1,0 +1,3 @@
+# ENEC 372: Global Environment: Policy Analysis and Solutions
+
+Explores linkages among nations, global environmental institutions, and the environmental problems they cause and seek to rectify. Introduces pressing challenges of the global environment such as China and India's energy and climate policies, the environmental impacts of coal, nuclear energy, shale gas and fracking, and marine pollution. Discusses perspectives of nations, the role of financial markets and NGOs, and the international community involved in crafting policy solutions.

@@ -1,0 +1,3 @@
+# EDUC 546: Experiential Education in International Contexts
+
+In this course, pre-service teachers and other students interested in education will explore international educational contexts (Hamburg, Germany or Quito, Ecuador/Galapagos Islands) through the lens of experiential education. In this study abroad experience, students will participate in formal and informal educational settings using Kolb's (1984) experiential learning cycle: experience, reflection, abstraction, application. This course is intended for anyone contemplating a career in education or any helping profession.

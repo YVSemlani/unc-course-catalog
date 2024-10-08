@@ -1,0 +1,3 @@
+# PHRS 702: Preclinical Development
+
+This foundational pharmaceutical science course will cover preclinical aspects of pharmaceutical product development and how they contribute to the regulatory approval process. Students will learn about the processes of drug discovery, lead optimization, and compound formulation, as well as in vitro and in vivo approaches to assess drug metabolism and pharmacokinetics, pharmacology, and toxicology. This graduate-level didactic course will be taught asynchronously but will include regular touch points with course instructors and other students.

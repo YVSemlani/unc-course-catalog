@@ -1,0 +1,3 @@
+# PUBH 749: LEADERSHIP & PROFESSIONAL DEVELOPMENT FOR CLINICIANS
+
+Designed for students in the Population Health for Clinicians concentration in the MPH program who are preparing to work on their practicum and master's paper. This course focuses on developing Leadership skills at the intersection of healthcare and public health, and preparing students to engage in public health practice. Taken in Fall and Spring semesters.

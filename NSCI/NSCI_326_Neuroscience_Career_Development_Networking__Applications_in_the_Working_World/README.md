@@ -1,0 +1,3 @@
+# NSCI 326: Neuroscience Career Development, Networking & Applications in the Working World
+
+This course provides students interested in the neuroscience field an opportunity to gain valuable networking, job application and interviewing skills. Over the course of the semester students will meet with neuroscience professionals and create application packages. Students will learn from individuals in neuroscience related jobs about the diverse careers options available and strategies for navigating the job market successfully. Students will explore advances in neuroscience research and how they relate to industry, research, etc. Majors only.

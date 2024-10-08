@@ -1,0 +1,3 @@
+# ARTH 446: The Invention of the Modern Artist
+
+This class examines the invention of the idea of the artist in the Western world, starting in Early Modernity and ending with the present. We consider the evolution of the artist's social status, the representation of the artist in a variety of media, shifting expectations for artistic training and community, the relationship between the artist and the art market, and different definitions of artistic genius or excellence in art marking.

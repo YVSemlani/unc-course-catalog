@@ -1,0 +1,3 @@
+# FREN 387: Paris/Versailles: The Court and the City in the 17th Century
+
+During Louis XIV's reign, the French monarchy reinforced its majesty through the power of art. Magnificent buildings, stunning spectacles, and laudatory literature enhanced the reputation of the king. At the same time, art and literature served as tools of resistance, as writers and artists produced overt critiques or subtle satires of the regime. We will study Louis XIV's France as a case study to understand the ambivalent social and political force of art.

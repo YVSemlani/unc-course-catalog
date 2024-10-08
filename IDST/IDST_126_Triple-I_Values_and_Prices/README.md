@@ -1,0 +1,3 @@
+# IDST 126: Triple-I: Values and Prices
+
+Oscar Wilde wisely warns against being someone "who knows the price of everything and the value of nothing" (Lady Windemere's Fan). Of course, people often use the price as shorthand for value. Useful as this is, it is misleading, too, in ways that matter to critical thinking and rational decision making. In this course, we will be exploring the differences - and connections - between prices and values.

@@ -1,0 +1,3 @@
+# COMM 475: Fostering Civil Discourse: Reasoning Together for Common Good
+
+People are finding it increasingly difficult to reason with anyone outside their political affiliations. Must that be the case? This course is founded on the belief that democratic participation begins with earnest conversation and, given the right tools, we can do democracy better. The course is committed to the promise of shared reasoning and aims to foster student capacities for robust deliberative practices, rooted in the rhetorical tradition and tackling the most challenging public issues.

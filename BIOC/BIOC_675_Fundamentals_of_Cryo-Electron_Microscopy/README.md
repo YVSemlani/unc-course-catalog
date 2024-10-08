@@ -1,0 +1,3 @@
+# BIOC 675: Fundamentals of Cryo-Electron Microscopy
+
+This course will provide a survey of biological applications of cryo-EM, with a particular emphasis on single particle techniques used to determine high-resolution structures of macromolecules. Students will have a basic understanding of cryo-EM theory, the methodology for creating samples and collecting data, and strategies for reconstructing 3D models of macromolecules. Course previously offered as BIOC 708.

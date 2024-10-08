@@ -1,0 +1,3 @@
+# BIOC 108: Introduction to Biochemistry
+
+Designed for premed, prenursing, predental hygiene, allied health, and all students who desire a background in biochemistry as it relates to the human body. One year of high school chemistry required. Continuation of BIOC 107; covers basic and clinically relevant aspects of biochemistry. Online lecture (asynchronous) with an optional in person meeting once per week. One online lab session per week.

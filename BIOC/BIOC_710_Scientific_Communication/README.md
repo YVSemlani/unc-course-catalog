@@ -1,0 +1,3 @@
+# BIOC 710: Scientific Communication
+
+Scientific communication is designed to help graduate students improve their scientific communication skills through practice and feedback from instructors and peers. The course will cover both written and oral communication. Both topics are covered in recognition of the commonalities in clarity, organization, and delivery shared by successful scientific communication. Course instructors will provide direction on effective organization and delivery of research products, specifically presentations and grant proposals.

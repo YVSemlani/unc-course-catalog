@@ -1,0 +1,3 @@
+# PUBH 746: Planning, Implementing, and Evaluating Public Health Interventions
+
+This course provides you with the knowledge and skills needed to plan, implement, and evaluate public health interventions. You will refine and enhance your understanding of specific public health problems; identify and prioritize potential solutions; consider community assets, needs, culture and context; adapt evidence-based interventions for a particular context; and develop proposed solutions with an eye on equity. Final deliverables: written project plan and oral pitch in support of your solution. PHC Concentration Students only.

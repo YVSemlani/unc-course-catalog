@@ -1,0 +1,3 @@
+# EDUC 149: Experiential Education and Civic Identity
+
+The course will introduce students to the history and contemporary scholarship of experiential education. It will explore high impact practices in higher education and the role that experiences such as Outward Bound expeditionary education courses can play in an undergraduate student's development and success in college and on the development of civic identity. 28-day Outward Bound course or similar expeditionary education experiences per instructor discretion.

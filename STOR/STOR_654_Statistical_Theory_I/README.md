@@ -1,0 +1,3 @@
+# STOR 654: Statistical Theory I
+
+Required preparation, two semesters of advanced calculus. Probability spaces. Random variables, distributions, expectation. Conditioning. Generating functions. Limit theorems: LLN, CLT, Slutsky, delta-method, big-O in probability. Inequalities. Distribution theory: normal, chi-squared, beta, gamma, Cauchy, other multivariate distributions. Distribution theory for linear models.

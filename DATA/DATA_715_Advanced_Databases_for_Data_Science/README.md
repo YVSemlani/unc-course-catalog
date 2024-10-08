@@ -1,0 +1,3 @@
+# DATA 715: Advanced Databases for Data Science
+
+This course will explore intermediate-level design and implementation of database systems, emphasizing scalable, distributed systems. It will deepen students' knowledge of advanced relational database management and discuss current and emerging practices for dealing with big data and large-scale database systems. Concepts include design and implementation of relational databases, exploration of distributed data structures including graph, document, and key-value storage models and scalable and resilient query processing.

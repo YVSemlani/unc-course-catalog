@@ -1,0 +1,3 @@
+# EDUC 575: Nurturing Latinx Identity Formation
+
+Through engagement, students will critically reflect on challenges and opportunities within schools and communities to transform these spaces positively. The course's central focus is learning how to re-imagine and redesign inclusive learning environments that uplift and advocate for positive racial/ethnic identity development of Southern Latinx youth. This course will utilize theories and frameworks to help students contextualize the experiences of Latinx communities in education while acquiring high impact practices to serve Latinx youth effectively.

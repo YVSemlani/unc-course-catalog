@@ -1,0 +1,3 @@
+# COMM 815: Technology, Culture, & Power
+
+This graduate seminar will serve as an advanced introduction to critical studies of modern technological systems. Drawing upon the fields of communication studies, science and technology studies, cultural studies, geography, anthropology, sociology, and gender studies, seminar participants will investigate the role of technologies in shaping social worlds and producing political orders. Attention will be given to the social construction of technological systems, the politics of mediation and resistance, and the encodings of power relations.

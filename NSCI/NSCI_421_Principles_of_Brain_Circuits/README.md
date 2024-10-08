@@ -1,0 +1,3 @@
+# NSCI 421: Principles of Brain Circuits
+
+This course is designed for upper-level undergraduates who are interested in how brain circuits control behavior. A major focus will be the new technique of optogenetics that is revolutionizing our approach to systems neuroscience. Circuits that control movement, sensation, sleep, memory, and fear will be explored in detail. Points of emphasis will be circuits mediating pain as related to actions of opiates and circuits mediating feeding behavior as related to obesity.

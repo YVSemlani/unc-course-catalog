@@ -1,0 +1,3 @@
+# ASIA 781: The Body and Body Politics in the Arab World
+
+What is political about the body? This seminar introduces students to social scientific and humanistic approaches to the body. Instead of taking the body as simply a biological entity, it places it within a wider network of meanings, practices, institutions, histories, and forms of power. The course explores the operations of different regimes of power on and in the body and, conversely, shows how the body can become a locus of resistance and creativity.

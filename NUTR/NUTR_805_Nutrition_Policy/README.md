@@ -1,0 +1,3 @@
+# NUTR 805: Nutrition Policy
+
+This course focuses on nutrition policy on a federal, state, and local level. Topics covered include policy formation, interest/consumer advocacy groups, key legislation, how research informs policy, equity and diversity, global food policy issues, sustainability and health, advocacy, and current public health nutrition policy examples. Permission of the instructor for undergraduates.

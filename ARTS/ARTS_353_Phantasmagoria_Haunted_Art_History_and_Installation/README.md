@@ -1,0 +1,3 @@
+# ARTS 353: Phantasmagoria: Haunted Art, History, and Installation
+
+This course will be organized around four art making/art building projects, culminating in a class presentation of a multimedia phantasmagoria. Students will research early light/shadow, pre-cinema techniques, hauntings/horror and artists whose work is influenced by these tropes. We will work with Maker's Spaces to produce components for this course. Previously offered as ARTS 253.

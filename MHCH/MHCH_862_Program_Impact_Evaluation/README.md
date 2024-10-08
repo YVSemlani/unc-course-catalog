@@ -1,0 +1,3 @@
+# MHCH 862: Program Impact Evaluation
+
+Required preparation, knowledge of Stata or SAS; proficiency in inferential statistics and multiple regression analysis. Instructor permission required for non-second year MCH doctoral students. Program impact evaluation analytic skills seminar. Topics: selectivity, research designs, instrumental variables, difference-in-differences, fixed and random effects, regression discontinuity, matching, and selection models.

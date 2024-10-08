@@ -1,0 +1,3 @@
+# APPL 465: Engineering of Soft Materials: SpongeBob Squarepants and Other Squishy Things
+
+What kind of material is Sponge Bob? What about his pet snail, Gary? We are taught that there are solids, liquids, and gases. However, some materials challenge this description, such as foams, plastics, pastes, skin, hair, and nails. These are soft materials, and they are everywhere: sunscreen, insulation, and car tires. In this course, we will learn about soft materials' properties, how they are processed in industry, and how to design novel soft materials.

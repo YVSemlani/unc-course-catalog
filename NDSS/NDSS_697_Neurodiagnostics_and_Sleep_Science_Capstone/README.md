@@ -1,0 +1,3 @@
+# NDSS 697: Neurodiagnostics and Sleep Science Capstone
+
+Students complete a research project and presentation culminating from the undergraduate course of study. Project topics provide students the opportunity to summarize, evaluate, and integrate knowledge gained throughout the undergraduate major. Teaching methods include direct student exposure and significant time spent in a healthcare/clinical/educational environment specific to practice interests. The capstone project is in the form of research, or other scholarly activity that articulates the design, organization, statistics and data analysis used. Majors only.

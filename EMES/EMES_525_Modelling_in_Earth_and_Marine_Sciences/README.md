@@ -1,0 +1,3 @@
+# EMES 525: Modelling in Earth and Marine Sciences
+
+The course deals with earth science problems related to extracting model parameters from data and field observations. Details of mathematical concepts, real world examples, and practical applications associated with noisy or incomplete data are covered. Key concepts include multivariate regression, model discretization, Tikhonov regularization, and Bayesian methods. Course previously offered as GEOL 525.

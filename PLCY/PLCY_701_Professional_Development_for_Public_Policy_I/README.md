@@ -1,0 +1,3 @@
+# PLCY 701: Professional Development for Public Policy I
+
+This course will use a combination of readings, experiential learning, guest speakers and lectures to assist students in preparing for job searches and employment. We will address working in professional settings, networking, and effective communication. Students will reflect on their internships and use those experiences to clarify their career trajectories and policy field interests. In addition, students will generate professional resumes and cover letters.

@@ -1,0 +1,3 @@
+# INLS 512: Applications of Natural Language Processing
+
+Natural language processing (NLP) uses mathematics, machine learning, linguistics, and computer science to make language computationally accessible and analyzable. In this course, you will learn to do essential NLP tasks using Python and survey a selection of NLP applications to describe the problems or tasks each addresses, the materials and methods used, and how the applications are evaluated. At least a semester of Python or equivalent practical experience is highly recommended.

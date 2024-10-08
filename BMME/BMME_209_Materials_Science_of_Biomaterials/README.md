@@ -1,0 +1,3 @@
+# BMME 209: Materials Science of Biomaterials
+
+Focus on the materials science and processing of electronic, metallic, polymeric, ceramic, and composite materials. The electronic, optical, magnetic, and structural properties of materials are related to their applications. Lab component focused on integrating biological engineering and materials engineering principles by exploring key topics in materials science. Topics include biomaterial fabrication, evaluation of their physical properties and interpretation of results. Majors only.

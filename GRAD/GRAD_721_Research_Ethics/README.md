@@ -1,0 +1,3 @@
+# GRAD 721: Research Ethics
+
+This class introduces current and future researchers to the rewards of and obstacles to research: the causes and consequences of misconduct; the rights and obligations of professionals; the habits of excellent mentors. The course will give an overview of traditional ethical theories, such as utilitarian and Kantian theories, and challenge students to apply those theories to their own research and practice. NOTE: This course will not satisfy the NIH Responsible Conduct of Research (RCR) requirement.

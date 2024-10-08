@@ -1,0 +1,3 @@
+# EDUC 510: Latinx Experience in Education
+
+Course examines the social-historical, cultural, and political contexts that shape the educational experience of Mexican Americans/Chicanxs and the broader Latinx community. Using critical race theory, paying attention to issues of cultural identity and agency as we move across various geopolitical dimensions of contestation, resistance, and immigration, including the southwestern U.S. and new Latinx diaspora spaces - namely the US South. Including critically exploring PreK-12 schools, higher education, and social initiatives to address inequities in education.

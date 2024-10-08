@@ -1,0 +1,3 @@
+# MTSC 711: Materials Science First Year Seminar: Developing your plan for success
+
+Students gain knowledge and learn key skill-sets outside of their technical course work needed for success in their PhD program and beyond. MTSC 711 follows on the topics learned in MTSC 710 to broaden the professional development of materials science PhD students. Students work to develop an Individual Development Plan, to understand the variety of career paths available for PhD-holders, and to practice research presentations.

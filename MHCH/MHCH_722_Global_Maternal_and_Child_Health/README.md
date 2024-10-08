@@ -1,0 +1,3 @@
+# MHCH 722: Global Maternal and Child Health
+
+This course covers the main causes of maternal and under-five morbidity and mortality in low- and middle-income countries and also the interventions, policies, and research which address these causes. Emphasis is placed on social, biological and environmental determinants, measurement and conceptual frameworks. Lectures, class discussions and in-class activities are used to delve into the material. Emphasis is placed on both country-driven and global initiatives to improve maternal and child health outcomes.

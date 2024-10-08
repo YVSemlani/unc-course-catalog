@@ -1,0 +1,3 @@
+# PATH 766: Current Topics in Cardiovascular Biology
+
+Permission of the instructor. Second-year graduate students only. This manuscript-based course will emphasize recent advances in heart and blood vessel development, the molecular mechanisms that regulate cardiovascular cell function, and current methodologies in the cardiovascular field. It will be team taught by members of UNC's McAllister Heart Institute.

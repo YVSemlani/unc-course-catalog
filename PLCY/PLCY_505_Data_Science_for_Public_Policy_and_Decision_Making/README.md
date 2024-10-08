@@ -1,0 +1,3 @@
+# PLCY 505: Data Science for Public Policy and Decision Making
+
+To introduce advanced undergraduates and graduate students to the three basic purposes of data science: to describe the social world, to make predictions for policy planning, and to establish causal relationships. The focus of the course will be on examples and applications rather than statistical and mathematical foundations, but will require hands-on computer programming and data analysis.

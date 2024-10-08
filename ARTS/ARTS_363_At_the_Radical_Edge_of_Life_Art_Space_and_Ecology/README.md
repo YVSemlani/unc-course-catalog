@@ -1,0 +1,3 @@
+# ARTS 363: At the Radical Edge of Life: Art, Space, and Ecology
+
+Art at the Edge of Life: Art, Space, and Ecology is a course organized around 2-3 art making/art building projects, culminating in a class presentation of a final public art installation. Part seminar and part studio, students will research early ecology, sustainability, green movements and artists whose work is influenced by these tropes. We will work with BeAM and with experts in the field to find solutions for the issues that we face today.

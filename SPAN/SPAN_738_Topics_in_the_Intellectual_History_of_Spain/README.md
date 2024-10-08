@@ -1,0 +1,3 @@
+# SPAN 738: Topics in the Intellectual History of Spain
+
+Historical concepts such as power, ideology, class, culture, identity, attitude, race, perception, and methods as they developed among elite and nonelite groups of the 16th and 17th century Spanish society. Focuses on evolution of ideas, sciences, arts, techniques, and cultural expression of social movements - nationalism, colonialism, racism - and historical reflection.

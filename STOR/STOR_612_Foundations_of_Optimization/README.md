@@ -1,0 +1,3 @@
+# STOR 612: Foundations of Optimization
+
+STOR 612 consists of three major parts: linear programming, quadratic programming, and unconstrained optimization. Topics: Modeling, theory and algorithms for linear programming; modeling, theory and algorithms for quadratic programming; convex sets and functions; first-order and second-order methods such as stochastic gradient methods, accelerated gradient methods and quasi-Newton methods for unconstrained optimization.

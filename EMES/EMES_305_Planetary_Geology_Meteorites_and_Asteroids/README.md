@@ -1,0 +1,3 @@
+# EMES 305: Planetary Geology: Meteorites and Asteroids
+
+Required preparation, one introductory geology course numbered below EMES 202, except first-year seminar. Effects and probable effects of meteorite and asteroid impacts on earth and other planets: craters, new meteorites, and tektites; giant sea waves; reduction of species and extinction of organisms. Course previously offered as GEOL 204/GEOL 305.

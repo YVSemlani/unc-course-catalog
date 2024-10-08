@@ -1,0 +1,3 @@
+# AMST 353: Southeast Asian North Carolina
+
+Drawing from Asian American Studies and Asian Studies, the course explores the political histories and lived experiences of Southeast Asians and Southeast Asian Americans in North Carolina. Students will consider issues relevant to NC Southeast Asian communities such as food justice, labor organizing, mental health support, anti-racism work, transnational connections, etc. Course materials will include both written academic works and first-person narrative accounts from local community members.

@@ -1,0 +1,3 @@
+# EXSS 409: Exercise Prescription for Special Populations
+
+Exercise benefits everybody. This course will teach evidence-based information for developing, modifying and implementing fitness programs for individuals with chronic disease, metabolic, cardiac, pulmonary, and other issues deemed as special populations. The knowledge and skills attained in this course will enhance any basic personal training certification and give a better understanding of working with what could be considered the general public.

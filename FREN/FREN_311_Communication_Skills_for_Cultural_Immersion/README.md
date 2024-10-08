@@ -1,0 +1,3 @@
+# FREN 311: Communication Skills for Cultural Immersion
+
+Students will expand their active vocabulary, refine their mastery of grammar and hone communication skills to facilitate their cultural immersion during study abroad in Montpellier. Topics of current interest will allow students to explore French and regional culture while perfecting their written and oral expression and comprehension. Open only to students in France.

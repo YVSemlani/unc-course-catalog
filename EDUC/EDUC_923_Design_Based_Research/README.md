@@ -1,0 +1,3 @@
+# EDUC 923: Design Based Research
+
+DBR is a multi-disciplinary and mixed methods approach. When developing interventions DBR designers draw theoretical insights from various disciplines (e.g. cognitive science, sociology, learning sciences, instructional design, etc.). When researching interventions, DBR researchers draw from numerous modes of inquiry. Thus, this course is not a substitute for further work in quantitative or qualitative courses. Students in this course should have some grounding in quantitative and qualitative methods and we draw upon this knowledge.

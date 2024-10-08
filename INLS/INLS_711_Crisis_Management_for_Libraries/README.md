@@ -1,0 +1,3 @@
+# INLS 711: Crisis Management for Libraries
+
+Crises come in many forms, from natural disasters to individual health emergencies. Preparedness, prevention, and planning are all critical components in handling these situations effectively. In this course, students will learn about risk assessment, training and other tools, disaster prevention, recovery, partnerships, and outreach as they apply to all types of libraries.

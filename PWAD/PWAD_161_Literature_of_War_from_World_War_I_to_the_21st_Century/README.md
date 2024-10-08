@@ -1,0 +1,3 @@
+# PWAD 161: Literature of War from World War I to the 21st Century
+
+This is a class about literature and war and what each might teach us about the other. We will consider a range of texts and center our work around this question: what, if anything, can a work of art help us see or understand about war that might not be shown by other means? Students may not receive credit for both ENGL 73 and ENGL 161.

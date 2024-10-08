@@ -1,0 +1,3 @@
+# EDMX 716: Assessment and Differentiation
+
+Enrollment in the M.Ed. for experienced teachers program required. Enhances teachers' understanding of how to differentiate instruction. Using a case-based approach, teachers examine the areas of human development, special education and inclusion, cultural diversity, linguistic diversity, cognitive styles, and multiple intelligences as frames through which to consider creative environments to promote students' classroom success.

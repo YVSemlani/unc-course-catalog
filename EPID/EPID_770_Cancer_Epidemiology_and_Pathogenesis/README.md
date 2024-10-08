@@ -1,0 +1,3 @@
+# EPID 770: Cancer Epidemiology and Pathogenesis
+
+Equivalent experience for students lacking EPID 710. Undergraduate major or strong preparation in the biological sciences required. Permission of the instructor for nonmajors. Emphasis on integration of epidemiologic data with laboratory and clinical research findings. Issues in epidemiologic research design, analysis, and interpretation are presented within the context of substantive epidemiology. Three lecture hours a week.

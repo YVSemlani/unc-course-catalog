@@ -1,0 +1,3 @@
+# EDUC 905: Leading Organizations to Equitable Practice
+
+This course will provide the foundational knowledge for creating, sustaining, and leading an inclusive culture within organizations. You will learn to incorporate multiple stakeholders' voices within and outside the organization through an equity-minded leadership lens. We will place a strong emphasis on collaboration and coalition building within organizations to create an effective organizational culture in which all stakeholders can thrive. For students enrolled in the online Ed.D. in Organizational Learning and Leadership program cohort

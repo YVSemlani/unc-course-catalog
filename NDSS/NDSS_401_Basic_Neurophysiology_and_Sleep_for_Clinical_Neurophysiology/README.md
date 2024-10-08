@@ -1,0 +1,3 @@
+# NDSS 401: Basic Neurophysiology and Sleep for Clinical Neurophysiology
+
+This course provides a concentrated study of anatomy and physiology essential to the practice of neurodiagnostics and polysomnography. Emphasis is placed on the physiology of the nervous, cardiovascular, and pulmonary systems and basic pharmacological principles. Upon completion, students should be able to demonstrate competence in concepts through written evaluation.

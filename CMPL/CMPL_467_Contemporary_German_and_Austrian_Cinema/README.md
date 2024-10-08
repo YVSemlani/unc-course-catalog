@@ -1,0 +1,3 @@
+# CMPL 467: Contemporary German and Austrian Cinema
+
+Examines exciting new directions in German and Austrian cinema from the past 20 years. By analyzing weekly films, students develop skills in film analysis and criticism; read reviews, interviews, and film-theoretical texts; write a film review; and produce a critical essay. Films with English subtitles; readings and discussions in English. Students may not receive credit for both GERM 367 and 467. Previously offered as CMPL 267/GERM 267.

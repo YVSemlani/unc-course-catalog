@@ -1,0 +1,3 @@
+# BIOS 785: Statistical Methods for Gene Expression Analysis
+
+Clustering algorithms, classification techniques, statistical techniques for analyzing multivariate data, analysis of high dimensional data, parametric and semiparametric models for DNA microarray data, measurement error models, Bayesian methods, statistical software, sample size determination in microarray studies, applications to cancer.

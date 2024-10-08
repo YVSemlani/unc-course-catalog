@@ -1,0 +1,3 @@
+# IDST 124: Triple-I: Pandemics: Ethics, Literatures, and Cultures
+
+The COVID-19 pandemic transformed life dramatically for millions of people. Yet its realities - social distancing, quarantine, protective masks, job loss, education disruption, anxiety, loneliness and death, have been part of life during pandemics and epidemics across time and global space. This course brings three specific lenses and sets of methods to bear on experiences of pandemics - those of literature, anthropology, and philosophy. Themes of care, resource inequalities, stigma, and knowledge production are highlighted.

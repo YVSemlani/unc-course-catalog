@@ -1,0 +1,3 @@
+# WGST 503: Gender, Culture, and Development
+
+Classic writings and debates relating to gender and development, with emphasis on recent work that critiques conventional development models. The scope is global, with special attention to Latin America and to such questions as how alternative approaches to gender, culture, and development may be more inclusive of diverse peoples and grassroots movements for change.

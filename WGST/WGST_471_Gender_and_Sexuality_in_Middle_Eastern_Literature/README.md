@@ -1,0 +1,3 @@
+# WGST 471: Gender and Sexuality in Middle Eastern Literature
+
+We examine gender and sexuality in literature written by various authors from the Middle East. Our discussions will focus on the significance of sexuality, harems, same-sex desire and homosexuality, construction of female sexuality, masculinity, contraception and abortion, the institution of marriage, gay/lesbian underground subcultures, and social media as sexual outlet.

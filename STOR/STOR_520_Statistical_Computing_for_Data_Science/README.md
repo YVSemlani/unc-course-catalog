@@ -1,0 +1,3 @@
+# STOR 520: Statistical Computing for Data Science
+
+This course provides hands-on experience working with data sets provided in class and downloaded from certain public websites. Lectures cover basic topics such as R programming, visualization, data wrangling and cleaning, exploratory data analysis, web scraping, data merging, predictive modeling, and elements of machine learning. Programming analyses in more advanced areas of data science. Students may not receive credit for both STOR 320 and STOR 520.

@@ -1,0 +1,3 @@
+# EDUC 765: Global Child: Development and Education
+
+Course examines contemporary issues, policies, and practices related to children's development and education in a global context. Universal documents and declarations like the U.N. Convention on the Rights of the Child, Education for All, and the Millennium Goals will serve as frameworks for review of the status of children's education and well-being globally.

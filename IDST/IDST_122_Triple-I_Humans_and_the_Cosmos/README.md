@@ -1,0 +1,3 @@
+# IDST 122: Triple-I: Humans and the Cosmos
+
+This course is an interdisciplinary introduction to some of the most essential and exciting debates about humanity's relationship to the universe. We explore such topics as the beginning of existence, the nature of time, contact with the supernatural world, and predictions about the end of all things - from the perspective of philosophy, physics, history, and related disciplines.

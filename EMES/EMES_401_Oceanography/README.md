@@ -1,0 +1,3 @@
+# EMES 401: Oceanography
+
+Required preparation, major in a natural science or two courses in natural sciences. Studies origin of ocean basins, seawater chemistry and dynamics, biological communities, sedimentary record, and oceanographic history. Term paper. Students lacking science background should see EMES 103. Students may not receive credit for both EMES 103 and EMES 401. Course previously offered as GEOL 403/MASC 401.

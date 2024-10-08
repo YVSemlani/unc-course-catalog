@@ -1,0 +1,3 @@
+# WGST 313: Women and the Law in Africa and the Middle East
+
+Explores women's and men's engagement with colonial and post-colonial legal systems with a focus on the 19th through 21st centuries. Topics include customary law, Islamic law, women's rights as human rights, disputation and conflict resolution. We will ask the question: "how does gender influence how women and men navigate legal systems?" Course previously offered as WMST 289.

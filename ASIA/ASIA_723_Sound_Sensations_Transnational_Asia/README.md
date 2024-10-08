@@ -1,0 +1,3 @@
+# ASIA 723: Sound, Sensations, Transnational Asia
+
+This course explores sound practices and sensations arising around lives in transnational Asia. Transnational, meaning anything that challenges the notion of rigid boundary of the nation-state and citizenship. Indigeneity, immigration, colonialism, exile, and diaspora are all part of the sonic discourses of this course. The sounds and listening practices found in a wide range of Asia in general (East, South Southeast, West Asia, and Asian America/West) are covered in this course.

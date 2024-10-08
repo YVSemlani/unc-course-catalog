@@ -1,0 +1,12 @@
+CBMC 804A. Biochemical Foundations of Chemical Biology. 3 Credits.
+This course is designed to emphasize the elements of biochemistry, bioorganic chemistry, and molecular biology required for the design and synthesis of biologically-active compounds.
+
+CBMC 804B. Biochemical Foundations of Chemical Biology Journal Club. 1 Credits.
+This is a seminar based course that will run in concert with 804A. Students will present journal articles and interact with seminar speakers.
+
+CBMC 805. Molecular Modeling. 3 Credits.
+Introduction to computer-assisted molecular design, techniques, and theory with an emphasis on the practical use of molecular mechanics and quantum mechanics programs.
+
+CBMC 807. Foundations of Chemical Biology I: Organic and Medicinal Chemistry. 3 Credits.
+The elements of organic chemistry required for the design and synthesis of chemical probes and biologically active compounds.
+

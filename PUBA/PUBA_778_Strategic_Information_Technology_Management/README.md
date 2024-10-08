@@ -1,0 +1,3 @@
+# PUBA 778: Strategic Information Technology Management
+
+This course provides public managers with the basic knowledge to successfully manage technology projects and government information. The use of information technology has become an indispensable part of the public sector. Governments now use technology to communicate with citizens, disseminate information, and engage in digital democracy. This course is for on campus MPA students. Students cannot take PUBA 777 in addition to this course.

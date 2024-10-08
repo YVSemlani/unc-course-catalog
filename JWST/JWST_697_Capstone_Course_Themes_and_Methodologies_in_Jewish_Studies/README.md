@@ -1,0 +1,3 @@
+# JWST 697: Capstone Course: Themes and Methodologies in Jewish Studies
+
+Required of majors and minors in religious studies with a concentration in Jewish studies; interested non-majors and graduate students may also enroll. Concentrating on a different theme each year, and taught by instructors affiliated with the Carolina Center for Jewish Studies, the course offers intensive grounding in key areas of and approaches to Jewish studies. Combines exploration of broad topics with scholarly rigor and specificity.

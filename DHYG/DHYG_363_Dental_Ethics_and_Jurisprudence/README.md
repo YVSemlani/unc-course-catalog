@@ -1,0 +1,3 @@
+# DHYG 363: Dental Ethics and Jurisprudence
+
+This course is designed to present ethical problems in dentistry and to suggest approaches to their resolution. Emphasis will be placed on ethical theory, moral reasoning and behavior, ethical decision making, ethical issues in third party financing and discussing harassment. Case studies will be utilized to discuss various approaches to ethical decision making.

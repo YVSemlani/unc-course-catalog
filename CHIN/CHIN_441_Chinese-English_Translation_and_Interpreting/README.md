@@ -1,0 +1,3 @@
+# CHIN 441: Chinese-English Translation and Interpreting
+
+Instruction and practice in Chinese-to-English translation (written) and interpreting (oral), designed for second-language learners of Chinese. Students work with materials covering many fields. Students in track A can take this course either concurrently with or after CHIN 407, but students in track B can take this course only after completing CHIN 313.

@@ -1,0 +1,3 @@
+# EDUC 211: Career Planning and Job Searching
+
+This course is designed for juniors and seniors who are preparing to embark on their post-Carolina job search. Students will learn how to develop the necessary tools and skills required to execute an effective job search, while understanding and applying theoretical concepts related to strengths, adaptability, and resilience in career development. Course previously offered as EDUC 132. No first year students.

@@ -1,0 +1,3 @@
+# JWST 485: From Fiddler on the Roof to the Holocaust: East European and Soviet Jewish History
+
+Eastern Europe was one of the largest centers of Jewish civilization from premodern times to the Second World War, giving rise to important religious, cultural, and political developments in Jewish modernity. This course examines main developments of Jewish society from the late 18th century until the aftermath of the Holocaust.

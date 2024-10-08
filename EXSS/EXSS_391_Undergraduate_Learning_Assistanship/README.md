@@ -1,0 +1,3 @@
+# EXSS 391: Undergraduate Learning Assistanship
+
+This course is designed for undergraduate students to provide course support to their peers. This course provides opportunities for students to prepare, demonstrate, and consult with their peers via in- and out-of-class activities. Students will gain an enhanced understanding of Exercise and Sport Science content with a lens towards explaining to less experienced students, gaining pedagogical knowledge and experience, and engaging in comprehensive, concise, and clear oral and written communication. EXSS Majors only; Successful completion, with a grade of C or higher, of the course you are assisting

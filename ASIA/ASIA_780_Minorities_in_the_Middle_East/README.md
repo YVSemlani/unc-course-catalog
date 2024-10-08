@@ -1,0 +1,3 @@
+# ASIA 780: Minorities in the Middle East
+
+This course enriches students' understanding of the diversity of Middle Eastern countries, exploring histories of intercommunal contact and conflict. We will investigate contemporary representations and lived realities of religious, ethnic, and sexual minorities of the Middle East from diverse political, cultural, historical and aesthetic perspectives. Although the majority of people living in the Middle East converted to Islam after the Arab conquests, there remained important minorities including indigenous Christians, Jews, and in Iran some Zoroastrians.

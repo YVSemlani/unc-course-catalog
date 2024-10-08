@@ -1,0 +1,3 @@
+# ITAL 751: Studies in Renaissance Literature and the Sixteenth Century
+
+A topics course with core readings from among the genres popular in sixteenth-century Europe: lyric, romance, dialogue, pastoral, treatise. Cultural studies topics may include the rise of print culture; the 'Italian' wars; debates around gender, language, and the peninsula's small states; classicism vs. innovation; proto-nationalism, cosmopolitanism, ethnography; religious conflict; visual and material culture; non-human animals and ecocritical perspectives.

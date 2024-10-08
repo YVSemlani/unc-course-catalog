@@ -1,0 +1,3 @@
+# GLBL 709: The Theory and Practice of Conflict Transformation
+
+This course focuses on several mechanisms and strategies for managing and transforming conflict on international, community, and interpersonal levels. We will discuss, in particular, the theory and practice of restorative justice, negotiation, conflict transformation in the digital age, decolonization, and facilitating dialogue and engage in practical exercises in managing conflicts.

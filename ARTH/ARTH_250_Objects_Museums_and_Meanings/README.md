@@ -1,0 +1,3 @@
+# ARTH 250: Objects, Museums, and Meanings
+
+This course explores objects and meaning in the context of museums. How does one "read" an object? What do works of art communicate on their own, and how do a series of decisions - made by individuals and institutions - shape how we understand them? Through museum visits, object-based learning and research, readings, and discussion, this course will consider how objects, and their collection and display, shape our understanding of the world around us. Honors version available.

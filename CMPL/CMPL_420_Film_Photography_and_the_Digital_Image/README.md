@@ -1,0 +1,3 @@
+# CMPL 420: Film, Photography, and the Digital Image
+
+This course examines the shifting nature of the cinematic medium in relation to both traditional photography and newer digital forms of image production. The aesthetic, ethical, and ontological aspects of cinema are explored in light of emergent technological and cultural conditions that demand a full-scale reconsideration of cinema's specificity.

@@ -1,0 +1,3 @@
+# WGST 418: Family and Gender in Early Modern China and Korea
+
+This course explores family and kinship in early modern China and Korea through the lens of gender and sexuality. In particular, it invites students to think beyond the bias that women in premodern East Asia were victims of patriarchy to understand their active participation in their world-making as well as their dynamic imagination and expression through writing, working, learning, loving.

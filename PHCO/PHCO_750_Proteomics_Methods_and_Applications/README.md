@@ -1,0 +1,3 @@
+# PHCO 750: Proteomics Methods and Applications
+
+This course will familiarize graduate students with the fundamental concepts of mass spectrometry-based proteomics with emphasis on its applications (expression proteomics, post-translational modification identification, and interactomics) and practical aspects of these applications, such as experimental design, sample preparation and data interpretation. This course is intended for 2nd year students and above who currently use or plan to use proteomics in their research.

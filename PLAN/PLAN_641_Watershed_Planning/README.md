@@ -1,0 +1,3 @@
+# PLAN 641: Watershed Planning
+
+This course explores the functions of ecosystems, land development activities that impact such functions, and the land use management tools to create strategies for mitigating and restoring environmental damage. Course goals include understanding the ecological context of planning and how ecological principles may inform planning decisions. Prepares planners to engage effectively with biologists, natural resource managers, park managers, and other professionals from the natural sciences.

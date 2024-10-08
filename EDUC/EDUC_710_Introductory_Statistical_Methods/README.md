@@ -1,0 +1,3 @@
+# EDUC 710: Introductory Statistical Methods
+
+Introduction to descriptive and inferential statistics applicable to the design and analysis of research in the social, behavioral, and health sciences. Topics include descriptive statistics, hypothesis testing, statistical power, confidence intervals, ANOVA, and multiple regression. Students use statistical software (R) to conduct analyses, with examples drawn largely from education and human development.

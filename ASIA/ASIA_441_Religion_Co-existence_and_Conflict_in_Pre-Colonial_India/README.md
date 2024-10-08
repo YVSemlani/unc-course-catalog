@@ -1,0 +1,3 @@
+# ASIA 441: Religion, Co-existence, and Conflict in Pre-Colonial India
+
+This course traces the fascinating history of material, cultural, and theological exchanges and conflicts between individuals belonging to two of the world's major religions: Hinduism and Islam. Throughout the course we will also analyze how modern commentators have selectively used the past to inform their understandings of the present. Previously offered as HIST/ASIA 555.

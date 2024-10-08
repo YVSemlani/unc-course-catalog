@@ -1,0 +1,3 @@
+# HBEH 787: Planning, Implementing and Evaluating Total Worker Health Interventions
+
+Required course for the graduate certificate in Total Worker Health. Students in this course will apply the Comprehensive Planning-Implementation-Evaluation Framework to recommend a Total Worker Health intervention to address the needs of a specific group of workers. They will learn to use multiple data sources to identify a priority worker health/safety issue; identify and/or adapt worker-health interventions from the literature; and write an implementation and evaluation plan for their Total Worker Health intervention.

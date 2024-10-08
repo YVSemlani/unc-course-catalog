@@ -1,0 +1,111 @@
+APPL 60. First-Year Seminar: Tree. Timber. Totem. 3 Credits.
+Students will engage with their inquiry through a combination of literature-based research from primary sources, writing and the creation of an object from wood in the university makerspace. In addition, students will choose to present their inquiry from a mode of their choice including class presentation, creating a video, interviewing someone who studies or uses wood or trees, or a mode of their own design.
+
+APPL 89. First-Year Seminar: Special Topics. 3 Credits.
+Special topics course. Content will vary each semester.
+
+APPL 101. Exploring Engineering. 3 Credits.
+Engineers help to design and build solutions to the world's problems. This course will explore some of the fundamental skills and tools in engineering. You will write software to develop computational models and measure data from low fidelity prototypes of real world systems. You will interpret these results to improve system designs. You will also explore topics in biomimicry and sustainable engineering. Throughout the class, you will develop strong professional and communication skills.
+
+APPL 110. Design and Making for Engineers: Developing Your Personal Design Potential. 3 Credits.
+Students work in flexible, interdisciplinary teams to assess opportunities, brainstorm, and prototype solutions. Students design their solutions to meet a set of specifications, while also considering the user's needs. Design thinking and physical prototyping skills are developed through fast-paced, iterative exercises in a variety of contexts and environments.
+
+APPL 112. Practical Electronics for Everyone. 1 Credits.
+Design and fabrication for practical electronics circuits, including interfacing with sensors and actuators. Previously offered as APPL 411.
+
+APPL 113. LabView for Data Acquisition. 1 Credits.
+The basics of data acquisition and hardware interfacing using LabVIEW graphical programming. Previously offered as APPL 413.
+
+APPL 114. Arduino Bootcamp: A deep introduction for beginners. 0.5 Credits.
+This course is for anyone - student, researcher, hobbyist, etc. - who has an interest in getting into the world of electronics and micro-controllers. No prior experience is required. By the end of this class, you will be able to create and program simple systems that allow coordination of real-world inputs (lights, sound, motion, etc.). You will also be able to demonstrate how these systems can be used to implement complex behavior in custom-designed systems.
+
+APPL 115. Raspberry Pi Bootcamp. 1 Credits.
+Learn how to use the premier microcontroller platform known as the Raspberry Pi (RPi)! This course is for anyone with an interest in programming, microcontrollers, and basic electronics. Prior experience with simple analog electronics (circuit-building) and the Arduino platform is recommended.
+
+APPL 116. Electronics for Measurement, Control, and the Internet of Things. 1 Credits.
+This course builds on APPL 112. Students will acquire signals from sensors and send them to an Arduino or other microcontroller. Students will also learn how to develop circuits that are part of the "Internet of Things" so that they can transmit sensor readings on the Internet. Most of the class time will be hands-on activities. Previously offered as APPL 414.
+
+APPL 121. 3D Printing Technology and Practice. 1 Credits.
+3D Printing, or additive manufacturing (AM), is used broadly from manufacturing to medical research. AM will play an increasingly large role in virtually all areas of research, industry, and commerce with new technologies and significant improvements occurring continually. The course will delve into major existing and developing technologies. We will explore design elements for AM, motion control and imaging technologies, materials performance and selection, and the physics of parts production. Previously offered as APPL 418.
+
+APPL 190. Special Topics in Applied Physical Sciences. 3 Credits.
+Specialty topics in applied physical sciences for undergraduates.
+
+APPL 215. Design and Fabrication of Fluids Monitoring Devices. 1 Credits.
+Review of fluid mechanics including the fundamentals of pressure/flow relationships, fluid properties, and flow regimes. Students will design and create physical prototypes that demonstrate specific concepts and measure defined parameters. Students will use the BeAM makerspace network to make things that illustrate fluid device design. Class time includes exercises to reinforce concepts and a guided design activity to create a physical device. Required preparation: BeAM orientation, laser training, 3D-printer training. Previously offered as APPL 475.
+
+APPL 240. Electronics from Sensors to Indicators: Circuits that Interact with the Physical World. 4 Credits.
+Engineers develop systems that interact with the physical world by taking measurements from sensors and activating indicators. To interface with these sensors and indicators, you need electrical circuits! In this class, you will learn the basics of circuit design and analysis to make measurements, such force, temperature, pH and heart rate, and acquire these signals to a computer. You will complete your measurement system by developing circuits to activate LEDs, motors, and other indicators.
+
+APPL 260. Materials Science and Engineering: Living in a Material World. 4 Credits.
+This course will be an introduction to topics in materials science and with a strong focus on materials, processing and engineering and how design plays a pivotal role in materials selection. A central theme will be in-class demonstrations and hands-on experiments so you will experience first-hand why materials do what they do and how to select the appropriate material for the right application. It's a materials world after all!
+
+APPL 285. Engineering Fundamentals of Force, Motion, and Energy. 4 Credits.
+We will go beyond the basics of introductory physics and learn the principles and methods that engineers use to understand, predict, and control the behavior of force, motion, and energy in the physical world. Topics covered will include engineering statics, dynamics, and fundamental fluid mechanics. As engineers, we must analyze and design processes that interact with and transform the physical world. This requires us to apply fundamental concepts to achieve predictable and safe results.
+
+APPL 290. Special Topics in Applied Physical Sciences. 3 Credits.
+Specialty topics in applied physical sciences for undergraduates.
+
+APPL 295. Research in Applied Sciences and Engineering. 1-3 Credits.
+A research experience provides students with practical experience in a research lab, performing work that is relevant to their UNC education. The research internship will develop and enhance the students' professional skill set and involve experiences that allow students to have responsibility for results that are of value to the research laboratory.
+
+APPL 296. Independent Study in Applied Sciences and Engineering. 1-3 Credits.
+Through independent study, students gain practical experience in an independent project either on campus or off campus, performing work that is relevant to their studies in Applied Physical Sciences. The independent study will develop and enhance the students' professional skill set and involve experiences that enhance their entrepreneurial mindset. Students are mentored by a faculty member and others at UNC who have relevant expertise.
+
+APPL 350. Data Science for Applied Science and Engineering. 3 Credits.
+This course brings together mathematical, statistical, and computational methods for representing data and machine learning that are of particular interest for studying different systems across applied science and engineering. Topics will include dimensionality reduction, transforms, clustering, classification, and neural networks. Course activities will emphasize both the underlying mathematical framework and the ability to perform these data analyses in different computational environments. This class will require you to participate actively in class computations and discussion.
+
+APPL 385. Thermodynamics for Engineers. 4 Credits.
+Thermodynamics can be thought of as the study of energy. Virtually every application has some connection to thermodynamics, underscoring the significance of learning its basic principles in engineering education. The course will cover the basic concepts of thermodynamics, including the first and second laws of thermodynamics. These principles will be introduced and explored in a way that focuses on understanding the basic concepts through exploring different natural and industrial applications.
+
+APPL 390. Special Topics in Applied Physical Sciences. 3 Credits.
+Permission of the instructor. Advanced specialty topics in applied physical sciences for undergraduates.
+
+APPL 405. Convergent Engineering: Team-Science Approaches to Discovery and Innovation. 3 Credits.
+Students will participate in activities, group discussion, and problem-solving coaching to understand how chemistry, physics, materials science, and biology are applied to engineering. Topics are introduced through discussing relevant scientific literature, and guest lecturers and faculty discuss expertise in fields like mathematical modeling, mechanical engineering, or circuit design. Guest lecturers can provide new perspective on the problems, so students gain an interdisciplinary view of the subject.
+
+APPL 412. Turning Your Entrepreneurial Ideas Into Reality. 3 Credits.
+Students will work in groups on a semester project to turn their entrepreneurial ideas into reality.
+
+APPL 430. Optoelectronics from Materials to Devices. 3 Credits.
+At the intersection between electrical engineering, optics, and computer science, this course explores how optoelectronic materials can be turned into optoelectronic devices to build high performance optical instruments. The course features many hands-on activities that include electronics, with the study of sensors operating under low light and high noise conditions, custom optical system design, imaging and holography systems, as well as computational imaging techniques using MATLAB (basic programming experience in any language is sufficient).
+
+APPL 435. Nanophotonics. 3 Credits.
+This course introduces the principles of nanophotonics - an emerging frontier at the nexus of nanotechnology and photonics that deals with light-matter interactions at the nanometer scale. The course will cover the theoretical foundations of nanoscale materials and optics, fabrication and characterization of optical nanostructures, plasmonics, nanomanipulation by optical tweezers, electrodynamic simulations, nanoscale light emitters, and applications of nanophotonics.
+
+APPL 462. Engineering Materials: Properties, Selection and Design. 3 Credits.
+This course will cover both fundamental and applied aspects of modern materials science. We will discuss how to select materials based on their properties and how they can be processed into products that you encounter in everyday life. A strong focus will be on the relationship between processing, structure (development), and properties of solid materials, such as metals, ceramics, and polymers.
+
+APPL 463. Bioelectronic Materials. 3 Credits.
+Developing electronic systems that can seamlessly integrate with biological systems represents a pivotal foundation for building a smart healthcare platform, advanced clinical technology, and beyond. Through multiple hands-on projects, this course will explore and discuss: 1) electronic materials, mechanisms, and designs at the biotic-abiotic interface, 2) their impacts for a wide range of applications ranging from medicine, robotics, to human augmentation, and 3) the associated ethics that aim to harmonize the development pathways.
+
+APPL 465. Engineering of Soft Materials: SpongeBob Squarepants and Other Squishy Things. 3 Credits.
+What kind of material is Sponge Bob? What about his pet snail, Gary? We are taught that there are solids, liquids, and gases. However, some materials challenge this description, such as foams, plastics, pastes, skin, hair, and nails. These are soft materials, and they are everywhere: sunscreen, insulation, and car tires. In this course, we will learn about soft materials' properties, how they are processed in industry, and how to design novel soft materials.
+
+APPL 467. Materials Design for Biomedicine. 3 Credits.
+The 21st century has already been marked with substantial discoveries in the interface of materials science, biology, and medicine that have a profound effect on our future. The course will focus on all classes of biological materials such as: biologically derived materials, natural and synthetic biomaterials, and bioinspired materials. In addition, the course will highlight the use of nanoscale materials and techniques to rapidly advance our understanding of human biology and the practice of medicine.
+
+APPL 490. Special Topics. 1-3 Credits.
+Topics vary from semester to semester.
+
+APPL 493. Internship in Applied Physical Sciences. 3 Credits.
+An ideal internship provides students with practical experience in an organization outside of UNC, doing work that is relevant to their UNC education. The internship should develop and enhance the students' professional skill sets and involve experiences that allow students to have responsibility for results that are of value to the organization.
+
+APPL 495. Mentored Research in Applied Sciences and Engineering. 3 Credits.
+Students undertake independent research with a faculty mentor. In order to register for this class, students must submit a learning contract and research proposal for approval. At the end of the semester, students submit a final report that describes their research. Students are encouraged to present their work either internally at UNC or externally at a conference or symposium.
+
+APPL 496. Independent Study in Applied Sciences and Engineering. 1-3 Credits.
+Permission of the director of undergraduate studies is required. Independent study under a member of the applied physical sciences faculty. Approved learning contract required.
+
+APPL 590. Special Topics in Applied Physical Sciences. 3 Credits.
+Advanced specialty topics in applied physical sciences for undergraduates and graduates.
+
+APPL 690. Special Topics in Applied Physical Sciences. 3 Credits.
+Advanced specialty topics in applied physical sciences for undergraduate and graduates.
+
+APPL 710. Design and Making for the Researcher. 3 Credits.
+In this course intended for graduate student researchers, we will parallel the discovery process taught in APPL 110: human-centered design, needs identification, and the iterative design and prototyping process. You will learn technical areas common to research laboratories -hardware selection, gas and liquid management, material compatibilities, electronics and data acquisition. In addition to the BeAM makerspace focused skills development activities, students will work on a personal project related to their laboratory work or research topic.
+
+APPL 760L. Nanofabrication/micro-electromechanical systems (MEMS) Laboratory. 2 Credits.
+Permission of the instructor. A laboratory course covering fabrication technologies for building materials and structures in biomedical devices, electronics, MEMS, and nanomedicine. The course includes lectures on thin film deposition, etching, and photolithography and hands-on laboratories to apply knowledge and practice skills covered in the lectures.
+

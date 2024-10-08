@@ -1,0 +1,3 @@
+# SPAN 370: Spanish Translation II
+
+This course introduces students to literary translation: close reading and creative re-writing. Students work with memoir/essay, poetry/songs, theater/film, science-fiction, la novela rosa, true crime, graphic novels and comics, young adult, and children's literature by a diverse representation of artists. They learn marketplace skills: how to contact authors and assemble a submission ''package'' for publication. They also practice solving unique problems in determining priorities and compensating for translation loss, transferring figurative speech, cultural practices, and regionalisms.

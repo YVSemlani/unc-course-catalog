@@ -1,0 +1,3 @@
+# GERM 255: The Twilight of the World: Ecological Crises in German Literature and Film
+
+This seminar explores how German authors and film makers have grappled to come to terms with ecological crises from early Romanticism to the present. We will examine philosophical, literary, and cinematic investigations of natural and nuclear catastrophes, pollution, waste, mass extinction, and climate change. Students may not receive credit for both GERM 255 and GSLL 52.

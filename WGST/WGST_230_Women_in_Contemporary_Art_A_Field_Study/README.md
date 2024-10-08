@@ -1,0 +1,3 @@
+# WGST 230: Women in Contemporary Art: A Field Study
+
+This seminar will explore the lives and work of women in contemporary art through a combination of readings, films, interviews, studio visits with area artists, and visits to museums and galleries. We will engage questions of identity, gender, sexuality, politics, and cultural representation and how these affect the creativity, media, and final output of women artists.

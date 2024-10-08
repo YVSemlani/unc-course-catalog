@@ -1,0 +1,3 @@
+# GSLL 279: A River Runs Through It: Cultural Geography Through Imaginative Literature
+
+This course looks at cultural geography through the lens of literature about rivers. After a brief survey of the world's major rivers and a short dive into the way environmental science seeks to understand rivers, classes are devoted to poems, stories, novels, histories, and even science fiction about rivers. Students engage in mentored research culminating in a substantial essay. Readings and discussions in English.

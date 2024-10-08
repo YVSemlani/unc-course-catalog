@@ -1,0 +1,3 @@
+# BIOS 782: Statistical Methods in Genetic Association Studies
+
+This course provides a comprehensive survey of the statistical methods for the designs and analysis of genetic association studies, including genome-wide association studies and next-generation sequencing studies. The students will learn the theoretical justifications for the methods as well as the skills to apply them to real studies.

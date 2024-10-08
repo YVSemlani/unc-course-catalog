@@ -1,0 +1,3 @@
+# BMME 201: Computer Methods in Biomedical Engineering
+
+This course introduces students to problem-solving techniques using the MATLAB programming language. Fundamental computer science basics are taught as they relate to problems encountered in biomedical engineering and other scientific disciplines. Programming activities will incorporate actual data (e.g., stress/strain data and microscopy images) for relevant, real-world examples. Course restricted to admitted majors only.

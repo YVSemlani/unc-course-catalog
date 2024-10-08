@@ -1,0 +1,3 @@
+# NUTR 722: Nutrition Thesis Seminar
+
+The changing landscape of nutritional science research has increased the demand of early-career investigators to be more transdisciplinary, perform highly rigorous research, and be prepared for less-traditional research positions. With a framework of performing reproducible research, this course introduces students to the concepts and skills to perform and understand rigorous nutrition research. The course also covers aspects of research ethics, effective use of UNC research resources, work-life balance and research innovation. Restricted to first year MS students and senior BSPH Honors students.

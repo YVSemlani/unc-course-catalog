@@ -1,0 +1,3 @@
+# COMM 656: Sound for Film and Video: Theory and Practice for Motion Picture Sound Design
+
+The aim of this course is to provide students who have an interest in film and video production with an understanding of the technical, conceptual, and aesthetic implications of the motion picture soundtrack, with a special emphasis on sound-image relationships. Students who have already developed a basic proficiency in the use of video cameras, audio recorders, and editing software will be asked to cultivate an understanding of and appreciation for the expressive and artistic possibilities.

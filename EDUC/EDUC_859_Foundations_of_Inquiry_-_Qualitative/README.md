@@ -1,0 +1,3 @@
+# EDUC 859: Foundations of Inquiry - Qualitative
+
+Foundations of Inquiry -- Qualitative Methods is a graduate level course designed to support students in developing an understanding of qualitative research methods and designs. The focus of this course is on the creation of research questions, the development of qualitative designs, employment of data collection approaches, and analysis procedures to address those problems. For students enrolled in the online Ed.D. in Organizational Learning and Leadership program cohorts.

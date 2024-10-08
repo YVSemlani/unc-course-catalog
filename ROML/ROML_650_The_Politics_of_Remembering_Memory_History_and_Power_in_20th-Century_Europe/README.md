@@ -1,0 +1,3 @@
+# ROML 650: The Politics of Remembering: Memory, History, and Power in 20th-Century Europe
+
+Interdisciplinary, comparative, and multimedia approach to the question of memory and history in 20th-century Europe. Explores individual memory, collective memory, and commemoration. Survey of interdisciplinary approaches to the field and an examination of historical sites through the narratives of mental illness, fiction, memoir, testimonial literature, photography, and film.

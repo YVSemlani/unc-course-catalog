@@ -1,0 +1,3 @@
+# SPHG 600: Introduction to Public Health
+
+School of Public Health majors only. By applying crosscutting themes of equity, history, community engagement and the Gillings's mantra of "Global is Local. Local is Global," students develop foundational knowledge of how public health has evolved, its frameworks, the determinants of health and health disparities, and research and practice applications. With this knowledge, students work individually and in teams to apply their learning to a public health problem and to propose innovative solutions.

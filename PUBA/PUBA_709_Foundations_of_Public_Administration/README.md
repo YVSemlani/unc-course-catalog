@@ -1,0 +1,3 @@
+# PUBA 709: Foundations of Public Administration
+
+This course gives students a working knowledge of the multi-disciplinary approach to governance as embraced by the theories of public administration. The course will include discussions on public management, values, organizational theory, and politics, among other topics. It will review the history and development of public administration, delve into the theories that are integral to the discipline, and review practical approaches to the application of these theories.

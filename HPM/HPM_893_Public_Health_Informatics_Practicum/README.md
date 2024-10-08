@@ -1,0 +1,3 @@
+# HPM 893: Public Health Informatics Practicum
+
+Course will help students: conduct research, develop public health informatics tools/projects, and further develop professional skills and knowledge essential in the public health informatics field. Students will participate in weekly (2 hr) informatics discussions with practicum preceptors and have an opportunity to meet and interact with successful health informatics professionals.

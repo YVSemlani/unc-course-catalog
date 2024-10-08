@@ -1,0 +1,3 @@
+# ARTS 215: Darkroom Photography II
+
+Continuation of ARTS 115 with advanced focus on conceptual topics and techniques of black and white analog photography. This course will provide students with proficiency in the operation of medium and large format cameras and advanced printing techniques. Concepts are developed through making, reading and writing, engaging with established and historical artists, and critiquing peers' work.

@@ -1,0 +1,3 @@
+# NURS 430: Nursing Care of Adults II
+
+Centers on management of adults experiencing complex health problems and focuses on application of evidence based practice and skill acquisition needed to care for acutely ill patients through transitions in an illness experience. Clinical experience in acute care settings provide application for clinical reasoning, clinical care, and knowledge integration. Majors Only.

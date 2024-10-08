@@ -1,0 +1,3 @@
+# PHRS 507: Molecular Foundations of Chemical Biology: Organic and Medicinal Chemistry
+
+Organic chemistry, broadly writ (i.e., not just synthesis), underlies nearly every endeavor in medicinal chemistry (the search for new drugs) and chemical biology (the use of chemical tools to understand biology). This course provides a review of important concepts in organic chemistry as they apply to biological research. Topics include a review of intermolecular interactions as they apply to biological structures and function, a discussion of how small molecules interact with their targets.

@@ -1,0 +1,3 @@
+# STOR 557: Advanced Methods of Data Analysis
+
+The course covers advanced data analysis methods beyond those in STOR 455 and how to apply them in a modern computer package, specifically R or R-Studio which are the primary statistical packages for this kind of analysis. Specific topics include (a) Generalized Linear Models; (b) Random Effects; (c) Bayesian Statistics; (d) Nonparametric Methods (kernels, splines and related techniques).

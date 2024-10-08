@@ -1,0 +1,3 @@
+# PLCY 785: Professional Communication: Strategies & Tools to Move Ideas Forward
+
+As professionals, we need reliable methods to better collaborate with our teams and connect to our audiences. This course will uncover common missteps in how we communicate about the ideas that we care about. From concept development to final presentation, we will walk through structures for enhanced interoffice collaborations, communicating effectively to management, and delivering successful interoffice and public presentations so that our ideas are given every chance to thrive.

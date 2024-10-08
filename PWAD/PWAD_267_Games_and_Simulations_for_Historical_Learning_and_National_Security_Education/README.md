@@ -1,0 +1,3 @@
+# PWAD 267: Games and Simulations for Historical Learning and National Security Education
+
+This course is designed to introduce students to the use of games and simulations in learning historical events in a more experiential manner and to explore their use in simulating crises for national security planning and training purposes. As an introduction, the course explores different types and styles of gaming, while explaining the history of game development and how certain formats lend themselves to different learning outcomes.

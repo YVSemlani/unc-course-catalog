@@ -1,0 +1,3 @@
+# STOR 641: Stochastic Modeling I
+
+The aim of this 3-credit graduate course is to introduce stochastic modeling that is commonly used in various fields such as operations research, data science, engineering, business, and life sciences. Although it is the first course in a sequence of three courses, it can also serve as a standalone introductory course in stochastic modeling and analysis. The course covers the following topics: discrete-time Markov chains, Poisson processes, and continuous-time Markov chains.

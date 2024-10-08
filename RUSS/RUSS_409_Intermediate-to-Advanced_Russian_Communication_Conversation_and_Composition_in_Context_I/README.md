@@ -1,0 +1,3 @@
+# RUSS 409: Intermediate-to-Advanced Russian Communication, Conversation, and Composition in Context I
+
+Intermediate-to-advanced communication, conversation, composition, phonetics, and grammar in contemporary cultural context. Meets the needs of learners looking to expand their practical knowledge of contemporary standard Russian in the context of present-day culture, while developing active applied skills pertaining to comprehension, production of, and communication in Russian.

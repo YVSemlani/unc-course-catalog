@@ -1,0 +1,3 @@
+# ORPA 762: Oral and Maxillofacial Pathology Seminar
+
+Course includes developmental disturbances of soft and hard tissues, syndromes, inflammation, immunology, pulp and periapical disease, periodontal disease, tumor-like proliferations, microbial disease, endocrine and metabolic diseases. Also includes odontogenic cysts, salivary gland disease, oral epithelial and mesenchymal neoplasms, bone and joint diseases, nerve muscle diseases, dermatological diseases, and blood diseases.

@@ -1,0 +1,3 @@
+# GERM 555: Interrogating Cultures of Fascism: Introduction to Frankfurt School's Critical Theory 1923-Present
+
+This research-intensive seminar for advanced undergraduates covers the history of the Frankfurt School and the scope of its theory for contemporary social, political, and cultural analysis. Taught in English; some readings in German for qualified students. Students must have junior or senior standing or have permission of the instructor. This 500-level course has no prerequisites. Because of the complexity of the texts, students should have at least sophomore and prior classroom experience with philosophical texts.

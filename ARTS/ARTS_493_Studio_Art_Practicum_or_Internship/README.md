@@ -1,0 +1,3 @@
+# ARTS 493: Studio Art Practicum or Internship
+
+Required preparation, 15 hours ARTS courses. Allows studio art majors to pursue unpaid practicums or internships for credit. Examples include working as a studio assistant or working in art-related fields, such as galleries, design firms, architectural firms, and nonprofit arts organizations. Work undertaken must comply with Federal criteria governing unpaid internships. Departmental approval required.

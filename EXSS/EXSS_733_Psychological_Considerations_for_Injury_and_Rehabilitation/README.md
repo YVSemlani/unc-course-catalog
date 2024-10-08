@@ -1,0 +1,3 @@
+# EXSS 733: Psychological Considerations for Injury and Rehabilitation
+
+Athletic training graduate students only. Psychological impact of injury and rehabilitation on the injured athlete. Stress from injury, coping skills for the rigors of rehabilitation, and the improvement of communication skills in order to better the relationship between the athletic trainer, the injured athlete, and the injured athlete's coach.

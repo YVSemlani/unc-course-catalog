@@ -1,0 +1,3 @@
+# DHYG 427: Understanding Complementary and Alternative Therapies in Health Care
+
+Permission of the department. This course will explore alternative medicine systems, mind-body interventions, biologically based therapies, manipulative and body-based methods and energy therapies which patients may report using. Alerts and advisories regarding information on drug interactions, harmful side effects and public health advisories will be introduced.

@@ -1,0 +1,3 @@
+# STOR 834: Extreme Value Theory
+
+This course covers both mathematical theory and statistical methodology concerned with extreme values in sequences of random variables. IID theory: the three types of extreme value distributions, statistical methods by block maxima and threshold exceedances. Extensions to dependent stochastic sequences: the extremal index and related concepts. Multivariate and spatial extremes, max-stable process. Applications in: engineering and strength of materials; finance and insurance; environment and climate.

@@ -1,0 +1,3 @@
+# SPHG 429: Public Health, Entrepreneurship, and Food Systems in Southeast Asia
+
+Thailand-based summer version of this course will introduce students to basic concepts and case studies of commercial and social entrepreneurship as applied to the pursuit of public health through both for-profit and non-profit entities. This course features many guest speakers with successful experience in public health entrepreneurship in diverse arenas as well as those who have experienced challenges or venture failures. Students may not receive credit for both SPHG 428 and SPHG 429. Honors version available.

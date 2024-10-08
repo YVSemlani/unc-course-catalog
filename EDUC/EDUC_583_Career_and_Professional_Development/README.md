@@ -1,0 +1,3 @@
+# EDUC 583: Career and Professional Development
+
+The primary goal of this course is to provide an integrative learning experience that prepares HDFS students to apply academic learning, ethical and family life education principles acquired in previous coursework to real-life situations likely to be encountered in the internship experience and throughout their careers in the field of family studies and human services. Course materials and learning experiences are intended to help students with obtaining an internship consistent with their career goals.

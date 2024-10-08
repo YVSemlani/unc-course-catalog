@@ -1,0 +1,3 @@
+# CHIN 624: Chinese Internet Literature
+
+Recommended preparation, at least one advanced Chinese language course above the CHIN 408 or CHIN 313 level. This is a content and language course designed for advanced (native or near-native fluency) undergraduate and graduate students to enhance the four language abilities and cultural literacy. Students will read The Story of Minglan, and analyze the problematic portrayals of traditional women's domestic lives.

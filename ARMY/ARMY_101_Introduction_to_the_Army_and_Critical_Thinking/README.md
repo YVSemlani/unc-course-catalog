@@ -1,0 +1,3 @@
+# ARMY 101: Introduction to the Army and Critical Thinking
+
+This course introduces students to the personal challenges and competencies that are critical for effective leadership. Students learn how the personal development of life skills such as critical thinking, time management, goal setting, stress management, and comprehensive fitness relate to leadership and the Army profession. Required for cadets.

@@ -1,0 +1,3 @@
+# NUTR 470: Foundations of Nutrition Interventions
+
+This course is designed to introduce students to clinical trials in nutrition, including experimental designs, nutrition intervention methods, and skills necessary to critically analyze, describe, and evaluate feeding and behavioral nutrition interventions. The course covers concepts, skills and methods related to nutrition interventions, with an emphasis on theory-based interventions at the individual, community, or environmental levels to improve health and nutrition outcomes.

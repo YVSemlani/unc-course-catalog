@@ -1,0 +1,3 @@
+# NURS 330: Nursing Care of Adults I
+
+This course considers how nursing influences the health and healing capacities of adults. Students will attain the knowledge necessary to complete a comprehensive assessment of the older adult's physical, functional, psychosocial, and cognitive capacities. Clinical experiences in post-acute care settings provide opportunities for clinical reasoning, clinical care, and knowledge integration. Majors only.

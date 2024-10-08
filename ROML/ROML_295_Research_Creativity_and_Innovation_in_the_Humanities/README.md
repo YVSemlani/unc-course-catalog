@@ -1,0 +1,3 @@
+# ROML 295: Research, Creativity, and Innovation in the Humanities
+
+This course serves as an introduction to research methodologies, theories, and the university resources available to students seeking to perform cutting-edge research in the humanities. The goal of the course is to produce a substantial research project. The capacities developed in this course as well as the project itself could be used as the basis for grants, scholarships, internship applications, or an honors thesis. Taught in English. Previously offered as CMPL 395H/GSLL 295H/ROML 295H.

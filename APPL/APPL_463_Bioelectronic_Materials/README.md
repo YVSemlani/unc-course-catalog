@@ -1,0 +1,3 @@
+# APPL 463: Bioelectronic Materials
+
+Developing electronic systems that can seamlessly integrate with biological systems represents a pivotal foundation for building a smart healthcare platform, advanced clinical technology, and beyond. Through multiple hands-on projects, this course will explore and discuss: 1) electronic materials, mechanisms, and designs at the biotic-abiotic interface, 2) their impacts for a wide range of applications ranging from medicine, robotics, to human augmentation, and 3) the associated ethics that aim to harmonize the development pathways.

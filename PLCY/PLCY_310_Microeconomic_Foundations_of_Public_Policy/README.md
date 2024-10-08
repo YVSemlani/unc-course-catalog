@@ -1,0 +1,3 @@
+# PLCY 310: Microeconomic Foundations of Public Policy
+
+This course allows students to enhance their working knowledge of microeconomic theory, explore microeconomic theory as a methodology to solve policy problems, understand market failures and the role of collective action in markets, apply economic models to a variety of policy situations, and evaluate and critique economic analyses. Previously offered as PLCY 410.

@@ -1,0 +1,3 @@
+# SLAV 277: Songs of Liberty, Light, and Resilience: Ukrainian Literature Today
+
+Ukraine's resistance to Russian aggression brought renewed attention to Europe's largest country, its history, and its quest for liberty and democracy. This course explores the ways in which Ukrainian national identity has been forged by revolutions, wars, engineered famines as well as thirst for liberty. Works of Ukraine's leading writers will help students form an independent critical opinion of the country's unique culture, its problems, and aspirations. All materials are in English.

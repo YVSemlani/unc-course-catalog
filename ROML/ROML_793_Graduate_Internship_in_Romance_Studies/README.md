@@ -1,0 +1,3 @@
+# ROML 793: Graduate Internship in Romance Studies
+
+Allows ROMS graduate students to pursue paid or unpaid practicums or internships for credit. Examples include working with a teacher at a secondary or independent school, shadowing a staff member in university administration, working in a nonprofit, library, museum, or other relevant government or private-sector agency. Work undertaken for unpaid internships must comply with Federal criteria. Departmental approval required. Restricted to Graduate students only

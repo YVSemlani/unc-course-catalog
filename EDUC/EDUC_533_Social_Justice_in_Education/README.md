@@ -1,0 +1,3 @@
+# EDUC 533: Social Justice in Education
+
+Course examines how education can help create more fair and just societies, ultimately contributing to high performing educational systems internationally. Students explore multiple perspectives on social justice; examine efforts at local, state, national, and global levels; and learn to articulate efforts in classrooms and schools with wider community initiatives.

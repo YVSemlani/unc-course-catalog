@@ -1,0 +1,3 @@
+# DHYG 262: Dental Health Education
+
+This course should prepare students to assess, develop, implement and evaluate preventive dental services for individual patients and groups within the community. The course will explore cognitive, affective and psychomotor skills which must be developed to produce a knowledgeable health professional. During the course of the semester the student will be assisted in developing a personal philosophy regarding his/her role in the prevention of oral diseases and demonstrate a personal commitment to proper oral hygiene. Instruction in four areas will be presented which include preventing disease, behavior modification, communication skills and patient management skills.

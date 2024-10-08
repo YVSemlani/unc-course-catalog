@@ -1,0 +1,3 @@
+# EMES 320: Marine Life in a Fluid World
+
+This course examines how the functioning of marine organisms and ecosystems is impacted by water motion. Hydrodynamic forces as applied to locomotion and disturbance. Advective and diffusive transport as applied to nutrient supply and acquisition, larval transport, phytoplankton dynamics. The role of ocean circulation in establishing environmental conditions and distributions of organisms. Covers processes from the microscale to the ocean basin scale.

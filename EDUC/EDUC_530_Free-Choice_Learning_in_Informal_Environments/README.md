@@ -1,0 +1,3 @@
+# EDUC 530: Free-Choice Learning in Informal Environments
+
+On average, Americans spend less than five percent of their lives in traditional classrooms and an ever-growing body of evidence supports the importance and quality of the knowledge gained outside of school. Parks, museums, theaters, zoos, and aquariums are just a few of the vast resources available to the American public. These informal learning environments are designed to educate, inspire, and entertain visitors in approachable and engaging ways.

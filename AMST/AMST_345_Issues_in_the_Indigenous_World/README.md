@@ -1,0 +1,3 @@
+# AMST 345: Issues in the Indigenous World
+
+This course will explore the Indigenous world in various settler colonial contexts. We will come to understand the communities who claim Indigenous status, commonalities among Indigenous peoples, and differences that create important distinctions in places like the U.S. Australia, Canada, and New Zealand. We will also learn how Indigenous peoples around the world continue to respond to various aspects of colonialism, including but not limited to law and policy, representation, art, and human rights.

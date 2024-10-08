@@ -1,0 +1,3 @@
+# MUSC 381: Inside the Song: Analysis of Songcraft
+
+Explore form, structure, and narrative in American popular song during the era of recorded sound. Students will analyze the elements of different songs -- melody, lyrics, harmony, musical arrangement, form, narrative, and structure. Students will write songs using different models and forms; edit and revise their songs; and perform those songs publicly. Familiarity with basic chords and melodies expected.

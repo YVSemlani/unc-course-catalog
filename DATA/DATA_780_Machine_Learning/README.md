@@ -1,0 +1,3 @@
+# DATA 780: Machine Learning
+
+This course will be an introductory course to machine learning (ML). The course will cover core principles of artificial intelligence for statistical inference and pattern analysis. Topics will include probability distributions; graphical models; optimization, maximum likelihood estimation, and regression; classification; cross validation; generalization and overfitting; neural networks; nonparametric estimators; clustering; autoencoders; generative models; and kernel methods. Applications in tabular, image, and textual data for supervised and unsupervised learning tasks also will be covered.

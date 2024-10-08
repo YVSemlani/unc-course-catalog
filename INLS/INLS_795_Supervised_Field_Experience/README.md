@@ -1,0 +1,3 @@
+# INLS 795: Supervised Field Experience
+
+Required preparation, completion of 18 semester hours. Permission of the instructor. Supervised observation and practice in an information service agency or library. The student will work a required amount of time under the supervision of an information/library professional and participate in faculty-led discussions for ongoing evaluation of the practical experience.

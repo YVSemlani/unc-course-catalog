@@ -1,0 +1,3 @@
+# ASIA 732: Making: Technology and Material in Modern East Asia
+
+This graduate seminar introduces students to the joint methods of material culture studies and the history of science and technology with a focus on early modern and modern East Asia. It interweaves the two fields of study through the framework of "making." The course comprises two components -- reading-based discussion and research. Students will learn, evaluate, and build research methods through discussion and use them to conduct research and write research papers.

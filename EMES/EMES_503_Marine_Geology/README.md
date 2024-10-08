@@ -1,0 +1,3 @@
+# EMES 503: Marine Geology
+
+For graduate students; undergraduates need permission of the instructor. Investigates formation of the oceans, plate tectonics, carbonate reefs and platforms, sediment transport from the land to deep-sea fans, glacial-marine geology, marine records of changes in sea level and climate, and the evolution of barrier islands, estuaries, and deltas. Mandatory weekend field trip to the Southern Outer Banks. Course previously offered as MASC 503/GEOL 503.

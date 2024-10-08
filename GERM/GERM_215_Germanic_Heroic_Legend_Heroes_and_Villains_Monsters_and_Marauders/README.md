@@ -1,0 +1,3 @@
+# GERM 215: Germanic Heroic Legend: Heroes and Villains, Monsters and Marauders
+
+Examination of representations of the warrior culture of the Germanic-language areas of the Atlantic North (Germany, Scandinavia, Anglo-Saxon England) from the Gallic Wars under Julius Caesar (58--50 BCE) through the Migration Age (ca. 300--600 CE). Readings and class discussions in English. Students may not receive credit for both GERM 215 and GSLL 53.

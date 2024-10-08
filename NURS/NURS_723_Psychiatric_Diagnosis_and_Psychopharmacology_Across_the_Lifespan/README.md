@@ -1,0 +1,3 @@
+# NURS 723: Psychiatric Diagnosis and Psychopharmacology Across the Lifespan
+
+This course provides concepts in evidence-based psychopharmacological management of individuals across the lifespan for advanced nursing practice. Topics include neurobiological concepts, psychiatric diagnosis and treatments, rational decision-making, and the initiation, monitoring, and discontinuation of psychotropic medications in the treatment of psychiatric and substance abuse disorders in a variety of settings. Students will explore recent advances in neurobiology, genomics, and psychopharmacology. Nursing majors only.

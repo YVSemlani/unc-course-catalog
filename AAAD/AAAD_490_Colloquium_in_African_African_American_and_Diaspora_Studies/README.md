@@ -1,0 +1,3 @@
+# AAAD 490: Colloquium in African, African American, and Diaspora Studies
+
+This course is designed to give students a broad-ranging, interpretative perspective on-and analytical tools for studying-the migration and settlement of African peoples in various parts of the world, largely over the past several centuries. Based on selected secondary readings, students will study and compare the ways in which people of African descent have created political, cultural, and territorial communities in Africa and beyond the continent, especially in the slave and post-emancipation societies of the Americas.

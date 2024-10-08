@@ -1,0 +1,3 @@
+# SPAN 405: Intermediate Spanish for Health Care Professionals
+
+Distance course requiring access to the Internet. Focuses on improving communication within the context of Latino/a immigrant culture in health care settings. This course is equivalent to SPAN 203 (Intermediate Spanish I) and therefore fulfills the foreign language requirement. Students may not receive credit for both SPAN 405 and SPAN 203.

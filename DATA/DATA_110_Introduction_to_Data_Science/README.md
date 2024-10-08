@@ -1,0 +1,3 @@
+# DATA 110: Introduction to Data Science
+
+This course is a broad, high-level survey of the major aspects of data science including ethics, best practices in communication (e.g. data visualization), mathematical/statistical concepts, and computational thinking. Students will gain an understanding of the fundamentals of data science to support more in-depth, advanced coursework that are requirements for the data science majors.

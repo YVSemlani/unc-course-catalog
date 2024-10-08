@@ -1,0 +1,3 @@
+# HBEH 756: Social and Peer Support in Health: An Ecological and Global Perspective
+
+Course will survey social support in health, including the nature and key processes of social support, cultural influences in different countries, and approaches to promoting peer support in health promotion around the world. Term assignment will entail planning a peer support program or research project of the student's choice.

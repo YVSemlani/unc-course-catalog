@@ -1,0 +1,3 @@
+# RUSS 516: Advanced Russian Communication, Composition and Grammar in the Professions II
+
+A continuation of RUSS 515, RUSS 516 develops and maintains the linguo-cultural skills of advanced-to-professional learners by preparing them for professional study-abroad experiences at Russophone institutions of higher learning. A seminar-style course with rotating instructors, it engages learners in contemplation, research, and discussion of subjects within the instructor's professional expertise. Readings, viewing materials, and discussions in Russian.

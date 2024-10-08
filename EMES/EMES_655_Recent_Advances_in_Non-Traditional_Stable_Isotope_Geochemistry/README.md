@@ -1,0 +1,3 @@
+# EMES 655: Recent Advances in Non-Traditional Stable Isotope Geochemistry
+
+This seminar will introduce students to state of the art analytical techniques, current theories, and their applications in various geological processes regarding the non-traditional stable isotopes (e.g., Li, Mg, Fe, Mo, and Cr). After introducing some basic principles and analytical techniques of these so called "non-traditional" stable isotopes, students will present and discuss recent literature in this arena. Course previously offered as GEOL 655.

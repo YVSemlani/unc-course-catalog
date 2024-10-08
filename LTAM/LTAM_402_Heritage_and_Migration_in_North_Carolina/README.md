@@ -1,0 +1,3 @@
+# LTAM 402: Heritage and Migration in North Carolina
+
+This course combines field research, oral history, and service learning to understand the immigration and settlement of Mexican and Latin American heritage communities in North Carolina. The course will address the ethical and practical aspects of the ethnographic method including the preparation, transaction and transcription of oral history interviews. Students will participate in a digital archive initiative and complete independent original research. Open to juniors and seniors and graduate students.

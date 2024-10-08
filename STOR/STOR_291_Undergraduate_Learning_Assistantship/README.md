@@ -1,0 +1,3 @@
+# STOR 291: Undergraduate Learning Assistantship
+
+Experience includes preparations, demonstrations, assistance, and attendance at weekly meetings and lab sections. This course will enable you to deepen your understanding of topics in statistics and data science by learning the material with an eye toward explaining it to other less-experienced students, and; develop pedagogical skills, such as developing a rapport with learners, engaging in clear oral and written communication, and taking the perspective of less experienced students.

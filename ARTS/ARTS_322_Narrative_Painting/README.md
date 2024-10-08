@@ -1,0 +1,3 @@
+# ARTS 322: Narrative Painting
+
+Students will explore themes in the vast history of narrative paintings by researching and responding to these themes, and create narrative paintings through their own personal lens. We will explore topics of the genre, from historical works, to how contemporary artists are interpreting and creating narratives that mirror the diverse spectrum of identities, materials, and histories in our lifetime.

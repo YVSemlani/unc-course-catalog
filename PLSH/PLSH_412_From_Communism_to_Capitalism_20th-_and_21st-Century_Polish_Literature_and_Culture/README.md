@@ -1,0 +1,3 @@
+# PLSH 412: From Communism to Capitalism: 20th- and 21st-Century Polish Literature and Culture
+
+An overview of the literary and cultural movements in 20th and 21st century Poland as they relate to major historical changes of the century (World War I and World War II, Communism, Post-communism, accession to the European Union). All readings and discussions in English; readings available in Polish for qualified students.

@@ -1,0 +1,3 @@
+# PUBA 202: Making and Unmaking a Criminal: The Role of Health Law and Policy
+
+This course examines the availability and unavailability of appropriate health services, under the law and in practice, and the impediments to providing care in the usually siloed criminal justice and health care systems. This course takes a comparative approach. Students will explore differences in the health care systems in the US and UK with the aim of identifying ways to improve outcomes for justice-involved and potentially justice-involved people and communities. Burch Fellows only. Honors version available.

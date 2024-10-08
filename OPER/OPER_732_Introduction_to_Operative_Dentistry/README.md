@@ -1,0 +1,3 @@
+# OPER 732: Introduction to Operative Dentistry
+
+Provides students with broad introduction to key Operative Dentistry concepts. Students will be exposed to a wide variety of topics, including intensive training in direct restorations, dental photography, fabrication of diagnostic casts and implant stents. Prepares incoming graduate students for clinical patient care and teaching in predoctoral courses and clinics.

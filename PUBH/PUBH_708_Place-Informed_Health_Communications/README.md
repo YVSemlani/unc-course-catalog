@@ -1,0 +1,3 @@
+# PUBH 708: Place-Informed Health Communications
+
+In-depth examination and practice of methods for communicating health messages to and with groups and populations. Public health communication theory, sociocultural issues, and communications contexts including place, are explored while developing communication skills and strategies. Topics include health communication research, data visualization, media advocacy, communication with policy makers, social media, public health presentations, use of technology, health promotion materials development, and health and media literacy. Emphasis on written and oral communication to promote health.

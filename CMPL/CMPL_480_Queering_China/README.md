@@ -1,0 +1,3 @@
+# CMPL 480: Queering China
+
+This course explores "queer" expressions in Chinese literature and visual culture from 1949 through the twenty-first century. It surveys a combination of all-time classics and lesser-known cultural texts featuring non-heteronormative sexual desire and gender-bending performance. We mobilize queer as a broad site of critique beyond Western models of the concept, asking not only how queer challenges normative bodyminds, but also how it negotiates notions of age, family, race, and the neoliberal order.

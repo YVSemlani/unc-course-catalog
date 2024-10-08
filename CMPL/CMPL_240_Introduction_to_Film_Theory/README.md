@@ -1,0 +1,3 @@
+# CMPL 240: Introduction to Film Theory
+
+This course introduces students to debates in classical and post-classical film theory. Likely topics include medium specificity; the ideological functions of narrative cinema; film theory's investments in psychoanalysis, linguistics, semiotics, and phenomenology; the advent of digital media; feminism; national and transnational cinema; spectatorship; authorship; genre theory; and film and philosophy.

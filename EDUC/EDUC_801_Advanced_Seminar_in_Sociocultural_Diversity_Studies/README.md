@@ -1,0 +1,3 @@
+# EDUC 801: Advanced Seminar in Sociocultural Diversity Studies
+
+This course provides an in-depth, critical review and analysis of a current topic pertinent to sociocultural diversity in human development. Each offering of this course will focus on a specific domain to be determined by the course instructor in collaboration with the Applied Developmental Science and Special Education program faculty. Potential topics for this course include: The Development of Black, Indigenous, and Persons of Color in America; The Health and Well-Being of LGBTQ+Youth.

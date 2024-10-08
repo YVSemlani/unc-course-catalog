@@ -1,0 +1,3 @@
+# LFIT 129: Lifetime Fitness: Downhill Skiing and Snowboarding
+
+An introduction to fitness and wellness that includes developing personal fitness programs and instruction in physical activity. The activity portion includes basic conditioning and instruction in both downhill skiing and snowboarding, including five days in Boone, NC. Students can enroll in only one LFIT course during their career at Carolina.

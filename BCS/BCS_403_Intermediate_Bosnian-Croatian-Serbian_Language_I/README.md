@@ -1,0 +1,3 @@
+# BCS 403: Intermediate Bosnian-Croatian-Serbian Language I
+
+The second year of BCS instruction will continue to build grammar and communication skills for intermediate-low and heritage speakers. We will revisit and review many of the grammar concepts from the previous year while gradually incorporating new vocabulary and developing cultural competencies through a variety of authentic sources in the target language (comics, films, music, and others). In addition to in-class presentations, students will frequently work in pairs and collaborate on small projects.

@@ -1,0 +1,3 @@
+# NSCI 279: Microglia Laboratory
+
+In this laboratory course, students will utilize molecular biology techniques (e.g., immunohistochemistry and immunoassays) while developing and testing hypotheses regarding how environmental or experimental conditions alter microglia. Students will work in teams to design an experiment, and then collect, analyze, and report data. Students may only receive credit for one of: NSCI 274, 276, 277, 278 and 279. Neuroscience majors only.

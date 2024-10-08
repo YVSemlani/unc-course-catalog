@@ -1,0 +1,3 @@
+# BCB 718: Computational Modeling Laboratory
+
+This course provides a practical introduction to computational modeling of cellular systems. We will focus on how to choose and implement different modeling techniques-deterministic, stochastic, and inferred-to describe the same biological phenomenon. Although no formal mathematical or computational background is required, the course will involve a fair amount of programming in MATLAB.

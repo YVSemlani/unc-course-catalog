@@ -1,0 +1,3 @@
+# ENEC 432: Environmental Life Cycle Assessment
+
+Recommended preparation, ENEC 201, and MATH 110 or 130. This class will introduce students to environmental life cycle assessment (LCA). The methodology to calculate the environmental impacts associated with a product, a service, or a system will be reviewed through case studies in the field of energy systems, waste management, and eco-design. Students will also get a chance to learn how to perform a full LCA through a hands-on project using LCA software and databases.

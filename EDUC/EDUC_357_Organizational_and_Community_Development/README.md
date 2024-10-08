@@ -1,0 +1,3 @@
+# EDUC 357: Organizational and Community Development
+
+In this course, we make organizations an object of study. Together, we will ask: Where do organizations come from? What accounts for their success and failure? And, most importantly, what can each of us do to make the organizations that we are part of better serve us all? Organizations include hospitals, nursing homes, schools, neighborhoods, clubs, and various workplaces.

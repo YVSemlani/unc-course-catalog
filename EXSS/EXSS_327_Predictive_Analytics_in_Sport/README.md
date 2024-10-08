@@ -1,0 +1,3 @@
+# EXSS 327: Predictive Analytics in Sport
+
+This course is designed to provide students with an introduction to predictive analytics utilizing regression-based modeling approaches. As a CURE course, students will learn the iterative process of model building through trial and error and by working with other students on hands-on problems. At the conclusion of this course, students will be able to analyze sport-related data using predictive analytics, whether the dependent variable is continuous or binary in nature. Honors version available.

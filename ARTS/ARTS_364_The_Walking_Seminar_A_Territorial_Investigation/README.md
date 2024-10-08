@@ -1,0 +1,3 @@
+# ARTS 364: The Walking Seminar: A Territorial Investigation
+
+Recommended preparation, ARTS 104. This seminar engages students in a territorial investigation of the North Carolina landscape. Meandering through the landscape we will explore different art mediums while simultaneously fostering an appreciation for the natural environment. Through hiking and backpacking students will foster a means for understanding their location and documenting their experience.

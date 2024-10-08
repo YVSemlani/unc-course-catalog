@@ -1,0 +1,3 @@
+# ASIA 124: Iranian Post-1979 Cinema
+
+We examine the ways the medium has been used to incorporate political and social perspectives, challenge the government, and document the lives and struggles of Iranian people. Among the topics explored are Iranian culture and society, gender politics, ethnicity, attitudes about religion, role of children, and various schools of realism. Previously offered as ASIA 224.

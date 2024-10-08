@@ -1,0 +1,3 @@
+# ASIA 743: Age Studies in Chinese and Sinophone Media
+
+This course examines how old age has been problematized and negotiated in literature and media over the last four decades, when prolonged life expectancy initiated the shift of the PRC, Taiwan, and Hong Kong into aging societies. Engaging with age-themed literary and cinematic materials, spanning memoir and pathography to family melodrama, documentary, and science fiction, students will examine how old age is at once produced and problematized through cultural imaginations.

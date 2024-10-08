@@ -1,0 +1,3 @@
+# EMES 470: Estuarine and Coastal Marine Science
+
+For graduate students; undergraduate students should take ENEC 222 or have permission of the instructor. Introduction to estuarine environments: geomorphology, physical circulation, nutrient loading, primary and secondary production, carbon and nitrogen cycling, benthic processes and sedimentation. Considers human impacts on coastal systems, emphasizing North Carolina estuaries. Course previously offered as MASC 470.

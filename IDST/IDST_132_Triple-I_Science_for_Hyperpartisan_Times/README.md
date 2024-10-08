@@ -1,0 +1,3 @@
+# IDST 132: Triple-I: Science for Hyperpartisan Times
+
+This course aims to help students navigate the messy intersection of science, policy, and politics by teaching how the substance, history, presentation, and interpretation of science influence our understandings of the world. Students will: 1) analyze public discourse and debate about science, 2) consider how philosophies, data, and interpretations are created, delivered, and received, and 3) discuss how these factors - alongside partisan politics and bias from both sides of the aisle - influence science.

@@ -1,0 +1,3 @@
+# GLBL 492: Global Food Films
+
+Thinking about one of our most basic human needs illuminates aspects of our own everyday lives, such as our relationship to nature, other cultures, and to history, as well as our general assumptions about humanity. Students will study films that explore cross-cultural differences in the social and philosophical understandings of what it is to be human. Honors version available.

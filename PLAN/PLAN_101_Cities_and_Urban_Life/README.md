@@ -1,0 +1,3 @@
+# PLAN 101: Cities and Urban Life
+
+This course will introduce students to the topic of cities and urban life. Over 80% of the United States' population lives in cities or their suburbs, and over half of the world's population lives in urban areas. Studying cities and urban life is important to understanding how human societies have developed, how our households live and function, how our economies grow and innovate, how our culture develops and influences, and an array of other topics.

@@ -1,0 +1,3 @@
+# PUBH 752: Critical Appraisal of Health Literature II
+
+Emphasizes the process of critical appraisal of existing medical research literature, with examples from a variety of subject areas. Student presentations of structured critical appraisals constitute about 50 percent of sessions. Students must be enrolled in the Population Health for Clinicians Concentration or have permission of the instructor to enroll.

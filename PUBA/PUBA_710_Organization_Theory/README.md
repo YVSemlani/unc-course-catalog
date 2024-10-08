@@ -1,0 +1,3 @@
+# PUBA 710: Organization Theory
+
+Provides a conceptual and experiential grounding in theories of management and organizational operation. Students learn how to analyze organizations and their environments from multiple perspectives. Students systematically examine important dimensions of organizational life: what motivates people, how decisions are made, challenges of diversity, conflict, and power dynamics.

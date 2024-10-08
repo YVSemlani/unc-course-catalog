@@ -1,0 +1,3 @@
+# ASIA 721: Transnational Feminisms of the Middle East and South Asia
+
+This seminar introduces students to transnational feminisms of the Middle East and South Asia. It examines a diverse range of women's thought and responses to the global and the local in this part of the world, with a focus on theoretical paradigms and tools to better understand women in a global context. Research methods also emphasized in this seminar.

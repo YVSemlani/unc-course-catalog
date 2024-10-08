@@ -1,0 +1,3 @@
+# NDSS 460: Informational Technology and Analytics in Neurodiagnostics and Sleep Science
+
+A study and focus on information technology and analytics used specifically in Neurodiagnostics and Sleep Science. Emphasis is placed on development of the knowledge and competencies necessary for selective use and evaluation of research, data acquisition, computer transfer of acquisition studies, acquisition interpretations, and data management in the healthcare of Neurodiagnostic and Sleep Science patients.

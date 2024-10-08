@@ -1,0 +1,3 @@
+# HPM 797: Systems Thinking & Collective Impact
+
+This course is designed to help you become familiar with and thoughtfully apply a variety of practical, structured, systems thinking approaches to improve population health by changing aspects of care, service delivery systems, policy, and/or environments in which we live and work. We'll use these methods to both understand individuals' experiences as the foundation for driving change as well as to "zoom out" and see the broader system around a population health challenge.

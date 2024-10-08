@@ -1,0 +1,3 @@
+# PUBH 784: Project Management Strategy and Application
+
+This course presents classic project management concepts and methods, applicable to research, public health, healthcare, information science and other team projects, with an aim to develop a toolbox of strategies to effectively manage projects using globally accepted theoretical frameworks; practice is gained via assignments, cases, lectures, and course project.

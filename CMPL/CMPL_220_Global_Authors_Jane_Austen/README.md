@@ -1,0 +1,3 @@
+# CMPL 220: Global Authors: Jane Austen
+
+Fulfills a major core requirement. This course examines the fiction of Jane Austen and her literary and cultural influence across the globe. We will see echoes of Austen in novels and films from around the world and explore how her work transcends generational, cultural, and geographical boundaries. What is the secret of her global appeal? Honors version available.

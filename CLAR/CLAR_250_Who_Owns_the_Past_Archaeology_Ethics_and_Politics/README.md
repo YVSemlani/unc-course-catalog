@@ -1,0 +1,3 @@
+# CLAR 250: Who Owns the Past?: Archaeology, Ethics, and Politics
+
+Archaeology is all about the past, but it is embedded in the politics and realities of the present day. This course will introduce you to the ethical, moral, and political dimensions of archaeological sites and artifacts, especially in situations where the meaning and stewardship of ancient artifacts and monuments are under dispute. Honors version available.

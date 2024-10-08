@@ -1,0 +1,3 @@
+# BIOS 774: Advanced Machine Learning
+
+This advanced machine learning course, designed for PhD students in biostatistics and related fields, centers on cutting-edge tools in ML, encompassing theory, methods, and applications. It is motivated by complex biomedical data problems, offering in-depth exploration of technical details, model understanding, and the strengths and weaknesses of various approaches. The aim is to provide a comprehensive understanding of state-of-the-art ML tools for effectively analyzing and solving intricate biomedical data challenges.

@@ -1,0 +1,3 @@
+# APPL 493: Internship in Applied Physical Sciences
+
+An ideal internship provides students with practical experience in an organization outside of UNC, doing work that is relevant to their UNC education. The internship should develop and enhance the students' professional skill sets and involve experiences that allow students to have responsibility for results that are of value to the organization.

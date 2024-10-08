@@ -1,0 +1,3 @@
+# STOR 566: Introduction to Deep Learning
+
+Deep neural networks (DNNs) have been widely used for tackling numerous machine learning problems that were once believed to be challenging. With their remarkable ability of fitting training data, DNNs have achieved revolutionary successes in many fields such as computer vision, natural language progressing, and robotics. This is an introduction course to deep learning.

@@ -1,0 +1,3 @@
+# PLCY 710: The Discipline and Practice of Public Policy
+
+This course introduces students to the theoretical foundations and the analytical techniques to examine policy problems and design policy solutions. The course provides opportunities to put these foundations and techniques into practice by examining cases and by completing a set of memo writing assignments. It also conveys an appreciation for the ethical issues, values, and political context of government policy.

@@ -1,0 +1,3 @@
+# ASIA 342: Cultural Productions of East Asia
+
+This course introduces cultural productions of East Asia since the 20th century. We will learn about literature, film, food, philosophy, and political struggles of the nations that are grouped in the geographical category of East Asia. This course investigates those cultural productions within the frameworks of colonialism, globalization, gender relations as well as nationalism.

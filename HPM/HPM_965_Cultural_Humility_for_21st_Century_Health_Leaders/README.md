@@ -1,0 +1,3 @@
+# HPM 965: Cultural Humility for 21st Century Health Leaders
+
+We will examine the ways in which culture and cultural humility intersects with health, and how public health efforts (domestic-global) can benefit by understanding relationships between culture and health. Class sessions will be a combination of presentations by the instructor, class discussions, and student presentations. Two papers are required. DrPH students only.

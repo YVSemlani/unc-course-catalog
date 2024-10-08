@@ -1,0 +1,3 @@
+# EPID 787: Advanced Environmental Epidemiology
+
+Discussion of the epidemiology of environmentally-related disease and the application of epidemiologic concepts/methods to protecting public health from environmental hazards. Examples illustrate discussions regarding exposure assessment, dynamic nature of environments, regulation/assessment of environmental hazards, and methods used for environmental hazard identification and risk assessments.

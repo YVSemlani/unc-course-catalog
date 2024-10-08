@@ -1,0 +1,3 @@
+# NURS 311: Clinical Nursing Skills and Health Assessment II: On Campus Clinical II
+
+This is the second in a series of four on-campus clinical courses with application of advanced clinical nursing skills and comprehensive health assessment to specialized populations. This course emphasizes application of mental health and reproductive health concepts. The clinical environment is simulated to provide the application of nursing principles and skills. Majors only.

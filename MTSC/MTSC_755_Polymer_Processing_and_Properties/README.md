@@ -1,0 +1,3 @@
+# MTSC 755: Polymer Processing and Properties
+
+How does one process ultrahigh molecular weight polyethylene into ultra-strong fibers or how would you design a polymer shape-memory actuator? Polymer chemistry is important but equally important is the way how polymers are processed. In this course we will discuss the relationship between polymer chemistry, processing and the final, after processing, properties. (We will discuss different processing methods that are currently in use), and which parameters play a role in controlling the final properties.

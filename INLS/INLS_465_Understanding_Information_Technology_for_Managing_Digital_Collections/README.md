@@ -1,0 +1,3 @@
+# INLS 465: Understanding Information Technology for Managing Digital Collections
+
+Prepares students to be conversant with information technologies that underlie digital collections in order to evaluate the work of developers, delegate tasks, write requests for proposals, and establish policies and procedures. Teaches students how to think about information technology systems and recognize and manage interdependencies between parts of the systems.

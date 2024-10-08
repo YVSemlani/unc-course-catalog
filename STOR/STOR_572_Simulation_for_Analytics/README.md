@@ -1,0 +1,3 @@
+# STOR 572: Simulation for Analytics
+
+This upper-level-undergraduate and beginning-graduate-level course introduces the concepts of modeling, programming, and statistical analysis as they arise in stochastic computer simulations. Topics include modeling static and discrete-event simulations of stochastic systems, random number generation, random variate generation, simulation programming, and statistical analysis of simulation input and output.

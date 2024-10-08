@@ -1,0 +1,3 @@
+# PWAD 578: Transatlantic Relations and Contemporary Geo-Politics from the Cold War to the Present
+
+This course considers transatlantic relations in its security, political, and economic dimensions. The course also analyzes U.S. attempts to construct a more united European continent. It is the main aim of this course to give students a structured overview of transatlantic relations and geo-political developments from 1945 to the present.

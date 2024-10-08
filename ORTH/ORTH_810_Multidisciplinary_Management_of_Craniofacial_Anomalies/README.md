@@ -1,0 +1,3 @@
+# ORTH 810: Multidisciplinary Management of Craniofacial Anomalies
+
+This course introduces the graduate student to the management of patients with craniofacial anomalies using a multidisciplinary team approach. The course gives the graduate student a basic understanding of the role of specialties involved, the procedures, and timing of interventions in the management of craniofacial patients from birth to adulthood.

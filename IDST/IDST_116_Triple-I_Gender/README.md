@@ -1,0 +1,3 @@
+# IDST 116: Triple-I: Gender
+
+This course will consider gender through the lenses of three distinct disciplines. We will explore gender-related issues and consider how gender has been conceptualized, represented, and challenged throughout history. This course will establish a foundation from which students can think critically about gender from multiple perspective-personal, social, cultural, and political.

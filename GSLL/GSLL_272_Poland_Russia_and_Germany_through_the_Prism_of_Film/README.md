@@ -1,0 +1,3 @@
+# GSLL 272: Poland, Russia, and Germany through the Prism of Film
+
+Explore the relationship between Poland, Russia, and Germany from World War II until the present day, through films and readings that cover World War II, the fall of Communism in Europe, the Holocaust and the post-war situation of Jews, religious faith, Putin's politics, women's rights, and the current refugee situation in Germany. Film directors include Balabanov, Becker, Fassbinder, Kalatozov, Holland, Mikhalkov, Polanski, Wajda, and Wenders. Readings and class discussions in English. Films with English subtitles.

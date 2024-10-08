@@ -1,0 +1,3 @@
+# ITAL 241: The Renaissance Mind and Body
+
+An introduction to Renaissance Studies via a selection of texts and images from the period. The course teaches students to interpret, appreciate, and critique literary and visual expressions from the Italian Renaissance, while considering their aesthetic forms, rhetorical strategies, contexts, and functions in shaping subsequent ideas and ongoing arguments about the Renaissance in the longer history of Western and global cultures.

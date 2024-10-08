@@ -1,0 +1,3 @@
+# AMST 320: Critical Issues and Theories in American Studies
+
+This course will move through prevalent critical theories in American Studies. Students will come away with advanced understanding of theoretical concepts and be able to ascertain both the advantages and pitfalls of their landscapes. Students will become familiar with critical race (postcoloniality and settler-colonialism, for example), feminist, "queer" theories, historical materialism, new materialism, political economy, just to name a few. Previously offered as AMST 420.

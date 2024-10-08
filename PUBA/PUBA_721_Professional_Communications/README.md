@@ -1,0 +1,3 @@
+# PUBA 721: Professional Communications
+
+Prepares students to communicate clearly and effectively as public service leaders, which includes reading, listening, and thinking critically; writing and speaking clearly, concisely, and unambiguously; giving organized and convincing oral presentations; and using appropriate tools and tone in preparing oral and written communications for diverse audiences.

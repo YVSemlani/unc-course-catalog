@@ -1,0 +1,3 @@
+# PLAN 754: Natural Hazards Resilience Speaker Series
+
+Invited practitioners and scholars will discuss a range of pertinent topics, including research findings and experience in practice tied to disaster management and climate change adaptation. Speakers will include a range of officials, scholars, private sector representatives, media members, politicians, advocates, community leaders, and members of various professional associations.

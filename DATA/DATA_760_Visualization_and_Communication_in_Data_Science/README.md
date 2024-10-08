@@ -1,0 +1,3 @@
+# DATA 760: Visualization and Communication in Data Science
+
+This course will provide students with a foundational understanding of visual perceptional and data visualization design practices, provide instruction on using visualization for tasks such as exploratory analysis and storytelling to support both data-driven discovery and communication. The class will focus hands-on experiences with commonly used data science tools and technologies.

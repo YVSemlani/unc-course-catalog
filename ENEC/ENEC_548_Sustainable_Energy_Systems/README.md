@@ -1,0 +1,3 @@
+# ENEC 548: Sustainable Energy Systems
+
+This course will provide an introduction to urgent topics related to energy, sustainability, and the environment. The course material will focus on new technologies, policies, and plans in cities and different governing bodies in the energy system with a focus on developing tools to analyze energy for its sustainability, impact on people, the environment, and the economy.

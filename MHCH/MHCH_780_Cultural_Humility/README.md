@@ -1,0 +1,3 @@
+# MHCH 780: Cultural Humility
+
+Cultural Humility is part of the required training sequence for first-year MPH students in the Global Health concentration. This course provides students with the skills to work in culturally complex settings and to apply cultural humility when engaging in global health research and practice. This course is also designed to give students the skills to identify and effectively address ethical issues that arise in global health research and practice. MPH Global Health Concentration students only.

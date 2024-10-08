@@ -1,0 +1,3 @@
+# PUBA 738: Managing Local Government Services
+
+Students learn about the operations functions of local government. Each class will focus on a single local government department. Students will understand techniques and tools used to manage local governments effectively, efficiently, and equitably. Students learn the current issues, management trends, and problems associated with each local government department function.

@@ -1,0 +1,3 @@
+# DHYG 411: Death and Dying During Life's Experience
+
+This course is designed to provide the student with an awareness of the death and dying process. Emphasis will be placed on how the individual views death, societal views of death, coping with death and dying, the grieving process, the funeral process and working with terminally ill patients. An optional field trip will be scheduled to a local funeral home and/or crematorium.

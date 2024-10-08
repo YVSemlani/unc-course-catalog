@@ -1,0 +1,3 @@
+# AAAD 300: Cultures of Health and Healing in Africa
+
+This course explores contemporary economic, political, and social factors influencing the health and welfare of African peoples. Emphasis is placed on understanding the cultural perspectives that shape non-Western experiences of health, disease, and notions of spiritual and physical well-being. Readings draw from the fields of anthropology, history, and public health.

@@ -1,0 +1,3 @@
+# EMES 520: Data Analysis for Earth and Marine Sciences
+
+Introduction to quantitative analysis in earth and marine sciences: solid earth, atmospheres, oceans, geochemistry, and paleontology. Topics covered: univariate and multivariate statistics, testing, nonparametric methods, time series, spatial and cluster analysis, shapes. A required course for EMES graduate students. Course previously offered as GEOL 520.

@@ -1,0 +1,3 @@
+# PWAD 359: Comparative History of National Intelligence Regimes
+
+Explores the origins and evolution of national intelligence regimes in various countries throughout the latter half of the 20th century. Includes comparative examples from intelligence services in the United States, the Soviet Union and post-Soviet Russia, Israel, Great Britain, China, and Iraq. Applies historical knowledge to understanding current intelligence issues, such as telecommunications monitoring, drone warfare, and counterterrorism. Honors version available.

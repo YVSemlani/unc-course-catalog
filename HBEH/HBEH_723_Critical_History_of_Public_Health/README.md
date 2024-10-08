@@ -1,0 +1,3 @@
+# HBEH 723: Critical History of Public Health
+
+This course critically examines the history of public health as a mechanism for understanding current issues in public health. Using critical theory, students will analyze a variety of topics through a historical lens, critiquing the institutions, power dynamics, ideologies, practices, and consequences of various public health efforts, particularly as they relate to engaging with communities. Students should have at least one year of public health coursework.

@@ -1,0 +1,3 @@
+# ARTS 103: Sculpture I
+
+Studio course introduces concepts and strategies of working in three dimensions. Project-based coursework develops understanding of ideation process and creative problem solving. Ideas about sculpture are further expanded by considering works by contemporary artists. Students develop aesthetic sensibility, analytical capacity, and fundamental skills in sculptural media. Foundation requirement for studio majors.

@@ -1,0 +1,3 @@
+# PWAD 358: Cyber Security: Advanced and Persistent Threats to National Security
+
+Course investigates the concept, framework, and applications of cyber security; analyzes the relevant contextual background and current cyber security issues. Addresses cyber security from the perspective of the relevance of cyber security within national and international security policy formulation and implementation. Not a computer science nor information technology course.

@@ -1,0 +1,3 @@
+# GRAD 726: Executive Perspective: Business Fundamentals
+
+This seminar series will introduce students to many of the topics essential to the workplace including the structure and culture of a variety of organizations, interpersonal skills in the workplace, and more. Broadly, the series will reinforce concepts taught in the GRAD business fundamentals/professional skills classes by placing them in the context of career paths that are of interest to students.

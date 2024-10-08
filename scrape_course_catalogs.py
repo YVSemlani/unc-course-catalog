@@ -71,15 +71,7 @@ def scrape_course_catalog(department_code):
 
     return catalog_content
 
-def create_course_catalog_files():
-    # List of known department codes
-    department_codes = [
-        'COMP', 'MATH', 'ECON', 'BIOL', 'CHEM', 'PHYS',
-        'ENGL', 'HIST', 'POLI', 'PSYC', 'SOCI', 'ANTH',
-        'GEOG', 'GEOL', 'ENVR', 'BUSI', 'MEJO', 'LING',
-        'PHIL', 'RELI'
-    ]
-    
+def create_course_catalog_files(department_codes):
     # Iterate over each department code
     for dept in department_codes:
         print(f"Scraping catalog for {dept}...")
@@ -97,7 +89,12 @@ def create_course_catalog_files():
             print(f"No data found for {dept}\n")
 
 def main():
-    create_course_catalog_files()
+    # Read department codes from the file
+    with open('department_codes.txt', 'r') as file:
+        department_codes = [line.strip() for line in file if line.strip()]
+    
+    print(f"Loaded {len(department_codes)} department codes.")
+    create_course_catalog_files(department_codes)
     print("Scraping completed.")
 
 if __name__ == "__main__":

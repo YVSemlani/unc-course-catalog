@@ -1,0 +1,3 @@
+# EPID 704: Socially Responsible Epidemiology
+
+EPID 704 aims to provide level-setting and foundational content on ethics, equity, and anti-racism, with the goal of facilitating a transition into later equity content in the other epidemiology methods courses. Designed for first-year Epidemiology PhD students, second priority to Applied Epidemiology MPH students and permission of instructor required for others to enroll.

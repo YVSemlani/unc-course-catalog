@@ -1,0 +1,3 @@
+# ARTH 482: Art and Archaeology of Achaemenid Persia
+
+This course will examine the history and material culture of the ancient state known as the Achaemenid Persian Empire through ancient texts and archaeological sources. Beginning in the sixth century BCE, this ancient superpower ruled a vast and culturally diverse empire that stretched from Northern Libya to central Asia. Through an examination of key sites, objects, and texts we will explore the history and diversity of this multicultural empire.

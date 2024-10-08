@@ -1,0 +1,3 @@
+# AERO 500: Leadership Laboratory
+
+Required for all AFROTC cadets. The purpose of the LLAB program is to augment the AFROTC academic curriculum by providing prospective Air Force officers the opportunities and feedback needed to develop the leadership, managerial, and supervisory skills required of successful Air Force officers. The laboratory also offers insight into career opportunities in the USAF, life, and work of the USAF junior officer, and military ceremonies.

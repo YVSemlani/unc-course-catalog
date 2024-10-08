@@ -1,0 +1,3 @@
+# ITAL 320: Italian Cities and Cultures: History, Power, and Ecology
+
+Italy's urban landscape has played a role in the shaping of the very idea of the city throughout the centuries. However, a critical approach is imperative, an approach that takes into account how institutionalized power mechanisms have led to vast inequalities in access to the resources (economic, cultural, ecological) of urban centers and peripheries and thus contested versions of who has the right to the city.

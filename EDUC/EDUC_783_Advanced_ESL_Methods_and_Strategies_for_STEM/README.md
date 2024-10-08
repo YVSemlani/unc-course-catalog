@@ -1,0 +1,3 @@
+# EDUC 783: Advanced ESL Methods and Strategies for STEM
+
+This course will prepare teacher candidates for teaching Science and Mathematics and STEM content to emergent bilingual students at the elementary and secondary level. Specifically, it will focus on challenges emergent bilingual students may face when learning science and math in U.S. K-12 classrooms due to the language in which and the worldview from which the content is being taught.

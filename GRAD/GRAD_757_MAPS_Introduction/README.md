@@ -1,0 +1,3 @@
+# GRAD 757: MAPS Introduction
+
+MAPS: Introduction to Applied Professional Studies explores and expands upon the student's goals and intentions in relation to their career objective and its impact on the workforce. MAPS: Introduction to Applied Professional Studies strives to build a solid foundation in which students engage in self-assessment, meaningful exploration of values, reflection on career trajectory, analysis of workforce trends, and the impact of their professional development on the workforce.

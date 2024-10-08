@@ -1,0 +1,3 @@
+# HPM 966: Systems Thinking and Collective Impact
+
+This course has two parts, both focused on applying practical, structured systems thinking approaches to improve care, service delivery systems, policy, and/or environments in which we live. The first part of the course is person-centered applying systems thinking tools to understand individuals' experiences as the foundation for driving change. DrPH students only.

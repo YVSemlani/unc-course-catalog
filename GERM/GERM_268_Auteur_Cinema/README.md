@@ -1,0 +1,3 @@
+# GERM 268: Auteur Cinema
+
+We will explore the works of one or more German director(s). By watching a sample of a director's oeuvre over a significant period of time, students come to understand the director's arch, identify common threads in their films, and consider how his or her work relates to larger developments in German film history. Films with English subtitles; readings and discussions in English.

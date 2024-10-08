@@ -1,0 +1,3 @@
+# HBEH 749: mHealth for Behavior Change
+
+This special topics seminar examines the impact and potential of mobile health interventions and apps for health behavior change. The overall course objective is to understand state of the science and future potential to leverage mobile phones and wearable technologies in innovative and powerful behavior change interventions to improve health. The course considers adaptation of eHealth interventions for mobile delivery, unique opportunities with mHealth, data collection via mobile devices and sensors, and using the data.

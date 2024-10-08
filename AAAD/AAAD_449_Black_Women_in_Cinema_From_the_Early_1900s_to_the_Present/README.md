@@ -1,0 +1,3 @@
+# AAAD 449: Black Women in Cinema: From the Early 1900s to the Present
+
+This course interrogates the diverse representations that black women personified on screen, investigates intersections between their off-screen lives and on-screen images, and explores what and how they contributed to the cinema industry. This course is a theoretical, critical, and historical examination of the black woman's cinematic experience.

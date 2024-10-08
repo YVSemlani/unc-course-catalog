@@ -1,0 +1,3 @@
+# CLAR 270: Quantifying the Past: Big Data and Big Questions in Classical Archaeology
+
+This course is designed as an introductory course to the implementation of spatial data analysis in the field of classical archaeology. Students will be introduced to data collection, curation, and analysis in archaeology and given regular workshops in analytical methods used in the field, including Geographic Information Systems (GIS), drone photography and terrain modelling, and statistical analysis of archaeological databases. Students will learn to produce effective visualizations of spatial data.

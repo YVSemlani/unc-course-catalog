@@ -1,0 +1,3 @@
+# APPL 495: Mentored Research in Applied Sciences and Engineering
+
+Students undertake independent research with a faculty mentor. In order to register for this class, students must submit a learning contract and research proposal for approval. At the end of the semester, students submit a final report that describes their research. Students are encouraged to present their work either internally at UNC or externally at a conference or symposium.

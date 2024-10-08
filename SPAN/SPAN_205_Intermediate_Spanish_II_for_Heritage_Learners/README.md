@@ -1,0 +1,3 @@
+# SPAN 205: Intermediate Spanish II for Heritage Learners
+
+Students may not receive credit for both SPAN 204, and 205, and SPAN 212, or 402. This course is designed for the further development of language skills of Heritage Learners for better communication at the Intermediate level. Considers finer points of linguistic structure. Expands awareness of Spanish-speaking cultures through reading, inquiry, and class discussion.

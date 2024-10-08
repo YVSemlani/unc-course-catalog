@@ -1,0 +1,3 @@
+# EXSS 380: Neuromuscular Control and Learning
+
+This course introduces neuromuscular control and motor learning through a general understanding of neuroanatomy/neurophysiology, sensory contributions to human movement, initiation and regulation of voluntary movement, and the acquisition of motor skills. Course topics include central and peripheral nervous system functions in the production and regulation of human movement, neural pathways and control mechanisms, and enhancement of motor learning in the rehabilitation and training settings. Honors version available.

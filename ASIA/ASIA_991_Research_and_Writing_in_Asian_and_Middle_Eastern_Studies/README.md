@@ -1,0 +1,3 @@
+# ASIA 991: Research and Writing in Asian and Middle Eastern Studies
+
+This seminar guides students through the major stages and mechanics of thesis writing, including focusing your topic and research questions, finding primary and secondary sources, writing a prospectus and a literature review, developing your argument cohesively across chapters, organizing chapters, building a bibliography, proper citation, and formatting the thesis. The seminar serves as a forum for reading and presenting on academic scholarship in the field and as a writing workshop. DAMES MA students only.

@@ -1,0 +1,3 @@
+# ENEC 201: Introduction to Environment and Society
+
+Human-environment interactions are examined through analytical methods from the social sciences, humanities, and sciences. The focus is on the role of social, political, and economic factors in controlling interactions between society and the environment in historical and cultural contexts. Three lecture hours and one recitation hour a week. Honors version available.

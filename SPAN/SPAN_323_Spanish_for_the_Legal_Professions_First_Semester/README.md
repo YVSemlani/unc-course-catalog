@@ -1,0 +1,3 @@
+# SPAN 323: Spanish for the Legal Professions (First Semester)
+
+All-skills course with review of grammar and extensive writing and speaking. Vocabulary, readings, and activities geared toward the language of legal professions within the context of the Hispanic community.Students may receive credit for only one of SPAN 320, 321, or 323. Open only to students in the minor in Spanish for the professions.

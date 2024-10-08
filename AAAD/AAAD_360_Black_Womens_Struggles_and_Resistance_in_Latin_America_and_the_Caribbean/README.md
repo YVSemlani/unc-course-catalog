@@ -1,0 +1,3 @@
+# AAAD 360: Black Women's Struggles and Resistance in Latin America and the Caribbean
+
+This course surveys Black women's experiences living with and confronting state oppression in Latin America and the Caribbean. Black women experience similar patterns of political, social, and economic inequality in the region. Transnationally, racism, sexism, patriarchy, homophobia, and classism affect the quality of life of Black women, particularly within nation-states with legacies of slavery and colonialism. This course takes a historical, social, and theoretical look at the roots of this inequality.

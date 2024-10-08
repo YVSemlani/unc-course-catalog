@@ -1,0 +1,3 @@
+# ARTS 657: Movie Making Machines: Learning About Cinema in the Maker Space
+
+This projects-based seminar will introduce students to the fundamental optical and technological principles of motion pictures. By using the Maker Space to design and fabricate pinhole cameras, zoetropes, and 16mm film strips, students will gain a deep understanding of the material and technological foundations of the cinema, and the operating principles that are behind not only the classic films of Hollywood's past, but the high-definition digital imaging technologies of the present.

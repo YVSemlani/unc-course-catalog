@@ -1,0 +1,3 @@
+# MUSC 256: Advanced Beat Making Lab
+
+Building upon the foundations of MUSC 156, this course prepares students in professional beat making techniques within various settings of the music industry. The course implements a module-based instruction model, emphasizing student development in creating multiple extended play projects (EPs) with different utilizations (studio, live performance, screen) concluding with the development of a Final Portfolio review, using the computer-based DAW Ableton 11, MIDI controllers, and synthesizers and samplers accessed in the Music Department's Beat Lab.

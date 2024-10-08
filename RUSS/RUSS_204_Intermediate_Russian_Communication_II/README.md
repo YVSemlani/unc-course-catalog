@@ -1,0 +1,3 @@
+# RUSS 204: Intermediate Russian Communication II
+
+Skills for fluent speaking, writing, listening, and reading for intermediate-to-advanced learners. Develops and deepens learners' mastery of contemporary standard Russian. Stresses communication, individual expression, and fosters cultural sensitivity through systematic expansion of learners' ability to conduct conversations in contemporary standard Russian on a widening variety of culturally relevant subjects.

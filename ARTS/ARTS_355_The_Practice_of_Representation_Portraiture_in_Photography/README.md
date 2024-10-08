@@ -1,0 +1,3 @@
+# ARTS 355: The Practice of Representation: Portraiture in Photography
+
+This course examines the practical and theoretical issues of portraiture. Students will learn technical skills and conceptual strategies to engage with issues of representation and notions of identity. We will explore the history of the photographic portraiture as well as work of contemporary portrait artists working in a post-modern age.

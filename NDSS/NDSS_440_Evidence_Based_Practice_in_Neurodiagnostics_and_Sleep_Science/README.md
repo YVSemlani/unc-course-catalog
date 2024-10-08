@@ -1,0 +1,3 @@
+# NDSS 440: Evidence Based Practice in Neurodiagnostics and Sleep Science
+
+Admittance into NDSS program required. An Introduction to the concept of evidence-based practice and an opportunity to acquire the skills necessary to be able to incorporate evidence and best practices into professional work. These include an understanding of research methods and the approach to critical appraisal of research literature. (Fall, On demand).

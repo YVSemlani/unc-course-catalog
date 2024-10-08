@@ -1,0 +1,3 @@
+# EMES 201: Earth's Surface: Processes, Landforms, and History
+
+This course focuses on the biological, chemical, and physical processes that shape the surface of the earth. Major points of emphasis will include earth's climate, the global water cycle, geomorphic processes and the landforms they create, sedimentology and depositional environments, and elements of earth history recorded by earth surface processes. Course previously offered as GEOL 201.

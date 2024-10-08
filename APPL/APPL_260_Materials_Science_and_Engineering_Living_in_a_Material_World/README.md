@@ -1,0 +1,3 @@
+# APPL 260: Materials Science and Engineering: Living in a Material World
+
+This course will be an introduction to topics in materials science and with a strong focus on materials, processing and engineering and how design plays a pivotal role in materials selection. A central theme will be in-class demonstrations and hands-on experiments so you will experience first-hand why materials do what they do and how to select the appropriate material for the right application. It's a materials world after all!

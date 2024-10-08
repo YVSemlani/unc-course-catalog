@@ -1,0 +1,3 @@
+# GNET 730: Fundamentals of Quantitative Image Analysis for Light Microscopy
+
+This course is a practical introduction to quantitative analysis of light microscopy images. During the class students will follow tutorials that will guide them through common tasks in analysis of biological images. They will be introduced to basic concepts of image processing like image registration, filtering, object detection etc.

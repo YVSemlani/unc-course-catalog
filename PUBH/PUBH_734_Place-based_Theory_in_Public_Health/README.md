@@ -1,0 +1,3 @@
+# PUBH 734: Place-based Theory in Public Health
+
+This course addresses concepts of place-based public health including the histories of people, landscapes, landmarks, culture, structures, and/or other aspects of place and how they provide assets and barriers for a community's health. Students compare public health concepts of a place-based approach with multiple disciplines' perspectives on place. Students integrate concepts with visits to, and experiences with, people and health institutions in Western North Carolina. Fall.

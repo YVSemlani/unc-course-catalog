@@ -1,0 +1,3 @@
+# EXSS 700: Applied Statistics and Research Methods in Exercise and Sport Science
+
+Required preparation, undergraduate statistics course. Applied statistical analysis - interpretation of data from exercise and sport science. Emphasis: choosing method of analysis, using statistics software to run analyses. Major topics: experimental and nonexperimental research design, sampling, hypothesis testing, power calculation, t-tests, ANOVA, correlation, simple and multiple regression, and chi square.

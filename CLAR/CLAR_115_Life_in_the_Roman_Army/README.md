@@ -1,0 +1,3 @@
+# CLAR 115: Life in the Roman Army
+
+We examine one of the most important aspects related to the success and stability of the ancient Roman state-its military. Either as a model for contemporary powers or out of interest in the past, the Roman army has long been the focus of historical and archaeological inquiry. In this introductory course, you will be introduced to the written and material sources of knowledge about the Roman army.

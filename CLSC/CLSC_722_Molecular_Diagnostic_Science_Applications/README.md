@@ -1,0 +1,3 @@
+# CLSC 722: Molecular Diagnostic Science Applications
+
+This course covers the performance of basic and advanced techniques used in molecular testing, to include nucleic acid extraction, quantitation, hybridization, amplification, and analysis. Interpretation and quality control techniques are emphasized throughout the course. Students will learn about the different applications of molecular diagnostic testing in the clinical laboratory setting and understand how this testing is used to help patients. Previously offered as CLSC 720L. MCLS majors only.

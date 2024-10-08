@@ -1,0 +1,3 @@
+# NURS 310: Clinical Nursing Skills and Health Assessment I: On Campus Clinical I
+
+The first in a series of four on campus clinical courses, this course introduces foundational clinical nursing skills and integrates knowledge and skills of comprehensive health assessment for the adult and older adult. The clinical environment is simulated to provide the application of nursing principles and skills. Majors Only.

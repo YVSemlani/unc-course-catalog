@@ -1,0 +1,3 @@
+# PUBA 752: Productivity Improvement
+
+This course is designed to acquaint students with concepts associated with strategic planning, productivity improvement, the importance of innovative service delivery, the measurement of performance, the gauging of constituent satisfaction, the viability of major proposals offered for improving operations, and the techniques for improving effectiveness. The course prepares students to conduct productivity analyses and to design realistic strategies for improving organizational operations.

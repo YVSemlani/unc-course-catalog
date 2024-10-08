@@ -1,0 +1,3 @@
+# NURS 619: Experiencing Health Professions: A Service-Learning Partnership for Pre-Health Students
+
+This course provides experiential service opportunities for career exploration with select communities and populations associated with UNC Health. Students will be assigned to a role within the health system and will complete service hours within their assigned role. Class sessions will include topics related to healthcare and will develop skills in reflection, communication, and teamwork for career development. Does not count as an elective in the BIOL major or minor. Permission of instructor.

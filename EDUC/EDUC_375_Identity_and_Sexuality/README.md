@@ -1,0 +1,3 @@
+# EDUC 375: Identity and Sexuality
+
+This course will guide students in the examination of the vital role that sexuality, sexual identity, gender, race and class play in families, communities, and educational settings. These and other socio-cultural factors, which often intersect and are embedded in historic ways of constructing what it means to be "normal," fundamentally shape how individuals understand themselves, their place in the world, as well as others around them.

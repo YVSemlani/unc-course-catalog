@@ -1,0 +1,3 @@
+# AAAD 102: Introduction to Media in Africa
+
+This course explores the precolonial, colonial, and the contemporary media in Africa. It focuses on the different types of media, its impact on socioeconomic and political development, and the growth and development of internet in the region. It introduces students to the inventors, copyright regulations, African governments' media regulation statutes, and careers in the media industry in the continent.

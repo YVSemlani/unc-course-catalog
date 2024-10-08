@@ -1,0 +1,3 @@
+# BIOS 760: Advanced Probability and Statistical Inference I
+
+Measure space, sigma-field, measurable functions, integration, conditional probability, distribution functions, characteristic functions, convergence modes, SLLN, CLT, Cramer-Wold device, delta method, U-statistics, martingale central limit theorem, UMVUE, estimating function, MLE, Cramer-Rao lower bound, information bounds, LeCam's lemmas, consistency, efficiency, EM algorithm.

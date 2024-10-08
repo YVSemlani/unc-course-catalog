@@ -1,0 +1,3 @@
+# PHRS 811: Regulatory Strategy
+
+This advanced pharmaceutical science course will train students to integrate strategic business needs, risk assessment, and risk management when developing a regulatory plan. Using case studies and team projects, students will learn to start with the end in mind, analyze critical product life cycle events, and leverage previous experience to successfully achieve regulatory goals. This graduate-level applied course will be taught synchronously and involve significant interaction with the course instructor other students.

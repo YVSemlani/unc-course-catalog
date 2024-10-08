@@ -1,0 +1,3 @@
+# EDUC 879: Causal Inference in Educational Research
+
+The seminar will explore issues related to causal inference in educational research and discuss several research designs that are well-suited for making causal inferences. We will draw upon the counter-factual model of causality to discuss what it means to observe a cause and effect relationship and then focus on the problems researchers regularly encounter. The course will provide a detailed discussion of a wide range of experimental and quasi-experimental research designs.

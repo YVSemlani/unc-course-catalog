@@ -1,0 +1,3 @@
+# SPAN 681: Spanish Semantics
+
+This course is an upper undergraduate/graduate-level introduction to the study of the meaning of words and sentences, with a focus on Spanish. It covers the following topics: truth-conditional theories of meaning, modality, quantification, reference, tense and aspect, Aktionsart. The course also addresses cross-linguistic data collection, e.g., field work and experimental methods.

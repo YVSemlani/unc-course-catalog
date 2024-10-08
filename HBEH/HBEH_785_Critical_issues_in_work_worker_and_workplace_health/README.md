@@ -1,0 +1,3 @@
+# HBEH 785: Critical issues in work, worker and workplace health
+
+This course prepares students to contribute as members of an interdisciplinary team to protect and promote workers' health. Students will learn that work is a social determinant of health and explore the context in which worker health protection/promotion practitioners work. Students will be able to summarize key regulations and policies that impact work and worker health.

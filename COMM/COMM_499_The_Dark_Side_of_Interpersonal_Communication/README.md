@@ -1,0 +1,3 @@
+# COMM 499: The Dark Side of Interpersonal Communication
+
+The "dark side" of communication is a metaphor describing the study of disruptive, dysfunctional, distorted, distressing, and destructive aspects of communication. This course explores humanity's darker side that allows us to reject, exclude, stigmatize, exploit, objectify, misguide, lie, and cheat. The course examines various theoretical perspectives and applies them to everyday problems in interpersonal encounters. A sample of topics discussed include: prejudice, stigma, marginalization, bullying, ostracism, resistance, manipulation, conformity, deceit, gossip, rumors, infidelity, and revenge.

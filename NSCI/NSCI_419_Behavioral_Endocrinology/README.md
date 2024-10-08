@@ -1,0 +1,3 @@
+# NSCI 419: Behavioral Endocrinology
+
+The endocrine and nervous systems interact with each other in complex ways to influence behavioral processes. In this course, we will discuss the ways by which hormones regulate homeostatic and social behaviors, learning, stress responses, and affective disorders, among others. Additionally, we will read scientific articles to learn about advances in the field of neuroendocrinology.

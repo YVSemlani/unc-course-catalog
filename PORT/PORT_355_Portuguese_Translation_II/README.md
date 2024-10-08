@@ -1,0 +1,3 @@
+# PORT 355: Portuguese Translation II
+
+Refines translation skills in cultural and consumer-oriented, financial, legal, literary, medical, and technical domains. Emphasis on expanding written proficiency and refining style, translating representative texts from diverse populations in the United States and in Portuguese-speaking countries, and demonstrating advanced lexical and grammatical proficiency in Portuguese.

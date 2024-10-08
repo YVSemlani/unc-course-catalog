@@ -1,0 +1,3 @@
+# PUBH 743: Climate Change and Human Health
+
+This course will produce foundational knowledge for public health professionals to understand and help mitigate the global and regional human health impacts of climate change. This course leverages the expertise of experts in Asheville at the National Centers for Environmental Information and the Climate Program Office within the National Oceanic and Atmospheric Administration (NOAA).

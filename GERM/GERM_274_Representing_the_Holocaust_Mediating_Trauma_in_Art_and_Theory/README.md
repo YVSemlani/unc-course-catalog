@@ -1,0 +1,3 @@
+# GERM 274: Representing the Holocaust: Mediating Trauma in Art and Theory
+
+This course will explore artistic mediations of the Holocaust in literature, film, and beyond. It focuses on questions of representation, authenticity, appropriateness and uniqueness, the role of memory, the problems and limits of language in articulating the Shoah, and issues of trauma and justice. Readings and class discussions in English. Previously offered as GSLL 274.

@@ -1,0 +1,3 @@
+# HPM 953: Essentials of Practice Based Research
+
+Designed to provide Dr.P.H. students with grounding in basic quantitative and qualitative research techniques used in health services research. Topics include types of research designs, measurement scales and coding nomenclatures, analytical techniques for quantitative data, research techniques for primary data collection, research opportunities with secondary data, and qualitative research methods.

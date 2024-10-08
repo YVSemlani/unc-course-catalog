@@ -1,0 +1,3 @@
+# SOWO 790: Population Health: Interprofessional Management in a Changing Healthcare System
+
+This interprofessional education course focuses on preparing healthcare professionals with the foundational skills needed to work in teams to effectively collaborate and coordinate care in population health. Admission to the School of Nursing graduate program or graduate students in any of the Health Affairs Schools with permission of instructor required.

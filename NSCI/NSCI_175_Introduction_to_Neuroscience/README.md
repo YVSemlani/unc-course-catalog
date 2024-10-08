@@ -1,0 +1,3 @@
+# NSCI 175: Introduction to Neuroscience
+
+Provides an introduction to the structure and function of the nervous system. Fundamental principles will be introduced including nervous system anatomy; molecular and cellular properties of the nervous system; sensory and motor systems; current methods used in neuroscience; and how the nervous system produces behavior and cognition. This course provides greater breadth and depth of neuroscience topics, as compared to Biopsychology (PSYC 220). Previously offered as PSYC 175 and 315. Honors version available.

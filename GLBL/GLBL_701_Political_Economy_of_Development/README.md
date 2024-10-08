@@ -1,0 +1,3 @@
+# GLBL 701: Political Economy of Development
+
+Presents foundational theories, concepts, and empirical research regarding the political economy of development. In content, course will define this topic broadly, from considering the political and economic dynamics of the international community (e.g., aid) as well as the intersection of economics and politics in comparative perspective (e.g., democratization and development).

@@ -1,0 +1,3 @@
+# PUBA 760: Law for Public Administration
+
+Introduction to basic law subjects likely to be encountered in public administration. Topics include constitutional foundations, due process and equal protection, and First Amendment rights; property, contracts, employment, torts, criminal law, administrative law, and public ethics laws; and basic legal research, managing litigation, and working with lawyers.

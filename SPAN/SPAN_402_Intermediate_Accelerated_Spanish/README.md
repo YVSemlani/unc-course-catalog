@@ -1,0 +1,3 @@
+# SPAN 402: Intermediate Accelerated Spanish
+
+A continuation of SPAN 401, covers levels three and four in one semester. Develops all skills, with increasing emphasis on reading, writing, and cultural analysis. Designed for highly motivated undergraduate/graduate language learners, especially those who have experienced success with learning another language. Prepares students for advanced courses. Students may not receive credit for both SPAN 402 and SPAN 203, SPAN 204 or SPAN 212.

@@ -1,0 +1,3 @@
+# GERM 244: Reason and Passion in German Literature and Thought
+
+This course introduces students to the most important authors of the Enlightenment and Romanticism, with a focus on the German philosophical and literary tradition. The course will focus on how these authors negotiated tensions between overwhelming affects and the demands of rationality: a problem of ethical, political, and personal importance with which we are still grappling. Readings and discussions in English.

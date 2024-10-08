@@ -1,0 +1,3 @@
+# PLCY 355: Restorative Justice
+
+Students will explore the Restorative Justice movement in the United States. Local advocates from indigenous communities and racial equity initiatives will present and participate in this class. Students will have opportunities to understand the success and limitation of Restorative Justice in prisons, schools, and communities and will develop an understanding of how racism underpins systemic injustice.

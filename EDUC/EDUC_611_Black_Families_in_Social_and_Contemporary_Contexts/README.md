@@ -1,0 +1,3 @@
+# EDUC 611: Black Families in Social and Contemporary Contexts
+
+This course examines the diversity of Black families in the United States with a focus on the intersection of race, class, gender. The course examines theoretical and practical knowledge needed to develop and promote and maintain healthy Black families and identities. The course considers how historical trauma, slavery, the social construction of race, Blackness, political, and economic factors impact the well-being of Black children, youth, and adults within relationships, families, and social institutions.

@@ -1,0 +1,3 @@
+# IDST 120: Triple-I: Myths, Moons, and Methods
+
+This course focuses on astronomy as it developed in the ancient Mediterranean and early modern Europe, from astronomy's early beginnings as a means to keep calendars and the underpinnings of mythology, to its central role for developing natural sciences during the early modern period. Students will acquire skills to understand how different epochs interpreted the generation of knowledge; how their interpretations were influenced by their culture, mythology, and religion; and how science arrives at knowledge.

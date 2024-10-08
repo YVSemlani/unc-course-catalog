@@ -1,0 +1,3 @@
+# HBEH 531: Community Engagement and Assessment to Advance Health Equity and Social Justice
+
+Engaging communities to identify their strengths, needs and priorities and determine action steps to address them is at the core of public health practice. Conducting a health assessment with communities is an essential public health function required in local and global contexts. This class will examine approaches to the assessment process, compare qualitative and quantitative data collection methods, and examine strategies for ensuring effective and equitable community engagement throughout the assessment process.

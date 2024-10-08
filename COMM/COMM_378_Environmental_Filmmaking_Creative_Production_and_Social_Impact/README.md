@@ -1,0 +1,3 @@
+# COMM 378: Environmental Filmmaking: Creative Production and Social Impact
+
+A workshop to study and create non-fiction films about the environment. The course examines aesthetic, narrative, and representational strategies with an eye to how these films can contribute to critical conversations about our species' impact on the natural world. Special attention will be paid to questions of environmental justice and the disproportionate effects of environmental hazards on communities of color and low-income communities. Previously offered as COMM 622.

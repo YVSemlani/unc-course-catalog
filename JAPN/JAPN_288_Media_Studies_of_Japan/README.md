@@ -1,0 +1,3 @@
+# JAPN 288: Media Studies of Japan
+
+This course introduces Japanese thoughts and culture through the lens of media cultural studies, and studies socio-cultural issues of Japan through media productions and trends. We will learn about Japan's nationalism and imperialism, gender and family ideologies, post-Bubble economic misery and homelessness, memories of war, feminist and minority struggles, working culture, technology, and post-Fukushima philosophy of survival in film, commercials, print media, news, and TV shows.

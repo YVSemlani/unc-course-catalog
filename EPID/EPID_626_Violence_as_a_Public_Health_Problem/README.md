@@ -1,0 +1,3 @@
+# EPID 626: Violence as a Public Health Problem
+
+This course covers core concepts in violence prevention and control, including the epidemiology of violence, prevention strategies for inter-personal and intra-personal violence, behavioral models that describe power structures that reinforce personal and societal factors affecting self-harm and violence towards others, and violence directed towards children and adolescents.

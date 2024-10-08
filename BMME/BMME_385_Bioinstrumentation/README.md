@@ -1,0 +1,3 @@
+# BMME 385: Bioinstrumentation
+
+Fundamentals of biomedical instrument design and implementation. Topics include basic electronic circuit design, analysis of medical instrumentation circuits, analog-to-digital signal conversion, biosignal capture and storage, embedded microprocessors, system integration, and prototyping. This course is a lecture course with a project component. Previously offered as BMME 465. Majors only.

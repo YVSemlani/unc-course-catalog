@@ -1,0 +1,3 @@
+# PUBA 753: Performance Management in Local Government
+
+The purpose of Performance Management in Local Government is to introduce students to how local officials measure the inputs, outputs, and outcomes of service delivery and how they use these performance data for making management and policy decisions. The course also includes how local officials use other types of data to information decision-making, including content analysis, benchmarking, financial condition analysis, and benefit-cost analysis.

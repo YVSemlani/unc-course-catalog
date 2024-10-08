@@ -1,0 +1,3 @@
+# WGST 101: Introduction to Women's and Gender Studies
+
+An interdisciplinary exploration of the intersections of gender, race, class, and sexuality in American society and internationally. Topics include work; sexuality; gender relations, and images of women in literature, art, and science; and the history of feminist movements. Course readings are drawn from the humanities and the social sciences. Honors version available.

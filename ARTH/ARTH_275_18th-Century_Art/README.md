@@ -1,0 +1,3 @@
+# ARTH 275: 18th-Century Art
+
+An introductory survey of 18th century European visual culture, from painting and sculpture to art markets and the decorative arts. This class works closely with art objects in person at the Ackland Museum of Art and Wilson Special Collections. Central themes in the class include Europe's relationship to the world, the sociology of the art world, and how art objects are made.

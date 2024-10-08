@@ -1,0 +1,3 @@
+# ARMY 202: Army Doctrine and Team Development
+
+This course examines the challenges of leading teams in the complex operational environment. Highlights dimensions of terrain analysis, patrolling, and operation orders. Further study of the theoretical basis of the Army leadership requirements model explores the dynamics of adaptive leadership in the context of military operations. Required for cadets.

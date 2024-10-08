@@ -1,0 +1,3 @@
+# JAPN 451: Swords, Tea Bowls, and Woodblock Prints: Exploring Japanese Material Culture
+
+This course surveys Japanese material culture. Each week we will examine a different genre of visual or material culture in terms of its production, circulation through time and space, and modern deployment in narratives of national identity. This course includes regular engagement with the Ackland Art Museum at UNC.

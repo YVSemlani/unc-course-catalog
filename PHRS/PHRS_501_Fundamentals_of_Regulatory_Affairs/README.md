@@ -1,0 +1,3 @@
+# PHRS 501: Fundamentals of Regulatory Affairs
+
+This foundational pharmaceutical science course will provide an overview of regulatory affairs with a focus on global pharmaceutical product development. Students will learn about medical product regulation in the United States and key international markets. Students will also learn about the process for obtaining and maintaining marketing approval along with tools and approaches used by regulatory professionals. This didactic course will be taught asynchronously but will include regular touch points.

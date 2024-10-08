@@ -1,0 +1,3 @@
+# PORT 402: Intermediate Accelerated Brazilian Portuguese II
+
+A continuation of PORT 401, covers levels three and four in one semester. Develops all skills, with increasing emphasis on reading, writing, and cultural analysis. Designed for highly motivated undergraduate/graduate language learners, especially those who have experienced success with learning another language. Prepares students for advanced courses. Students may not receive credit for both PORT 402 and PORT 203, PORT 204 or PORT 212.

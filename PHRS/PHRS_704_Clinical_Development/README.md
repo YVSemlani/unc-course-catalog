@@ -1,0 +1,3 @@
+# PHRS 704: Clinical Development
+
+This foundational pharmaceutical science course will cover clinical aspects of pharmaceutical product development and contributions to the regulatory process. Students will study the phases of clinical development and considerations for trial design, conduct, and evaluation of data. Students will also learn about bioethics and differences in clinical research in the US and key international markets. This graduate-level didactic course will be taught asynchronously but will include regular touch points with course instructors and other students.

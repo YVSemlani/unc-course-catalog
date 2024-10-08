@@ -1,0 +1,3 @@
+# SWAH 401: Elementary Kiswahili I
+
+This course is the first part of Elementary Swahili. Students will be introduced to the basic elements of Standard Swahili language and culture. At the end of this course, students are expected to reach Novice High according to the American Council on the Teaching of Foreign Languages (ACTFL) proficiency guidelines. In addition to Swahili language, students are exposed to topics on socioeconomic issues in East Africa, for example, greetings and social norms, nutrition and housing.

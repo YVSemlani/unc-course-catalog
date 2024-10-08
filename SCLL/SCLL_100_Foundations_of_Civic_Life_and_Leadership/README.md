@@ -1,0 +1,3 @@
+# SCLL 100: Foundations of Civic Life and Leadership
+
+This course provides an understanding of the big questions surrounding civic life and leadership. Part I uses classic texts of politics, philosophy, and literature to examine the role of the state in society and the tensions that exist between individual freedom and the powers of the state. Part II focuses on the American founding to understand the American experiment in democracy. Part III covers a set of controversies in modern civic life. Honors version available.

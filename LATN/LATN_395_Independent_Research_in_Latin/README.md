@@ -1,0 +1,3 @@
+# LATN 395: Independent Research in Latin
+
+This course allows a student to design and execute an independent research project under the supervision of a faculty member. Although the specifics will be determined on a case-by-case basis by the student and the faculty supervisor, the project will normally involve the careful study of key primary sources and engagement with relevant scholarship, and culminate in a major research paper (around 25 pages) or a suitable equivalent in another format (e.g., website, video). Permission of the Instructor.

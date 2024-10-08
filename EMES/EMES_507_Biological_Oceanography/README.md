@@ -1,0 +1,3 @@
+# EMES 507: Biological Oceanography
+
+For graduate students; undergraduates need permission of the instructor. Marine ecosystem processes pertaining to the structure, function, and ecological interactions of biological communities; management of biological resources; taxonomy and natural history of pelagic and benthic marine organisms. Three lecture and recitation hours per week. One mandatory weekend fieldtrip. Course previously offered as MASC 504.

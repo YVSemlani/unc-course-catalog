@@ -1,0 +1,3 @@
+# DHYG 495: Research Methodology
+
+This course will include topics designed to familiarize the student with the research process from planning a research project and implementing the research plan to evaluating results obtained, and writing a scientific paper. The primary emphasis will be on relating topics to research in dentistry and dental hygiene. Students will learn how to search literature, critique research study design, assess and evaluate research articles, write annotated bibliographies, craft. Restricted to Dental Hygiene students.

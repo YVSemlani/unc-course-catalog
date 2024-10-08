@@ -1,0 +1,3 @@
+# EMES 709: Proposal Writing
+
+This course provides a broad view of cutting-edge research across the geo- and marine sciences and develops proposal-writing skills. Proposals follow the NSF Earth Sciences Postdoctoral Fellowships program guidelines and involve peer review and oral presentations. Students will hone their critical thinking and scientific writing skills. They will learn how to craft project objectives and working hypotheses, explain the significance of the problem, outline broader implications, and effectively design a research plan.

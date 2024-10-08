@@ -1,0 +1,3 @@
+# PUBH 754: Research Frameworks and Methods for Assessing and Improving Population Health
+
+This course is designed to provide students with the fundamental research and analytic methods needed by public health leaders to assess the effectiveness, efficiency, and equity of healthcare in order to improve population health. The focus will be on research skills needed by practitioners with the objective of improving health outcomes.

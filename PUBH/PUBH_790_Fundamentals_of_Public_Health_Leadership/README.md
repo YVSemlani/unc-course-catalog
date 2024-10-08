@@ -1,0 +1,3 @@
+# PUBH 790: Fundamentals of Public Health Leadership
+
+This course is designed to gain a deeper insight into their own and others' leadership styles, behaviors, and emotional intelligence. Students will engage in a day-long active-learning workshop every other week and access videos, readings and assignments online. Students will engage with the instructor and peers in person via reflection journals, large and small group activities, leadership assessments. Students will produce a leadership development plan and generate a set of professional goals.

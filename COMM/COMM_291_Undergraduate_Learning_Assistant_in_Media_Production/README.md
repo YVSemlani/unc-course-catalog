@@ -1,0 +1,3 @@
+# COMM 291: Undergraduate Learning Assistant in Media Production
+
+Instruction is a path to deep understanding. This ULA is for the student interested in pedagogy and media production. In assisting students currently enrolled in COMM 130 labs, the intern extends and complements the skills they acquired in introductory Media Production classes. Typical tasks include equipment and software instruction, as well as conceptual and aesthetic consultation. ULA model themes: pedagogy, content, and practice.

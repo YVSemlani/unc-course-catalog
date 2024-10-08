@@ -1,0 +1,3 @@
+# GERM 475: Different than the Others: Stories of Queer German Liberation, 1864-2021
+
+This English-language seminar introduces students to over 150 years of LGBTQ+ repression and liberation in German-speaking Europe, from the prohibition of same-sex acts in 1871 to the present, through the lens of German literature and film. Readings and class discussions in English. Previously offered as GERM 282.

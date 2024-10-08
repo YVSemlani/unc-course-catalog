@@ -1,0 +1,3 @@
+# PLAN 634: International Transportation Planning
+
+This course introduces students to international transportation planning, taking into consideration history, governance, finance, and operations. Transportation planning as a field is highly diverse. How transportation engineers and planners think about moving goods and people differs across the globe. This course sets out to expose you to how the transportation planning practice differs across the world by looking at best practices such as bus rapid transit, people-oriented street design, congestion pricing--to name a few.

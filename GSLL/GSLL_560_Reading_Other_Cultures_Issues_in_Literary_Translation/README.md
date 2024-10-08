@@ -1,0 +1,3 @@
+# GSLL 560: Reading Other Cultures: Issues in Literary Translation
+
+Permission of the instructor. Reading knowledge of a language other than English recommended. Starting from the proposition that cultural literacy would be impossible without reliance on translations, this course addresses fundamental issues in the practice, art, and politics of literary translation. Previously offered as SLAV 560.

@@ -1,0 +1,3 @@
+# EDUC 410: Families and Communities in Diverse Contexts for Youth
+
+This course is an exploration of the research and theory about programs that promote youth development and prevent youth problems in the diverse contexts where youth function (i.e., home, school, outside of school activities, sports, peer networks, etc.). Career options (e.g., social work, law enforcement, teaching, and community outreach work) will also be explored through sociocultural lenses.

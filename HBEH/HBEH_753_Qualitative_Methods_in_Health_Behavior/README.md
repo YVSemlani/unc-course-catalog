@@ -1,0 +1,3 @@
+# HBEH 753: Qualitative Methods in Health Behavior
+
+Approaches to designing qualitative research studies for the development and evaluation of public health programs. Emphasis is on the practice of collecting and analyzing data from individual interviews, focus group discussions, and observations. All students in the course are required to have completed CITI Human Subjects Training. Information on completing the training can be found at the CITI website: http://www.citiprogram.org/default.asp?language=english.

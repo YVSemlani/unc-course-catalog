@@ -1,0 +1,3 @@
+# EDUC 724: Parent and Community Engagement for the School Executive
+
+Focus on the environmental context of family and community engagement. Research-based best practices applied to an identified local school site, where analyses of school/district initiatives, policies, and practices are examined through a social justice lens. Review federal/state legislation and compliance to ensure the rights of parents and guardians.

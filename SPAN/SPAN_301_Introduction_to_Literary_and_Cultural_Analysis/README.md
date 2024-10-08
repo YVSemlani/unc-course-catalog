@@ -1,0 +1,3 @@
+# SPAN 301: Introduction to Literary and Cultural Analysis
+
+Prepares students to formulate and communicate critical analyses of literary works in at least three genres chosen from theater, poetry, essay, narrative, and film while situating the readings within a cultural context. Students will improve Spanish language proficiency and appreciation of different world views through literature and culture. Previously offered as SPAN 260. Students may not receive credit for both SPAN 301 and SPAN 260 or 302. Honors version available.

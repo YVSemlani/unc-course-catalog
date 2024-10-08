@@ -1,0 +1,3 @@
+# WGST 695: Senior Seminar: Principles of Feminist Inquiry
+
+Required preparation, at least one additional WGST course and senior standing or permission of the instructor. Required for majors; strongly recommended for minors. An advanced writing-intensive course drawing on a student's interests and background. Major research of specific topics utilizing feminist perspectives. Honors version available.

@@ -1,0 +1,3 @@
+# PUBH 723: The Political Determinants of Health
+
+The course uses Daniel Dawes' "The Political Determinants of Health" as its foundational text, with additional readings and resources to further supplement the students' understanding of how the political determinants - voting, government and public policy - operate to structure decisions and systems that allocate opportunities for people and communities to be healthy, to succeed and to thrive...or not.

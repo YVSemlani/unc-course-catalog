@@ -1,0 +1,3 @@
+# ENEC 512: Advanced Coastal Environmental Change
+
+This 3-credit seminar-style class for graduate students and advanced undergraduate students focuses on developing a deeper understanding of coastal environmental change as illuminated by the scientific literature, including topics such as climate change impacts; coupled human-natural coastal dynamics; feedbacks between biological and physical processes; carbon storage and flux; adaptive coastal management; and the role of science, policy and communication in coastal resilience. Course previously offered as ENEC 710/GEOL 710/MASC 730.

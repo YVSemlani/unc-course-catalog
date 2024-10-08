@@ -1,0 +1,3 @@
+# APPL 405: Convergent Engineering: Team-Science Approaches to Discovery and Innovation
+
+Students will participate in activities, group discussion, and problem-solving coaching to understand how chemistry, physics, materials science, and biology are applied to engineering. Topics are introduced through discussing relevant scientific literature, and guest lecturers and faculty discuss expertise in fields like mathematical modeling, mechanical engineering, or circuit design. Guest lecturers can provide new perspective on the problems, so students gain an interdisciplinary view of the subject.

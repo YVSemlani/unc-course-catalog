@@ -1,0 +1,3 @@
+# CBPH 710: Advanced Light Microscopy
+
+An intensive and comprehensive hands-on laboratory-oriented course in light microscopy for researchers in biology, medicine, and materials science. This course will focus on advanced quantitative fluorescence microscopy techniques used for imaging a range of biological specimens, from whole organisms, to tissues, to cells, and to single molecules. This course emphasizes the quantitative issues that are critical to the proper interpretation of images obtained with light microscopes.

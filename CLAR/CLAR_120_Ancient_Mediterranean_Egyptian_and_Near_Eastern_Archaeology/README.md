@@ -1,0 +1,3 @@
+# CLAR 120: Ancient Mediterranean, Egyptian, and Near Eastern Archaeology
+
+An introduction to Mediterranean, Egyptian, and Near Eastern archaeology through the examination of archaeological sites from the Neolithic period (ca. 9000 BCE) to the Roman Empire (fourth century CE). The sites, geographic and cultural areas, and chronological periods of study vary depending on instructor. Does not satisfy classical archaeology major requirements. Honors version available.

@@ -1,0 +1,3 @@
+# BMME 486: Biomedical Instrumentation Design and Prototyping II
+
+Students will build upon skills learned in BMME 386 and assume project leadership roles as well as team management roles for more complex projects involving design, fabrication, assembly, testing, deployment, and incorporation of user feedback in the design and fabrication of components and systems for research and technology development in biomedical engineering. Students will interact with highly experienced faculty to develop and deploy design solutions for BME laboratories and technology spin-outs.

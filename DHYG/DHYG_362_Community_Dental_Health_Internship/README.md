@@ -1,0 +1,3 @@
+# DHYG 362: Community Dental Health Internship
+
+This course is designed to help the senior dental hygiene student to apply the knowledge gained in DHYG 352 about assessing, planning, implementing and evaluating a dental health program plan for an assigned community of people. The assigned communities include Smart Start Centers, Senior Centers and Nursing and Rehabilitation Centers. Students will work in groups to visit the assigned centers and develop and carry out a dental health program during the semester.

@@ -1,0 +1,3 @@
+# EXSS 155: Human Anatomy and Physiology I
+
+This course is targeted to students enrolled in Department of Exercise and Sport Science majors as well as other students with interest in medical professions. This course involves a systematic approach to human anatomy and physiology with an emphasis on the musculoskeletal, articular and nervous systems as well as anatomical terminology and homeostasis. No prerequisites are required. Honors version available.

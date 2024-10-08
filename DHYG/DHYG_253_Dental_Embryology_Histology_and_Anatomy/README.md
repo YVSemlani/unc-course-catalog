@@ -1,0 +1,3 @@
+# DHYG 253: Dental Embryology, Histology, and Anatomy
+
+This course involves the study of basic dental terminology, tooth form, function, tooth morphology, eruption, exfoliation patterns, anatomy and physiology of the teeth and oral structures along with anatomic structures of the head and neck. This course also involves the study of histologic structure of elements in the head and neck region with emphasis on embryonic development of the orofacial region. In this course students will participate in both lecture and laboratory activities. Restricted to Dental Hygiene Program students.

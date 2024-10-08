@@ -1,0 +1,3 @@
+# EDUC 518: Exploring Public Pedagogies through Popular Culture
+
+The generally accepted broad understanding of the term "public pedagogy" is that it refers to "the learning and education happening outside of formal schooling systems." Public pedagogy as a growing field explores how "spaces of learning such as popular culture, the Internet, public spaces such as museums and parks, and other civic and commercial spaces, including both old and new social movements," are potential "sites of pedagogy containing possibilities for both reproduction and resistance."

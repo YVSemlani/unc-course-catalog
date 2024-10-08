@@ -1,0 +1,3 @@
+# PHCO 737: Target-Based Drug Discovery and Cancer Treatment
+
+A lecture/discussion course that emphasizes preclinical and clinical studies for the development of anti-cancer drugs that target signal transduction. Topics include: target identification and validation, drug discovery, the process of government approval for clinical trials, design of clinical trials, and new genetic-based technologies to foster drug development.

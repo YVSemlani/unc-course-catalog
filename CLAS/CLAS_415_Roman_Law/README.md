@@ -1,0 +1,3 @@
+# CLAS 415: Roman Law
+
+This course combines a survey of the main areas of Roman law in their social and historical context with the close study of primary texts illustrating Roman law in practice, especially case studies from the writings of Roman legal experts; particular attention is given to the logic and application of ancient Roman legal thought and to its social and ethical implications. Honors version available.

@@ -1,0 +1,3 @@
+# PLCY 790: Social Entrepreneurship
+
+This graduate-level course aims to offer a broad overview of the emerging field of social entrepreneurship. Social entrepreneurship is about creating novel, scalable, and sustainable solutions for critical social problems, using tools and techniques commonly associated with business entrepreneurship. Students will explore concepts, theories, and applications associated with social entrepreneurship. The course will involve reading, discussions, presentations, teamwork, and written assignments.

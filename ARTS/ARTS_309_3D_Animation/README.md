@@ -1,0 +1,3 @@
+# ARTS 309: 3D Animation
+
+The primary goals of this class are to introduce students to three-dimensional computer modeling and animation in Maya. While the particular focus of the class is 3D character animation and most students will produce a short 3D animation as their final project, students may also explore a broad range of creative applications and avenues for development, including special effects, compositing with video, and motion graphics.

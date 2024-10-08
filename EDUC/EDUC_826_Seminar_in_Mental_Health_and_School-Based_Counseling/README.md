@@ -1,0 +1,3 @@
+# EDUC 826: Seminar in Mental Health and School-Based Counseling
+
+This course provides an overview of some of the major mental health problems facing children and adolescents. Equips students entering the school counseling profession with pivotal knowledge needed to develop and implement comprehensive school counseling programs that include collaborative approaches to addressing mental health and wellness. An emphasis will be placed on cognitive-behavioral research-based methods and strategies for addressing emotional and behavioral difficulties of the most prevalent mental health diagnoses of children and adolescents.

@@ -1,0 +1,3 @@
+# PWAD 300: Apology, Forgiveness, and Reconciliation - The Case of Northern Ireland
+
+The course, which will take place in Belfast, Northern Ireland, aims to answer the following question: What does it take for an individual and a group to heal? And what does reconciliation mean and look like? The platform of Northern Ireland's conflict (aka ''The Trouble'') will be used to understand the challenges and successes of healing on an individual and group level. The course will provide a nuanced understanding of apology and forgiveness.

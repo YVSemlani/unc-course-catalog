@@ -1,0 +1,3 @@
+# PLAN 372: Introduction to Urban Data Analytics
+
+This course introduces the techniques and tools used to assemble, manage, and analyze many types of data used to support decision-making in urban environments. Students will learn to work with messy and incomplete datasets, an important part of the course will be learning to clean and analyze imperfect data. The goal of this course is to prepare students to apply urban data analytics in practice.

@@ -1,0 +1,3 @@
+# LTAM 350: The United States and Latin America
+
+A thematic examination of US-Latin America relations spanning the 19th century to the present through multi-disciplinary perspectives and inter-disciplinary methodologies, including popular culture, film, original documents, and social science scholarship. To explore the evolving US-Latin America "relationship," the ways in which North Americans and Latin Americans came to know each other, through frequent encounters and close engagement, not only as a matter of government-to-government and state-to-state relations but also as people-to-people contacts and culture-to-culture exchanges.

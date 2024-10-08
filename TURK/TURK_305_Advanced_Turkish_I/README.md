@@ -1,0 +1,3 @@
+# TURK 305: Advanced Turkish I
+
+Students in this advanced class will explore various discourses through media and literature in order to develop a deeper understanding of modern Turkish language. This is a hybrid/blended course taught synchronically with the same course at Duke University, taking advantage of the best aspects of both face-to-face and online instruction with the use of technology to enhance the classroom experience.

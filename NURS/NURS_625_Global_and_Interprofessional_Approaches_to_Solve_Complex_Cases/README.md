@@ -1,0 +1,3 @@
+# NURS 625: Global and Interprofessional Approaches to Solve Complex Cases
+
+This course uses a case-based approach to assist students to identify and critically examine challenging issues in health care, develop presentation skills as well as critical thinking from an interprofessional perspective. Students will work in interprofessional teams on a global complex case. Using this approach, students will attain the knowledge necessary to analyze and present results for a comprehensive case at the individual, organizational, and community levels. Open to undergraduate students with permission from instructor.

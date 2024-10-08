@@ -1,0 +1,3 @@
+# NUTR 405: Fundamentals of Food and Nutrition Policy in Public Health
+
+This course focuses on food and nutrition policy on a federal, state, and local level. Topics covered include policy formation, interest/consumer advocacy groups, key legislation, how research informs policy, equity and diversity, global food policy issues, sustainability and health, advocacy, and current public health nutrition policy hot topics and examples.

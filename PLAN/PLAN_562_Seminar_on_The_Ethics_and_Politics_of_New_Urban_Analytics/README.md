@@ -1,0 +1,3 @@
+# PLAN 562: Seminar on The Ethics and Politics of New Urban Analytics
+
+While there is no consistent definition of what smart cities are, urban spaces blanketed with ubiquitous and heterogeneous sensor networks that are constantly monitoring the vitality of the city are becoming common place. Such continuous surveillance raises deep political and ethical questions as well as questions about institutional reconfiguration. We will examine urban analytics platforms and interrogate them from a variety of lenses, including privacy, equity, and probity. Previously offered as PLAN 673.

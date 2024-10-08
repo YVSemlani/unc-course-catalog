@@ -1,0 +1,3 @@
+# PLCY 730: Ethics and Public Policy
+
+This course offers students an advanced, practice-oriented overview of the ethical dimensions of public policy. Students will learn to recognize the ethical questions raised by public policy problems, develop and defend solutions to these questions, and complete professional policy briefs and analyses concerning ethically contentious policy problems. The course will also reflect on the appropriate role of ethical thinking in public policy and the professional obligations of a public policy leader.

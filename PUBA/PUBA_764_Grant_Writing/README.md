@@ -1,0 +1,3 @@
+# PUBA 764: Grant Writing
+
+This course is designed to acquaint students with the grant seeking process for not-for-profit and public sector agencies. Through a review of specific writing techniques, students will practice and learn how to produce proposals that are comprehensive, cogent, and accountable to the objectives of the grantor agency. Students may not receive credit for both PUBA 763 and PUBA 764.

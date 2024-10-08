@@ -1,0 +1,3 @@
+# CRMH 802: Practicum in Clinical Rehabilitation & Mental Health Counseling
+
+Practicum in Clinical Rehabilitation & Mental Health Counseling Provides students the opportunity to apply knowledge and counseling skills in a clinical setting and move to a more advanced level of counseling skill. Includes clinical training in assessing lethality, identifying and reporting abuse, counselor safety, Rehabilitation Counseling ethics, and HIPAA review.

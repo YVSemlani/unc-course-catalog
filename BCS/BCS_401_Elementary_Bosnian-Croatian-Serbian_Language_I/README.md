@@ -1,0 +1,3 @@
+# BCS 401: Elementary Bosnian-Croatian-Serbian Language I
+
+This course is designed for new learners and heritage speakers of BCS who wish to develop elementary proficiency in four major language competencies: listening, speaking, reading, and writing. It introduces key linguistic and sociocultural aspects of contemporary BCS and will be a valuable asset to students looking to reconnect with their family heritage, visit the region or simply get acquainted with this major Slavic language and its history.

@@ -1,0 +1,3 @@
+# ASIA 742: Indigenous Ecologies in Literatures of China and Taiwan
+
+This seminar applies theories from Postcolonial Ecocriticism and Sinophone Studies to analyze diverse Indigenous ecologies in environmental literature from China and Taiwan. We read poems, philosophy, and fiction featuring the cosmologies of Han and Uyghur farmers, Tibetan, Mongolian, and Kazakh nomads, Indigenous Taiwanese hunters and fishers, and Hmong foragers, analyzing relational ontologies among humans, non-human animals, assemblages, and ecosystems. Knowledge of Chinese language, literature, history, or philosophy recommended but not required.

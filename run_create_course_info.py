@@ -42,18 +42,18 @@ def create_course_folders(catalog_file, department_code, base_dir):
 
         print(f"Created folder and README for {department_code} {course_number}")
 
+def read_department_codes(file_path):
+    with open(file_path, 'r') as file:
+        return [line.strip() for line in file if line.strip()]
+
 def run_create_course_info():
-    # List of known department codes
-    department_codes = [
-        'COMP', 'MATH', 'ECON', 'BIOL', 'CHEM', 'PHYS',
-        'ENGL', 'HIST', 'POLI', 'PSYC', 'SOCI', 'ANTH',
-        'GEOG', 'GEOL', 'ENVR', 'BUSI', 'MEJO', 'LING',
-        'PHIL', 'RELI'
-    ]
+    # Read department codes from the text file
+    department_codes_file = 'department_codes.txt'
+    department_codes = read_department_codes(department_codes_file)
 
     # Step 1: Create or update course_catalog.txt files
     print("Step 1: Creating/updating course_catalog.txt files")
-    create_course_catalog_files()
+    create_course_catalog_files(department_codes)
 
     # Step 2: Create individual course folders and README files
     print("\nStep 2: Creating individual course folders and README files")

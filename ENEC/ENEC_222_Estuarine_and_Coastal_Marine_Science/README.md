@@ -1,0 +1,3 @@
+# ENEC 222: Estuarine and Coastal Marine Science
+
+Introduction to the estuarine and coastal environment: geomorphology, physical circulation, nutrient loading, primary and secondary production, carbon and nitrogen cycling, benthic processes, and sedimentation. Consideration given to human impact on coastal systems with emphasis on North Carolina estuaries and sounds. Includes a mandatory weekend field trip and laboratory.

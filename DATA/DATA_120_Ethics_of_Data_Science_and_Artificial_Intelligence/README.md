@@ -1,0 +1,3 @@
+# DATA 120: Ethics of Data Science and Artificial Intelligence
+
+In an era of rapid advancements in data science and AI, ethical concerns related to data-intensive technologies are now of utmost importance. This course immerses students in data science ethics, facilitating a comprehensive exploration of the intricate interplay between data and societal values. By nurturing critical thinking grounded in ethical theories, this course provides students with a strong foundation in designing and analyzing data-intensive ecosystems that emphasize values such as fairness, accountability, ethics, and transparency.

@@ -1,0 +1,3 @@
+# HBEH 754: Advanced Qualitative Research Methods in Health Behavior and Health Research
+
+This course provides advanced graduate students in public health and related fields the opportunity to explore different analytic approaches and techniques and develop analysis and writing skills. Students will apply methods they learn to analyze, interpret and write-up the results of their own qualitative research.

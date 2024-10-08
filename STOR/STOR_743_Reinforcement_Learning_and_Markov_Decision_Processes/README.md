@@ -1,0 +1,3 @@
+# STOR 743: Reinforcement Learning and Markov Decision Processes
+
+Markov decision processes (stochastic dynamic programming): finite horizon, infinite horizon, discounted and average-cost criteria; reinforcement learning(RL): design and analysis of model-free, model-based, value-based, and policy-based RL algorithms, RL algorithms in continuous and discrete state and action space, and RL with functional approximation. These algorithms include but are not limited to (deep) Q-learning, asynchronous advantage actor-critic, soft actor-critic, and proximal policy optimization.

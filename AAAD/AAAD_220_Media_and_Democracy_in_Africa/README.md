@@ -1,0 +1,3 @@
+# AAAD 220: Media and Democracy in Africa
+
+This course centers on the role of media in democratic governance in Africa. In particular, the course introduces to students political and normative theoretical bases for understanding the responsibility of the press in various forms of democracy, freedom of expression, and news influence on politics. Students will also explore and criticize the electoral processes and dynamics in electoral campaigns. The legal pressure on media during the elections and other times when African governments face scrutiny

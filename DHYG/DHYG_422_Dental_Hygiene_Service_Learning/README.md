@@ -1,0 +1,3 @@
+# DHYG 422: Dental Hygiene Service Learning
+
+The course is designed to provide the student with service learning experiences to provide oral health screenings, patient education/oral hygiene instructions and referral services in a community-based setting serving special needs individuals. The course will allow the student to integrate and apply a broad scope of curriculum content knowledge and clinical skills in a community-based setting. Faculty mentors will facilitate the service learning opportunities with those students selected for participation in this course.

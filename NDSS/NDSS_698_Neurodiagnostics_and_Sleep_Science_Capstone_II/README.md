@@ -1,0 +1,3 @@
+# NDSS 698: Neurodiagnostics and Sleep Science Capstone II
+
+This course is a continuation of NDSS 697. Students complete a research project and presentation culminating from the undergraduate course of study. Project topics provide students the opportunity to summarize, evaluate, and integrate knowledge gained throughout the undergraduate major. Teaching methods include direct student exposure and significant time spent in a healthcare, clinical, or educational environment that is specific to practice interests. NDSS majors only.

@@ -1,0 +1,3 @@
+# HPM 789: Master's Paper Development
+
+Second-year M.S.P.H. students in HPM only. Course supports the year-long master's paper process. Broad topics related to the development and management of a research project are covered. The Master's Paper Proposal Defense at the end of the Fall Semester, and the Final Master's Paper, as approved by the student's First and Second Readers at the end of the Spring Semester, are critical steps to meet the UNC Graduate School's requirements for graduation. M.S.P.H. students only.

@@ -1,0 +1,3 @@
+# PLAN 787: Applied Environmental Finance: How to Pay for Environmental Services
+
+How can governments, communities, organizations, and businesses fund environmental services? This applied course reviews the diverse tools and strategies that environmental service providers use to pay for programs. The course will focus on environmental services related to: drinking water, wastewater, storm-water, watershed protection, energy efficiency, renewable energy, sustainability, and wetlands.

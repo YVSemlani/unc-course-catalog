@@ -1,0 +1,3 @@
+# MTSC 765: Electronic Materials and Devices - Organic and Inorganic
+
+The course introduces the electronic and optical processes in organic molecules and polymers that govern the behavior of practical organic optoelectronic devices. The course begins with an overview of fundamental science of electronic materials and devices. We then discuss their optoelectronic properties of organic molecules, including topics from photophysics, charge transport and injection. Emphasis will be equally placed on the use of both inorganic and organic electronic materials in organic electronic devices.

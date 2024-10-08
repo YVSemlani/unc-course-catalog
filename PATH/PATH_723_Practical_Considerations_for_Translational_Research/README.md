@@ -1,0 +1,3 @@
+# PATH 723: Practical Considerations for Translational Research
+
+Permission of the instructor. A multi-disciplinary course providing students principles involved in translating basic science into clinically applicable diagnostics and therapies to improve human disease outcomes. The course is focused on bioinformatics, bioethics, trial design, FDA approval, and commercialization of laboratory diagnostics.

@@ -1,0 +1,3 @@
+# EDUC 516: Introduction to the Education of Exceptional Learners
+
+Offers an overview of the special education field and its relevance to the classroom teacher. The course is based on an interdisciplinary perspective toward serving exceptional learners and collaboratively coordinating services. Course content emphasizes inclusive programming and the teacher's role in facilitating students' unique learning needs.

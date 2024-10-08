@@ -1,0 +1,3 @@
+# COMM 422: Family Communication
+
+Growth in technologies, more frequent travel, and movements of products and people across the borders of nation states change concepts of family and community. Foregrounded by these realities, this course combines theories of family and communication with documentation of lived experience to interrogate family communication patterns in contemporary culture. Honors version available.

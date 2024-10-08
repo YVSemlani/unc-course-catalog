@@ -1,0 +1,3 @@
+# AMST 330: del norte a norte: An American Songbook
+
+Through the examination of a variety of song cultures and its artistic and cultural expressions, we explore the interdisciplinary methods of American studies and contemporary approaches to the study of American society and cultures, with an emphasis on musical performance. In partnership with Carolina Performing Arts, students will learn about the sociocultural, aesthetic, and critical components of song cultures associated with social change, exploring identity, diversity, privilege, cultures, and justice while participating in community service.

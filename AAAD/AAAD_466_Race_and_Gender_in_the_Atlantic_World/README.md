@@ -1,0 +1,3 @@
+# AAAD 466: Race and Gender in the Atlantic World
+
+This course examines constructions of race and gender in a comparative framework from the fifteenth to the mid-nineteenth century. Students will explore how people across the Atlantic understood visual differences and human diversity in emerging concepts of race. Students will also focus on how inhabitants of Africa, Europe, North America, and South America constructed the category of "woman" and "man" and the constraints and liberties these constructions imposed.

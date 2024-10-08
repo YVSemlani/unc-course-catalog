@@ -1,0 +1,3 @@
+# NBIO 723: Cellular and Molecular Neurobiology
+
+Block one covers neural stem cells, glial development, neural cell death and neurotrophin. The second block introduces the sensory pathways of vision, audition, taste, olfaction, pain, and touch, and the motor pathways of the spinal cord, basal ganglia, cerebellum, and motor cortex. Includes sensory information processing, motor execution, peripheral and central mechanisms of pain. Final block covers CNS imaging, regeneration, and such diseases as Alzheimer's, ALS, Parkinson's, epilepsy, addiction, autism, and schizophrenia. Permission of the department required.

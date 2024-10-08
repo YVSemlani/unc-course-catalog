@@ -1,0 +1,3 @@
+# ITAL 735: Boccaccio Between the Lines
+
+A reading of Boccaccio's Decameron and minor works in their cultural contexts. Topics of extended focus may include civic values, representations of gender, positive and natural law, pandemic, hygiene and sanitation; narrative structure, epistemology, authorship, translation and censorship, manuscript culture, genre theory, and the Decameron's afterlife in the age of Covid-19.

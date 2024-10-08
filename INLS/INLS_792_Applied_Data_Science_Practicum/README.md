@@ -1,0 +1,3 @@
+# INLS 792: Applied Data Science Practicum
+
+The Applied Data Science Practicum course is designed to build upon the formal classroom instruction in data science concepts and technologies through a "hands-on" project experience within an industry, non-profit or other work environment that relates to the student's primary field of study/practice. The aim is to provide students with a practical learning opportunity to apply data science techniques on real-world problems. Permission of Instructor required for this course.

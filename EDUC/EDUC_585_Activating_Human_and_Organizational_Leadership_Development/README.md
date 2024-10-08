@@ -1,0 +1,3 @@
+# EDUC 585: Activating Human and Organizational Leadership Development
+
+This course provides an integrative learning experience that prepares students to apply academic learning acquired in previous coursework to real-life situations likely to be encountered in the internship experience and throughout their careers. The project-based approach is intended to culminate learning about human development and organizational theory and provide an opportunity to practice and prepare for their capstone experience. Majors only.

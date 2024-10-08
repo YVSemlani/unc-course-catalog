@@ -1,0 +1,3 @@
+# PLAN 656: Climate Change Impacts and Adaptation
+
+An introduction to climate change impacts and adaptation for undergraduate juniors and seniors and graduate students. The focus of this course is understanding how social and environmental systems interact to create risk and damage. This course prepares students to design and implement adaptation strategies for organizations of all types, from businesses to government agencies. Students will learn to integrate information about climate hazards, natural systems, built infrastructure, and socioeconomic systems. Previously offered as PLAN 756. Restricted to juniors, seniors, and graduate students only.

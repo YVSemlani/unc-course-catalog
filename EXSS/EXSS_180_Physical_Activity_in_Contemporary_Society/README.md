@@ -1,0 +1,3 @@
+# EXSS 180: Physical Activity in Contemporary Society
+
+This course is designed to examine of the role of physical activity/inactivity on the health and well-being of American society. Through reading, discussion, writing and critical thinking, students will explore what it means to be physically active, the importance of physical activity, and some of the barriers and facilitators that impact the ability of various individuals to participate in physical activity.

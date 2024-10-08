@@ -1,0 +1,3 @@
+# EDUC 140: Sources of Strength Leadership
+
+This course is characterized by three major components: 1.) training student leaders in basic principles of prevention science and strengths-based approaches; 2.) providing space, guidance, and support to facilitate the creation and execution of community campaigns to promote building and harnessing of protective factors; 3.) easing the transition to college by welcoming students into a supportive and small cohort, building relationships with faculty, and learning real-life applications of the psychological science of wellbeing.

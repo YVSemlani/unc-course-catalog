@@ -1,0 +1,3 @@
+# EDUC 572: Psychology of Creativity
+
+How do people create? How do people learn to be creative? This class will introduce you to the latest scientific understandings of how creativity works. You'll actively engage in the creative process, in four different domains, such as creative writing and music production. We'll connect these experiences to the latest science of how creativity works, in psychology and in other disciplines.

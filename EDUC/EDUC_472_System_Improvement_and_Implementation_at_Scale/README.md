@@ -1,0 +1,3 @@
+# EDUC 472: System Improvement and Implementation at Scale
+
+A collaborative, experiential, and data-driven course for understanding and facilitating organizational learning and change. Students will complete an "improvement research project" based on their own personal interests and/or in partnership with practitioners in an organizational setting. Students will direct their course of study around three core questions: What is the specific problem I am trying to solve? What change might I introduce and why? How will I know whether the change is actually an improvement?

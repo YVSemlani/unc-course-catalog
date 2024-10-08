@@ -1,0 +1,3 @@
+# HBEH 705: Lesbian, Gay, Bisexual, Transgender and Queer Health: A Population Perspective
+
+This seminar course explores health challenges faced by LGBT populations. Discussions will span a variety of health behaviors and outcomes, determinants of health, developmental stages, identities, and settings. Students will be able to identify conceptual frameworks and considerations relevant in LGBT health research and practice.

@@ -1,0 +1,3 @@
+# EMES 473: The Changing Coasts of Carolina
+
+A rigorous combination of field work, lab work, and colorful, original contemporary writing on the natural world will help tell the story of our many, evolving North Carolina coasts. Combining marine science and the creative literary arts, this immersive course will explore issues of change over many eras. This combination of social, cultural, and scientific observation will lead to imaginatively constructed, well-written non-fiction reportage about one of North America's most productive, compelling, and challenging regions.

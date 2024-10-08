@@ -1,0 +1,3 @@
+# PLCY 740: Personal and Professional Conflict Management
+
+This course aims to provide students with the tools necessary to most effectively engage in personal and professional conflicts, by focusing on both internal and external factors and influences. The first half of the course will be focused on the internal conflicts we struggle with and dedicated to understanding ourselves better. The second half of the course will be dedicated to managing conflicts externally, both in a personal setting and in a professional setting.

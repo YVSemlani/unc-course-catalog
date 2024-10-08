@@ -1,0 +1,3 @@
+# SPAN 212: Modified Intensive Intermediate Spanish I
+
+A continuation of SPAN 111. Class meets five days per week (MTWRF) for a total of six hours of instruction. In-depth recycling of SPAN 111 material while providing alternative teaching and learning strategies to cover the material of SPAN 203. Additional focus on modified reading and writing strategies, as well as opportunities for further cultural enrichment. Students may not receive credit for both SPAN 212 and SPAN 203. Permission of the instructor required.

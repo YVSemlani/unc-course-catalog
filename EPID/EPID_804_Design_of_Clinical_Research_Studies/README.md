@@ -1,0 +1,3 @@
+# EPID 804: Design of Clinical Research Studies
+
+Permission required for nonmajors. Clinical research majors only. The goals of this course are to develop a strong fundamental understanding of the design of clinical research studies; to understand selection of study populations, exposure and outcome measurement, and choice of appropriate measures; to understand ethical oversight, project management and quality control.

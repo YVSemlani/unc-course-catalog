@@ -1,0 +1,3 @@
+# PUBA 772: Mediation Skills for Public Managers
+
+Examination of ombudsman and mediation principles, roles, ethics and techniques in public sector. Students are expected to develop mediation skills through observation, in-class practice and feedback. Models of mediation are compared and shared in class their application and/or adaptation of mediation to their current or desired public sector duties. An introduction to dispute systems design frames how mediation, and its variants can benefit students' public service. May not be taken in addition to PUBA 768.

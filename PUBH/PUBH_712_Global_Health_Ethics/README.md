@@ -1,0 +1,3 @@
+# PUBH 712: Global Health Ethics
+
+This course will introduce students to the theoretical and practical aspects of public health ethics. Develop student's analytical skills to evaluate ethical issues related to public health policy, prevention, treatment, and research. Topics include: ethical reasoning; concepts of justice; principles of interacting with communities; professional conduct and research. Online course.

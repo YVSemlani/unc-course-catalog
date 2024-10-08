@@ -1,0 +1,3 @@
+# GSLL 286: The Upright and the Toppled: Public Lives of Monuments in Europe and the American South
+
+Recent years have seen a worldwide push for emancipatory acts of iconoclasm: calls to "topple" monuments as emblems of social oppression. This course examines cases of contested and demolished monuments in contexts close to home (the Carolina campus) and geographically remote (Poland, Prague). If demolishing a monument can be a violent act, how might visual objects in public space exert their own forces of violence? Readings and discussions in English.

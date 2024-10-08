@@ -1,0 +1,3 @@
+# ARAB 211: Arab Comics
+
+This course examines the history and present production and circulation of comics in the Arab world. It explores how comics and graphic novels provide an alternative lens for learning about the Arab world, while at the same time introducing students to this form of art and medium of communication. Readings are composed of both primary materials in translation (comics books, graphic novels, webcomics) and secondary readings that provide historical, social, and cultural context.

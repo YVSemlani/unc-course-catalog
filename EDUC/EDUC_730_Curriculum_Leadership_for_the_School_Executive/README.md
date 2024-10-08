@@ -1,0 +1,3 @@
+# EDUC 730: Curriculum Leadership for the School Executive
+
+Applies curriculum skills required of school executives today, including the development of an alternative school schedule with a different curricular focus; analysis of test data to discern achievement trends; test item deconstruction; instructional mapping; and the creation of a group-based curriculum management plan for a specific elementary or secondary school.

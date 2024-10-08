@@ -1,0 +1,3 @@
+# MUSC 151: Introduction to the American Stage Musical
+
+A topical survey of musical theater repertoire from its early inception in 18th-century Europe to current 21st-century incarnations. Various stylistic approaches, historical periods, and creative contributions to the genre will be explored. Examination of case studies through diverse perspectives of class, gender and race will situate the repertoire in a broad artistic and social context.

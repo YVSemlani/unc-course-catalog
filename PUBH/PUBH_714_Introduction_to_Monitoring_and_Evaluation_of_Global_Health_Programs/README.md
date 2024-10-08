@@ -1,0 +1,3 @@
+# PUBH 714: Introduction to Monitoring and Evaluation of Global Health Programs
+
+Fundamental concepts/tools for monitoring/evaluating public health programs including HIV/AIDS/STDs, maternal/child health, environment, and nutrition. Concepts and practices in M&E will be covered: logic models, theory of change, indicators, data collection methods, process evaluation, research design, and mixed methods. Small group work to create M&E plan for global health case-study. Online.

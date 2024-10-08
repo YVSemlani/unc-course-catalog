@@ -1,0 +1,3 @@
+# AMST 715: Community Histories and Public Humanities
+
+Community Histories and Public Humanities explores how communities have been, are, and might be preserved, documented, represented, and remembered. Focuses on the use of digitized primary sources and tools to engage communities in public history/humanities initiatives using interdisciplinary approaches informed by American Studies and Folklore. Participants have opportunity to work on ongoing community history/archiving projects. Project-based work is supported by reading in memory studies, representation, sites of trauma, community archiving, and oral history.

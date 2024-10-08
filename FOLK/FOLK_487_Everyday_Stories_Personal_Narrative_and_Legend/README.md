@@ -1,0 +1,3 @@
+# FOLK 487: Everyday Stories: Personal Narrative and Legend
+
+Oral storytelling may seem old-fashioned, but we tell true (or possibly true) stories every day. We will study personal narratives (about our own experiences) and legends (about improbable, intriguing events), exploring the techniques and structures that make them effective communication tools and the influence of different contexts and audiences.

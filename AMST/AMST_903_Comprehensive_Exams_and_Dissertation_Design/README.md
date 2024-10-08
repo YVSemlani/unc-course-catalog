@@ -1,0 +1,3 @@
+# AMST 903: Comprehensive Exams and Dissertation Design
+
+This is the third and final course in a required sequence for PhD students in the Department of American Studies. It is intended to scaffold you into "ABD" status: the concentrated period of research and writing that will lead to the completion of a dissertation. It does so first by creating a community of common labor around studying for comprehensive exams, and then by support you through the dissertation proposal and prospectus writing process. Restricted to Graduate Students only.

@@ -1,0 +1,3 @@
+# CHIN 308: Chinese Languages across the Curriculum Recitation
+
+In this Chinese-language seminar, students will apply and develop their proficiency in Chinese via weekly discussions on topics broadly related to modern China in Chinese studies courses they are taking or have taken. Students without this background may enroll with instructor permission. The specific topics for discussion will be determined by the LAC instructor and the students together on the first day of class. Not intended for native Chinese speakers.

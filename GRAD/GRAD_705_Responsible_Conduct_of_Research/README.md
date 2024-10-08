@@ -1,0 +1,3 @@
+# GRAD 705: Responsible Conduct of Research
+
+This course will explore ethical issues in research, including rigorous and reproducible experimental design; misconduct, plagiarism, and data falsification; data management and ownership; responsibility, and criteria for authorship; peer review of manuscripts and grants; definition and management of conflicts of interest; faculty/graduate student interactions; intellectual property and commercialization; and appropriate design and implementation of research with animals and humans. Each lecture will be followed by student-lead case discussion to illustrate principles addressed in the lecture.

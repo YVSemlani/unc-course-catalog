@@ -1,0 +1,3 @@
+# BMME 505: Skeletal Biomechanics
+
+A firm understanding of the principles of mechanics is an important foundation to biomechanics. In this course, students will study the mechanics of materials with applications to the strength of bone, implant analysis, and testing of biological materials. A goal of this course is for students to understand how the interface of biology, mechanics, and therapies affect skeletal pathological conditions.

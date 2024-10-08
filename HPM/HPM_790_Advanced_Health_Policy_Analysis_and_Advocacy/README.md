@@ -1,0 +1,3 @@
+# HPM 790: Advanced Health Policy Analysis and Advocacy
+
+This class will provide students with an opportunity to learn about the health policy analysis and advocacy processes in the United States. Students will gain an understanding of the different ways in which health policies are made at the legislative, regulatory, and judicial systems. Students will also learn how to identify and analyze different policy options to address health problems, conduct a stakeholders' analysis, and design an advocacy campaign.

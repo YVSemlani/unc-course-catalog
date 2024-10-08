@@ -1,0 +1,3 @@
+# RUSS 203: Intermediate Russian Communication I
+
+Transitional skills for fluent speaking, writing, listening, and reading for intermediate learners. Furthers learners' competency for communication on everyday topics. Prepares learners for communication on subjects beyond their immediate needs. Expands interactive skillset necessary to maintain conversations and present individual opinions using complex structures. Employs adapted and non-adapted learning materials to promote mastery of contemporary standard Russian.

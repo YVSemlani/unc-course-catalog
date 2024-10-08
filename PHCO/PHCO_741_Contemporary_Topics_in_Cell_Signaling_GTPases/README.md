@@ -1,0 +1,3 @@
+# PHCO 741: Contemporary Topics in Cell Signaling: GTPases
+
+Required preparation, coursework in biochemistry, pharmacology, and/or cell & molecular biology. Permission of the instructor. This graduate-level course conveys principles of signal transduction controlled by GTPases and emphasizes in-depth discussion of current literature and unanswered questions. This class is one of the "Contemporary Topics in Cell Signaling" modules.

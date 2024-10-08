@@ -1,0 +1,3 @@
+# AAAD 389: The Caribbean Anticolonial: Caribbean Literature, Film, Aesthetics, and Politics
+
+This course will examine literature, film, art, and music from the Caribbean that illustrates and critiques the past and present impacts of colonial rule in the region. What role has anticolonial Caribbean literature and art played in shaping the region's present and future, and in shaping global anticolonial politics?

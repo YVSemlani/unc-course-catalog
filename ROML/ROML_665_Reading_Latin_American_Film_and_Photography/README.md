@@ -1,0 +1,3 @@
+# ROML 665: Reading Latin American Film and Photography
+
+Required preparation, one Spanish or Portuguese major-level literature course or permission of the instructor. Critical readings of photography through the lens of Brazilian and Spanish-American written, photographic, and film archives. This course is designed for graduate and advanced undergraduate students and considers current theoretical movements in photography alongside the historical, political, and aesthetic debates shaping the field of Latin American visual culture.

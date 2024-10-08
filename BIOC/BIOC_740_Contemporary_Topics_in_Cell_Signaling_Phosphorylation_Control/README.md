@@ -1,0 +1,3 @@
+# BIOC 740: Contemporary Topics in Cell Signaling: Phosphorylation Control
+
+Required preparation, coursework in biochemistry, pharmacology and/or cell & molecular biology. Permission of the instructor. This graduate-level course is an in-depth analysis of how protein kinases and protein phosphorylation regulates key aspects of cell signaling. This class is one of the "Contemporary Topics in Cell Signaling" modules.

@@ -1,0 +1,3 @@
+# NSCI 405: Advanced Molecular Neuropharmacology
+
+This course will examine the molecular basis of drug action in the brain. Students will learn about ligand-receptor interactions and modulation of receptor number, structure, and function by drugs. Detailed examples will examine the molecular details of both ligand-gated ion channels and G-protein coupled receptors. The course will use analysis of primary literature and a semester-long makerspace project to delve into research where central themes will include developing critical thinking, design thinking, and communication skills.

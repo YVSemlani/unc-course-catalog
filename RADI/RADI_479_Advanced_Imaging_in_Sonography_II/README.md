@@ -1,0 +1,3 @@
+# RADI 479: Advanced Imaging in Sonography II
+
+This course continues topics of advanced sonographic imaging techniques and presents new technologies, superficial structures, pediatrics, advanced obstetrics, and transplants. This course also presents the normal and abnormal sonographic findings of these structures along with relationships of these findings to patient clinical history, clinical exam, and laboratory findings. Skills related to protocols, technical factors, and image quality are developed in the lab. Majors only.

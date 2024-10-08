@@ -1,0 +1,3 @@
+# HPM 725: Health Care Strategy and Marketing
+
+This course introduces students to strategic planning and marketing in health services organizations. Students develop practical skills such as assessing the internal and external environment, competitor analysis, and evaluating strategic alternatives in different health care settings. It also explores the role the governing board plays in strategy development and management.

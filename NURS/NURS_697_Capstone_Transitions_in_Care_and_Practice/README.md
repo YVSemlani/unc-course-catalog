@@ -1,0 +1,3 @@
+# NURS 697: Capstone: Transitions in Care and Practice
+
+Students will incorporate previously learned leadership concepts, clinical skills, therapeutic communication, and critical thinking to deliver quality nursing care, using evidence based practice, in varied settings with faculty and RN guidance. Preparing for the NCLEX-RN examination and strategies for successful transition from student nurse to registered nurse will be explored. Majors only.

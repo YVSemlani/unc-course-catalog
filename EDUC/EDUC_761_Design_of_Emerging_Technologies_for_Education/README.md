@@ -1,0 +1,3 @@
+# EDUC 761: Design of Emerging Technologies for Education
+
+This course is designed for students in the MA in educational innovation, technology and entrepreneurship (MEITE) program. The course will introduce a studio-based approach to the design of emerging technologies for education in formal and informal learning environments to help MEITE students build and test prototypes to support their MA projects.

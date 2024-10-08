@@ -1,0 +1,3 @@
+# CLSC 708: Biostatistics for Laboratory Professionals
+
+This course prepares MCLS students to be critical consumers of scientific publications describing clinical research. Topics include organization and quality of data, types of research studies, frequency distributions, summary statistics, random and discrete variables, probability distributions, statistical inference, hypothesis testing, confidence intervals, parametric vs. non-parametric tests, descriptive statistics, drawing inferences from and comparing means, correlation and regression analysis, and the analysis of proportions. Majors only.

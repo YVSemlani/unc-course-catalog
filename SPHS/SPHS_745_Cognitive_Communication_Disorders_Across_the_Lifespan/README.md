@@ -1,0 +1,3 @@
+# SPHS 745: Cognitive Communication Disorders Across the Lifespan
+
+An advanced course on cognitive bases of human communication and cognitive-communication disorders. Topics covered include theoretical models of cognitive communication across the lifespan, cognitive processes thought to underlie communication, and common clinical presentations of cognitive communication disorders associated with traumatic brain injury, right hemisphere injury, left hemisphere stroke and dementia. The goal of this course is to improve students abilities to apply theoretical models of communication and current research literature to assessment and practice. Restricted to: Speech-Language Pathology Graduate students in the MS-SLP program.

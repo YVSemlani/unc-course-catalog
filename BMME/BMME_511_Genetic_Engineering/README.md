@@ -1,0 +1,3 @@
+# BMME 511: Genetic Engineering
+
+The course introduces the engineering principles used to modify cells in a variety of biomedical applications. The format includes lectures, discussion of primary research literature, and application of engineering design principles through student projects. The goals are to 1) discuss genome editing technologies, 2) evaluate strategies for cellular reprogramming and directed differentiation of stem cells, and 3) illustrate how genetic modification can be harnessed for cellular therapy and research applications such as animal models.

@@ -1,0 +1,3 @@
+# ASIA 425: Beyond Hostilities: Israeli-Palestinian Exchanges and Partnerships in Film, Literature, and Music
+
+Focuses on the various collaborations, exchanges, and mutual enrichment between Israelis and Palestinians in the realm of culture, particularly literature and cinema. These connections include language (Israeli Jewish authors writing in Arabic and Palestinian writers who choose Hebrew as their language of expression), collaborating in filmmaking, and joint educational initiatives.

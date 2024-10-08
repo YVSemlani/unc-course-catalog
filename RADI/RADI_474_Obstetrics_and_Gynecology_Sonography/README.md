@@ -1,0 +1,3 @@
+# RADI 474: Obstetrics and Gynecology Sonography
+
+Normal and abnormal anatomy/physiology/sonographic features of the nongravid and gravid female pelvis. Normal and abnormal fetal growth and anatomy, fetal well-being, and sonographic measurements associated with the second and third trimesters of pregnancy are included in the content. Students will engage in correlations of sonographic findings with patient clinical history, clinical exam, and laboratory findings. Lab skills covered: scanning protocols, technical factors, and image quality. Majors only.

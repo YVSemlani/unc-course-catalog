@@ -1,0 +1,3 @@
+# MHCH 710: Leadership in Maternal and Child Health
+
+This course is designed to integrate the theory, research literature, and evidence-supported practices related to leadership in maternal and child health. Students will consider each of the twelve core MCH Leadership Competencies within the spheres of influence that leaders experience as they advance in their careers. Students will hear from public health professionals in the field, consider perspectives of various stakeholders and examine/apply new skills.

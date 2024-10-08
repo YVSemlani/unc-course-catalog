@@ -1,0 +1,3 @@
+# WGST 315: Sexuality and Salvation
+
+In Christianity and Islam, bodies populate the afterlife. What those bodies look like, how they act, what they feel are subjects of popular and scholarly contentious, long standing debates. The various answers that have been offered in these debates deeply affect Christian and Muslim responses to the body, sexuality, race, and gender in this life. This course examines how theories about sex, gender, and identity are constructed within two religious traditions' histories, ideas, and theories.

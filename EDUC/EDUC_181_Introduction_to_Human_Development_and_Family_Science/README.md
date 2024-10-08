@@ -1,0 +1,3 @@
+# EDUC 181: Introduction to Human Development and Family Science
+
+This course introduces students to Human Development & Family Science (HDFS) as an integrated and applied discipline. Students will explore major theories and research areas in HDFS and make practical connections to careers in the helping professions, such as teaching, social work, counseling, and therapies (speech/ language, occupational, physical, etc.).

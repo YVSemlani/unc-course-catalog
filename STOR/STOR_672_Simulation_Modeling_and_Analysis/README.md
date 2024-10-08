@@ -1,0 +1,3 @@
+# STOR 672: Simulation Modeling and Analysis
+
+Introduces students to modeling, programming, and statistical analysis applicable to computer simulations. Emphasizes statistical analysis of simulation output for decision-making. Focuses on discrete-event simulations and discusses other simulation methodologies such as Monte Carlo and agent-based simulations. Students model, program, and run simulations using specialized software. Familiarity with computer programming recommended.

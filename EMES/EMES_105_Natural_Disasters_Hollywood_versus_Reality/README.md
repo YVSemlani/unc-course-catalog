@@ -1,0 +1,3 @@
+# EMES 105: Natural Disasters: Hollywood versus Reality
+
+Natural hazards arise from a suite of dynamic processes that operate within the Earth and along its surface. How individuals and communities prepare for and respond to natural disasters is strongly influenced by our perception of the risk associated with these processes. This course investigates a range of natural hazards, using the popular media as a starting point for analyses and discussions of the causes of disasters.

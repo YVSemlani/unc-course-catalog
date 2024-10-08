@@ -1,0 +1,3 @@
+# HBEH 748: Design Thinking for the Public Good
+
+This course will train an interdisciplinary group of graduate students to apply the mindsets, methods, and process associated with design thinking (i.e. human-centered design) to solve real world problems. Design thinking is a creative problem solving process that prioritizes ethnographic market research, convergent and divergent thinking, as well as rapid prototyping. Students will collaborate with community members to design solutions (products, services, etc.) that are desirable, feasible, and viable.

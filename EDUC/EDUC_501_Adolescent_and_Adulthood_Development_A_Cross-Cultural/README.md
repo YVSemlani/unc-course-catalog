@@ -1,0 +1,3 @@
+# EDUC 501: Adolescent and Adulthood Development: A Cross-Cultural
+
+This course examines biological, cognitive, psychological, and social development in adolescence and adulthood. Students will examine these milestones in development as they vary by gender, race/ethnicity, sexual orientation, ability, socio-economic status, education, and other contextual/cross-cultural factors. The course includes an examination of how adolescents and adults function within families, social networks, schools, media, and work.

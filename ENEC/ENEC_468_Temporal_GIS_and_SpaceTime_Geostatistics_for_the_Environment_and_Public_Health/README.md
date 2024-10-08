@@ -1,0 +1,3 @@
+# ENEC 468: Temporal GIS and Space/Time Geostatistics for the Environment and Public Health
+
+Reviews geographical information systems (GIS). Covers geostatistics theory for the interpolation of environmental and health monitoring data across space and time. Uses publicly available water and air quality monitoring data to create maps used for environmental assessment, regulatory compliance analysis, exposure science, and risk analysis.

@@ -1,0 +1,3 @@
+# AMST 714: Incarceration in America
+
+This course explores the theoretical underpinnings, history, and contemporary controversies around incarceration in the United States. It begins by exploring early articulations of the need for imprisonment as punishment, examines how that history unfolded in the 18th, 19th, and 20th centuries, and engages with contemporary debates about mass incarceration and its impacts on American communities.

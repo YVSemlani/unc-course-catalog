@@ -1,0 +1,3 @@
+# PUBH 736: Individual Transformation Applied to Public Health and Place
+
+In this course, students assess personality preferences and leadership styles to better understand themselves, their values, and their relationship to the identities and values of others and effectively engage groups and communities. They examine social location and structures and their effects on preferences, personality, and styles; personal health; and public and community health. They deepen their knowledge and awareness to facilitate transformation of self and public health teams to implement multi-level change efforts.

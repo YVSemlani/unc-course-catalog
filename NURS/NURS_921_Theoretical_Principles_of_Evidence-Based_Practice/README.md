@@ -1,0 +1,3 @@
+# NURS 921: Theoretical Principles of Evidence-Based Practice
+
+This course is an analysis of the theoretical principles of translating, disseminating, and implementing evidence into healthcare practice. Students will evaluate major theoretical and conceptual models in the fields of translational science, dissemination and implementation, organizational change, and quality improvement. Nursing majors only.

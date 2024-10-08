@@ -1,0 +1,3 @@
+# DHYG 265: Dental Materials
+
+This course provides a sound knowledge base in the science of dental materials. The student is introduced to the physical, mechanical, electrical and biological characteristics of dental materials. Emphasis is placed on why specific materials are used rather than solely upon the techniques of manipulating materials. The primary goal of this course is to enhance the student's ability to make clinical judgments regarding the application of dental materials and the ways in which these materials react to the oral environment. The clinical application of dental materials and its relationship to the oral environment and the scope of practice of dental hygiene are emphasized in lectures and labs.

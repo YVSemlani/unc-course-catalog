@@ -1,0 +1,3 @@
+# FREN 351: Bandes dessinées / Comics and Graphic Novels
+
+The course provides a survey of bandes dessinées and graphic novels (BDs) with a view to exploring how this medium has changed over time in the French-speaking world. Students will analyze the BDs' aesthetic, stylistic, compositional, and sociopolitical effects in works ranging from Tintin, Astérix, or Lucky Luke to a more recent and diverse array of authors and artists who all testify to the evolving role of the bandes dessinées.

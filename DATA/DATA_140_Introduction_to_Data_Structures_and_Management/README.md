@@ -1,0 +1,3 @@
+# DATA 140: Introduction to Data Structures and Management
+
+Data structures provide a means to manage large amounts of data for use in our databases and indexing services. A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways.

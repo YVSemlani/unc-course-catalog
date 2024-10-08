@@ -1,0 +1,3 @@
+# PHRS 711: Emerging Topics in Regulatory Science
+
+This foundational pharmaceutical science course will provide an overview of regulatory science with focus on FDA regulatory science priorities related to innovation in pharmaceutical product development. Students will learn about current research aimed at modernizing toxicology, innovating clinical research and personalized medicine, improving manufacturing and quality, and strengthening social and behavioral science. This graduate-level didactic course will be taught asynchronously but will include regular touch points with course instructors and other students.

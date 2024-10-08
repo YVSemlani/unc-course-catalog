@@ -1,0 +1,3 @@
+# DENG 801: Introduction to Educational Methodologies and Clinical Teaching
+
+This course provides learners with the knowledge and skills to function as a dental educator. Emphasis will be placed on introduction to didactic teaching and clinical instruction. There will be a focus on best practices in clinical teaching that includes psychological safety, the science of learning, learning objectives, course design, psychomotor skill development, providing effective feedback, and evaluation. The course will include a blended classroom discussion with live and online activities.

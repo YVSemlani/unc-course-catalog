@@ -1,0 +1,3 @@
+# BCB 724: Data Communication
+
+This course is designed to prepare students to be effective communicators of the results of analyses of biological and biomedical data. Students will learn methods for data assessment and exploratory data analysis (EDA), and how to visualize, write, and talk about data in contexts such as emails, reports, lab meetings, publications, and conference presentations. No technical or statistical background required for enrollment.

@@ -1,0 +1,3 @@
+# EDUC 257: Inquiry and Data Applications
+
+This course focuses on the organizational context within which leaders work, and the internal reform initiatives that leaders leverage for organizational improvement. Using analysis, discussion, and reflection, students will examine real issues confronting organizational leaders and the processes of inquiry that leaders use to address these issues. Students will study several foundational topics in social science research with application to organizational life.

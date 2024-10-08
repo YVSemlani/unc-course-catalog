@@ -1,0 +1,3 @@
+# EDUC 311: Life-Career Design
+
+This course examines the contemporary research in career development (e.g. happiness, purpose, decision-making, values, experiential learning). The course guides students to use design thinking to apply the concepts to life action plans. Students will increase self-awareness and self-advocacy to maximize their potential and envision multiple pathways for further education and life-work balance. Sophomores, juniors, and seniors only.

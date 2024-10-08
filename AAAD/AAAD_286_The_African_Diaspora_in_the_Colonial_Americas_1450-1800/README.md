@@ -1,0 +1,3 @@
+# AAAD 286: The African Diaspora in the Colonial Americas, 1450-1800
+
+Explores the experiences of Africans in European colonies in locations such as colonial Mexico, Brazil, the Caribbean, and mainland North America. Lecture and discussion format. The major themes of inquiry include labor, law, gender, culture, and resistance, exploring differing experiences based on gender, location, and religion.

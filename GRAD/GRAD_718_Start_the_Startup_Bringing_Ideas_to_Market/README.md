@@ -1,0 +1,3 @@
+# GRAD 718: Start the Startup: Bringing Ideas to Market
+
+Do you have an idea for a startup company? Would you like to explore the feasibility of launching a business? Start the Startup (STS) gives graduate students the opportunity to test and validate a new business idea using the Lean Startup methodology. Don't have an idea but want to learn the process? You can join a team going through the course. Teams will receive coaching as well as a final recommendation from an expert panel.

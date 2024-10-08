@@ -1,0 +1,3 @@
+# PHRS 504: Biochemical Foundations of Chemical Biology
+
+This course covers core biochemical and molecular biology techniques, concepts, and tools used to conduct research at the interface of chemistry and biology. Topics include enzymology, characterization of drug-target interactions, mechanisms-based inhibitor design, assay design and development, targeting kinases and GPCRs, biopharmaceuticals, gene therapy, nucleic-acid binding agents, information-based drugs, chemical tools to study epigenetics, harnessing biosynthetic pathways for chemical diversity, and other recent advances and techniques in drug discovery.

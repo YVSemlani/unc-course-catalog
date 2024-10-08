@@ -1,0 +1,3 @@
+# PUBH 724: Public Health and Migration
+
+This course examines migration from a global public health perspective. We take a broad understanding of migration, as the process of moving from one's place of origin to another compelled by different factors (i.e., economic, political, environmental). We discuss social determinants of migration and its health effects, and public health interventions. This class teaches students basic qualitative research skills, including drafting qualitative research questions, interview guides, and conducting and analyzing in-depth interviews.

@@ -1,0 +1,3 @@
+# GLBL 413: Socialist and Decolonial Ecologies
+
+This course will focus on the relation of capitalism and anthropogenic climate change and feature Marxist and Indigenous critiques of capitalism's responsibility for climate change. We will feature an interdisciplinary lens - philosophy, feminist geography, cultural anthropology, socialist economics - that will analyze how the anthropocentric subject of the Enlightenment separated itself from its natural environment.

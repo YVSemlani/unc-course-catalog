@@ -1,0 +1,3 @@
+# HBEH 510: Foundations of Equity, Ethics, and Engagement in Public Health
+
+Students will 1) explore how health inequities appear in different populations; 2) examine historical and relevant events to unpack how these inequities came to be; and 3) gain an overview of self-reflective and community engagement strategies used by health behavior practitioners and researchers to ethically partner with others to identify and address health inequities.

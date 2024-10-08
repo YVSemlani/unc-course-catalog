@@ -1,0 +1,3 @@
+# STOR 475: Healthcare Risk Analytics
+
+This course will introduce students to the healthcare industry and provide hands-on experience with key actuarial and analytical concepts that apply across the actuarial field. Using real world situations, the course will focus on how mathematics and the principles of risk management are used to help insurance companies and employers make better decisions regarding employee benefit insurance products and programs.

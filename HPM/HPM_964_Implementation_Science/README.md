@@ -1,0 +1,3 @@
+# HPM 964: Implementation Science
+
+This class will provide students with an opportunity to learn about implementation science and to understand the complementarity of implementation science and intervention science in improving population outcomes. Students will gain an understanding of the importance of implementation science for addressing public health concerns and the role implementation science can play in bringing public health practice and research closer together. Students will develop an understanding of implementation science frameworks and approaches.

@@ -1,0 +1,3 @@
+# MTSC 760: Complex Fluids: Theory and Applications
+
+Complex fluids are materials we encounter everyday such as pastes, gels, foams, blood, and tissue, yet ones that cannot be categorized within the traditional three states of matter (solid/gas/liquid). In this course, we introduce the main physical and mathematical concepts of the continuum mechanics of complex fluids and follow with microscopic approaches. The course is designed to focus on both theory and applications with hands-on activities and examples.

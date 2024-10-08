@@ -1,0 +1,3 @@
+# STOR 697: Capstone
+
+This course is designed to give Statistics & Analytics (STAN) majors an opportunity to integrate and apply the knowledge and skills acquired throughout the STAN degree. At the beginning of the semester, the instructor will present to the class a broad description of several problems originating from external industry partners, and covering a wide range of statistics, modeling, optimization, and data science topics. Students will work on these problems throughout the remainder of the semester.

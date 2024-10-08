@@ -1,0 +1,3 @@
+# CLSC 710: MDS PRINCIPLES
+
+Fundamental principles of molecular technology and techniques used in clinical and research laboratories. Topics include: an overview of nucleic acid chemistry, molecular genetics & cytogenetics; nucleic acid extraction and hybridization; target, signal and probe amplification; sequencing, microarrays, and in-situ hybridization techniques. Techniques will be addressed in the context of the different areas of the laboratory that use molecular technology to include genetics, oncology, infectious disease, and identity testing both for forensic purposes and transplantation.

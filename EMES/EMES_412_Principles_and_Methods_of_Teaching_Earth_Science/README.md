@@ -1,0 +1,3 @@
+# EMES 412: Principles and Methods of Teaching Earth Science
+
+Required preparation, any introductory geology course. This course develops the knowledge and skills teachers need to implement inquiry-based earth science instruction: conceptual knowledge of earth sciences and mastery of inquiry instructional methods. Students study inquiry in cognitive science and learning theory. This course is a requirement for the UNC-BEST program in geological sciences. Course previously offered as GEOL 412.

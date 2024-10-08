@@ -1,0 +1,3 @@
+# HBEH 735: Applied Intersectionality for Public Health
+
+This course will introduce some of the foundational thinking that has given rise to intersectionality as a framework for understanding the intersection of multiple marginalized populations in health equity. The course will also survey methods and measurement approaches in intersectionality research. The latter part of the course will focus on applications of intersectionality research in public health, including implementation science and public policy.

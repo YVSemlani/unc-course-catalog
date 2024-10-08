@@ -1,0 +1,3 @@
+# HBEH 780: Mixed Methods for Global Health
+
+This course introduces students to key concepts in mixed methods analysis for global health. You will learn how to plan and implement a mixed methods project using existing data. You will develop skills around qualitative data management, coding, and analysis. Using a sequential, mixed methods design you will use qualitative insights to design a quantitative hypothesis. Qualitative and quantitative findings will be combined and applied to a current global health policy or practice. Restricted to Global Health MPH students.

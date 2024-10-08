@@ -1,0 +1,3 @@
+# WGST 486: Exploration of Russian "Women's Prose" and Svetlana Alexievich (Nobel Prize in Literature 2015)
+
+Using Alexievich as our beacon, we will explore the writers behind the term "Russian Women's Prose": Valeria Narbikova, Lyudmila Petrushevskaya, Tatyana Tolstaya, and Lyudmila Ulitskaya. The course will delve into gender identity and body politics as they manifest themselves in the literary texts of lasting aesthetic quality and social relevance. Taught in English; some readings in Russian for qualified students.

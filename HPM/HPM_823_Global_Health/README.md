@@ -1,0 +1,3 @@
+# HPM 823: Global Health
+
+This course analyzes health systems in global perspective. Although health systems vary in structure, they face similar issues. This course includes discussion about the U.S. health system as well as health systems of developing, low-income, and middle-income countries. This course will assess WHO health systems building blocks, and will identify system elements from different countries that could be used to improve access, quality or health outcomes in the student's home or work country. DrPH students.

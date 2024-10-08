@@ -1,0 +1,3 @@
+# IDST 113: Triple-I: The Idea of Race
+
+The idea that humans can be divided into distinct races has been used to justify the persecution, enslavement, and extermination of groups based on their presumed inferiority. Today, scientists agree that what we describe as races are in fact social constructs, not genetic realities. Students will learn why race is not a viable biological concept, how the idea of race arose and is maintained, and what alternatives exist for understanding diversity and change over time.

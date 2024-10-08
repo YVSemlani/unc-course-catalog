@@ -1,0 +1,3 @@
+# GSLL 255: Germany and Cold War: Occupation, Division, Reunification, Renewed Conflict with Russia (1945-Today)
+
+This course investigates the central role played by the "German question" in the break-up of the wartime alliance, the emergence of East-West political blocs, the subsequent dissolution of the USSR, and the return to new Russian-Western antagonisms. Readings and discussions in English. Previously offered as GERM 255.

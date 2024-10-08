@@ -1,0 +1,3 @@
+# EDUC 526: Ethics and Education: From Global Problems to Classroom Dilemmas
+
+Among the topics examined are ethical implications of democratic schooling for a democratic society, educators as moral agents, and education as an institution with incumbent responsibilities. Students explore the explicit and implied ethics of education and schooling as they relate to policy makers, educators, and citizens concerned about social justice.

@@ -1,0 +1,3 @@
+# PLAN 640: Roadways for a Safer Future
+
+Deaths and serious injuries from traffic crashes have been rising steadily on US roadways in recent years. Despite growing investment in safe walking and bicycling facilities, pedestrians and bicyclists bear a disproportionate share of these deaths and injuries. Through a combination of field work, lectures, and facilitated discussions, the Roadways for a Safer Future course introduces students to data collection, analysis, and communication techniques that are critical for understanding and advancing road safety for all.

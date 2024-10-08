@@ -1,0 +1,3 @@
+# PLAN 670: Planning Equitable Economies
+
+Introduction to basic theories, concepts, and strategies employed to pursue local and regional economic development. Clarifies similarities and distinctions with related planning perspectives including community development, investigates the economic logic behind various development initiatives, and reviews basic principles for critically examining alternative policies and programs. Previously offered as PLAN 770.

@@ -1,0 +1,3 @@
+# ARTH 400: German and Netherlandish Renaissance
+
+The course focuses on a crucial period of German and Netherlandish art around 1500, referred to as the so-called Age of Dürer, which still shows influences of Gothic art but also of new Italian Renaissance. Often based on artifacts of the Ackland Art Museum, case studies explore the interaction of artists and patrons in important art centers of the time.

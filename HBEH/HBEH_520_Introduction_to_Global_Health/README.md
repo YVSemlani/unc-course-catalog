@@ -1,0 +1,3 @@
+# HBEH 520: Introduction to Global Health
+
+This course introduces fundamental terminology, frameworks, problems, and solutions in global health. We will explore the historical and modern-day influences that have shaped the systems, issues, actors, and priorities of global health today. This course will expose students to: critical global health challenges; leaders across diverse sectors who are working to develop innovative solutions, policies, and programs to address these challenges; and roles that students can play to contribute to improving global health.

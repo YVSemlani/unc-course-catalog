@@ -1,0 +1,3 @@
+# APPL 110: Design and Making for Engineers: Developing Your Personal Design Potential
+
+Students work in flexible, interdisciplinary teams to assess opportunities, brainstorm, and prototype solutions. Students design their solutions to meet a set of specifications, while also considering the user's needs. Design thinking and physical prototyping skills are developed through fast-paced, iterative exercises in a variety of contexts and environments.

@@ -1,0 +1,3 @@
+# NURS 930: Children at Risk: Prenatal Period Through Emerging Young Adulthood
+
+This course will apply ecological and developmental perspectives to research with children at risk for conditions threatening life/quality of life and resilience under risk. Emphasis is on critically evaluating conceptual models, designs, and methods, and responsible conduct of research aiming to understand, prevent, or manage risk.

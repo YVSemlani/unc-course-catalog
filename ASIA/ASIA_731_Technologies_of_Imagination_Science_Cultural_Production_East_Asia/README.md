@@ -1,0 +1,3 @@
+# ASIA 731: Technologies of Imagination: Science, Cultural Production, East Asia
+
+Focusing on East Asia, this seminar introduces students to scholarly intersections between science studies and literary and cultural studies. Drawing upon recent scholarship from these fields, it explores the intertwined pasts and presents of scientific, technological, and cultural production. In so doing, it challenges students to think critically about the contingent nature of disciplinary boundaries and the centrality of East Asia's place in global flows of knowledge, objects, and expression.

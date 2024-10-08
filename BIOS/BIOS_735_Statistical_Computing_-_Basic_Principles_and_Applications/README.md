@@ -1,0 +1,3 @@
+# BIOS 735: Statistical Computing - Basic Principles and Applications
+
+Required preparation, one undergraduate-level programming class. Teaches important concepts and skills for statistical software development using case studies. After this course, students will have an understanding of the process of statistical software development, knowledge of existing resources for software development, and the ability to produce reliable and efficient statistical software.

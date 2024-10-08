@@ -1,0 +1,3 @@
+# BIOS 777: Precision Medicine and Machine Learning
+
+In this course, we will address precision medicine from a statistical and machine learning perspective with numerous examples of application. We will develop a working knowledge of the following inter-related areas in the context of precision medicine and precision health: dynamic treatment regimes; causal inference for precision medicine; study designs such as SMARTs, basic and advanced machine learning and artificial intelligence tools, including deep learning, outcome weighted learning, reinforcement learning and Markov decision processes.

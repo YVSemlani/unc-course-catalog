@@ -1,0 +1,3 @@
+# ARTH 401: Seen, Unseen, and Suggested: Representation and Hollywood Film Censorship
+
+This course will look at the history of film censorship in the United States from the perspective of how such things as the Production Code (Hays Code), wartime restrictions, Anti-communist blacklisting, regional and local censorship boards (for example, Southern Baptist Ministers prior to 1968), late 1960s movements for social change, and culturally and socially-determined moral and ethical standards restricted what could and could not be seen on movie screens in American theaters.

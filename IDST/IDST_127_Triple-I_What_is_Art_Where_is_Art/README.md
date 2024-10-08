@@ -1,0 +1,3 @@
+# IDST 127: Triple-I: What is Art? Where is Art?
+
+What is art? Where is it found? Museums are devoted to it, scholars study it, collectors spend millions to own it. And yet, definitions of art reveal more about the people doing the defining than they do about the creative expressions themselves. By asking the question--rather than by answering it--this class will explore why art matters as a category and what changing conceptions of art tell us about people and cultures around the world.

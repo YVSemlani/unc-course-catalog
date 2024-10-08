@@ -1,0 +1,3 @@
+# ASTR 103: Alien Life in the Universe
+
+Humans have always wondered "are we alone?" From discovering life in extreme conditions on Earth, to finding thousands of exoplanets, we now know far more about this question than our ancestors. This class explores our recent understanding of planets, solar systems, where life might be, and how to find it. Optional laboratory: ASTR 100L. Optional field experience: ASTR 111.

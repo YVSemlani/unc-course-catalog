@@ -1,0 +1,3 @@
+# JAPN 277: Empire of Sex: Eroticism, Mass Culture, and Geopolitics in Japan, 1945-Present
+
+Tokyo, Japan, became the center of global pornographic culture after the United States occupation ended in 1952. This course will use film, animation, and historical texts to try to understand how and why this happened. Moreover, we will identify how this phenomenon impacted the lives of Japanese men and women.

@@ -1,0 +1,3 @@
+# BIOS 673: Intermediate Statistical Inference
+
+This course introduces intermediate concepts and theories in statistical inferences, including multivariate transformation, convergence of random vectors, sufficient and complete statistics, methods of estimation, and advanced problems such as information inequality, unbiased estimators, Bayes estimators, asymptotically efficient estimation, nonparametric estimation, and simultaneous confidence intervals.

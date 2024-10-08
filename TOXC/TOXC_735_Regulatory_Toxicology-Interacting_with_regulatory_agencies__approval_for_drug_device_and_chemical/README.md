@@ -1,0 +1,3 @@
+# TOXC 735: Regulatory Toxicology-Interacting with regulatory agencies & approval for drug, device, and chemical
+
+Regulatory agency fundamentals, regulatory process for drug, medical device, cosmetic and agrochemical products. Industry, regulatory agency representatives and consultants will be invited to speak directly about their regulatory policies, challenges, and expectations. Students will develop and present a regulatory submission package as part of a group project.

@@ -1,0 +1,3 @@
+# NURS 876: Curriculum Development in Nursing and Healthcare Education
+
+This course will examine curriculum development and evaluation in healthcare education for academic and clinical settings. Emphasis is placed on current contextual influences that facilitate curriculum development, implementation, and evaluation in diverse healthcare educational settings. Must be a professional nurse enrolled in a graduate program at UNC-CH.

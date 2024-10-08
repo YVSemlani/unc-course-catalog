@@ -1,0 +1,3 @@
+# ROML 756: Topics in Translation Studies
+
+Permission of instructor. A rotating topic seminar on translation studies, providing an overview of the field and/or specializing in one or more sub-topics: post-colonialism, feminism, theory/practice, adaptation, censorship, activism. See department announcements for current topic and reading list. In English. Fulfills 'theory' requirement for graduate students.

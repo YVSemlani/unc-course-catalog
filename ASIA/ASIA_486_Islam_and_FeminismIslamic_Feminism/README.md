@@ -1,0 +1,3 @@
+# ASIA 486: Islam and Feminism/Islamic Feminism
+
+This course explores Muslim women scholars, activists, and movements that have, over the course of the past 150 years, participated in the debate about the compatibility and relationship of Islam and feminism. It offers an introduction to feminist debates about religion and patriarchy focusing on Islam as 'other' and juxtaposes it critical analysis of contextual expressions of Muslim and Islamic feminist activists, thinkers, and movements that challenge and change gender norms and practices.

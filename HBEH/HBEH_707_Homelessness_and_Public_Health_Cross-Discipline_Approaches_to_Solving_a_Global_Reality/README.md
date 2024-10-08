@@ -1,0 +1,3 @@
+# HBEH 707: Homelessness and Public Health: Cross-Discipline Approaches to Solving a Global Reality
+
+This course is designed to introduce students to the recent drivers of homelessness, the intersection between built environment and structural factors that impact someone's path into or out of homelessness, the policy landscape situating housing and homeless service provision, and the interventions that are shaping healthcare delivery for the most marginalized.

@@ -1,0 +1,3 @@
+# ASIA 771: Performance in South Asia: Contexts and Theories
+
+This seminar examines a range of performance practices in South Asia, and some of the theories and methods scholars have used to research and understand them. It especially focuses on emerging analytical frameworks and approaches currently shaping the field. In this seminar, "performance" is conceptualized broadly to include aesthetic, social and political forms of performance spanning theatre, dance, musical concerts, film, religious events, military rituals, and so forth.

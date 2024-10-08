@@ -1,0 +1,3 @@
+# MHCH 728: Introduction to Implementation Research and Practice in Maternal, Child and Family Health
+
+Permission of the instructor for nonmajors. Implementation research and practice addresses the gap between the development of innovations in public health and their delivery in routine practice. Course provides an overview of core theories/methods in implementation research and practice plus implementation determinants and strategies at the intervention, individual, organizational, and policy levels.

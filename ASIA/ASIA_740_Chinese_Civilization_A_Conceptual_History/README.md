@@ -1,0 +1,3 @@
+# ASIA 740: Chinese Civilization: A Conceptual History
+
+This seminar will look at how terms for concepts of 'civilization' in different languages (Old Chinese, Modern Mandarin, English, Japanese) and different historical periods have been used to refer to what is now China as a "civilization." This graduate seminar explores the roles played by various notions of 'civilization' in the articulation of different conceptualizations of "Chinese civilization."

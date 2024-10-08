@@ -1,0 +1,3 @@
+# ARTS 458: Photo Printmaking
+
+This course combines a technical approach (making printing matrices using photographic processes) with a conceptual framework (the photographic "voice" and its interpretation in printmaking). Artmaking projects explore salient ideas such as appropriation versus capture, documentation, truth-telling and fabrication, or narrative invention using specific technical processes such as photogravure and cyanotype.

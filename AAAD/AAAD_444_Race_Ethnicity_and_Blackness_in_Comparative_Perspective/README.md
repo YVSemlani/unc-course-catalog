@@ -1,0 +1,3 @@
+# AAAD 444: Race, Ethnicity, and Blackness in Comparative Perspective
+
+This course will provide students the opportunity to compare and contrast how race, especially Blackness, and ethnicity are constructed across the globe as well as how race, politics, and policy interact in various countries. We will examine the phenomena of race and ethnicity in the political development of several countries including the U.S., South Africa, France, Australia, Brazil, and several others.

@@ -1,0 +1,3 @@
+# GERM 714: Foundations in German Studies I
+
+First part of a three-semester sequence offering students a comprehensive, text-based survey of German literary history from the High Middle Ages to the present. The course introduces students to medieval German language, literature, and culture. Readings in English, German and Middle High German. Discussions in German. Previously offered as GERM 614. Permission of the instructor for undergraduates.

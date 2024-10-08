@@ -1,0 +1,3 @@
+# HPM 969: Program Planning and Design
+
+The course focuses on approaches to plan programs that promote individual and community health. The course is anchored in the Intervention Mapping approach. Students will develop an understanding of the essential steps in the program planning process: needs assessments, establishing program goals and objectives, and selecting and developing program strategies. DrPH students only.

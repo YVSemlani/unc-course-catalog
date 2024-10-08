@@ -1,0 +1,3 @@
+# EPID 755: Introduction to Infectious Disease Epidemiology
+
+Permission required for non-majors. This course will cover concepts, theory, study designs, and analytical methods of particular importance in infectious disease epidemiology. Most topics will be introduced with a didactic lecture and readings, followed by an in-class exercise, discussion, or computer practical applying relevant theories, concepts, and methods to specific questions in infectious disease epidemiology.

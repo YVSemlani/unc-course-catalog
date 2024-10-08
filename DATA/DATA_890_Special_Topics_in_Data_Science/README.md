@@ -1,0 +1,3 @@
+# DATA 890: Special Topics in Data Science
+
+The course goal is to expose graduate students in any UNC department to a broad range of topics in the theory and applications of data science. Students will learn about current and emerging methods and techniques in data science to advance individual research efforts and facilitate inter-disciplinary collaboration. Open to graduate students only and by permission only.

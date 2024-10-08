@@ -1,0 +1,3 @@
+# ASIA 722: Asia in Motion: TransAsia and Transpacific Approaches to the Study of Asia
+
+This graduate seminar examines theoretical and research texts related to the mobility of people, languages, ideas, and cultures across Asia and the Pacific. This course aims to critically investigate Asia's past and present with TransAsia and Transpacific perspectives through examining five main themes related to Asian mobilities; 1) Empires, 2) Labor, 3) Transnational Family, 4) Language and Media, and 5) Citizenship.

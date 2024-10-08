@@ -1,0 +1,3 @@
+# EXSS 325: The Role of Intercollegiate Athletics in Higher Education
+
+This course is designed to help students interested in working in college sports understand what that role has been and might be in the future, with an emphasis on maximizing the educational value of intercollegiate athletic participation and the integration of athletics with academic and student life dimensions on college campuses.

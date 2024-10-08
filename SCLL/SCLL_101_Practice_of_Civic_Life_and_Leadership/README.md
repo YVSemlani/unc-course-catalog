@@ -1,0 +1,3 @@
+# SCLL 101: Practice of Civic Life and Leadership
+
+This course focuses on the ideas and practices necessary to analyze arguments and disagree in a productive and compassionate way, especially at a time of deep polarization in American culture. Students in this course will debate five, contentious, contemporary topics to practice researching multiple sides of an issue significant to civil society, engaging in oral and written argument, and developing criteria by which to evaluate argument, evidence, and debate performance.

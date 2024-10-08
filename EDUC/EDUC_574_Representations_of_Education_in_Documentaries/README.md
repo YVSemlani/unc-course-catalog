@@ -1,0 +1,3 @@
+# EDUC 574: Representations of Education in Documentaries
+
+Representations of teachers, students, and schooling appear in many popular media forms, including films, television shows, animation, popular songs, music videos, TV news and commercials, young adult fiction, and more. Alongside the subgenre of "school films" there exists another vibrant and robust cinematic subgenre composed of documentaries about "Education" (writ large). This course is an introduction to and exploration of these documentaries about education.

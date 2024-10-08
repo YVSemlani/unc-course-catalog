@@ -1,0 +1,3 @@
+# PLCY 305: Communicating Under Pressure: Tools for Effective Communication
+
+Whether raising awareness of issues, building stakeholder coalitions, or advocating policy change, addressing public policy problems requires effective communication. Students will learn and practice cognitive, vocal, and physical skills to enhance communication under stressful conditions like high stakes meetings, negotiations and mediations, or public presentations. Emphasis on exercises that give "soft" skills harder edges so they can be developed and reliably utilized.

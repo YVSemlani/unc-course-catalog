@@ -1,0 +1,3 @@
+# MHCH 859: Proposal Development for Maternal and Child Health
+
+A course in the development and preparation of a research proposal of high public health significance and methodological rigor, following the format of an NIH application. Students will also be introduced to the NIH review process and engage in critical evaluation of peer assignments. This is a required course for doctoral students. Permission required for non-majors, masters & 1st year doctoral students.

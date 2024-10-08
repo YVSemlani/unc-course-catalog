@@ -1,0 +1,3 @@
+# CLSC 750: Clinical Laboratory Science Laboratory Administration
+
+This course provides a foundation in the technical and non-technical aspects of supervising and managing clinical laboratory testing services within the current health care delivery system. Topics include: regulation of clinical laboratories, accreditation of laboratories, financial management, information systems management, management of the quality of clinical laboratory testing, personnel management, leadership and communication skills, and ethics in the clinical laboratory testing environment. Previously offered as CLSC 650. MCLS majors only.

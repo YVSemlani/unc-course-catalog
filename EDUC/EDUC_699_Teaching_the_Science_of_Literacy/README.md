@@ -1,0 +1,3 @@
+# EDUC 699: Teaching the Science of Literacy
+
+The course examines the science of literacy and how children learn to read and write. The course will emphasize evidence-based practices in foundations of reading and writing, based on the literature of the science of reading. Using the multi-tiered system of support (MTSS) framework, students will learn how to target literacy to meet individual needs based on formative and summative assessments. Students will learn to link progress monitoring to EBPs for tracking responsiveness to instruction.

@@ -1,0 +1,3 @@
+# ITAL 526: History of the Italian Language
+
+Studies in the evolution of the Italian language between its Latin origins and present debates around language pedagogy and English hegemony. Topics may include medieval and humanist language theory; grammar books and the codification of literary Tuscan in the sixteenth century; academies and dictionaries; philology in practice and in theory, world philology; nationalism, Italy's post-WWII linguistic standardization, and globalization.

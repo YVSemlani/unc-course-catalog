@@ -1,0 +1,3 @@
+# DHYG 379: Dental Ethics and Jurisprudence
+
+Through this course ethical and legal issues related to the practice of dentistry and dental hygiene are studied. Emphasis will be placed on awareness of ethical and legal ramifications, legal concepts related to patient care and there will be an in-depth review of the state practice act of North Carolina. Restricted to Dental Hygiene Students enrolled in the Dental Hygiene Program.

@@ -1,0 +1,3 @@
+# EDUC 858: Foundations of Inquiry - Quantitative
+
+In this course we focus on quantitative forms of inquiry, highlighting the types of questions quantitative data are best positioned to answer and common forms of data collection and analysis. To foster your development as a scholar-practitioner, the course will provide you with the foundational knowledge to be a discerning consumer of quantitative research and help you find the tools to answer your own well-formed practice-based research questions. For students enrolled in the online Ed.D. in Organizational Learning and Leadership program cohort

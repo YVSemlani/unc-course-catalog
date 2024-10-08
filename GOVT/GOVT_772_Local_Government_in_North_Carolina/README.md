@@ -1,0 +1,3 @@
+# GOVT 772: Local Government in North Carolina
+
+The purpose of this course is to familiarize students with the purpose, structure, and function of local governments in North Carolina. At the course's conclusion, students should be able to identify and discuss the operation and governance structure of North Carolina counties and municipalities. Moreover, students should develop a reasonably comprehensive framework to analyze and understand the legal, cultural, and political environments of the various regions throughout the state. Lead for North Carolina Participants Only.

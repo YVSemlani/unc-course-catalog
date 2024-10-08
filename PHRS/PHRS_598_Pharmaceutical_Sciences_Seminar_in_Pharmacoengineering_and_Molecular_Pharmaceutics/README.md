@@ -1,0 +1,3 @@
+# PHRS 598: Pharmaceutical Sciences Seminar in Pharmacoengineering and Molecular Pharmaceutics
+
+This course, which offered in both the Fall and Spring semesters, provides a deep look at contemporary research in Pharmacoengineering and Molecular Pharmaceutics as a pharmaceutical sciences discipline. The class format consists of seminar presentations by experts in the field, including invited outside scientists, faculty members, or doctoral candidates. Students are expected to actively engage in seminar activities and participate in impromptu discussions.

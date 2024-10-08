@@ -1,0 +1,3 @@
+# CHIN 520: Stay Tuned to China
+
+This course enables students to stay tuned to ongoing discussions surrounding social and cultural issues in China using a wide selection of reliable media materials. We will gain insights into major topics of concern for Chinese native speakers today, such as social stratification and inequality, changing gender dynamics, technology in everyday life, Internet subculture, authoritarianism, and the medical crisis during COVID. Conducted in Mandarin.

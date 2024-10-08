@@ -1,0 +1,3 @@
+# ITAL 830: Seminar
+
+Special study and research in set topics, with particular emphasis on theory and comparative perspectives. Subjects include specific genres (e.g. autobiography, the social novel, postmodern fiction, etc.), current debates (new Italian epic, Italian Theory, etc.), and the "new humanities" (environmental humanities and ecocriticism, medical and legal humanities, energy humanities, humanism and posthumanism, history of the humanities, etc.)

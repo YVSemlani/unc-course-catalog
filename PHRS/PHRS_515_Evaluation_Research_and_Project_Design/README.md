@@ -1,0 +1,3 @@
+# PHRS 515: Evaluation Research and Project Design
+
+This course will include formal instruction on evaluation research, study design, and data analyses that would be encountered in a health system pharmacy administration workplace. This course is designed to provide a broad survey of critical evaluation components, and students are encouraged to explore any topic in more depth, as needed or desired.

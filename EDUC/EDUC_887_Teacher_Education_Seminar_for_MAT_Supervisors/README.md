@@ -1,0 +1,3 @@
+# EDUC 887: Teacher Education Seminar for MAT Supervisors
+
+This course is required during both fall and spring semesters for all MAT supervisors. The course will focus on exploring teacher education through the lens of field-based supervision. Weekly meetings to bring teacher education research and literature to supervisors' ongoing practice through discussion of selected readings, book study, dialogue about problems of practice. The course will align supervisors' practice in the field with MAT methods pedagogical approaches for supervisors to best support candidates.

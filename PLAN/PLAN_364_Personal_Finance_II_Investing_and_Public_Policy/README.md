@@ -1,0 +1,3 @@
+# PLAN 364: Personal Finance II: Investing and Public Policy
+
+The purpose of the course is to help students understand the principles that lead to successful investing. The course emphasizes the importance of grounding the application of these principles on the students' values. More narrowly, the course discusses stocks, bonds, mutual funds, and other types of investments. Finally, the course identifies the way public policy interacts and impacts our investment decisions.

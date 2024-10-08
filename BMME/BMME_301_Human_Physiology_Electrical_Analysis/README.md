@@ -1,0 +1,3 @@
+# BMME 301: Human Physiology: Electrical Analysis
+
+This course includes an electrical analysis approach to human physiology from the biomedical engineering perspective with an emphasis on neural, sensory, and cardiac physiology. Autonomic and somatic motor control will be discussed. Engineering applications, including neural stimulator, functional imaging, cochlear implants, artificial noses, vestibular implants, visual implants, artificial larynges, pacemakers and defibrillators will be discussed. Assignments include computer-based exercises using MATLAB. Majors only.

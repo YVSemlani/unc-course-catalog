@@ -1,0 +1,3 @@
+# DATA 130: Critical Data Literacy
+
+How do you become data literate? Data literacy is the ability to read, write, and communicate data in context, or in other words: perform data analysis, construct a data visualization, and then communicate that data. It is the story that gets told with the data. Data literacy helps us to understand data, learn about different types and scales of data, and understand why this is important in the world today.

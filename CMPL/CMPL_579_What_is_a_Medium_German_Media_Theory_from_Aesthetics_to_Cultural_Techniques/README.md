@@ -1,0 +1,3 @@
+# CMPL 579: What is a Medium? German Media Theory from Aesthetics to Cultural Techniques
+
+This seminar provides students across the humanities with an overview of the historical and cultural relevance of German media theories. We will discuss the distinction between "art" and "medium", the role of technology and techniques, as well as the interaction of media theory and practice with politics. Films with English subtitles; readings and discussions in English. Previously offered as CMPL 479/GERM 479.

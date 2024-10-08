@@ -1,0 +1,3 @@
+# BIOC 706: Biochemistry of Human Disease
+
+Required preparation, biochemistry. Permission of the instructor. Graduate level, involves lectures, critical readings, and discussions of biochemical aspects of human diseases. Core biochemical principles and cutting edge approaches are considered in the following: amyotrophic lateral sclerosis, Alzheimer's, cancer, cystic fibrosis, HIV, thrombosis and heart disease, schizophrenia, V(D)J recombination, and neglected diseases.

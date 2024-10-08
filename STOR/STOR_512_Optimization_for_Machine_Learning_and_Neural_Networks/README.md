@@ -1,0 +1,3 @@
+# STOR 512: Optimization for Machine Learning and Neural Networks
+
+This is an upper-level course focusing on optimization aspects of common and practical problems and topics in statistical learning, machine learning, neural networks, and modern AI. It covers several topics such as optimization perspective of linear regression, nonlinear regression, matrix factorization, stochastic gradient descent, regularization techniques, neural networks, deep learning techniques, and minimax models.

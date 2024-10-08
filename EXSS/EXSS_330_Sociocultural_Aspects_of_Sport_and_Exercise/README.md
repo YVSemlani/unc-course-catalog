@@ -1,0 +1,3 @@
+# EXSS 330: Sociocultural Aspects of Sport and Exercise
+
+This course will enhance students' understandings about social and cultural dimensions of sport and exercise contexts. Through directed readings, classroom conversations, assignments/projects, and guest speakers, students in this course will learn how these sociocultural realities 1) are explored through academic research, and 2) impact sport and exercise policy, programs, and innovation, and 3) impact sport and exercise constituents, such as participants, planners, leaders, and advocates. This is an elective course for all junior/senior EXSS majors. EXSS majors, Junior/Senior standing

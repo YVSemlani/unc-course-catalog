@@ -1,0 +1,3 @@
+# ORAD 706: Advanced Oral Radiology
+
+Radiographic selection criteria, dental radiographs efficacy, panoramic radiology, extraoral techniques, radiation risks and radiological hygiene in dental practice, principle of radiologic interpretation, radiology of cysts and tumors, radiology of the TMJ, radiology of systemic disease, quality improvement, radiology for dental implants, digital imaging in dentistry, and advanced craniofacial region imaging.

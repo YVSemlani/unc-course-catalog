@@ -1,0 +1,3 @@
+# ASIA 258: Iranian Prison Literature
+
+This course explores literature written in prisons, particularly under the Islamic Republic. Students will read documents to understand human rights (and violations thereof) from a historical perspective. Since literature, film, philosophy, and theory offer invaluable perspectives, we will examine their contributions in the reflection on human rights in Iran's prisons.

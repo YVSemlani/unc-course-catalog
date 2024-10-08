@@ -1,0 +1,3 @@
+# PRSN 306: Persian Language through Literature and Film
+
+Students will study literary writings and filmic texts from traditional literature to contemporary media (including plays, film, television, etc.). Students will engage in various communicative activities focusing on all language skills and building vocabulary and idiomatic expressions. Literary and filmic texts will also improve students' cultural awareness.

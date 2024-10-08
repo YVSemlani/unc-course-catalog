@@ -1,0 +1,3 @@
+# EDUC 320: Navigating Education in Borderlands
+
+This course provides students a preliminary introduction to qualitative research methods as a mechanism for critically examining the concept of borders and implications for students' own educational experiences. While immersed in a geographic borderlands space, students will explore the "border" as not just the physical border between Mexico and the US, but as Gloria Anzaldúa presents in her 1987 book Borderlands/ La Frontera, as a "psychic, social, and cultural terrain that we inhabit".

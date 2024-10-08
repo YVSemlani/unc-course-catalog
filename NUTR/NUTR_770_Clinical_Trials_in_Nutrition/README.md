@@ -1,0 +1,3 @@
+# NUTR 770: Clinical Trials in Nutrition
+
+This course is designed to introduce students to nutrition interventions and help students develop knowledge and skills necessary to critically analyze, describe, and evaluate behavioral nutrition interventions. The course covers concepts, skills and methods related to nutrition interventions, with an emphasis on theory-based interventions at the individual, community, or environmental levels to improve health and nutrition outcomes.

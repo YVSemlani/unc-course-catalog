@@ -1,0 +1,3 @@
+# RUSS 455: 20th-Century Russian Literature and Culture
+
+As Russia became a laboratory for sociopolitical experiments of global significance, its culture reflected on the most spectacular of its aspirations and failures. Course surveys 20th-century literary, musical and cinematic artifacts that emerged to affect the world profoundly. Taught in English; some readings in Russian for qualified students.

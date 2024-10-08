@@ -1,0 +1,3 @@
+# SWAH 403: Intermediate Kiswahili III
+
+This course is the first part of Intermediate Swahili. Students taking this course are assumed to have taken Swahili Elementary I & II where basic elements of Standard Swahili language and culture are introduced. The course is designed to further help students improve their fluency with emphasis on reading, writing, speaking and listening. Further, students make some comparisons between their cultures and the culture of Swahili speaking people and the East African people in general.

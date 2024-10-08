@@ -1,0 +1,3 @@
+# AMST 246: Indigenous Storytelling: Oral, Written, and Visual Literatures of Native America
+
+Offers a historically, politically, and culturally contextualized examination of Native America through oral, written, and visual storytelling. Covering a wide range of genres, including oral narratives, novels, and visual arts, this introductory course showcases the fluidity of Indigenous artistic forms and their continuing centrality in Native America.

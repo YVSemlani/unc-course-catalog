@@ -1,0 +1,3 @@
+# APPL 467: Materials Design for Biomedicine
+
+The 21st century has already been marked with substantial discoveries in the interface of materials science, biology, and medicine that have a profound effect on our future. The course will focus on all classes of biological materials such as: biologically derived materials, natural and synthetic biomaterials, and bioinspired materials. In addition, the course will highlight the use of nanoscale materials and techniques to rapidly advance our understanding of human biology and the practice of medicine.

@@ -1,0 +1,3 @@
+# AMST 850: Digital Humanities Practicum
+
+This practicum blends graduate seminar discussions with hands-on training in the digital humanities. Students will work in the Digital Innovation Lab, contributing to real-life projects while developing their own professional development goals. Students will emerge with a deeper understanding of and experience with digital humanities approaches, practices, and issues.

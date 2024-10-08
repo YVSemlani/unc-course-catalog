@@ -1,0 +1,3 @@
+# APPL 116: Electronics for Measurement, Control, and the Internet of Things
+
+This course builds on APPL 112. Students will acquire signals from sensors and send them to an Arduino or other microcontroller. Students will also learn how to develop circuits that are part of the "Internet of Things" so that they can transmit sensor readings on the Internet. Most of the class time will be hands-on activities. Previously offered as APPL 414.

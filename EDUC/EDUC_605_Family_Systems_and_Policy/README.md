@@ -1,0 +1,3 @@
+# EDUC 605: Family Systems and Policy
+
+This course will explore the systemic nature of families, both internally and externally. The first half of the course will focus on the family itself as a natural system, one that governs boundaries and structure and facilitates interactions in reciprocal and patterned ways. The second half of the course will focus on the sociopolitical systems within which families live, specifically, public policies that influence how families define themselves and gain access to resources. Juniors/Seniors only. Majors only.

@@ -1,0 +1,3 @@
+# CBPH 895: Responsible Conduct of Research (RCR)
+
+Responsible conduct of research is a classroom-based graduate level course covering critical topics for ethical and responsible conduct of experimental research. There are both classroom lecture, workshop-type discussion components, in addition to assigned outside of class readings. Topics include: mentor and mentee relationships, publication authorship, collaboration, peer review, ethical use of human and animal subjects, conflicts of interest, intellectual property, plagiarism, data acquisition, and data processing.

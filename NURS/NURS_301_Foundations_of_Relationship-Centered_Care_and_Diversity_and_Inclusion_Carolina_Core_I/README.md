@@ -1,0 +1,3 @@
+# NURS 301: Foundations of Relationship-Centered Care and Diversity and Inclusion: Carolina Core I
+
+This course provides socialization into relationship-centered nursing practice. All Carolina Core tenets are introduced; however, diversity and inclusion, relationship-centered care, and scholarly communication are a central emphasis. Students will obtain a beginning ability to act as a therapeutic agent. Majors Only.

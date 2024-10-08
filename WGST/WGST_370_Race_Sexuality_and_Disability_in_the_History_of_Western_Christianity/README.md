@@ -1,0 +1,3 @@
+# WGST 370: Race, Sexuality, and Disability in the History of Western Christianity
+
+Over time, Christian institutions and traditions have helped constitute contemporary narratives of race, sexuality, and disability in society. This course examines shifting definitions and specific case studies from the premodern era through to contemporary discourses and polemics in America. Honors version available.

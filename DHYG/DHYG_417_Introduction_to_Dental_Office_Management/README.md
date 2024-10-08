@@ -1,0 +1,3 @@
+# DHYG 417: Introduction to Dental Office Management
+
+This course is designed to introduce the student to dental office management and teach the student necessary skills to function as a productive dental team member. Emphasis will be placed on the practical aspects of office management and team building. Course content will focus on hiring and firing, computers, insurance, risk management, conflict resolution and marketing strategies.

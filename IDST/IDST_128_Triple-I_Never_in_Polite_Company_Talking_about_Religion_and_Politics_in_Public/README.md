@@ -1,0 +1,3 @@
+# IDST 128: Triple-I: Never in Polite Company: Talking about Religion and Politics in Public
+
+This course will introduce students to different ethical perspectives and distinctive approaches to current issues including, but not limited to, memory, race, elections, public opinion, gender, sexuality, money, and social media. Students will engage the histories, politics, and religious traditions of communities that historically have been disempowered and interrogate structural processes of bias and inequality with the goal of interrogating these systems and learning how to speak about resistance and transformation.

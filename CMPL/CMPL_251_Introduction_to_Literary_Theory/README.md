@@ -1,0 +1,3 @@
+# CMPL 251: Introduction to Literary Theory
+
+Familiarizes students with the theory and practice of comparative literature. Against a background of classical poetics and rhetoric, explores various modern literary theories, including Russian formalism, Frankfurt School, feminism, psychoanalysis, deconstruction, new historicism, and others. All reading in theory is paired with that of literary texts drawn from a wide range of literary periods and national traditions.

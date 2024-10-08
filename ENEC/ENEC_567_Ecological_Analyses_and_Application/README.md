@@ -1,0 +1,3 @@
+# ENEC 567: Ecological Analyses and Application
+
+This course provides an overview of natural and social science approaches to addressing biodiversity conservation and resource management. Concepts and methods from population biology, evolutionary ecology, community ecology, and conservation biology will be complemented with approaches from common property theory, indigenous resource management, and human evolutionary ecology.

@@ -1,0 +1,3 @@
+# HBEH 700: Leading for Health Equity
+
+This is a required course for masters' students in the EQUITY concentration. The course will expose students to the broad context through which public health practitioners and researchers understand and address public health issues regarding health equity, social justice and human rights. This course will provide students with an overview of the field, as well as an introduction to concepts and topics that are relevant across the MPH curriculum.

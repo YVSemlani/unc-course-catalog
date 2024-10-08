@@ -1,0 +1,3 @@
+# DHYG 236: Infection Control
+
+This course is designed to introduce the infection and hazard control procedures necessary for the safe practice of dentistry. Topics include microbiology, practical infection control, sterilization and monitoring, chemical disinfectants, aseptic technique, infectious diseases, OSHA standards, and applicable North Carolina laws. Upon completion, students should be able to understand infectious diseases, disease transmission, infection control procedures, biohazard management, OSHA standards, and applicable North Carolina laws. Restricted to Dental Hygiene Program students.

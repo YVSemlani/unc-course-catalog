@@ -1,0 +1,3 @@
+# PUBA 731: Public Budgeting and Finance
+
+Introduces students to the historical foundations, institutions, and basic principles of public budgeting and finance. The course covers the fundamental areas of public financial management, including the operating and capital budgeting processes used to obtain and allocate public resources, decision making in the budgeting process, and the criteria used to evaluate revenues.

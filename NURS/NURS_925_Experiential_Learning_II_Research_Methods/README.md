@@ -1,0 +1,3 @@
+# NURS 925: Experiential Learning II: Research Methods
+
+Serves as a laboratory hub to guide students in developing the cognitive and psychomotor skills needed to perform qualitative and quantitative data collection and management, conduct ethical research with human participants, and interpret findings. Other professional development topics will be discussed including research career pathways, scientific publication, and grant opportunities.

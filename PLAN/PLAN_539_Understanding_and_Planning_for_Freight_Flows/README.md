@@ -1,0 +1,3 @@
+# PLAN 539: Understanding and Planning for Freight Flows
+
+This course introduces students to the unique characteristics of freight transportation and the impact of urban and regional planning. Freight transport, which is a critical segment of supply chains, is undergoing dramatic changes. The impact of e-Commerce is revealed in the constant re-organization of supply chains and the need for freight transport to respond accordingly.

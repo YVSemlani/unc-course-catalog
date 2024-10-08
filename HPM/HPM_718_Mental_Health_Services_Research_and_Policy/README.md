@@ -1,0 +1,3 @@
+# HPM 718: Mental Health Services Research and Policy
+
+This course is an introduction to mental health services research and policy. Topics include the financing of mental health services, supply of services, quality measures, assessing need, and barriers to care. The course includes seminar presentations by local and nationally recognized experts in mental health services research and discussion sessions.

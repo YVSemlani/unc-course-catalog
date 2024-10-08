@@ -1,0 +1,3 @@
+# EPID 705: Introduction to Deductive and Probability Logic in Epidemiology
+
+Permission of the instructor for nonmajors. Covers properties of logical relations, truth tables and Euler diagrams, valid and fallacious arguments, cognitive heuristics and biases, interpretations of probability, the probability calculus, Bayes' theorem, binomial and normal distributions, applications of probability logic and probabilistic fallacies, all in an epidemiologic context.

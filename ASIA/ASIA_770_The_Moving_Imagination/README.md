@@ -1,0 +1,3 @@
+# ASIA 770: The Moving Imagination
+
+This graduate seminar investigates competing concepts of modernity in South Asia as imagined in film and television media. We begin by exploring how notions of modernity have emerged in South Asia, and how film and television have imagined a "modern" society. Particular topics covered include social justice, gender, nation, globalization, and cosmopolitanism. We will also engage with critiques of films, television programs, and Internet-based videos with respect to social justice, environment, and technology.

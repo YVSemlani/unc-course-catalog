@@ -1,0 +1,3 @@
+# AMST 365: Women and Detective Fiction: From Miss Violet Strange to Veronica Mars
+
+Traces the origins of detective fiction and major developments in the history of the genre with a focus on women authors and protagonists. Examines literary texts including fiction and film, with close attention to historical and social contexts and to theoretical arguments relating to popular fiction, genre studies, and gender.

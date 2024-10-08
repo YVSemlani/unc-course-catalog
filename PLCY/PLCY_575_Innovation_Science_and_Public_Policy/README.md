@@ -1,0 +1,3 @@
+# PLCY 575: Innovation, Science, and Public Policy
+
+Introduction to analysis of science policy. Course explores how events transformed science's role in American life and how science relates to industry and economic development. Topics include the mechanisms of allocating scientific resources, the commercialization of academic discoveries, regulating emerging technology, and achieving consensus on controversial scientific issues.

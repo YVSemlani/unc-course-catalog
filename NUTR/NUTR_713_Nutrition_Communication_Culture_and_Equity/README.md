@@ -1,0 +1,3 @@
+# NUTR 713: Nutrition Communication, Culture and Equity
+
+This course teaches the future nutrition professional the art and science of communicating with individuals, groups, and the public. Students will explore the role of nutrition in different cultures and how to frame nutrition messages for mass media including social media. The course will also focus on nutrition justice and nutritional health equity.

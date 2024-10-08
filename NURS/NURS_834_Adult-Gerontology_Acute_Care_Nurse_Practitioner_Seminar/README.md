@@ -1,0 +1,3 @@
+# NURS 834: Adult-Gerontology Acute Care Nurse Practitioner Seminar
+
+This final seminar course is designed to support the nurse practitioner in the transition from primary to acute care clinician. Students will explore the professional role of the Adult-Gerontology Acute Care Nurse Practitioner as a pivotal member of interdisciplinary teams. Unique aspects of this transition will be examined, including collaborative relationships, the credentialing process, billing and coding, ethical challenges, and professional advocacy.

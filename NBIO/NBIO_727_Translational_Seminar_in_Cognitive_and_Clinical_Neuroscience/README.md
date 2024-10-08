@@ -1,0 +1,3 @@
+# NBIO 727: Translational Seminar in Cognitive and Clinical Neuroscience
+
+Introduces new neuroimaging techniques and their application to the study of neural correlates of cognitive and behavioral impairments in brain disorders. Reviews the theories and research methodologies that investigate how brain functions support and give rise to mental operations such as attention, memory, emotions, social cognition in the healthy brain.

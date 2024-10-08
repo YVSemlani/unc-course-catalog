@@ -1,0 +1,3 @@
+# EMES 106: Diving into Drawdown
+
+This course will take a deep dive into Project Drawdown (https://drawdown.org), which seeks to quantify and rank contributions to global warming of diverse human activities and offer truly impactful solutions for climate change mitigation from direct atmospheric capture of CO2 to modifying food production practices and blue carbon sequestration. The class will explore the range of proposed climate change solutions and conduct a capstone-type project examining topics of relevance to NC in the Drawdown framework.

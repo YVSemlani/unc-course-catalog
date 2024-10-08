@@ -1,0 +1,3 @@
+# EDUC 571: The Maker Movement and Education
+
+Education research shows that people learn better when they move, they work with their hands, they manipulate objects, and they design and make things. We've known this for years, but it's been very hard to design activities for children where they can move and make, and at the same time learn the required course material. But today that's changed, thanks to exciting new technologies that bring learning and making together.

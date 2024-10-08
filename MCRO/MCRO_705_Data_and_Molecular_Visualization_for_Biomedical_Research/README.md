@@ -1,0 +1,3 @@
+# MCRO 705: Data and Molecular Visualization for Biomedical Research
+
+This is an introductory course focused on methods to visualize scientific data and molecular structures. The course will include: R to visualize various biomedical data and generate multiple publication-ready figures and tables, phylogenetic analysis using R and other tools, and PyMol to visualize and analyze molecular structures and create images for publication. This course will also include a large codebase on using R and state-of-art packages to summarize and visualize various data types.

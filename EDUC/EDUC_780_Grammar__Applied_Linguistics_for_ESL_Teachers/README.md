@@ -1,0 +1,3 @@
+# EDUC 780: Grammar & Applied Linguistics for ESL Teachers
+
+This online course will help prepare teachers and teacher candidates for teaching emergent bilingual students at the elementary and secondary level. This course will provide teachers fundamental knowledge and practice of technical English grammar, phonology, morphology, phonetics, syntax and semantics. Participants will also look at the socio-cultural aspects of linguistics and how it is connected to identity and a sense of "place".

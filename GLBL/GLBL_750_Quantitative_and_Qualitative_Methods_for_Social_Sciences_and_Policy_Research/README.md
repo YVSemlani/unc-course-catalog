@@ -1,0 +1,3 @@
+# GLBL 750: Quantitative and Qualitative Methods for Social Sciences and Policy Research
+
+This course presents an introduction to qualitative and quantitative research methods. It addresses the theoretical, ethical, and practical aspects of conducting research in local and global contexts. Students will learn how to collect and analyze empirical information from multiple sources such as interviews, focus groups, written records, and surveys. Students will develop the skills necessary to understand and critique the methods of evaluation in others' work.

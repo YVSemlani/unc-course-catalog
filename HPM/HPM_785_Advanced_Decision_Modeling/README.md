@@ -1,0 +1,3 @@
+# HPM 785: Advanced Decision Modeling
+
+This course covers advanced decision modeling methods in health care, including probabilistic sensitivity and value of information analysis, economic evaluation using clinical trial data, and discrete event simulation and agent-based/system dynamics modeling techniques. The course teaches analytical techniques and interpretation as well as state-of-the-art best practices.

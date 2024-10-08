@@ -1,0 +1,3 @@
+# SPAN 374: Mesoamerica through Its Native Literatures
+
+Literature of the Mayas, Aztecs, and their neighbors from the Pre-Columbian period to the present. Historical, cultural, and religious information with discussions of the complexity and variation of intercultural ways of life. A comparative approach includes the aesthetic similarities, differences, and rhetorical strategies employed by indigenous writers.

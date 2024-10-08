@@ -1,0 +1,3 @@
+# EMES 483: Geologic and Oceanographic Applications of Geographical Information Systems
+
+Required preparation, four EMES courses or permission of the instructor. Focus is on applying GIS concepts and techniques to mining and petroleum geology, resource assessment, hydrogeology, coastal and marine geology, physical oceanography, engineering geology, and a geologic perspective on land use. Three lecture and two laboratory hours a week. Course previously offered as GEOL 483/MASC 483.

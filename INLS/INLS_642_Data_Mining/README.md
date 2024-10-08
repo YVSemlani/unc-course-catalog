@@ -1,0 +1,3 @@
+# INLS 642: Data Mining
+
+Recent years have witnessed explosive growth of heterogeneous and large-scale data sets. With a focus on practical applications, this course will survey methods for discovering knowledge from different modalities of data: item sets, matrix, text, image, time series, sequence, network, and more. Students will learn through lectures, seminar discussions, shared tasks, and a course project. Prior experience in data-oriented programming languages (e.g., Python or R) is strongly recommended.

@@ -1,0 +1,3 @@
+# COMM 662: Black/African Diaspora Performance
+
+Recommended preparation, COMM 160. Relying on critical race theories, colonial and postcolonial theories, and theories of performance, this course engages comparative discourses of Black/African diaspora citizenship through the literature, poetry, fiction, nonfiction, drama, and cultural performances of people of African descent, particularly in Africa, Europe, and the Americas.

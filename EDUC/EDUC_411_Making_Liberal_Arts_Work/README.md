@@ -1,0 +1,3 @@
+# EDUC 411: Making Liberal Arts "Work"
+
+Learn how to translate the outcomes of a liberal arts education to the world of work. The course will engage students in connecting one's intellectual and practical learning, as well as individual and social responsibilities to contemporary career skills and life-career design. Critical reflection on concurrent and diverse internship experience is utilized to contextualize skills and further explicate career identity working in a knowledge and digital ecology. Permission of the instructor for students with fewer than 8 hours of weekly work.
