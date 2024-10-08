@@ -1,0 +1,3 @@
+# COMP 227: Effective Peer Teaching in Computer Science
+
+Fundamentals of computer science pedagogy and instructional practice with primary focus on training undergraduate learning assistants for computer science courses. Emphasis on awareness of social identity in learning, active learning in the computer science classroom, and effective mentorship. All students must be granted a computer science learning assistantship or obtain prior approval to substitute relevant practicum experience prior to enrollment.

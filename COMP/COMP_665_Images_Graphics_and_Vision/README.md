@@ -1,0 +1,3 @@
+# COMP 665: Images, Graphics, and Vision
+
+Required preparation, a first course in data structures and a first course in discrete mathematics (e.g., COMP 410 and MATH 383). Display devices and procedures. Scan conversion. Matrix algebra supporting viewing transformations in computer graphics. Basic differential geometry. Coordinate systems, Fourier analysis, FDFT algorithm. Human visual system, psychophysics, scale in vision.

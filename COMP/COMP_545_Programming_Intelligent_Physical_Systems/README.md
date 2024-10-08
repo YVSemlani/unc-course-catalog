@@ -1,0 +1,3 @@
+# COMP 545: Programming Intelligent Physical Systems
+
+Introduction to programming embedded control systems that lie at the heart of robots, drones, and autonomous vehicles. Topics will include modeling physical systems, designing feedback controllers, timing analysis of embedded systems and software, software implementations of controllers on distributed embedded platforms and their verification. Honors version available.

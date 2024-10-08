@@ -1,0 +1,3 @@
+# COMP 388: Advanced Cyberculture Studies
+
+Explores Internet history and cyberphilosophy; online identity construction, community, communication, creativity; bodies/cyborgs; intelligence and AI. Students perform independent research into and analyze virtual worlds, social media, anonymous bulletin boards, mobile media, and more, and create digital art and literature. Seminar-style; students collaborate on designing and leading class.

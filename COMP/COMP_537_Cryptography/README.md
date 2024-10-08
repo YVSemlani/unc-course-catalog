@@ -1,0 +1,3 @@
+# COMP 537: Cryptography
+
+Introduces both the applied and theoretical sides of cryptography. Main focus will be on the inner workings of cryptographic primitives and how to use them correctly. Begins with standard cryptographic tools such as symmetric and public-key encryption, message authentication, key exchange, and digital signatures before moving on to more advanced topics. Potential advanced topics include elliptic curves, post-quantum cryptography, and zero-knowledge proofs. Honors version available.

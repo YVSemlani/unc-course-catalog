@@ -1,0 +1,3 @@
+# COMP 401: Foundation of Programming
+
+Required preparation, a first formal course in computer programming (e.g., COMP 110, COMP 116). Advanced programming: object-oriented design, classes, interfaces, packages, inheritance, delegation, observers, MVC (model view controller), exceptions, assertions. Students may not receive credit for this course after receiving credit for COMP 301. Honors version available.
