@@ -328,25 +328,27 @@ Econometric techniques for time series data. Topics include ARMA models, forecas
 
 A theoretical and empirical analysis of labor supply, human capital, income inequality, discrimination, and labor market policies. Using real-world survey data, students will gain skills in data management, programming, and policy evaluation.
 
-## [ECON 590. Special Topics. 1-3 Credits.
+## ECON 590. Special Topics. 1-3 Credits.
 Topic varies from semester to semester.
 
-ECON 595. Research Course. 1-3 Credits.
+## ECON 595. Research Course. 1-3 Credits.
 Topic varies from semester to semester.
 
-ECON 596. Independent Study. 1-3 Credits.
+## [ECON 596. Independent Study (1-3 Credits)](./ECON_596_Independent_Study_1-3_Credits)
+
 Permission of the director of undergraduate studies. Readings and research under the supervision of a member of the department.
 
-ECON 691H. Honors Course. 3 Credits.](./ECON_590_Special_Topics_1-3_Credits
+## [ECON 691H. Honors Course (3 Credits)](./ECON_691H_Honors_Course)
+
+Permission of the instructor. Readings in economics and beginning of directed research on an honors thesis. Required of all candidates for graduation with honors in economics.
+
+## [ECON 595. Research Course (1-3 Credits)](./ECON_595_Research_Course_1-3_Credits)
 Topic_varies_from_semester_to_semester
 
-ECON_595_Research_Course_1-3_Credits
-Topic_varies_from_semester_to_semester
-
-ECON_596_Independent_Study_1-3_Credits
+## [ECON 596. Independent Study (1-3 Credits)](./ECON_596_Independent_Study_1-3_Credits)
 Permission_of_the_director_of_undergraduate_studies_Readings_and_research_under_the_supervision_of_a_member_of_the_department
 
-ECON_691H_Honors_Course)
+## [ECON 691H. Honors Course (3 Credits)](./ECON_691H_Honors_Course)
 
 Permission of the instructor. Readings in economics and beginning of directed research on an honors thesis. Required of all candidates for graduation with honors in economics.
 

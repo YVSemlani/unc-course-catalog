@@ -302,13 +302,13 @@ Introduces students to modeling, programming, and statistical analysis applicabl
 
 Algorithms and data mining techniques used in modern biomedical data science and single-cell bioinformatics. Graph signal processing, graph diffusion, clustering, multimodal data integration.
 
-## [COMP 690. Special Topics in Computer Science. 1-4 Credits.
+## [COMP 690. Special Topics in Computer Science (1-4 Credits)](./COMP_690_Special_Topics_in_Computer_Science_1-4_Credits)
 This course has variable content and may be taken multiple times for credit. COMP 690 courses do not count toward the major or minor.
 
-COMP 691H. Honors Thesis in Computer Science. 3 Credits.](./COMP_690_Special_Topics_in_Computer_Science_1-4_Credits
+#[COMP 691H. Honors Thesis in Computer Science. 3 Credits.](./COMP_690_Special_Topics_in_Computer_Science_1-4_Credits
 This_course_has_variable_content_and_may_be_taken_multiple_times_for_credit_COMP_690_courses_do_not_count_toward_the_major_or_minor
 
-COMP_691H_Honors_Thesis_in_Computer_Science)
+## [COMP 691H. Honors Thesis in Computer Science (3 Credits)](./COMP_691H_Honors_Thesis_in_Computer_Science)
 
 For computer science majors only and by permission of the department. Individual student research for students pursuing an honors thesis in computer science under the supervision of a departmental faculty adviser.
 

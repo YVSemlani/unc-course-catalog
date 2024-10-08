@@ -63,36 +63,37 @@ Continuation of CHEM 261, with particular emphasis on the chemical properties of
 ## [CHEM 290. Special Topics in Chemistry. 1-3 Credits.
 Elective topics in the field of chemistry. This course has variable content and may be taken multiple times for credit.
 
-CHEM 291. Teaching Apprentice in Chemistry. 1-3 Credits.
+## [CHEM 291. Teaching Apprentice in Chemistry. 1-3 Credits.](./CHEM_291_Teaching_Apprentice_in_Chemistry_1-3_Credits)
+
 Experience includes facilitating in-class small group activities and, for an optional additional credit hour, preparing review sessions or supporting weekly recitations. Students will apply concepts in pedagogy, leadership, communication, and group dynamics. Does not fulfill chemistry major requirements. GPA above 3.0 required.
 
-CHEM 293. Undergraduate Internship in Chemistry. 3 Credits.](./CHEM_290_Special_Topics_in_Chemistry_1-3_Credits
+## [CHEM 293. Undergraduate Internship in Chemistry. 3 Credits.](./CHEM_290_Special_Topics_in_Chemistry_1-3_Credits
 Elective_topics_in_the_field_of_chemistry_This_course_has_variable_content_and_may_be_taken_multiple_times_for_credit
 
 CHEM_291_Teaching_Apprentice_in_Chemistry_1-3_Credits
 Experience_includes_facilitating_in-class_small_group_activities_and_for_an_optional_additional_credit_hour_preparing_review_sessions_or_supporting_weekly_recitations_Students_will_apply_concepts_in_pedagogy_leadership_communication_and_group_dynamics_Does_not_fulfill_chemistry_major_requirements_GPA_above_30_required
 
-CHEM_293_Undergraduate_Internship_in_Chemistry)
+## [CHEM 293. Undergraduate Internship in Chemistry. 3 Credits.](./CHEM_293_Undergraduate_Internship_in_Chemistry)
 
 The sponsored, off-campus work must involve at least 135 hours. Does not fulfill any requirement in the chemistry major or minor. Chemistry majors only. Permission of instructor/department
 
 ## [CHEM 295. Educational and Social Research in Chemistry. 1-3 Credits.
 This class is designed for students interested in pursuing educational or social research related to the field of chemistry under the mentorship of a faculty member in the UNC Department of Chemistry or another department on campus. This course does not count as a chemistry elective in the chemistry major or minor.
 
-CHEM 395. Research in Chemistry for Undergraduates. 3 Credits.](./CHEM_295_Educational_and_Social_Research_in_Chemistry_1-3_Credits
+## [CHEM 395. Research in Chemistry for Undergraduates. 3 Credits.](./CHEM_395_Research_in_Chemistry_for_Undergraduates)
 This_class_is_designed_for_students_interested_in_pursuing_educational_or_social_research_related_to_the_field_of_chemistry_under_the_mentorship_of_a_faculty_member_in_the_UNC_Department_of_Chemistry_or_another_department_on_campus_This_course_does_not_count_as_a_chemistry_elective_in_the_chemistry_major_or_minor
 
-CHEM_395_Research_in_Chemistry_for_Undergraduates)
+## [CHEM 395. Research in Chemistry for Undergraduates. 3 Credits.](./CHEM_395_Research_in_Chemistry_for_Undergraduates)
 
 Independent research in the field of chemistry under the supervision of a faculty mentor. Approved learning contract required. Students are encouraged to present their research at an appropriate symposium, conference, or seminar. May count only once as a required advanced chemistry elective. Honors version available.
 
 ## [CHEM 396. Special Problems in Chemistry. 1-3 Credits.
 Permission of the director of undergraduate studies. Literature or laboratory work equivalent of one to three hours each week. Honors version available.
 
-CHEM 397H. Honors Colloquium in Chemistry. 1 Credits.](./CHEM_396_Special_Problems_in_Chemistry_1-3_Credits
+## [CHEM 397H. Honors Colloquium in Chemistry. 1 Credits.](./CHEM_396_Special_Problems_in_Chemistry_1-3_Credits
 Permission_of_the_director_of_undergraduate_studies_Literature_or_laboratory_work_equivalent_of_one_to_three_hours_each_week_Honors_version_available
 
-CHEM_397H_Honors_Colloquium_in_Chemistry)
+## [CHEM 397H. Honors Colloquium in Chemistry. 1 Credits.](./CHEM_397H_Honors_Colloquium_in_Chemistry)
 
 Weekly meetings complement research carried out under CHEM 395H. Expands students' exposure to specialized areas of research through guided readings and seminars with invited speakers. Aids students in preparing their research for evaluation. CHEM 395H and 397H together can contribute no more than nine total hours toward graduation.
 
@@ -278,7 +279,7 @@ Application of chemical principles and tools to study and manipulate biological 
 CHEM 731. Seminar in Biological Chemistry. 2 Credits.](./CHEM_730_Chemical_Biology_2-4_Credits
 Application_of_chemical_principles_and_tools_to_study_and_manipulate_biological_systems_in-depth_exploration_of_examples_from_the_contemporary_literature_Topics_include_new_designs_for_the_genetic_code_drug_design_chemical_arrays_single_molecule_experiments_laboratory-based_evolution_chemical_sensors_and_synthetic_biology
 
-CHEM_731_Seminar_in_Biological_Chemistry)
+## [CHEM 731. Seminar in Biological Chemistry. 2 Credits.](./CHEM_731_Seminar_in_Biological_Chemistry)
 
 Graduate standing required. Literature survey dealing with topics in protein chemistry and nucleic acid chemistry.
 
@@ -286,15 +287,12 @@ Graduate standing required. Literature survey dealing with topics in protein che
 
 In-depth analysis of the structure-function relationships governing protein-protein and protein-nucleic acid interactions. Topics include replication, DNA repair, transcription, translation, RNA processing, protein complex assembly, and enzyme regulation. Course includes both the current and classic literature that highlight the techniques used to study these processes.
 
-## [CHEM 733. Special Topics in Biological Chemistry. 0.5-21 Credits.
+## [CHEM 733. Special Topics in Biological Chemistry. 0.5-21 Credits.](./CHEM_733_Special_Topics_in_Biological_Chemistry_05-21_Credits)
 Modern topics in biological chemistry.
 
-CHEM 741. Literature Seminar in Analytical Chemistry. 2 Credits.](./CHEM_733_Special_Topics_in_Biological_Chemistry_05-21_Credits
-Modern_topics_in_biological_chemistry
+## [CHEM 741. Literature Seminar in Analytical Chemistry. 2 Credits.](./CHEM_741_Literature_Seminar_in_Analytical_Chemistry)
 
-CHEM_741_Literature_Seminar_in_Analytical_Chemistry)
-
-Graduate standing required. Colloquium of modern analytical chemistry topics presented by graduate students and select invited speakers.
+Modern topics in biological chemistry.
 
 ## [CHEM 742. Analytical Research Techniques. 2 Credits.](./CHEM_742_Analytical_Research_Techniques)
 
@@ -303,20 +301,17 @@ Introduction to chemical instrumentation including digital and analog electronic
 ## [CHEM 744. Special Topics in Analytical Chemistry. 0.5-21 Credits.
 Modern topics in analytical chemistry, including advanced electroanalytical chemistry, advanced mass spectrometry, chemical instrumentation, and other subjects of recent significance. Two lecture hours a week.
 
-CHEM 745. Analytical Technical Writing Workshop. 1 Credits.](./CHEM_744_Special_Topics_in_Analytical_Chemistry_05-21_Credits
-Modern_topics_in_analytical_chemistry_including_advanced_electroanalytical_chemistry_advanced_mass_spectrometry_chemical_instrumentation_and_other_subjects_of_recent_significance_Two_lecture_hours_a_week
-
+## [CHEM 745. Analytical Technical Writing Workshop. 1 Credits.](./CHEM_745_Analytical_Technical_Writing_Workshop)
 CHEM_745_Analytical_Technical_Writing_Workshop)
 
 Students will participate in 12 workshop sessions co-presented by the instructor and TA covering the basics of technical writing. Each workshop is designed to help students prepare successful proposals for external graduate fellowships, but skills practiced are readily extended to the 2nd-year prospectus, manuscript preparation, the thesis, and beyond.
 
-## [CHEM 752. Special Topics in Inorganic Chemistry. 0.5-21 Credits.
+## [CHEM 752. Special Topics in Inorganic Chemistry. 0.5-21 Credits.](./CHEM_752_Special_Topics_in_Inorganic_Chemistry_05-21_Credits)
 Permission of the instructor. Research-level survey of topics in inorganic chemistry and related areas.
 
-CHEM 754. Literature Seminar in Inorganic Chemistry. 2 Credits.](./CHEM_752_Special_Topics_in_Inorganic_Chemistry_05-21_Credits
-Permission_of_the_instructor_Research-level_survey_of_topics_in_inorganic_chemistry_and_related_areas
+## [CHEM 754. Literature Seminar in Inorganic Chemistry. 2 Credits.](./CHEM_754_Literature_Seminar_in_Inorganic_Chemistry)
 
-CHEM_754_Literature_Seminar_in_Inorganic_Chemistry)
+Permission of the instructor. Research-level survey of topics in inorganic chemistry and related areas.
 
 Graduate standing required.
 
@@ -338,7 +333,7 @@ Two lecture hours a week.
 CHEM 765. Modern Free Radical Chemistry. 3 Credits.](./CHEM_764_Special_Topics_in_Organic_Chemistry_1-3_Credits
 Two_lecture_hours_a_week
 
-CHEM_765_Modern_Free_Radical_Chemistry)
+## [CHEM 765. Modern Free Radical Chemistry. 3 Credits.](./CHEM_765_Modern_Free_Radical_Chemistry)
 
 This course is intended for 2nd year and higher graduate students who have the appropriate prerequisites or permission from the instructor(s). The topics covered in this course pertain to modern radical chemistry in organic synthesis and the goal is to prepare students for the implementation of radical chemistry in advanced applications.
 
@@ -350,40 +345,42 @@ This course covers the physical fundamentals of material science with an in-dept
 
 Graduate standing required. Two hours a week.
 
-## [CHEM 783. Special Topics in Physical Chemistry. 0.5-21 Credits.
+## [CHEM 783. Special Topics in Physical Chemistry. 0.5-21 Credits.](./CHEM_783_Special_Topics_in_Physical_Chemistry_05-21_Credits)
 Permission of the instructor. Modern topics in physical chemistry, chemical physics, or biophysical chemistry. One to three lecture hours a week.
 
-CHEM 786. Special Topics in Physical Chemistry. 0.5-21 Credits.
+## [CHEM 786. Special Topics in Physical Chemistry. 0.5-21 Credits.](./CHEM_786_Special_Topics_in_Physical_Chemistry_05-21_Credits)
 Permission of the instructor. Modern topics in physical chemistry, chemical physics, or biophysical chemistry. One to three lecture hours a week.
 
-CHEM 791. Special Topics in Chemistry. 1-4 Credits.
+## [CHEM 791. Special Topics in Chemistry. 1-4 Credits.](./CHEM_791_Special_Topics_in_Chemistry_1-4_Credits)
 Selected research-level, cross-disciplinary topics in modern chemistry.
 
-CHEM 921. Research Methodology and Seminar in Polymer/Materials Chemistry. 1-21 Credits.
+## [CHEM 921. Research Methodology and Seminar in Polymer/Materials Chemistry. 1-21 Credits.](./CHEM_921_Research_Methodology_and_Seminar_in_Polymer_Materials_Chemistry_1-21_Credits)
 Seminar and directed study on research methods of polymer/materials chemistry. This course provides a foundation for master's thesis or doctoral dissertation research.
 
-CHEM 931. Research Methodology and Seminar in Biological Chemistry. 1-21 Credits.
+## [CHEM 931. Research Methodology and Seminar in Biological Chemistry. 1-21 Credits.](./CHEM_931_Research_Methodology_and_Seminar_in_Biological_Chemistry_1-21_Credits)
 Seminar and directed study on research methods of biological chemistry. This course provides a foundation for master's thesis or doctoral dissertation research.
 
-CHEM 941. Research Methodology and Seminar in Analytical Chemistry. 1-21 Credits.
+## [CHEM 941. Research Methodology and Seminar in Analytical Chemistry. 1-21 Credits.](./CHEM_941_Research_Methodology_and_Seminar_in_Analytical_Chemistry_1-21_Credits)
 Seminar and directed study on research methods of analytical chemistry. The course provides a foundation for master's thesis or doctoral dissertation research.
 
-CHEM 951. Research Methodology and Seminar in Inorganic Chemistry. 1-21 Credits.
+## [CHEM 951. Research Methodology and Seminar in Inorganic Chemistry. 1-21 Credits.](./CHEM_951_Research_Methodology_and_Seminar_in_Inorganic_Chemistry_1-21_Credits)
 Seminar and directed study on research methods of inorganic chemistry. The course provides a foundation for master's thesis or doctoral dissertation research.
 
-CHEM 961. Research Methodology and Seminar in Organic Chemistry. 1-21 Credits.
+## [CHEM 961. Research Methodology and Seminar in Organic Chemistry. 1-21 Credits.](./CHEM_961_Research_Methodology_and_Seminar_in_Organic_Chemistry_1-21_Credits)
 Seminar and directed study on research methods of organic chemistry. The course provides a foundation for master's thesis or doctoral dissertation research.
 
-CHEM 981. Research Methodology and Seminar in Physical Chemistry. 1-21 Credits.
+## CHEM 981. Research Methodology and Seminar in Physical Chemistry. 1-21 Credits.
 Seminar and directed study on research methods of physical chemistry. The course provides a foundation for master's thesis or doctoral dissertation research.
 
-CHEM 992. Master's (Non-Thesis). 3 Credits.](./CHEM_783_Special_Topics_in_Physical_Chemistry_05-21_Credits
+## [CHEM 992. Master's (Non-Thesis). 3 Credits.](./CHEM_992_Masters_Non-Thesis)
+
+No description available.
+
+## [CHEM 786. Special Topics in Physical Chemistry. 0.5-21 Credits.](./CHEM_786_Special_Topics_in_Physical_Chemistry_05-21_Credits)
+
 Permission_of_the_instructor_Modern_topics_in_physical_chemistry_chemical_physics_or_biophysical_chemistry_One_to_three_lecture_hours_a_week
 
-CHEM_786_Special_Topics_in_Physical_Chemistry_05-21_Credits
-Permission_of_the_instructor_Modern_topics_in_physical_chemistry_chemical_physics_or_biophysical_chemistry_One_to_three_lecture_hours_a_week
-
-CHEM_791_Special_Topics_in_Chemistry_1-4_Credits
+## CHEM_791_Special_Topics_in_Chemistry_1-4_Credits
 Selected_research-level_cross-disciplinary_topics_in_modern_chemistry
 
 CHEM_921_Research_Methodology_and_Seminar_in_PolymerMaterials_Chemistry_1-21_Credits
