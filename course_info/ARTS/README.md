@@ -1,267 +1,272 @@
 # ARTS Course Catalog
 
-## ARTS 50. First-Year Seminar: The Artistic Temperament. 3 Credits.
+## [ARTS 50. First-Year Seminar: The Artistic Temperament. 3 Credits.](./ARTS_50_First-Year_Seminar_The_Artistic_Temperament)
 
 Class examines how to advance and sustain artistic production, focusing not only on being a successful artist, but also on the importance of creativity and hard work in any successful venture. Honors version available.
 
-## ARTS 59. First-Year Seminar: Time, A Doorway to Visual Expression. 3 Credits.
+## [ARTS 59. First-Year Seminar: Time, A Doorway to Visual Expression. 3 Credits.](./ARTS_59_First-Year_Seminar_Time_A_Doorway_to_Visual_Expression)
 
 This class will study one of the lesser considered, but most intriguing, visual components: the element of time.
 
-## ARTS 75. First-Year Seminar: Stories in Sight: The Narrative Image. 3 Credits.
+## [ARTS 75. First-Year Seminar: Stories in Sight: The Narrative Image. 3 Credits.](./ARTS_75_First-Year_Seminar_Stories_in_Sight_The_Narrative_Image)
 
 This class looks at the theory and practice of telling stories through photographs.
 
-## ARTS 78. First-Year Seminar: The Visual Culture of Photography. 3 Credits.
+## [ARTS 78. First-Year Seminar: The Visual Culture of Photography. 3 Credits.](./ARTS_78_First-Year_Seminar_The_Visual_Culture_of_Photography)
 
 This course will investigate how photography is inextricably entwined in our lives and histories.
 
-## ARTS 82. First-Year Seminar: Please Save This: Exploring Personal Histories through Visual Language. 3 Credits.
+## [ARTS 82. First-Year Seminar: Please Save This: Exploring Personal Histories through Visual Language. 3 Credits.](./ARTS_82_First-Year_Seminar_Please_Save_This_Exploring_Personal_Histories_through_Visual_Language)
 
 This class will investigate the idea of personal histories in visual art. As a studio class, the course will be organized around several art making projects. As a catalyst to our own art making, we will explore the idea of personal history and memory through readings, as well as looking at contemporary artists whose work functions in an autobiographical framework.
 
-## ARTS 89. First-Year Seminar: Special Topics. 3 Credits.
+## [ARTS 89. First-Year Seminar: Special Topics. 3 Credits.](./ARTS_89_First-Year_Seminar_Special_Topics)
 
 Content varies by semester.
 
-## ARTS 102. Two-Dimensional Design. 3 Credits.
+## [ARTS 102. Two-Dimensional Design. 3 Credits.](./ARTS_102_Two-Dimensional_Design)
 
 Studio course investigates concepts and strategies of two-dimensional image making. Introduces design elements of visual language (line, shape, value, texture, color). Considers the cultural codes that accompany visual information and how they combine with organizational structures to determine a variety of effects, influence responses, and inform meaning. Foundation requirement for studio majors.
 
-## ARTS 103. Sculpture I. 3 Credits.
+## [ARTS 103. Sculpture I. 3 Credits.](./ARTS_103_Sculpture_I)
 
 Studio course introduces concepts and strategies of working in three dimensions. Project-based coursework develops understanding of ideation process and creative problem solving. Ideas about sculpture are further expanded by considering works by contemporary artists. Students develop aesthetic sensibility, analytical capacity, and fundamental skills in sculptural media. Foundation requirement for studio majors.
 
-## ARTS 104. Drawing I. 3 Credits.
+## [ARTS 104. Drawing I. 3 Credits.](./ARTS_104_Drawing_I)
 
 Working out of an observational tradition, this course provides an introduction to the concepts and techniques of drawing. Paying attention to both representation and interpretation, the course is designed to develop fundamental skills, aesthetic sensibility, analytical capacity, and creative problem-solving in two-dimensional media.
 
-## ARTS 105. Photography I. 3 Credits.
+## [ARTS 105. Photography I. 3 Credits.](./ARTS_105_Photography_I)
 
 Focusing on creative digital photography, this course provides an introduction to the concepts and techniques of digital imagery and lens-based media. Includes methods of interpretation, analysis of images, scanning, retouching, color correction, basic composition, and inkjet printing. Honors version available.
 
-## ARTS 106. Video I. 3 Credits.
+## [ARTS 106. Video I. 3 Credits.](./ARTS_106_Video_I)
 
 This foundation course introduces concepts and techniques of temporal art making. Through projects designed to develop an understanding of the creative language unique to digital media, students will learn various software programs and basic digital strategies to realize time-based works of art. Foundation requirement for studio majors.
 
-## ARTS 115. Darkroom Photography I. 3 Credits.
+## [ARTS 115. Darkroom Photography I. 3 Credits.](./ARTS_115_Darkroom_Photography_I)
 
 Introduction to black and white photography in the darkroom through photograms, pinhole, and SLR cameras, processing film, and making gelatin silver prints. Concepts are developed through making, reading and writing, engaging with established and historical artists, and critiquing peers' work. B&W process and aesthetic is approached as tradition, genre, abstraction.
 
-## ARTS 116. Introduction to Web Media. 3 Credits.
+## [ARTS 116. Introduction to Web Media. 3 Credits.](./ARTS_116_Introduction_to_Web_Media)
 
 Basic computer skills required. This course investigates the emergence of Web, interactive, and mobile technologies as artistic tools, communication technologies, and cultural phenomena. Students will design and produce interactive Web sites. The course covers principles of Web-based programming and design via HTML and CSS.
 
-## ARTS 132. Collage: Strategies for Thinking and Making. 3 Credits.
+## [ARTS 132. Collage: Strategies for Thinking and Making. 3 Credits.](./ARTS_132_Collage_Strategies_for_Thinking_and_Making)
 
 Collage is both an artistic technique and a way of thinking. Even though its historical roots stem from the early 20th century, it is an image-construction strategy that is almost ubiquitous today. Using a variety of conceptual and media approaches, this course explores strategies of collage in contemporary studio practice.
 
-## ARTS 202. Painting I. 3 Credits.
+## [ARTS 202. Painting I. 3 Credits.](./ARTS_202_Painting_I)
 
 Recommended preparation, ARTS 104. This course will introduce the fundamentals of painting and various painting techniques through studio lab activity, lectures, demonstrations, and discussions. The course intends to guide students through developing their technical, formal, conceptual, and creative sensibilities to the painting process.
 
-## ARTS 205. Photography II. 3 Credits.
+## [ARTS 205. Photography II. 3 Credits.](./ARTS_205_Photography_II)
 
 Continuation of ARTS 105 with continued focus on advanced creative digital photography techniques.
 
-## ARTS 206. Video II. 3 Credits.
+## [ARTS 206. Video II. 3 Credits.](./ARTS_206_Video_II)
 
 In this intermediate-level class students expand on video production strategies and concepts such as lighting theory, location sound recording, montage, and sound design while developing individual and collaborative processes for moving image production.
 
-## ARTS 208. Print I. 3 Credits.
+## [ARTS 208. Print I. 3 Credits.](./ARTS_208_Print_I)
 
 Introduction to four basic approaches to printmaking: intaglio, relief, planographic, and stencil processes. Students will explore creative strategies unique to the printed process.
 
-## ARTS 209. 2D Animation. 3 Credits.
+## [ARTS 209. 2D Animation. 3 Credits.](./ARTS_209_2D_Animation)
 
 This class explores several techniques of 2D character animation, including storyboarding and conceptualizing, pencil testing and timing animation, animating simple sequences with Photoshop, experimenting with coloring and materials under a film camera, and compositing in After Effects.
 
-## ARTS 213. Ceramic I. 3 Credits.
+## [ARTS 213. Ceramic I. 3 Credits.](./ARTS_213_Ceramic_I)
 
 An investigation of clay as a medium; developing technical skills, aesthetic awareness, and historical perspective.
 
-## ARTS 214. Life Drawing. 3 Credits.
+## [ARTS 214. Life Drawing. 3 Credits.](./ARTS_214_Life_Drawing)
 
 Through the study of anatomy and observation of the human form, students develop the ability to create powerful, realistic figure drawings. Fundamental skills and concepts include expressive use of line, value, weight, and volume plus classical techniques in shading, gesture, sighting, and composition.
 
-## ARTS 215. Darkroom Photography II. 3 Credits.
+## [ARTS 215. Darkroom Photography II. 3 Credits.](./ARTS_215_Darkroom_Photography_II)
 
 Continuation of ARTS 115 with advanced focus on conceptual topics and techniques of black and white analog photography. This course will provide students with proficiency in the operation of medium and large format cameras and advanced printing techniques. Concepts are developed through making, reading and writing, engaging with established and historical artists, and critiquing peers' work.
 
-## ARTS 221. Color: Theory and Concept. 3 Credits.
+## [ARTS 221. Color: Theory and Concept. 3 Credits.](./ARTS_221_Color_Theory_and_Concept)
 
 This course explores the intricacies of color theory with regard to perception, systems, and application in visual art. Further, the course considers color as subject and concept in contemporary art. Previously offered as ARTS 121.
 
-## ARTS 222. New Technologies and Narrative Painting. 3 Credits.
+## [ARTS 222. New Technologies and Narrative Painting. 3 Credits.](./ARTS_222_New_Technologies_and_Narrative_Painting)
 
 This studio course will focus on immersing students in the culturally rich practice of narrative painting, and emphasize integrating BeAM space technology and equipment in the conceptual and creative process.
 
-## ARTS 233. Wood Sculpture. 3 Credits.
+## [ARTS 233. Wood Sculpture. 3 Credits.](./ARTS_233_Wood_Sculpture)
 
 This class examines wood sculpture from both a technical and intuitive perspective. Students are taught woodworking skills and are then encouraged to use these skills to discover their creative potential.
 
-## ARTS 238. Screen Printing. 3 Credits.
+## [ARTS 238. Screen Printing. 3 Credits.](./ARTS_238_Screen_Printing)
 
 Recommended preparation, ARTS 104 and/or ARTS 105. An intermediate studio course focused on creating stencil-based print images. Students explore a range of technical approaches and will investigate art making concepts specific to screen printing as well as the intersections of screen printing with other two-dimensional art forms.
 
-## ARTS 243. Metal Sculpture. 3 Credits.
+## [ARTS 243. Metal Sculpture. 3 Credits.](./ARTS_243_Metal_Sculpture)
 
 This class examines metal sculpture from both a technical and intuitive perspective. Students are taught metalworking skills and are then encouraged to use these skills to discover their creative potential.
 
-## ARTS 274. Landscapes of the Camino. 3 Credits.
+## [ARTS 274. Landscapes of the Camino. 3 Credits.](./ARTS_274_Landscapes_of_the_Camino)
 
 This course engages students in an artistic investigation of the landscapes along the Camino de Santiago pilgrimage route. Using the path as a metaphor, the class will explore journaling as a way to document, while traversing the diverse topographical terrain of this ancient path. The journey envelops many ancient and medieval histories and perceptions of the path, documenting our experiences and experimenting with various artistic strategies. Study abroad only.
 
-## ARTS 290. Special Topics in Studio Art. 3 Credits.
+## [ARTS 290. Special Topics in Studio Art. 3 Credits.](./ARTS_290_Special_Topics_in_Studio_Art)
 
 Required preparation, any introductory studio art course or permission of the instructor. Selected topics in studio art.
 
-## ARTS 302. Painting II. 3 Credits.
+## [ARTS 302. Painting II. 3 Credits.](./ARTS_302_Painting_II)
 
 This course aims to continue guiding painting students through developing sensibilities to paint handling, color, composition, and spatial design, with an emphasis on experimentation. Students will develop their work in context to themes that are significant in painting history, relevant to contemporary art, and their personal lens.
 
-## ARTS 306. Loving Your Local Art Scene. 3 Credits.
+## [ARTS 306. Loving Your Local Art Scene. 3 Credits.](./ARTS_306_Loving_Your_Local_Art_Scene)
 
 This course takes students on a tour of Chapel Hill, Carrboro, Durham, and Raleigh's grassroots visual arts scenes, exploring everything from commercial galleries to artist-run non-profits to craft fairs to artists' studios. We will use our local arts scene as a case study to map out how art worlds function. Students' final assignment is to contribute to an ongoing digital web-based - an interactive local arts map. This class is especially beneficial for student artists.
 
-## ARTS 309. 3D Animation. 3 Credits.
+## [ARTS 309. 3D Animation. 3 Credits.](./ARTS_309_3D_Animation)
 
 The primary goals of this class are to introduce students to three-dimensional computer modeling and animation in Maya. While the particular focus of the class is 3D character animation and most students will produce a short 3D animation as their final project, students may also explore a broad range of creative applications and avenues for development, including special effects, compositing with video, and motion graphics.
 
-## ARTS 313. Ceramic II. 3 Credits.
+## [ARTS 313. Ceramic II. 3 Credits.](./ARTS_313_Ceramic_II)
 
 Continuation of ARTS 213.
 
-## ARTS 322. Narrative Painting. 3 Credits.
+## [ARTS 322. Narrative Painting. 3 Credits.](./ARTS_322_Narrative_Painting)
 
 Students will explore themes in the vast history of narrative paintings by researching and responding to these themes, and create narrative paintings through their own personal lens. We will explore topics of the genre, from historical works, to how contemporary artists are interpreting and creating narratives that mirror the diverse spectrum of identities, materials, and histories in our lifetime.
 
-## ARTS 324. Drawing II. 3 Credits.
+## [ARTS 324. Drawing II. 3 Credits.](./ARTS_324_Drawing_II)
 
 This class builds on predominantly perceptually based concepts of basic drawing and introduces abstraction, interpretive, and conceptual drawing strategies. Class assignments develop understanding of the language of drawing and provide a foundation that aims to support independent investigation and personal approaches to drawing's unique capabilities.
 
-## ARTS 343. MAKE: Art in the (New) Age. 3 Credits.
+## [ARTS 343. MAKE: Art in the (New) Age. 3 Credits.](./ARTS_343_MAKE_Art_in_the_New_Age)
 
 Suggested preparation, ARTS 103. This course examines the connecting trajectories of artistic and technological developments from early modernism to the contemporary. While addressing the interconnected nature of technology, technique, craft and art, students will work with our new technologies (Laser and Vinyl Cutter, 3D Printer, etc.) to create 3D work.
 
-## ARTS 352. Abstract Painting. 3 Credits.
+## [ARTS 352. Abstract Painting. 3 Credits.](./ARTS_352_Abstract_Painting)
 
 This studio course will explore the vast visual language of abstract painting. Students will examine abstraction through creating paintings within a historical, visual, and cultural framework, and acquire context about the emergence and persistence of painted abstraction.
 
-## ARTS 353. Phantasmagoria: Haunted Art, History, and Installation. 3 Credits.
+## [ARTS 353. Phantasmagoria: Haunted Art, History, and Installation. 3 Credits.](./ARTS_353_Phantasmagoria_Haunted_Art_History_and_Installation)
 
 This course will be organized around four art making/art building projects, culminating in a class presentation of a multimedia phantasmagoria. Students will research early light/shadow, pre-cinema techniques, hauntings/horror and artists whose work is influenced by these tropes. We will work with Maker's Spaces to produce components for this course. Previously offered as ARTS 253.
 
-## ARTS 354. Narrative Drawing. 3 Credits.
+## [ARTS 354. Narrative Drawing. 3 Credits.](./ARTS_354_Narrative_Drawing)
 
 How does one tell a story in the form of a drawing? This class will investigate narrative composition as a genre using diverse and analytical methods in drawing. From life drawing sessions to exercises in diverse environments and public events.
 
-## ARTS 355. The Practice of Representation: Portraiture in Photography. 3 Credits.
+## [ARTS 355. The Practice of Representation: Portraiture in Photography. 3 Credits.](./ARTS_355_The_Practice_of_Representation_Portraiture_in_Photography)
 
 This course examines the practical and theoretical issues of portraiture. Students will learn technical skills and conceptual strategies to engage with issues of representation and notions of identity. We will explore the history of the photographic portraiture as well as work of contemporary portrait artists working in a post-modern age.
 
-## ARTS 358. Letterpress. 3 Credits.
+## [ARTS 358. Letterpress. 3 Credits.](./ARTS_358_Letterpress)
 
 This class explores the concepts and craft of letterpress printing. Technical skills include typesetting, linoleum carving, and digital interfaces for making image and text matrices. Projects explore the special relationship of image and word and are designed around specific text/image forms: broadside, poster, portfolio, and book.
 
-## ARTS 363. At the Radical Edge of Life: Art, Space, and Ecology. 3 Credits.
+## [ARTS 363. At the Radical Edge of Life: Art, Space, and Ecology. 3 Credits.](./ARTS_363_At_the_Radical_Edge_of_Life_Art_Space_and_Ecology)
 
 Art at the Edge of Life: Art, Space, and Ecology is a course organized around 2-3 art making/art building projects, culminating in a class presentation of a final public art installation. Part seminar and part studio, students will research early ecology, sustainability, green movements and artists whose work is influenced by these tropes. We will work with BeAM and with experts in the field to find solutions for the issues that we face today.
 
-## ARTS 364. The Walking Seminar: A Territorial Investigation. 3 Credits.
+## [ARTS 364. The Walking Seminar: A Territorial Investigation. 3 Credits.](./ARTS_364_The_Walking_Seminar_A_Territorial_Investigation)
 
 Recommended preparation, ARTS 104. This seminar engages students in a territorial investigation of the North Carolina landscape. Meandering through the landscape we will explore different art mediums while simultaneously fostering an appreciation for the natural environment. Through hiking and backpacking students will foster a means for understanding their location and documenting their experience.
 
-## ARTS 368. Print II. 3 Credits.
+## [ARTS 368. Print II. 3 Credits.](./ARTS_368_Print_II)
 
 This course continues an investigation of print techniques and concepts. Projects develop an understanding of print strategies, focusing on the affordances of processes unique to printmaking. This approach positions traditional techniques as a point of departure for seeking an expanded definition of printmaking.
 
-## ARTS 373. Art, Rites and Rituals of Pilgrimage. 3 Credits.
+## [ARTS 373. Art, Rites and Rituals of Pilgrimage. 3 Credits.](./ARTS_373_Art_Rites_and_Rituals_of_Pilgrimage)
 
 This course is an introduction to the culture, history and contemporary context of pilgrimage and the Camino de Santiago through the lens of performance art and other embodied aesthetic experiences. Several performative projects form the core of the coursework with the Camino de Santiago-specifically, the Camino Francés, becomes the site and our studio for both cultural and artistic purposes.
 
-## ARTS 383. States of Change. 3 Credits.
+## [ARTS 383. States of Change. 3 Credits.](./ARTS_383_States_of_Change)
 
 This course will investigate the idea of a lived practice. As a class in studio arts, the course is organized around several perspectives on what it means to be rooted in social engagement. As a catalyst to our own art making and understanding of our mediums and fields, we will explore the proximity of art and social action and the utility of social engagement through service-learning projects set in the global landscape.
 
-## ARTS 390. Special Topics in Studio Art. 3 Credits.
+## [ARTS 390. Special Topics in Studio Art. 3 Credits.](./ARTS_390_Special_Topics_in_Studio_Art)
 
 Required preparation, any intermediate studio art course or permission of the instructor. Selected topics in studio art.
 
-## ARTS 402. Advanced Painting Projects. 3 Credits.
+## [ARTS 402. Advanced Painting Projects. 3 Credits.](./ARTS_402_Advanced_Painting_Projects)
 
 This course focuses on the historically rich practice of painting, and is designed to guide the advanced painting student through the research, conceptual, aesthetic, and technical components of a comprehensive studio practice, and developing and maintaining a studio work ethic.
 
-## ARTS 409. Art and Science: Merging Printmaking and Biology. 3 Credits.
+## [ARTS 409. Art and Science: Merging Printmaking and Biology. 3 Credits.](./ARTS_409_Art_and_Science_Merging_Printmaking_and_Biology)
 
 This class explores the intersection of two disciplines, art and science. Research skills intrinsic to both include curiosity, close observation, experimentation, and visual analysis. Organized around printmaking projects informed by specific topics in biology, students adapt theory and practical skills from both disciplines to create artworks using several printmaking techniques. Permission of the instructors. Honors version available.
 
-## ARTS 410. Public Art. 3 Credits.
+## [ARTS 410. Public Art. 3 Credits.](./ARTS_410_Public_Art)
 
 This studio class explores public art from historical and critical perspective. Students will propose and create works of public art. Opportunities to implement projects will be explored through the Department of Art and other resources.
 
-## ARTS 413. Advanced Ceramic Projects. 3 Credits.
+## [ARTS 413. Advanced Ceramic Projects. 3 Credits.](./ARTS_413_Advanced_Ceramic_Projects)
 
 Continuation of ARTS 313. May be repeated for credit.
 
-## ARTS 415. Conceptual-Experimental Photography. 3 Credits.
+## [ARTS 415. Conceptual-Experimental Photography. 3 Credits.](./ARTS_415_Conceptual-Experimental_Photography)
 
 An advanced photography course for students interested in contemporary photographic practices, critical theory, art history, and experimental processes: theory and practice, formal and conceptual investigations, and historical and contemporary strategies will all be given equal attention.
 
-## ARTS 416. Advanced Video. 3 Credits.
+## [ARTS 416. Advanced Video. 3 Credits.](./ARTS_416_Advanced_Video)
 
 An introduction to the creative and technical processes in producing video art. Students will shoot and edit their own independent video projects. Some class time will be devoted to viewing video art and other media-based work.
 
-## ARTS 417. Advanced Mixed Media Projects. 3 Credits.
+## [ARTS 417. Advanced Mixed Media Projects. 3 Credits.](./ARTS_417_Advanced_Mixed_Media_Projects)
 
 Cultural production and practice, theory, and criticism. Pursuit of individual visual projects, formally and conceptually, through theoretical, poetic, art historical, and autobiographical texts, critiques, collaboration, and discussion using all media.
 
-## ARTS 418. Advanced Printmaking. 3 Credits.
+## [ARTS 418. Advanced Printmaking. 3 Credits.](./ARTS_418_Advanced_Printmaking)
 
 This course is appropriate for students who have had a minimum of three semesters of prior printmaking experience. Students submit a proposal outlining technical and artistic goals for the semester.
 
-## ARTS 428. Book Art. 3 Credits.
+## [ARTS 428. Book Art. 3 Credits.](./ARTS_428_Book_Art)
 
 Required preparation, one additional two-dimensional studio course (drawing, photography, or printmaking). Defining the book as a "multiple and sequential picture plane," this course considers a range of traditional approaches and conceptual departures of the book as a format for creative expression.
 
-## ARTS 458. Photo Printmaking. 3 Credits.
+## [ARTS 458. Photo Printmaking. 3 Credits.](./ARTS_458_Photo_Printmaking)
 
 This course combines a technical approach (making printing matrices using photographic processes) with a conceptual framework (the photographic "voice" and its interpretation in printmaking). Artmaking projects explore salient ideas such as appropriation versus capture, documentation, truth-telling and fabrication, or narrative invention using specific technical processes such as photogravure and cyanotype.
 
-## ARTS 490. Advanced Special Topics in Studio Art. 3 Credits.
+## [ARTS 490. Advanced Special Topics in Studio Art. 3 Credits.](./ARTS_490_Advanced_Special_Topics_in_Studio_Art)
 
 Required preparation, any intermediate studio art course or permission of the instructor. Advanced consideration of selected topics in studio art.
 
-## ARTS 493. Studio Art Practicum or Internship. 3 Credits.
+## [ARTS 493. Studio Art Practicum or Internship. 3 Credits.](./ARTS_493_Studio_Art_Practicum_or_Internship)
 
 Required preparation, 15 hours ARTS courses. Allows studio art majors to pursue unpaid practicums or internships for credit. Examples include working as a studio assistant or working in art-related fields, such as galleries, design firms, architectural firms, and nonprofit arts organizations. Work undertaken must comply with Federal criteria governing unpaid internships. Departmental approval required.
 
-## ARTS 515. Advanced Topics in Photography. 3 Credits.
+## [ARTS 515. Advanced Topics in Photography. 3 Credits.](./ARTS_515_Advanced_Topics_in_Photography)
 
 May be repeated for credit.
 
-## ARTS 596. Independent Study in Studio Art. 1-4 Credits.
+## [ARTS 596. Independent Study in Studio Art. 1-4 Credits.
 Permission of the instructor. For students wishing to pursue additional media or thematic study beyond the advanced level. Students register with section numbers designated for faculty. May be repeated for credit.
 
-ARTS 657. Movie Making Machines: Learning About Cinema in the Maker Space. 3 Credits.
+ARTS 657. Movie Making Machines: Learning About Cinema in the Maker Space. 3 Credits.](./ARTS_596_Independent_Study_in_Studio_Art_1-4_Credits
+Permission_of_the_instructor_For_students_wishing_to_pursue_additional_media_or_thematic_study_beyond_the_advanced_level_Students_register_with_section_numbers_designated_for_faculty_May_be_repeated_for_credit
+
+ARTS_657_Movie_Making_Machines_Learning_About_Cinema_in_the_Maker_Space)
 
 This projects-based seminar will introduce students to the fundamental optical and technological principles of motion pictures. By using the Maker Space to design and fabricate pinhole cameras, zoetropes, and 16mm film strips, students will gain a deep understanding of the material and technological foundations of the cinema, and the operating principles that are behind not only the classic films of Hollywood's past, but the high-definition digital imaging technologies of the present.
 
-## ARTS 690. Advanced Topics in Studio Art. 3 Credits.
+## [ARTS 690. Advanced Topics in Studio Art. 3 Credits.](./ARTS_690_Advanced_Topics_in_Studio_Art)
 
 Required preparation, any intermediate studio art course or permission of the instructor. Selected topics in studio art.
 
-## ARTS 500. In addition to the classroom component, students continue to work with an individual thesis advisor and committee. Successful completion of ARTS 692H allows students to graduate with honors or highest honors.
+## [ARTS 500. In addition to the classroom component, students continue to work with an individual thesis advisor and committee. Successful completion of ARTS 692H allows students to graduate with honors or highest honors.
 
-ARTS 700. Graduate Studio Art Seminar. 3 Credits.
+ARTS 700. Graduate Studio Art Seminar. 3 Credits.](./ARTS_500_In_addition_to_the_classroom_component_students_continue_to_work_with_an_individual_thesis_advisor_and_committee_Successful_completion_of_ARTS_692H_allows_students_to_graduate_with_honors_or_highest_honors
+
+ARTS_700_Graduate_Studio_Art_Seminar)
 
 Graduate Studio Art Seminar
 
-## ARTS 701. Teaching Practicum. 3 Credits.
+## [ARTS 701. Teaching Practicum. 3 Credits.](./ARTS_701_Teaching_Practicum)
 
 Teaching Practicum
 
-## ARTS 710. Graduate Studio. 1-21 Credits.
+## [ARTS 710. Graduate Studio. 1-21 Credits.
 No description available.
 
 ARTS 713. Graduate Sculpture. 1-21 Credits.
@@ -270,15 +275,24 @@ No description available.
 ARTS 718. Graduate Printmaking. 1-21 Credits.
 No description available.
 
-ARTS 720. Qualifying Review. 2 Credits.
+ARTS 720. Qualifying Review. 2 Credits.](./ARTS_710_Graduate_Studio_1-21_Credits
+No_description_available
+
+ARTS_713_Graduate_Sculpture_1-21_Credits
+No_description_available
+
+ARTS_718_Graduate_Printmaking_1-21_Credits
+No_description_available
+
+ARTS_720_Qualifying_Review)
 
 Qualifying Review
 
-## ARTS 798. M.F.A. Graduate Group Critique. 3 Credits.
+## [ARTS 798. M.F.A. Graduate Group Critique. 3 Credits.](./ARTS_798_MFA_Graduate_Group_Critique)
 
 M.F.A. candidates meet weekly for organized group analysis and critique of their art work. Each candidate presents work on rotating basis before a panel of faculty and peers.
 
-## ARTS 992. Master's Project in Studio Art. 3 Credits.
+## [ARTS 992. Master's Project in Studio Art. 3 Credits.](./ARTS_992_Masters_Project_in_Studio_Art)
 
 Master's Project in Studio Art
 

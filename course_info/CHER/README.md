@@ -1,22 +1,22 @@
 # CHER Course Catalog
 
-## CHER 101. Elementary Cherokee Language I. 3 Credits.
+## [CHER 101. Elementary Cherokee Language I. 3 Credits.](./CHER_101_Elementary_Cherokee_Language_I)
 
 Provides an introduction to speaking, listening, reading, and writing in the Cherokee language. This course is part of an ongoing effort to revitalize Cherokee--an endangered language indigenous to North Carolina. Students will acquire basic conversational Cherokee and learn to read and write the Sequoyah syllabary.
 
-## CHER 102. Elementary Cherokee Language II. 3 Credits.
+## [CHER 102. Elementary Cherokee Language II. 3 Credits.](./CHER_102_Elementary_Cherokee_Language_II)
 
 This course expands on skills from CHER 101. We will begin reading longer texts in the Cherokee syllabary and learn to produce more complex narrative structures. Students will move toward discussing others around them, with an eye toward discussing the general world.
 
-## CHER 203. Intermediate Cherokee Language I. 3 Credits.
+## [CHER 203. Intermediate Cherokee Language I. 3 Credits.](./CHER_203_Intermediate_Cherokee_Language_I)
 
 This course reviews and deepens grammatical knowledge from CHER 101 and 102. We will increase extemporaneous speaking and produce new written texts in the Cherokee syllabary. Students will discuss the world around them in addition to the self and others.
 
-## CHER 204. Intermediate Cherokee Language II. 3 Credits.
+## [CHER 204. Intermediate Cherokee Language II. 3 Credits.](./CHER_204_Intermediate_Cherokee_Language_II)
 
 This course completes the study of basic Cherokee grammar. We will polish conversational fluency and proficiency, read and create new texts in the Cherokee syllabary. Students will discuss current events and offer opinions.
 
-## CHER 305. Phonetics and General Linguistics. 3 Credits.
+## [CHER 305. Phonetics and General Linguistics. 3 Credits.](./CHER_305_Phonetics_and_General_Linguistics)
 
 Introduction to linguistics; the Cherokee sound system from a phonetic and allophonic view; grammatical categories, morphology, syntax.
 

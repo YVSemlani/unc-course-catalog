@@ -1,147 +1,156 @@
 # IDST Course Catalog
 
-## IDST 89. First-Year Seminar: Special Topics. 3 Credits.
+## [IDST 89. First-Year Seminar: Special Topics. 3 Credits.](./IDST_89_First-Year_Seminar_Special_Topics)
 
 Content varies each semester.
 
-## IDST 101. College Thriving. 1 Credits.
+## [IDST 101. College Thriving. 1 Credits.](./IDST_101_College_Thriving)
 
 College Thriving empowers all students to participate fully in the opportunities of a research university and find resources to support them in their educational pursuits at Carolina. The course enhances and provides new tools to support students' ability to study systematically, learn deeply, and monitor and foster their own well-being. First-year students only. Members of Honors Carolina will fulfill this requirement with HNRS 101 instead.
 
-## IDST 111. Triple-I: Ethics, Economics, and Public Policy. 3 Credits.
+## [IDST 111. Triple-I: Ethics, Economics, and Public Policy. 3 Credits.](./IDST_111_Triple-I_Ethics_Economics_and_Public_Policy)
 
 This interdisciplinary course provides an overview of core tools used to analyze issues at the intersection of ethics, economics and public policy. It introduces students to the tools of economic analysis, including markets, prices, and market failures; discusses the ethical dimensions of markets and public policy, including socio-economic justice, the nature of well-being, and individual liberty; and describes challenges in political organization and action that confront policy makers motivated by economic or ethical objectives.
 
-## IDST 112. Triple-I: Death and Dying. 3 Credits.
+## [IDST 112. Triple-I: Death and Dying. 3 Credits.](./IDST_112_Triple-I_Death_and_Dying)
 
 Death and dying are universal human experiences. Yet there are cultural and historical variations in how we define and experience death and dying. This course explores the concepts of death and dying from three different disciplines (examples may include, but are not limited to, Anthropology, English and Comparative Literature, and Psychology and Neuroscience). This course will consider similarities and differences between the discipline research methodologies and introduce students to data literacy and principles of evidence.
 
-## IDST 113. Triple-I: The Idea of Race. 3 Credits.
+## [IDST 113. Triple-I: The Idea of Race. 3 Credits.](./IDST_113_Triple-I_The_Idea_of_Race)
 
 The idea that humans can be divided into distinct races has been used to justify the persecution, enslavement, and extermination of groups based on their presumed inferiority. Today, scientists agree that what we describe as races are in fact social constructs, not genetic realities. Students will learn why race is not a viable biological concept, how the idea of race arose and is maintained, and what alternatives exist for understanding diversity and change over time.
 
-## IDST 114. Triple-I: Science Fiction, the Environment, and Vulnerable Communities. 3 Credits.
+## [IDST 114. Triple-I: Science Fiction, the Environment, and Vulnerable Communities. 3 Credits.](./IDST_114_Triple-I_Science_Fiction_the_Environment_and_Vulnerable_Communities)
 
 This course focuses on the question of how the genre of science fiction has been used to address the world's environmental concerns and how these concerns affect communities differently depending on their gender, race, and class. The course investigates global environmental challenges including resources, overpopulation, consumption, and climate change. Emphasis will be placed on texts and characters created by women and ethnic minorities. Students will be introduced to comparative, global, intersectional, and interdisciplinary approaches.
 
-## IDST 115. Triple-I: Understanding Health and Happiness. 3 Credits.
+## [IDST 115. Triple-I: Understanding Health and Happiness. 3 Credits.](./IDST_115_Triple-I_Understanding_Health_and_Happiness)
 
 This course exposes students to diverse scientific approaches to understanding happiness and subjective and physical well-being. The three professors offer perspectives from three disciplines: physiology, psychology, and sociology. The course teaches students research skills as well as evidence-based life skills, such as teamwork, developing social connections including "belongingness" at UNC, being physically active, and becoming confident that they can deploy these skills to increase their happiness and health.
 
-## IDST 116. Triple-I: Gender. 3 Credits.
+## [IDST 116. Triple-I: Gender. 3 Credits.](./IDST_116_Triple-I_Gender)
 
 This course will consider gender through the lenses of three distinct disciplines. We will explore gender-related issues and consider how gender has been conceptualized, represented, and challenged throughout history. This course will establish a foundation from which students can think critically about gender from multiple perspective-personal, social, cultural, and political.
 
-## IDST 117. Triple-I: Experiencing Latin America: Bodies, Belonging, Nature. 3 Credits.
+## [IDST 117. Triple-I: Experiencing Latin America: Bodies, Belonging, Nature. 3 Credits.](./IDST_117_Triple-I_Experiencing_Latin_America_Bodies_Belonging_Nature)
 
 This course examines linguistic, geopolitical, and socio-environmental boundaries to foster an inter-sectional understanding of identity and belonging in the Americas. Course topics (e.g., migration, justice, environmental well being) are examined through Spanish language-based films and artwork. Students will expand their understanding of the Spanish language, context art, and global issues. Students will have assignments that involve performance, creative design, and fabrication.
 
-## IDST 118. Triple-I: Fake News, Real Science. 3 Credits.
+## [IDST 118. Triple-I: Fake News, Real Science. 3 Credits.](./IDST_118_Triple-I_Fake_News_Real_Science)
 
 How can you distinguish "good" science and "bad" science in the world around you? This course focuses on scientific literacy, the defining characteristics of "good" science, and how to identify logical fallacies and heuristic shortcuts that make legitimate science difficult to discern. We will discuss best practices for science educators and journalists to effectively communicate accurate scientific knowledge. Each semester we will focus on two relevant science issues, e.g COVID-19 and climate change.
 
-## IDST 119. Triple-I: Food: People, Politics, and Policies. 3 Credits.
+## [IDST 119. Triple-I: Food: People, Politics, and Policies. 3 Credits.](./IDST_119_Triple-I_Food_People_Politics_and_Policies)
 
 Have you ever thought about the food you eat? If you ate a hamburger or a salad, where did that meal come from? If you were living in a different country, what would this meal look like? Who are the laborers who made the meal possible? Is your body designed for this food? How do we make policies about food? What are the ethical concerns around food? This course will discuss these questions and more.
 
-## IDST 120. Triple-I: Myths, Moons, and Methods. 3 Credits.
+## [IDST 120. Triple-I: Myths, Moons, and Methods. 3 Credits.](./IDST_120_Triple-I_Myths_Moons_and_Methods)
 
 This course focuses on astronomy as it developed in the ancient Mediterranean and early modern Europe, from astronomy's early beginnings as a means to keep calendars and the underpinnings of mythology, to its central role for developing natural sciences during the early modern period. Students will acquire skills to understand how different epochs interpreted the generation of knowledge; how their interpretations were influenced by their culture, mythology, and religion; and how science arrives at knowledge.
 
-## IDST 121. Triple-I: Performing and Imagining the American South. 3 Credits.
+## [IDST 121. Triple-I: Performing and Imagining the American South. 3 Credits.](./IDST_121_Triple-I_Performing_and_Imagining_the_American_South)
 
 The Mason-Dixon line marks a physical boundary of the US South, but Southern identity arises from more than a line on a map. This course will examine the South through its music, film, literature, and public rhetoric, to consider how those elements intersect with economic, technological, and political factors. In short, how can the South be simultaneously the birthplace of rock and roll and the origin of the "Southern Strategy", American authenticity and Coca Cola?
 
-## IDST 122. Triple-I: Humans and the Cosmos. 3 Credits.
+## [IDST 122. Triple-I: Humans and the Cosmos. 3 Credits.](./IDST_122_Triple-I_Humans_and_the_Cosmos)
 
 This course is an interdisciplinary introduction to some of the most essential and exciting debates about humanity's relationship to the universe. We explore such topics as the beginning of existence, the nature of time, contact with the supernatural world, and predictions about the end of all things - from the perspective of philosophy, physics, history, and related disciplines.
 
-## IDST 123. Triple-I: Borders and Boundaries. 3 Credits.
+## [IDST 123. Triple-I: Borders and Boundaries. 3 Credits.](./IDST_123_Triple-I_Borders_and_Boundaries)
 
 What are borders and boundaries? How have they changed over time? How do people experience borders and what can they do when they impinge on their lives? We will address these and other questions through case studies anchored in the ancient and modern Middle East and Mediterranean. We will study the cultural and political effects of borders and boundaries, especially the experience of bordering practices by refugees and migrant communities across time.
 
-## IDST 124. Triple-I: Pandemics: Ethics, Literatures, and Cultures. 3 Credits.
+## [IDST 124. Triple-I: Pandemics: Ethics, Literatures, and Cultures. 3 Credits.](./IDST_124_Triple-I_Pandemics_Ethics_Literatures_and_Cultures)
 
 The COVID-19 pandemic transformed life dramatically for millions of people. Yet its realities - social distancing, quarantine, protective masks, job loss, education disruption, anxiety, loneliness and death, have been part of life during pandemics and epidemics across time and global space. This course brings three specific lenses and sets of methods to bear on experiences of pandemics - those of literature, anthropology, and philosophy. Themes of care, resource inequalities, stigma, and knowledge production are highlighted.
 
-## IDST 125. Triple-I: The Art and Science of Expertise. 3 Credits.
+## [IDST 125. Triple-I: The Art and Science of Expertise. 3 Credits.](./IDST_125_Triple-I_The_Art_and_Science_of_Expertise)
 
 In this course, students will learn a framework of expertise development and self-regulation to pursue mastery. Through course materials, collaborative discussions, and interdisciplinary instructor perspectives, students will develop an understanding of their goals, what it takes to become extraordinary in these areas while maintaining their psychological well-being, and a personalized plan to maximize their potential. Topics covered include psychology of motivation and positive functioning, deliberate practice, accountability, competitiveness, leadership, resilience, happiness, flow, and performance measurement.
 
-## IDST 126. Triple-I: Values and Prices. 3 Credits.
+## [IDST 126. Triple-I: Values and Prices. 3 Credits.](./IDST_126_Triple-I_Values_and_Prices)
 
 Oscar Wilde wisely warns against being someone "who knows the price of everything and the value of nothing" (Lady Windemere's Fan). Of course, people often use the price as shorthand for value. Useful as this is, it is misleading, too, in ways that matter to critical thinking and rational decision making. In this course, we will be exploring the differences - and connections - between prices and values.
 
-## IDST 127. Triple-I: What is Art? Where is Art?. 3 Credits.
+## [IDST 127. Triple-I: What is Art? Where is Art?. 3 Credits.](./IDST_127_Triple-I_What_is_Art_Where_is_Art)
 
 What is art? Where is it found? Museums are devoted to it, scholars study it, collectors spend millions to own it. And yet, definitions of art reveal more about the people doing the defining than they do about the creative expressions themselves. By asking the question--rather than by answering it--this class will explore why art matters as a category and what changing conceptions of art tell us about people and cultures around the world.
 
-## IDST 128. Triple-I: Never in Polite Company: Talking about Religion and Politics in Public. 3 Credits.
+## [IDST 128. Triple-I: Never in Polite Company: Talking about Religion and Politics in Public. 3 Credits.](./IDST_128_Triple-I_Never_in_Polite_Company_Talking_about_Religion_and_Politics_in_Public)
 
 This course will introduce students to different ethical perspectives and distinctive approaches to current issues including, but not limited to, memory, race, elections, public opinion, gender, sexuality, money, and social media. Students will engage the histories, politics, and religious traditions of communities that historically have been disempowered and interrogate structural processes of bias and inequality with the goal of interrogating these systems and learning how to speak about resistance and transformation.
 
-## IDST 129. Triple-I: Countering Hate. 3 Credits.
+## [IDST 129. Triple-I: Countering Hate. 3 Credits.](./IDST_129_Triple-I_Countering_Hate)
 
 Many of our cultural endeavors are aimed at overcoming the fears, suspicions, and misunderstandings that manifest as racism, misogyny, antisemitism, Islamophobia, homophobia, etc. In this class, we examine the cognitive and political roots of hatred as well as cultural efforts to overcome it through performance, literature, film, photography, and faith. We ask: How have artists and faith leaders addressed such animosity, and how can our practices of reading, viewing, listening, and scholarship counter hate?
 
-## IDST 130. Triple-I: The Future of Food. 3 Credits.
+## [IDST 130. Triple-I: The Future of Food. 3 Credits.](./IDST_130_Triple-I_The_Future_of_Food)
 
 This course combines perspectives from science fiction studies, anthropology, public policy, and marine ecology to study the food we eat now and the food we might eat in the future. We will explore how our love of and need for food influences our social and political structures, trade and conflict among cultures, and our relationship with our planet. Using fiction, films, and research we will examine (future) food technologies, policies, sustainability, and eating practices.
 
-## IDST 132. Triple-I: Science for Hyperpartisan Times. 3 Credits.
+## [IDST 132. Triple-I: Science for Hyperpartisan Times. 3 Credits.](./IDST_132_Triple-I_Science_for_Hyperpartisan_Times)
 
 This course aims to help students navigate the messy intersection of science, policy, and politics by teaching how the substance, history, presentation, and interpretation of science influence our understandings of the world. Students will: 1) analyze public discourse and debate about science, 2) consider how philosophies, data, and interpretations are created, delivered, and received, and 3) discuss how these factors - alongside partisan politics and bias from both sides of the aisle - influence science.
 
-## IDST 133. Triple-I: How to Not Be Fooled - Or Fool Yourself. 3 Credits.
+## [IDST 133. Triple-I: How to Not Be Fooled - Or Fool Yourself. 3 Credits.](./IDST_133_Triple-I_How_to_Not_Be_Fooled_-_Or_Fool_Yourself)
 
 How do you avoid being fooled by bogus claims? In this class, we examine climate change and the age of Earth and the universe - two topics where our underlying beliefs push us toward conclusions that conflict with the evidence. In addition to learning the science underlying these topics, we will learn the psychology of belief systems, why our brains reject some information, and how to deal with uncertainty, recognize logical fallacies, and examine claims.
 
-## IDST 180. First-Generation College Students in Higher Education. 1 Credits.
+## [IDST 180. First-Generation College Students in Higher Education. 1 Credits.](./IDST_180_First-Generation_College_Students_in_Higher_Education)
 
 First-generation college students will have the opportunity to explore their first-generation identity and start to define what it means for them to be a scholar and citizen leader. The course will introduce scholars to educational research on the first-generation college student experience and allow scholars the opportunity to reflect on their own experience and salient identities in the college environment. Education equity and diversity in higher education will be addressed through course readings and activities.
 
-## IDST 190. Triple-I: Special Topics. 3 Credits.
+## [IDST 190. Triple-I: Special Topics. 3 Credits.](./IDST_190_Triple-I_Special_Topics)
 
 This is a Triple-I special topics course. Content varies each semester.
 
-## IDST 195. Undergraduate Research Consulting Team. 1 Credits.
+## [IDST 195. Undergraduate Research Consulting Team. 1 Credits.](./IDST_195_Undergraduate_Research_Consulting_Team)
 
 A mentored research course for students participating in an undergraduate research consulting team under the supervision of a faculty advisor. Requires participation in research and a report/presentation.
 
-## IDST 197. Research with the American South. 1 Credits.
+## [IDST 197. Research with the American South. 1 Credits.](./IDST_197_Research_with_the_American_South)
 
 A seminar designed to introduce Southern Futures Fellows to research and creative discovery with the American South, with a focus on the arts and humanities. Course includes guest lectures, site visits, and assignments that will help Fellows develop their summer research, creative discovery, or service project. Priority enrollment for Southern Futures Fellows. Students interested in pursuing undergraduate research with the American South, particularly in the Arts and Humanities, are encouraged to take course, space permitting.
 
-## IDST 198. Research beyond Academia. 1 Credits.
+## [IDST 198. Research beyond Academia. 1 Credits.](./IDST_198_Research_beyond_Academia)
 
 Researchers from the Triangle region and beyond will discuss their research to provide students with exposure to research opportunities and careers outside academia. This course meets a requirement for the Carolina Research Scholars Program.
 
-## IDST 199. Modes of Inquiry. 1 Credits.
+## [IDST 199. Modes of Inquiry. 1 Credits.](./IDST_199_Modes_of_Inquiry)
 
 A seminar in which faculty discuss their own work. Students will learn how topics are defined and investigated and how undergraduates can engage in discovery. Pass/Fail only.
 
-## IDST 201. Increasing Diversity in STEM Research. 1 Credits.
+## [IDST 201. Increasing Diversity in STEM Research. 1 Credits.](./IDST_201_Increasing_Diversity_in_STEM_Research)
 
 Required of Chancellor's Science Scholars and open to others by permission of the instructor. The course will explore the broad range of STEM research available at UNC-Chapel Hill, and will address issues of developing more diversity in the STEM research workforce nationwide. Permission of the instructor to add and drop this course.
 
-## IDST 290. Special Topics in Interdisciplinary Studies. 1-3 Credits.
+## [IDST 290. Special Topics in Interdisciplinary Studies. 1-3 Credits.
 Special topics course. Content varies each semester.
 
-IDST 293. Global Tech Experience. 6 Credits.
+IDST 293. Global Tech Experience. 6 Credits.](./IDST_290_Special_Topics_in_Interdisciplinary_Studies_1-3_Credits
+Special_topics_course_Content_varies_each_semester
+
+IDST_293_Global_Tech_Experience)
 
 The Global Tech Experience is a virtual experiential learning program that enables undergraduate students from all backgrounds to build career-focused intercultural and technical skills. A learning contract is required.
 
-## IDST 396. Independent Study. 1-3 Credits.
+## [IDST 396. Independent Study. 1-3 Credits.
 Independent project to be arranged with an instructor.
 
 IDST 496. Independent Study. 1-6 Credits.
 Permission of the department. Special reading and research for graduate and undergraduate students on a specific interdisciplinary topic under the direction of a faculty member.
 
-IDST 691H. Senior Honors Thesis. 3 Credits.
+IDST 691H. Senior Honors Thesis. 3 Credits.](./IDST_396_Independent_Study_1-3_Credits
+Independent_project_to_be_arranged_with_an_instructor
+
+IDST_496_Independent_Study_1-6_Credits
+Permission_of_the_department_Special_reading_and_research_for_graduate_and_undergraduate_students_on_a_specific_interdisciplinary_topic_under_the_direction_of_a_faculty_member
+
+IDST_691H_Senior_Honors_Thesis)
 
 Permission of the instructor. Required of all senior honors candidates.
 
-## IDST 890. Special Topics in Interdisciplinary Studies. 3 Credits.
+## [IDST 890. Special Topics in Interdisciplinary Studies. 3 Credits.](./IDST_890_Special_Topics_in_Interdisciplinary_Studies)
 
 Permission of the instructor. Graduate seminar exploring selected topics.
 

@@ -1,365 +1,404 @@
 # INLS Course Catalog
 
-## INLS 73. First-Year Seminar: Smart Cities. 3 Credits.
+## [INLS 73. First-Year Seminar: Smart Cities. 3 Credits.](./INLS_73_First-Year_Seminar_Smart_Cities)
 
 Topics and trends in sustainable and smart cities. Role of information in the design of network resources and impact on urban design, development, and urban living will be explored.
 
-## INLS 89. First-Year Seminar: Special Topics. 3 Credits.
+## [INLS 89. First-Year Seminar: Special Topics. 3 Credits.](./INLS_89_First-Year_Seminar_Special_Topics)
 
 Special topics course; content will vary each semester.
 
-## INLS 151. Retrieving and Analyzing Information. 3 Credits.
+## [INLS 151. Retrieving and Analyzing Information. 3 Credits.](./INLS_151_Retrieving_and_Analyzing_Information)
 
 Introduction to and application of the processes that can be used in seeking information, evaluating the quality of the information retrieved, and synthesizing the information into a useful form.
 
-## INLS 161. Tools for Information Literacy. 3 Credits.
+## [INLS 161. Tools for Information Literacy. 3 Credits.](./INLS_161_Tools_for_Information_Literacy)
 
 Tools and concepts for information literacy. Includes software use and maintenance, computer applications, and networked information systems.
 
-## INLS 201. Foundations of Information Science. 3 Credits.
+## [INLS 201. Foundations of Information Science. 3 Credits.](./INLS_201_Foundations_of_Information_Science)
 
 Examines the evolution of information science; information representation, organization and management; search and retrieval; human information seeking and interaction; organizational behavior and communication; policy, ethics and scholarly communication.
 
-## INLS 202. Retrieval and Organizing Systems. 3 Credits.
+## [INLS 202. Retrieval and Organizing Systems. 3 Credits.](./INLS_202_Retrieval_and_Organizing_Systems)
 
 Introduction to foundational core concepts and core techniques in information organization, information retrieval, and data mining.
 
-## INLS 203. Human Information Behavior. 3 Credits.
+## [INLS 203. Human Information Behavior. 3 Credits.](./INLS_203_Human_Information_Behavior)
 
 Introduces key areas and concepts in information science, to include task modeling, information-seeking behavior, search behavior, human-computer interaction, usability, user interfaces, social media, and social media analysis.
 
-## INLS 318. Human Computer Interaction. 3 Credits.
+## [INLS 318. Human Computer Interaction. 3 Credits.](./INLS_318_Human_Computer_Interaction)
 
 Design, implementation, and evaluation of interfaces for computer systems. User-based techniques, usability issues, and human factors.
 
-## INLS 382. Information Systems Analysis and Design. 3 Credits.
+## [INLS 382. Information Systems Analysis and Design. 3 Credits.](./INLS_382_Information_Systems_Analysis_and_Design)
 
 Analysis of organizational problems and how information systems can be designed to solve those problems. Application of database and interface design principles to the implementation of information systems.
 
-## INLS 384. Information and Computer Ethics. 3 Credits.
+## [INLS 384. Information and Computer Ethics. 3 Credits.](./INLS_384_Information_and_Computer_Ethics)
 
 Overview of ethical reasoning, followed by examination of ethical issues relevant to information science, including access to information and technology, societal impacts of technology, information privacy, surveillance and security, intellectual property, and professional ethics.
 
-## INLS 385. Information Use for Organizational Effectiveness. 3 Credits.
+## [INLS 385. Information Use for Organizational Effectiveness. 3 Credits.](./INLS_385_Information_Use_for_Organizational_Effectiveness)
 
 Basic concepts in the way that information, people, and technology interact to influence organizational effectiveness. Principles of problem solving, teamwork, leadership, and organizational change/innovation.
 
-## INLS 393. Information Science Internship. 3 Credits.
+## [INLS 393. Information Science Internship. 3 Credits.](./INLS_393_Information_Science_Internship)
 
 Permission of the school. Supervised observation and practice in information science. The internship typically takes place in an information agency or an information technology company. Faculty-led seminars and a paper enhance the experience. Pass/Fail only.
 
-## INLS 396. Independent Study in Information Systems. 1-3 Credits.
+## [INLS 396. Independent Study in Information Systems. 1-3 Credits.
 Study by an individual student on a special topic under the direction of a specific faculty member. A prospectus/plan for the work is required in advance of registration.
 
-INLS 418. Human Factors in System Design. 3 Credits.
+INLS 418. Human Factors in System Design. 3 Credits.](./INLS_396_Independent_Study_in_Information_Systems_1-3_Credits
+Study_by_an_individual_student_on_a_special_topic_under_the_direction_of_a_specific_faculty_member_A_prospectusplan_for_the_work_is_required_in_advance_of_registration
+
+INLS_418_Human_Factors_in_System_Design)
 
 Design, implementation, and evaluation of interfaces for computer systems. User-based techniques, usability issues, and human factors.
 
-## INLS 465. Understanding Information Technology for Managing Digital Collections. 3 Credits.
+## [INLS 465. Understanding Information Technology for Managing Digital Collections. 3 Credits.](./INLS_465_Understanding_Information_Technology_for_Managing_Digital_Collections)
 
 Prepares students to be conversant with information technologies that underlie digital collections in order to evaluate the work of developers, delegate tasks, write requests for proposals, and establish policies and procedures. Teaches students how to think about information technology systems and recognize and manage interdependencies between parts of the systems.
 
-## INLS 467. Introduction to Information Security. 3 Credits.
+## [INLS 467. Introduction to Information Security. 3 Credits.](./INLS_467_Introduction_to_Information_Security)
 
 Students will learn about many of the current issues facing businesses as well as how to prevent and discuss these issues and controls in depth. Focus will be placed upon preventing loss of information and protecting networks. Students should be able to understand any security control, describe its usage and rationale, as well as test and verify these controls are working as expected.
 
-## INLS 490. Selected Topics. 1-3 Credits.
+## [INLS 490. Selected Topics. 1-3 Credits.
 Exploration of an introductory-level special topic not otherwise covered in the curriculum. Previous offerings of these courses do not predict their future availability; new courses may replace these.
 
-INLS 493. Professional Field Experience. 1 Credits.
+INLS 493. Professional Field Experience. 1 Credits.](./INLS_490_Selected_Topics_1-3_Credits
+Exploration_of_an_introductory-level_special_topic_not_otherwise_covered_in_the_curriculum_Previous_offerings_of_these_courses_do_not_predict_their_future_availability_new_courses_may_replace_these
+
+INLS_493_Professional_Field_Experience)
 
 Second field experience course to be offered to coincide with the student's information science project in a local organization. Enrollment restricted to IS majors and minors; Instructor permission required.
 
-## INLS 500. Human Information Interactions. 3 Credits.
+## [INLS 500. Human Information Interactions. 3 Credits.](./INLS_500_Human_Information_Interactions)
 
 The behavioral and cognitive activities of those who interact with information, with emphasis on the role of information mediators. How information needs are recognized and resolved; use and dissemination of information.
 
-## INLS 501. Information Resources and Services. 3 Credits.
+## [INLS 501. Information Resources and Services. 3 Credits.](./INLS_501_Information_Resources_and_Services)
 
 Analysis, use, and evaluation of information and reference systems, services, and tools for both printed and electronic delivery. Provides a foundation in electronic information search techniques, question negotiation, interviewing, and instruction.
 
-## INLS 509. Information Retrieval. 3 Credits.
+## [INLS 509. Information Retrieval. 3 Credits.](./INLS_509_Information_Retrieval)
 
 Study of information retrieval and question answering techniques, including document classification, retrieval and evaluation techniques, handling of large data collections, and the use of feedback.
 
-## INLS 512. Applications of Natural Language Processing. 3 Credits.
+## [INLS 512. Applications of Natural Language Processing. 3 Credits.](./INLS_512_Applications_of_Natural_Language_Processing)
 
 Natural language processing (NLP) uses mathematics, machine learning, linguistics, and computer science to make language computationally accessible and analyzable. In this course, you will learn to do essential NLP tasks using Python and survey a selection of NLP applications to describe the problems or tasks each addresses, the materials and methods used, and how the applications are evaluated. At least a semester of Python or equivalent practical experience is highly recommended.
 
-## INLS 513. Resource Selection and Evaluation. 3 Credits.
+## [INLS 513. Resource Selection and Evaluation. 3 Credits.](./INLS_513_Resource_Selection_and_Evaluation)
 
 Identification, provision, and evaluation of resources to meet primary needs of clientele in different institutional environments.
 
-## INLS 515. Consumer Health Information. 3 Credits.
+## [INLS 515. Consumer Health Information. 3 Credits.](./INLS_515_Consumer_Health_Information)
 
 Examines concepts of health, health conditions, policy, and information collections and services from social and cultural perspectives. Analysis and design for provision and access to consumer health information services.
 
-## INLS 520. Organization of Information. 3 Credits.
+## [INLS 520. Organization of Information. 3 Credits.](./INLS_520_Organization_of_Information)
 
 Introduction to the problems and methods of organizing information, including information structures, knowledge schemata, data structures, terminological control, index language functions, and implications for searching.
 
-## INLS 523. Introduction to Database Concepts and Applications. 3 Credits.
+## [INLS 523. Introduction to Database Concepts and Applications. 3 Credits.](./INLS_523_Introduction_to_Database_Concepts_and_Applications)
 
 Design and implementation of basic database systems. Semantic modeling, relational database theory, including normalization, indexing, and query construction, SQL.
 
-## INLS 525. Electronic Records Management. 3 Credits.
+## [INLS 525. Electronic Records Management. 3 Credits.](./INLS_525_Electronic_Records_Management)
 
 Explores relationships between new information and communication technologies and organizational efforts to define, identify, control, manage, and preserve records. Considers the importance of organizational, institutional and technological factors in determining appropriate recordkeeping strategies.
 
-## INLS 530. Young Adult Literature and Related Materials. 3 Credits.
+## [INLS 530. Young Adult Literature and Related Materials. 3 Credits.](./INLS_530_Young_Adult_Literature_and_Related_Materials)
 
 A survey of print and nonprint library materials particularly suited to the needs of adolescents.
 
-## INLS 534. Youth and Technology in Libraries. 3 Credits.
+## [INLS 534. Youth and Technology in Libraries. 3 Credits.](./INLS_534_Youth_and_Technology_in_Libraries)
 
 This course encourages students to explore the array of technologies available to children and adolescents, the issues surrounding the use of technology, the role of care givers, and potential impacts on development.
 
-## INLS 541. Information Visualization. 3 Credits.
+## [INLS 541. Information Visualization. 3 Credits.](./INLS_541_Information_Visualization)
 
 An introduction to information visualization through reading current literature and studying exemplars. The course reviews information visualization techniques, provides a framework for identifying the need for information visualization, and emphasizes interactive electronic visualizations that use freely available tools. Students will construct several visualizations. No programming skills are required.
 
-## INLS 550. History of the Book and Other Information Formats. 3 Credits.
+## [INLS 550. History of the Book and Other Information Formats. 3 Credits.](./INLS_550_History_of_the_Book_and_Other_Information_Formats)
 
 The history of the origin and development of the book in all its formats: clay tablets to electronic. Coverage includes scientific and other scholarly publications, religious works, popular literature, periodicals, and newspapers.
 
-## INLS 551. History of Libraries and Other Information-Related Cultural Institutions. 3 Credits.
+## [INLS 551. History of Libraries and Other Information-Related Cultural Institutions. 3 Credits.](./INLS_551_History_of_Libraries_and_Other_Information-Related_Cultural_Institutions)
 
 The history of cultural institutions related to information from earliest times to the present day. Includes specific institutions, trends in service and facilities, and individuals important in the development of these institutions.
 
-## INLS 556. Introduction to Archives and Records Management. 3 Credits.
+## [INLS 556. Introduction to Archives and Records Management. 3 Credits.](./INLS_556_Introduction_to_Archives_and_Records_Management)
 
 Survey of the principles, techniques, and issues in the acquisition, management, and administration of records, manuscripts, archives, and other cultural and documentary resources in paper, electronic, and other media formats.
 
-## INLS 558. Principles and Techniques of Storytelling. 3 Credits.
+## [INLS 558. Principles and Techniques of Storytelling. 3 Credits.](./INLS_558_Principles_and_Techniques_of_Storytelling)
 
 An overview of storytelling, its historical development, and the presentation and administration of storytelling programs. The class focuses on performance skills merged with theoretical issues.
 
-## INLS 560. Programming for Information Science. 3 Credits.
+## [INLS 560. Programming for Information Science. 3 Credits.](./INLS_560_Programming_for_Information_Science)
 
 Introduction to programming and computational concepts. Students will learn to write programs using constructs such as iteration, flow control, variables, functions, and error handling. No programming experience required.
 
-## INLS 561. Digital Forensics for Curation of Digital Collections. 3 Credits.
+## [INLS 561. Digital Forensics for Curation of Digital Collections. 3 Credits.](./INLS_561_Digital_Forensics_for_Curation_of_Digital_Collections)
 
 Students will learn about hardware, software, principles, and methods for capturing and curating digital data that have been stored on removable media (i.e., hard drives, floppy disks, USB memory sticks).
 
-## INLS 570. Fundamentals of Programming Information Applications. 3 Credits.
+## [INLS 570. Fundamentals of Programming Information Applications. 3 Credits.](./INLS_570_Fundamentals_of_Programming_Information_Applications)
 
 Intermediate programming concepts in information processing and data analysis. Students will learn object-oriented programming, data structures, data analysis methods, and information processing techniques in the context of information science topics.
 
-## INLS 572. Web Development I. 3 Credits.
+## [INLS 572. Web Development I. 3 Credits.](./INLS_572_Web_Development_I)
 
 Introduction to current technologies, standards, and best practices for front-end web development using HTML, CSS, and JavaScript. Includes coverage of responsive design techniques for the development of websites that render and perform well on various devices.
 
-## INLS 573. Mobile Web Development. 1.5 Credits.
+## [INLS 573. Mobile Web Development. 1.5 Credits.
 An introduction to techniques and technologies for the development of mobile Web sites and their applications.
 
-INLS 582. Systems Analysis. 3 Credits.
+INLS 582. Systems Analysis. 3 Credits.](./INLS_573_Mobile_Web_Development_15_Credits
+An_introduction_to_techniques_and_technologies_for_the_development_of_mobile_Web_sites_and_their_applications
+
+INLS_582_Systems_Analysis)
 
 Introduction to the systems approach to the design and development of information systems. Methods and tools for the analysis and modeling of system functionality (e.g., structured analysis) and data represented in the system (e.g., object-oriented analysis) are studied.
 
-## INLS 584. Information Ethics. 3 Credits.
+## [INLS 584. Information Ethics. 3 Credits.](./INLS_584_Information_Ethics)
 
 An overview of ethical reasoning, followed by discussion of issues most salient to information professionals, e.g., intellectual property, privacy, access/censorship, effects of computerization, and ethical codes of conduct.
 
-## INLS 585. Management for Information Professionals. 3 Credits.
+## [INLS 585. Management for Information Professionals. 3 Credits.](./INLS_585_Management_for_Information_Professionals)
 
 Introduction to management principles and practices for information professionals working in all types of organizations. Topics include planning, budgeting, organizational theory, staffing, leadership, organizational change and evaluation, and decision making.
 
-## INLS 586. Project Management. 1.5 Credits.
+## [INLS 586. Project Management. 1.5 Credits.
 Strategies and skills needed to effectively manage projects, integrating project management theory with best practices in different organizational perspectives. Individual and team assignments include readings and case studies.
 
-INLS 609. Experimental Information Retrieval. 3 Credits.
+INLS 609. Experimental Information Retrieval. 3 Credits.](./INLS_586_Project_Management_15_Credits
+Strategies_and_skills_needed_to_effectively_manage_projects_integrating_project_management_theory_with_best_practices_in_different_organizational_perspectives_Individual_and_team_assignments_include_readings_and_case_studies
+
+INLS_609_Experimental_Information_Retrieval)
 
 This course takes an in-depth look at experimental information retrieval systems that focus on different search tasks and are evaluated in community-wide evaluation forums such as TREC and INEX.
 
-## INLS 613. Text Mining. 3 Credits.
+## [INLS 613. Text Mining. 3 Credits.](./INLS_613_Text_Mining)
 
 This course will allow the student to develop a general understanding of knowledge discovery and gain a specific understanding of text mining. Students will become familiar with both the theoretical and practical aspects of text mining and develop a proficiency with data modeling text.
 
-## INLS 620. Web Information Organization. 3 Credits.
+## [INLS 620. Web Information Organization. 3 Credits.](./INLS_620_Web_Information_Organization)
 
 Similar programming background needed. Understand the Web as a platform for information organizing systems. Learn how the Web has been designed to be a service platform, data publishing platform, and application platform.
 
-## INLS 623. Database Systems II: Intermediate Databases. 3 Credits.
+## [INLS 623. Database Systems II: Intermediate Databases. 3 Credits.](./INLS_623_Database_Systems_II_Intermediate_Databases)
 
 Intermediate-level design and implementation of database systems, building on topics studied in INLS 523. Additional topics include MySQL, indexing, XML, and nontext databases.
 
-## INLS 624. Policy-Based Data Management. 3 Credits.
+## [INLS 624. Policy-Based Data Management. 3 Credits.](./INLS_624_Policy-Based_Data_Management)
 
 Students will develop policies for managing digital repositories and persistent archives. The rules will be implemented in the integrated Rule-Oriented Data System (iRODS), which organizes and distributes data into shareable collections.
 
-## INLS 625. Information Analytics. 3 Credits.
+## [INLS 625. Information Analytics. 3 Credits.](./INLS_625_Information_Analytics)
 
 This course introduces analytical techniques to deal with very large data sets. Students will become familiar with predictive modeling, clustering, data mining, and paradigms such as map resource.
 
-## INLS 641. Visual Analytics. 3 Credits.
+## [INLS 641. Visual Analytics. 3 Credits.](./INLS_641_Visual_Analytics)
 
 This project-based course provides an overview of visual analytics. Material includes foundational concepts and theories, seminal and recent research in the field, and hands-on experience with commonly used technologies. Programming experience strongly recommended.
 
-## INLS 642. Data Mining. 3 Credits.
+## [INLS 642. Data Mining. 3 Credits.](./INLS_642_Data_Mining)
 
 Recent years have witnessed explosive growth of heterogeneous and large-scale data sets. With a focus on practical applications, this course will survey methods for discovering knowledge from different modalities of data: item sets, matrix, text, image, time series, sequence, network, and more. Students will learn through lectures, seminar discussions, shared tasks, and a course project. Prior experience in data-oriented programming languages (e.g., Python or R) is strongly recommended.
 
-## INLS 651. Audio-Visual Archives Management. 1.5 Credits.
+## [INLS 651. Audio-Visual Archives Management. 1.5 Credits.
 An introduction to the management of audio, film, and video archives with an emphasis on the history of recording, best practices for preservation and access, and copyright. Through selected readings, lecture, class discussion, assignment, and hands-on demonstration, students will gain an understanding of the history of recording, format identification, storage and handling, philosophy of media preservation, and copyright.
 
-INLS 660. Social Media and Society: A Theoretical and Empirical Overview. 3 Credits.
+INLS 660. Social Media and Society: A Theoretical and Empirical Overview. 3 Credits.](./INLS_651_Audio-Visual_Archives_Management_15_Credits
+An_introduction_to_the_management_of_audio_film_and_video_archives_with_an_emphasis_on_the_history_of_recording_best_practices_for_preservation_and_access_and_copyright_Through_selected_readings_lecture_class_discussion_assignment_and_hands-on_demonstration_students_will_gain_an_understanding_of_the_history_of_recording_format_identification_storage_and_handling_philosophy_of_media_preservation_and_copyright
+
+INLS_660_Social_Media_and_Society_A_Theoretical_and_Empirical_Overview)
 
 Explores the evolution, implications, and complications of social media in multiple spheres of life including sociality, community, politics, power and inequality, education, and information from theoretical and empirical perspectives.
 
-## INLS 672. Web Development II. 3 Credits.
+## [INLS 672. Web Development II. 3 Credits.](./INLS_672_Web_Development_II)
 
 Study of design and implementation of applications using both client and server side configuration and programming. Example topics include PHP, ruby on Rails, and Javascript.
 
-## INLS 685. Project Management: Strategy and Applications. 3 Credits.
+## [INLS 685. Project Management: Strategy and Applications. 3 Credits.](./INLS_685_Project_Management_Strategy_and_Applications)
 
 This course is a broad introduction to project management principles, tools, and strategies intended for use in a variety of applications. Key topics include project planning tools, project process groups, risk assessment, budgeting/cost estimation, and team management. Through the use of readings, videos, assignments, and forum discussions, students will have the opportunity to demonstrate knowledge and understanding of the strategy behind successful project management and problem resolution.
 
-## INLS 690. Intermediate Selected Topics. 1-3 Credits.
+## [INLS 690. Intermediate Selected Topics. 1-3 Credits.
 Exploration of a special topic not otherwise covered in the curriculum, at an intermediate level. Previous offering of this course does not predict future availability; new courses may replace these. Topic varies by instructor.
 
-INLS 691H. Research Methods in Information Science. 3 Credits.
+INLS 691H. Research Methods in Information Science. 3 Credits.](./INLS_690_Intermediate_Selected_Topics_1-3_Credits
+Exploration_of_a_special_topic_not_otherwise_covered_in_the_curriculum_at_an_intermediate_level_Previous_offering_of_this_course_does_not_predict_future_availability_new_courses_may_replace_these_Topic_varies_by_instructor
+
+INLS_691H_Research_Methods_in_Information_Science)
 
 Senior standing and permission of the instructor. Restricted to information science majors. An introduction to research methods used in information science. Includes the writing of a research proposal.
 
-## INLS 696. Study in Information and Library Science. 1-3 Credits.
+## [INLS 696. Study in Information and Library Science. 1-3 Credits.
 Study by an individual student on a special topic under the direction of a specific faculty member. Six credit maximum for master's students. Graduate faculty.
 
-INLS 697. Information Science Capstone. 3 Credits.
+INLS 697. Information Science Capstone. 3 Credits.](./INLS_696_Study_in_Information_and_Library_Science_1-3_Credits
+Study_by_an_individual_student_on_a_special_topic_under_the_direction_of_a_specific_faculty_member_Six_credit_maximum_for_masters_students_Graduate_faculty
+
+INLS_697_Information_Science_Capstone)
 
 Senior standing required. Information science major or minor. Contemporary topics of information science, information systems, information technology, information design, and information management. Assessment of future impact of new developments.
 
-## INLS 700. Scholarly Communication. 3 Credits.
+## [INLS 700. Scholarly Communication. 3 Credits.](./INLS_700_Scholarly_Communication)
 
 Addresses how scholars approach academic work; social relationships within academia; external stakeholders in the scholarly communication system; and emerging technologies' impact upon work practices. Intended for students interested in academic libraries or digital collections of scholarly materials, and/or conducting research on scholarly communication.
 
-## INLS 702. Social Science Information. 1.5 Credits.
+## [INLS 702. Social Science Information. 1.5 Credits.
 Survey of information and its needs in the social sciences, with an emphasis on information use and search strategies and on information resources.
 
-INLS 707. Government Information. 3 Credits.
+INLS 707. Government Information. 3 Credits.](./INLS_702_Social_Science_Information_15_Credits
+Survey_of_information_and_its_needs_in_the_social_sciences_with_an_emphasis_on_information_use_and_search_strategies_and_on_information_resources
+
+INLS_707_Government_Information)
 
 A survey of information and data sources from all levels of U.S. government, and international bodies. Primary focus on strategies for finding information; secondary, collection management, role of librarians, etc.
 
-## INLS 708. Law Libraries and Legal Information. 3 Credits.
+## [INLS 708. Law Libraries and Legal Information. 3 Credits.](./INLS_708_Law_Libraries_and_Legal_Information)
 
 An introduction to the legal system and the development of law libraries, their unique objectives, characteristics, and functions. The literature of Anglo-American jurisprudence and computerized legal research are emphasized, as well as research techniques.
 
-## INLS 709. Business Information. 3 Credits.
+## [INLS 709. Business Information. 3 Credits.](./INLS_709_Business_Information)
 
 Combines an introduction to basic business concepts and vocabulary with consideration of current issues in business librarianship and of key print and electronic information sources.
 
-## INLS 710. Evidence-Based Medicine. 3 Credits.
+## [INLS 710. Evidence-Based Medicine. 3 Credits.](./INLS_710_Evidence-Based_Medicine)
 
 An introduction to the process of evidence-based medicine (EBM) including question building, searching, and critical appraisal of studies and to the supporting roles and opportunities for medical librarians.
 
-## INLS 711. Crisis Management for Libraries. 3 Credits.
+## [INLS 711. Crisis Management for Libraries. 3 Credits.](./INLS_711_Crisis_Management_for_Libraries)
 
 Crises come in many forms, from natural disasters to individual health emergencies. Preparedness, prevention, and planning are all critical components in handling these situations effectively. In this course, students will learn about risk assessment, training and other tools, disaster prevention, recovery, partnerships, and outreach as they apply to all types of libraries.
 
-## INLS 712. Introduction to Text Mining. 1.5 Credits.
+## [INLS 712. Introduction to Text Mining. 1.5 Credits.
 Changes in technology and publishing practices have eased the task of recording and sharing textual information electronically. This increased quantity of information has spurred the development of a new field called text mining. The overarching goal of this new field is to use computers to automatically learn new things from textual data. Throughout the course, a strong emphasis will be placed on evaluation. Students will develop an understanding of one method through a course project.
 
 INLS 714. Introduction to Information Analytics. 1.5 Credits.
 The data explosion experienced by computerization of every aspect of our lives from social media to internet of things requires a deeper look at information analytics. The course introduces proven and emerging analytical techniques that can be used to deal with mountains of mostly unstructured data. We will look at several analytical paradigms from Predictive Modeling to Data Mining, Text Analytics to Web Analytics, Statistical Analysis to novel paradigms in Map Reduce and Storm.
 
-INLS 718. User Interface Design. 3 Credits.
+INLS 718. User Interface Design. 3 Credits.](./INLS_712_Introduction_to_Text_Mining_15_Credits
+Changes_in_technology_and_publishing_practices_have_eased_the_task_of_recording_and_sharing_textual_information_electronically_This_increased_quantity_of_information_has_spurred_the_development_of_a_new_field_called_text_mining_The_overarching_goal_of_this_new_field_is_to_use_computers_to_automatically_learn_new_things_from_textual_data_Throughout_the_course_a_strong_emphasis_will_be_placed_on_evaluation_Students_will_develop_an_understanding_of_one_method_through_a_course_project
+
+INLS_714_Introduction_to_Information_Analytics_15_Credits
+The_data_explosion_experienced_by_computerization_of_every_aspect_of_our_lives_from_social_media_to_internet_of_things_requires_a_deeper_look_at_information_analytics_The_course_introduces_proven_and_emerging_analytical_techniques_that_can_be_used_to_deal_with_mountains_of_mostly_unstructured_data_We_will_look_at_several_analytical_paradigms_from_Predictive_Modeling_to_Data_Mining_Text_Analytics_to_Web_Analytics_Statistical_Analysis_to_novel_paradigms_in_Map_Reduce_and_Storm
+
+INLS_718_User_Interface_Design)
 
 Basic principles for designing the human interface to information systems, emphasizing computer-assisted systems. Major topics: users' conceptual models of systems, human information processing capabilities, styles of interfaces, evaluation methods.
 
-## INLS 719. Usability Testing and Evaluation. 3 Credits.
+## [INLS 719. Usability Testing and Evaluation. 3 Credits.](./INLS_719_Usability_Testing_and_Evaluation)
 
 This course will introduce central concepts in usability engineering, testing and evaluation including: UX lifecycle, contextual inquiry, formal and informal evaluation techniques, measures, metrics, qualitative and qualitative analysis, evaluation reporting.
 
-## INLS 720. Metadata Architectures and Applications. 3 Credits.
+## [INLS 720. Metadata Architectures and Applications. 3 Credits.](./INLS_720_Metadata_Architectures_and_Applications)
 
 Examines metadata in digital environment. Emphasizes the development and implementation of metadata schemas in distinct information communities and the standards and technological applications used to create machine understandable metadata.
 
-## INLS 721. Cataloging Theory and Practice. 3 Credits.
+## [INLS 721. Cataloging Theory and Practice. 3 Credits.](./INLS_721_Cataloging_Theory_and_Practice)
 
 Covers principles, practices, and future trends for cataloging library resources. Topics include RDA/AACR2, MARC, authority control, subject analysis, classification, and cataloging of print, nonprint, and digital resources.
 
-## INLS 722. Introduction to Metadata Architectures and Applications. 1.5 Credits.
+## [INLS 722. Introduction to Metadata Architectures and Applications. 1.5 Credits.
 Examines fundamental concepts central to structured metadata implementations and surveys the many types of standards that attempt to harmonize description and enable interoperable systems. The course situates the challenge of implementing standards for interoperable data within the messy reality of persistent interpretive diversity. Students cannot receive credit for both INLS 722 and INLS 720.
 
-INLS 723. Database Systems III: Advanced Databases. 3 Credits.
+INLS 723. Database Systems III: Advanced Databases. 3 Credits.](./INLS_722_Introduction_to_Metadata_Architectures_and_Applications_15_Credits
+Examines_fundamental_concepts_central_to_structured_metadata_implementations_and_surveys_the_many_types_of_standards_that_attempt_to_harmonize_description_and_enable_interoperable_systems_The_course_situates_the_challenge_of_implementing_standards_for_interoperable_data_within_the_messy_reality_of_persistent_interpretive_diversity_Students_cannot_receive_credit_for_both_INLS_722_and_INLS_720
+
+INLS_723_Database_Systems_III_Advanced_Databases)
 
 Advanced study of database systems. Topics include database design, administration, current issues in development and use, optimization, indexing, transactions, and database programming.
 
-## INLS 724. Introduction to Electronic Records Management. 1.5 Credits.
+## [INLS 724. Introduction to Electronic Records Management. 1.5 Credits.
 We explore the management and preservation of electronic records for maintaining institutional accountability; protecting rights of citizens, employees and customers; supporting efficient operations; perpetuating social memory; and helping individuals to integrate the past into their sense of identity. We begin by considering the messy recordkeeping environment that surrounds us and then build up a set of concepts, tools and strategies that information professionals can use to help shape more appropriate, valuable and sustainable recordkeeping systems.
 
 INLS 726. Big Data and NoSQL for Data Science. 1.5 Credits.
 This class will introduce students to current and emerging practices for dealing with big data and large-scale database systems used by many social networking and ecommerce services. These applications are highly data intensive and use novel algorithms and NoSQL databases that are mainly open source, non-schema oriented, having weak consistency properties and heavily distributed over large and evolving clusters of off-the-shelf server systems. We will look at several such systems in this course.
 
-INLS 732. Children's Literature and Related Materials. 3 Credits.
+INLS 732. Children's Literature and Related Materials. 3 Credits.](./INLS_724_Introduction_to_Electronic_Records_Management_15_Credits
+We_explore_the_management_and_preservation_of_electronic_records_for_maintaining_institutional_accountability_protecting_rights_of_citizens_employees_and_customers_supporting_efficient_operations_perpetuating_social_memory_and_helping_individuals_to_integrate_the_past_into_their_sense_of_identity_We_begin_by_considering_the_messy_recordkeeping_environment_that_surrounds_us_and_then_build_up_a_set_of_concepts_tools_and_strategies_that_information_professionals_can_use_to_help_shape_more_appropriate_valuable_and_sustainable_recordkeeping_systems
+
+INLS_726_Big_Data_and_NoSQL_for_Data_Science_15_Credits
+This_class_will_introduce_students_to_current_and_emerging_practices_for_dealing_with_big_data_and_large-scale_database_systems_used_by_many_social_networking_and_ecommerce_services_These_applications_are_highly_data_intensive_and_use_novel_algorithms_and_NoSQL_databases_that_are_mainly_open_source_non-schema_oriented_having_weak_consistency_properties_and_heavily_distributed_over_large_and_evolving_clusters_of_off-the-shelf_server_systems_We_will_look_at_several_such_systems_in_this_course
+
+INLS_732_Childrens_Literature_and_Related_Materials)
 
 Survey of literature and related materials for children with emphasis on 20th-century authors and illustrators.
 
-## INLS 733. Administration of Public Library Work with Children and Young Adults. 3 Credits.
+## [INLS 733. Administration of Public Library Work with Children and Young Adults. 3 Credits.](./INLS_733_Administration_of_Public_Library_Work_with_Children_and_Young_Adults)
 
 Objectives and organization of public library services for children and young adults; designed for those who may work directly with young people or who intend to work in public libraries.
 
-## INLS 735. Youth Services in a Diverse Society. 3 Credits.
+## [INLS 735. Youth Services in a Diverse Society. 3 Credits.](./INLS_735_Youth_Services_in_a_Diverse_Society)
 
 The purpose of this course is to prepare students to work as youth services librarians in today's increasingly diverse society. The course includes a 30-hour service learning component.
 
-## INLS 737. Inclusive Information Services for Diverse Populations. 3 Credits.
+## [INLS 737. Inclusive Information Services for Diverse Populations. 3 Credits.](./INLS_737_Inclusive_Information_Services_for_Diverse_Populations)
 
 This course will prepare students to work as ILS professionals in today's increasingly diverse society. Students will develop a theoretical base in critical race theory (CRT) and other cross-disciplinary theories.
 
-## INLS 739. Information Services and Specific Populations. 3 Credits.
+## [INLS 739. Information Services and Specific Populations. 3 Credits.](./INLS_739_Information_Services_and_Specific_Populations)
 
 Service, professional, and administrative issues related to information access by nontraditional information service users. The course examines trends, public policy, ethical issues, programming, and evaluation of services.
 
-## INLS 740. Digital Libraries: Principles and Applications. 3 Credits.
+## [INLS 740. Digital Libraries: Principles and Applications. 3 Credits.](./INLS_740_Digital_Libraries_Principles_and_Applications)
 
 Research and development issues in digital libraries including: collection development and digitization, mixed mode holdings; access strategies and interfaces, metadata and interoperability, economic and social policies, and management and evaluation.
 
-## INLS 746. Music Librarianship. 3 Credits.
+## [INLS 746. Music Librarianship. 3 Credits.](./INLS_746_Music_Librarianship)
 
 Survey of the history and practice of music librarianship, with an emphasis on administration, collection development, and public service in academic and large public libraries.
 
-## INLS 749. Art and Visual Information Management. 3 Credits.
+## [INLS 749. Art and Visual Information Management. 3 Credits.](./INLS_749_Art_and_Visual_Information_Management)
 
 A survey of the history and practice of art and visual resources librarianship/curatorship, with an emphasis on administration, collection development, copyright practices, digital resource management, and public service.
 
-## INLS 750. Introduction to Digital Curation. 3 Credits.
+## [INLS 750. Introduction to Digital Curation. 3 Credits.](./INLS_750_Introduction_to_Digital_Curation)
 
 Introduces students to digital curation; focusing best practices for the creation, selection, storage, provision, and long-term preservation of digital entities. Discusses the digital/data curation life cycles and identifies the activities associated with each stage and their social, legal, ethical, and policy implications.
 
-## INLS 751. Data Governance and Curation. 3 Credits.
+## [INLS 751. Data Governance and Curation. 3 Credits.](./INLS_751_Data_Governance_and_Curation)
 
 This course explores best practices, standards, new tools, and workflows for the full range of data lifecycle activities including: FAIR data; the ethics of data collection, analysis, and storage; data sharing and reuse for the academic, government, and business sectors; key data curation standards; data quality; document and content management; data maturity models; and organizational change management. The second half of the class focuses on data governance.
 
-## INLS 752. Digital Preservation and Access. 3 Credits.
+## [INLS 752. Digital Preservation and Access. 3 Credits.](./INLS_752_Digital_Preservation_and_Access)
 
 Focuses on best practices for the creation, provision, and long-term preservation of digital entities. Topics include digitization technologies; standards and quality control; digital asset management; grant writing; and metadata.
 
-## INLS 753. Preservation of Library and Archive Materials. 3 Credits.
+## [INLS 753. Preservation of Library and Archive Materials. 3 Credits.](./INLS_753_Preservation_of_Library_and_Archive_Materials)
 
 An introduction to current practices, issues, and trends in the preservation of materials for libraries and archives, with an emphasis on integrating preservation throughout an institution's operations.
 
-## INLS 754. Access. Outreach, and Public Service in Cultural Heritage Repositories. 3 Credits.
+## [INLS 754. Access. Outreach, and Public Service in Cultural Heritage Repositories. 3 Credits.](./INLS_754_Access_Outreach_and_Public_Service_in_Cultural_Heritage_Repositories)
 
 Explores user needs, information seeking behaviors, and provision of access to primary source materials in archives, manuscript repositories, and museums. User education and outreach are major foci.
 
-## INLS 755. Archival Appraisal. 3 Credits.
+## [INLS 755. Archival Appraisal. 3 Credits.](./INLS_755_Archival_Appraisal)
 
 Explores history, theories, techniques, and methods that archivists use to identify documents and other materials of enduring value for lone-term preservation.
 
-## INLS 757. Principles and Practices in Archival Description. 3 Credits.
+## [INLS 757. Principles and Practices in Archival Description. 3 Credits.](./INLS_757_Principles_and_Practices_in_Archival_Description)
 
 Recommended preparation, INLS 556. Explores the history, principles, development, and use of archival description with a focus on EAD and MARC structures. Presents authority and subject analysis work and description for special formats.
 
-## INLS 758. International and Cross-Cultural Perspectives for Information Management. 3 Credits.
+## [INLS 758. International and Cross-Cultural Perspectives for Information Management. 3 Credits.](./INLS_758_International_and_Cross-Cultural_Perspectives_for_Information_Management)
 
 Examines information in society for selected nations/cultures. Compares institutions, processes, and trends in the globalization of information management in the face of barriers of language and culture.
 
-## INLS 760. Web Databases. 3 Credits.
+## [INLS 760. Web Databases. 3 Credits.](./INLS_760_Web_Databases)
 
 Programming experience required. Explores concepts and practice surrounding the implementation and delivery of Web-enabled databases. Students will gain experience with and evaluate PC and Unix Web database platforms.
 
-## INLS 761. Data Analysis. 1.5 Credits.
+## [INLS 761. Data Analysis. 1.5 Credits.
 This course provides fundamental skills for developing software for the analysis of structured data sets. Students will learn data analysis techniques using numeric, textual, and tabular data in the context of data science topics such as information retrieval, textual analysis, and basic machine learning. The course combines conceptual understanding of data structures and algorithms with practical techniques for implementation and debugging. Course concepts are taught using Python. For Certificate in Applied Data Science students.
 
 INLS 765. Information Technology Foundations for Managing Digital Collections. 1.5 Credits.
@@ -368,15 +407,24 @@ Prepares students to be conversant with information technologies that underlie d
 INLS 766. Audit and Certification of Trustworthy Digital Repositories. 1.5 Credits.
 This course will address international standards for repository design and audit; risk assessment and mitigation; repository audit and certification tools and processes; criteria for trustworthiness; and the development of specific workflows to support trustworthy digital curation functions. It is also the first step in preparing for repository self-audits and the Trustworthy Digital Repository Auditor's credential to become an auditor of trustworthy digital repositories (ISO 16363).
 
-INLS 767. Information Assurance. 3 Credits.
+INLS 767. Information Assurance. 3 Credits.](./INLS_761_Data_Analysis_15_Credits
+This_course_provides_fundamental_skills_for_developing_software_for_the_analysis_of_structured_data_sets_Students_will_learn_data_analysis_techniques_using_numeric_textual_and_tabular_data_in_the_context_of_data_science_topics_such_as_information_retrieval_textual_analysis_and_basic_machine_learning_The_course_combines_conceptual_understanding_of_data_structures_and_algorithms_with_practical_techniques_for_implementation_and_debugging_Course_concepts_are_taught_using_Python_For_Certificate_in_Applied_Data_Science_students
+
+INLS_765_Information_Technology_Foundations_for_Managing_Digital_Collections_15_Credits
+Prepares_students_to_be_conversant_with_information_technologies_that_underlie_digital_collections_in_order_to_evaluate_the_work_of_developers_delegate_tasks_write_requests_for_proposals_and_establish_policies_and_procedures
+
+INLS_766_Audit_and_Certification_of_Trustworthy_Digital_Repositories_15_Credits
+This_course_will_address_international_standards_for_repository_design_and_audit_risk_assessment_and_mitigation_repository_audit_and_certification_tools_and_processes_criteria_for_trustworthiness_and_the_development_of_specific_workflows_to_support_trustworthy_digital_curation_functions_It_is_also_the_first_step_in_preparing_for_repository_self-audits_and_the_Trustworthy_Digital_Repository_Auditors_credential_to_become_an_auditor_of_trustworthy_digital_repositories_ISO_16363
+
+INLS_767_Information_Assurance)
 
 Information assurance is a broader concept than (computerized) information security. It deals with aspects of data integrity, privacy, paper and human security issues, and security from several perspectives: legal issues, technical tools and methods, social and ethical concerns, and organization's policies and procedures, and standards. Previously offered as INLS 566.
 
-## INLS 772. Applied Statistics, Machine Learning, & Data Communication. 3 Credits.
+## [INLS 772. Applied Statistics, Machine Learning, & Data Communication. 3 Credits.](./INLS_772_Applied_Statistics_Machine_Learning__Data_Communication)
 
 An applied course introducing computational statistical analysis, machine learning, data exploration and communication with a focus on applied concepts as encountered within common data science applications.
 
-## INLS 773. Database for Data Science. 1.5 Credits.
+## [INLS 773. Database for Data Science. 1.5 Credits.
 This course will introduce the basic concepts and implementations of relational database management systems suited for data science applications. Topics include user requirements and specifications, ER models, database programming including SQL, data quality, and applications.
 
 INLS 774. Applied Data Ethics. 1.5 Credits.
@@ -385,129 +433,156 @@ This course will introduce students to ethical issues faced by data scientists i
 INLS 775. Applied Data Curation and Management. 1.5 Credits.
 Introduce to digital and data curation in a wide array of environments including business, government, and academia. Topics include: the Data Curation Lifecycle; research data management; data sharing; challenges and benefits of big data, good data, open data, and FAIR data; the ethics of data collection, analysis, and storage; data sharing and reuse for the academic, government, and business sectors; and the roles of data management plans in all data venues.
 
-INLS 776. Ethics, Values, and Society. 3 Credits.
+INLS 776. Ethics, Values, and Society. 3 Credits.](./INLS_773_Database_for_Data_Science_15_Credits
+This_course_will_introduce_the_basic_concepts_and_implementations_of_relational_database_management_systems_suited_for_data_science_applications_Topics_include_user_requirements_and_specifications_ER_models_database_programming_including_SQL_data_quality_and_applications
+
+INLS_774_Applied_Data_Ethics_15_Credits
+This_course_will_introduce_students_to_ethical_issues_faced_by_data_scientists_in_creation_collection_curation_and_use_of_data_It_addresses_issues_at_multiple_scales_Students_begin_with_an_overview_of_ethical_frameworks_and_apply_them_to_cases_through_the_course_Readings_and_class_discussions_will_be_drawn_from_current_events_The_course_is_heavily_discussion_and_participation-based_and_students_are_expected_to_bring_examples_of_ethical_scenarios_to_class_sessions
+
+INLS_775_Applied_Data_Curation_and_Management_15_Credits
+Introduce_to_digital_and_data_curation_in_a_wide_array_of_environments_including_business_government_and_academia_Topics_include_the_Data_Curation_Lifecycle_research_data_management_data_sharing_challenges_and_benefits_of_big_data_good_data_open_data_and_FAIR_data_the_ethics_of_data_collection_analysis_and_storage_data_sharing_and_reuse_for_the_academic_government_and_business_sectors_and_the_roles_of_data_management_plans_in_all_data_venues
+
+INLS_776_Ethics_Values_and_Society)
 
 This course explores ethical issues related to information, data, knowledge, and technology in various individual, community, and societal contexts.
 
-## INLS 777. Perspectives on Information, Technology, and People. 3 Credits.
+## [INLS 777. Perspectives on Information, Technology, and People. 3 Credits.](./INLS_777_Perspectives_on_Information_Technology_and_People)
 
 Examines the relationships between information, technology, and people from an array of disciplinary, professional, cultural, and other orientations. Survey from historical and future viewpoints. Explores the application of diverse perspective to understand current matters of concern.
 
-## INLS 778. Research Methods and Proposal Development. 3 Credits.
+## [INLS 778. Research Methods and Proposal Development. 3 Credits.](./INLS_778_Research_Methods_and_Proposal_Development)
 
 During this course each student will prepare a proposal for the work to be completed during the following semester for their masters paper/project (INLS 992). Students will also receive an introduction to research methods used in information and library science, exploring the design, interpretation, analysis and application of published research.
 
-## INLS 779. Practicum Project Development. 3 Credits.
+## [INLS 779. Practicum Project Development. 3 Credits.](./INLS_779_Practicum_Project_Development)
 
 This course will prepare students to conduct their capstone practicum. It includes a broad introduction to project management principles, tools, and strategies intended for use in a variety of applications.
 
-## INLS 782. Library Assessment. 3 Credits.
+## [INLS 782. Library Assessment. 3 Credits.](./INLS_782_Library_Assessment)
 
 Addresses evaluation and assessment activities in libraries. Existing tools for evaluation library operations will be considered. Students will design and conduct their own evaluation of one or more library operations.
 
-## INLS 783. Library Instruction & Pedagogy. 3 Credits.
+## [INLS 783. Library Instruction & Pedagogy. 3 Credits.](./INLS_783_Library_Instruction__Pedagogy)
 
 Examines the role of school, public, and academic librarians in providing instruction. Pedagogy, learning theories, information literacy standards and curricula, and assessment methods are addressed.
 
-## INLS 784. Information, Values, Ethics, and Action. 3 Credits.
+## [INLS 784. Information, Values, Ethics, and Action. 3 Credits.](./INLS_784_Information_Values_Ethics_and_Action)
 
 This course examines values and ethics and their application to information, data, knowledge, and technology in various contexts. Will include some formal frameworks for ethical reasoning and examination of current and recent issues.
 
-## INLS 787. Legal Issues for Librarians. 3 Credits.
+## [INLS 787. Legal Issues for Librarians. 3 Credits.](./INLS_787_Legal_Issues_for_Librarians)
 
 Students will learn to read/analyze legal materials, identify major legal issues and legal regulations governing librarians, and use legal information to create policies and guide best practice in particular institutions.
 
-## INLS 789. Big Data, Algorithms and Society. 3 Credits.
+## [INLS 789. Big Data, Algorithms and Society. 3 Credits.](./INLS_789_Big_Data_Algorithms_and_Society)
 
 This course examines the effect of big data on politics and the public sphere, how social media affects social movements, and the privacy and security vulnerabilities exposed by the coming Internet of Things. There can be potential negative societal consequences of social media and big data; this course studies the realities of the intersection of big data, algorithmic manipulation of data, and societal understanding of them.
 
-## INLS 792. Applied Data Science Practicum. 3 Credits.
+## [INLS 792. Applied Data Science Practicum. 3 Credits.](./INLS_792_Applied_Data_Science_Practicum)
 
 The Applied Data Science Practicum course is designed to build upon the formal classroom instruction in data science concepts and technologies through a "hands-on" project experience within an industry, non-profit or other work environment that relates to the student's primary field of study/practice. The aim is to provide students with a practical learning opportunity to apply data science techniques on real-world problems. Permission of Instructor required for this course.
 
-## INLS 794. Digital Curation Internship. 4 Credits.
+## [INLS 794. Digital Curation Internship. 4 Credits.](./INLS_794_Digital_Curation_Internship)
 
 Permission of Instructor. PSM Internship in Digital Curation is a planned, individualized, mentored, evaluated, experiential learning opportunity that serves as a bridge between academic training and non-academic practice.
 
-## INLS 795. Supervised Field Experience. 3 Credits.
+## [INLS 795. Supervised Field Experience. 3 Credits.](./INLS_795_Supervised_Field_Experience)
 
 Required preparation, completion of 18 semester hours. Permission of the instructor. Supervised observation and practice in an information service agency or library. The student will work a required amount of time under the supervision of an information/library professional and participate in faculty-led discussions for ongoing evaluation of the practical experience.
 
-## INLS 796. Field Experience in School Library Media. 3 Credits.
+## [INLS 796. Field Experience in School Library Media. 3 Credits.](./INLS_796_Field_Experience_in_School_Library_Media)
 
 Required preparation, completion of at least 21 semester hours, including INLS 744 and INLS 754. Permission of the instructor. Supervised observation and practice in a school library media center. Faculty-led seminars, reflection journals, and on-site faculty observations enhance the experience.
 
-## INLS 797. Second Field Experience for Graduate Students. 1.5 Credits.
+## [INLS 797. Second Field Experience for Graduate Students. 1.5 Credits.
 Second Field Experience course to be offered to coincide with graduate students information or library science project in an organization. Department consent required.
 
 INLS 800. Seminar Series in Digital Curation. 1.5 Credits.
 This course will provide brief introductions to materials that do not otherwise fit into the 31 credit format of the PSM in Digital Curation degree. This course will cover established topics but also late-breaking developments so as to keep students up-to-date with changes in tools, practices, and standards. A lecture or interview with a digital curation expert will be posted biweekly.
 
-INLS 818. Seminar in Human-Computer Interaction. 3 Credits.
+INLS 818. Seminar in Human-Computer Interaction. 3 Credits.](./INLS_797_Second_Field_Experience_for_Graduate_Students_15_Credits
+Second_Field_Experience_course_to_be_offered_to_coincide_with_graduate_students_information_or_library_science_project_in_an_organization_Department_consent_required
+
+INLS_800_Seminar_Series_in_Digital_Curation_15_Credits
+This_course_will_provide_brief_introductions_to_materials_that_do_not_otherwise_fit_into_the_31_credit_format_of_the_PSM_in_Digital_Curation_degree_This_course_will_cover_established_topics_but_also_late-breaking_developments_so_as_to_keep_students_up-to-date_with_changes_in_tools_practices_and_standards_A_lecture_or_interview_with_a_digital_curation_expert_will_be_posted_biweekly
+
+INLS_818_Seminar_in_Human-Computer_Interaction)
 
 Research and development in design and evaluation of user interfaces that support information seeking. Major topics: interactivity, needs assessment, query and browser interactions, interactive design and maintenance, usability testing.
 
-## INLS 841. Seminar in Academic Libraries. 3 Credits.
+## [INLS 841. Seminar in Academic Libraries. 3 Credits.](./INLS_841_Seminar_in_Academic_Libraries)
 
 Study of problems in the organization and administration of college and university libraries with emphasis on current issues in personnel, finance, governance, and services.
 
-## INLS 842. Seminar in Popular Materials in Libraries. 3 Credits.
+## [INLS 842. Seminar in Popular Materials in Libraries. 3 Credits.](./INLS_842_Seminar_in_Popular_Materials_in_Libraries)
 
 Selected topics relating to the roles of various types of libraries in the provision and preservation of popular materials (light romances, science fiction, comic books, etc.) existing in various forms (print, recorded sound, etc.).
 
-## INLS 843. Seminar in Public Libraries. 3 Credits.
+## [INLS 843. Seminar in Public Libraries. 3 Credits.](./INLS_843_Seminar_in_Public_Libraries)
 
 Required preparation, completion of 12 semester hours. Selected topics in public library services, systems, networks, and their management. Current issues are emphasized, along with the interests of the participants.
 
-## INLS 857. Seminar in Rare Book Collections. 3 Credits.
+## [INLS 857. Seminar in Rare Book Collections. 3 Credits.](./INLS_857_Seminar_in_Rare_Book_Collections)
 
 A study of the nature and importance of rare book collections; problems of acquisition, organization, and service.
 
-## INLS 873. Research Practicum. 1-3 Credits.
+## [INLS 873. Research Practicum. 1-3 Credits.
 Doctoral students will work on faculty-sponsored or off-site research projects to gain foundational research skills. Students may be involved in research design, data collection, data analysis, or other research-related activities.
 
-INLS 881. Research Issues and Questions I. 3 Credits.
+INLS 881. Research Issues and Questions I. 3 Credits.](./INLS_873_Research_Practicum_1-3_Credits
+Doctoral_students_will_work_on_faculty-sponsored_or_off-site_research_projects_to_gain_foundational_research_skills_Students_may_be_involved_in_research_design_data_collection_data_analysis_or_other_research-related_activities
+
+INLS_881_Research_Issues_and_Questions_I)
 
 Doctoral standing or permission of the instructor. Intensive and systematic investigation of the fundamental ideas in information and library science. Exploration and discussion in seminar format. Must be taken in fall semester followed by INLS 882 in spring.
 
-## INLS 882. Research Issues and Questions II. 3 Credits.
+## [INLS 882. Research Issues and Questions II. 3 Credits.](./INLS_882_Research_Issues_and_Questions_II)
 
 Doctoral standing or permission of the instructor. Intensive and systematic investigation of the fundamental ideas in information and library science. Exploration and discussion in seminar format. Must be taken in the spring semester immediately after INLS 881 (offered fall only).
 
-## INLS 883. Research Colloquium. 1 Credits.
+## [INLS 883. Research Colloquium. 1 Credits.](./INLS_883_Research_Colloquium)
 
 Doctoral standing required. Presentation and discussion of research issues, questions, methods, analytical approaches by students, faculty, or visitors.
 
-## INLS 884. Seminar in Research Methodology. 3 Credits.
+## [INLS 884. Seminar in Research Methodology. 3 Credits.](./INLS_884_Seminar_in_Research_Methodology)
 
 Required preparation, doctoral standing or INLS 780 for Master's students. Permission of the instructor for students lacking this preparation. Exploration of topics related to research design and methodology in information and library science.
 
-## INLS 886. Graduate Teaching Practicum. 1-3 Credits.
+## [INLS 886. Graduate Teaching Practicum. 1-3 Credits.
 Permission of the instructor. Doctoral students will observe and work with faculty in the classroom to gain foundational teaching skills. Students may practice designing a class session or exercise, leading a class, and/or grading.
 
-INLS 887. Seminar in Theory Development. 3 Credits.
+INLS 887. Seminar in Theory Development. 3 Credits.](./INLS_886_Graduate_Teaching_Practicum_1-3_Credits
+Permission_of_the_instructor_Doctoral_students_will_observe_and_work_with_faculty_in_the_classroom_to_gain_foundational_teaching_skills_Students_may_practice_designing_a_class_session_or_exercise_leading_a_class_andor_grading
+
+INLS_887_Seminar_in_Theory_Development)
 
 Doctoral or advanced master's standing required. Discussion and critique of the structural components and processes utilized in theory development. Seminar provides knowledge relating to the various stages of theory building.
 
-## INLS 888. Seminar in Teaching and Academic Life. 3 Credits.
+## [INLS 888. Seminar in Teaching and Academic Life. 3 Credits.](./INLS_888_Seminar_in_Teaching_and_Academic_Life)
 
 Doctoral student or advanced master's standing required. Examines teaching, research, publication, and service responsibilities. Provides perspective on professional graduate education and LIS educational programs. Explores changing curricula and discusses ethics, rewards, and problems of academic life.
 
-## INLS 889. Seminar in Teaching Practice. 1 Credits.
+## [INLS 889. Seminar in Teaching Practice. 1 Credits.](./INLS_889_Seminar_in_Teaching_Practice)
 
 Doctoral standing required. For doctoral students currently involved in teaching activities, these regular seminar meetings are designed to discuss relevant literature and aspects of the teaching experience.
 
-## INLS 890. Advanced Special Topics. 1-6 Credits.
+## [INLS 890. Advanced Special Topics. 1-6 Credits.
 Exploration of an advanced special topic not otherwise covered in the curriculum. Previous offering of these courses does not predict their future availability; new courses may replace these.
 
 INLS 988. Research in Information and Library Science. 1-6 Credits.
 Permission of the instructor. Supports individual and small group research undertaken by doctoral students in information and library science intended to produce research results of publishable quality.
 
-INLS 992. Master's (Non-Thesis). 3 Credits.
+INLS 992. Master's (Non-Thesis). 3 Credits.](./INLS_890_Advanced_Special_Topics_1-6_Credits
+Exploration_of_an_advanced_special_topic_not_otherwise_covered_in_the_curriculum_Previous_offering_of_these_courses_does_not_predict_their_future_availability_new_courses_may_replace_these
+
+INLS_988_Research_in_Information_and_Library_Science_1-6_Credits
+Permission_of_the_instructor_Supports_individual_and_small_group_research_undertaken_by_doctoral_students_in_information_and_library_science_intended_to_produce_research_results_of_publishable_quality
+
+INLS_992_Masters_Non-Thesis)
 
 Provides a culminating experience for master's degree students, under the supervision of a faculty member, to engage in: 1) independent research with a final research paper, or 2) a practicum experience with a final presentation or poster.
 
-## INLS 994. Doctoral Research and Dissertation. 3 Credits.
+## [INLS 994. Doctoral Research and Dissertation. 3 Credits.](./INLS_994_Doctoral_Research_and_Dissertation)
 
 No description available.
 

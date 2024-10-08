@@ -35,7 +35,11 @@ def create_course_folders(catalog_file, department_code, base_dir):
     matches = course_pattern.findall(catalog_content)
     for match in matches:
         course_code, course_name, credits, description = match
-        markdown_content += f"## {course_code}. {course_name}. {credits} Credits.\n\n"
+        course_number = course_code.split()[1]
+        course_name_clean = re.sub(r'[^\w\s-]', '', course_name).replace(' ', '_')
+        folder_name = f"{department_code}_{course_number}_{course_name_clean}"
+        course_link = f"./{folder_name}"
+        markdown_content += f"## [{course_code}. {course_name}. {credits} Credits.]({course_link})\n\n"
         markdown_content += f"{description.strip()}\n\n"
     
     with open(dept_readme_path, 'w', encoding='utf-8') as dept_readme_file:

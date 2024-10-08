@@ -1,477 +1,492 @@
 # ANTH Course Catalog
 
-## ANTH 50. First-Year Seminar: Skeletons in the Closet. 3 Credits.
+## [ANTH 50. First-Year Seminar: Skeletons in the Closet. 3 Credits.](./ANTH_50_First-Year_Seminar_Skeletons_in_the_Closet)
 
 In this first-year seminar, students explore the use of the human skeleton to modern behavioral and biological investigations, focusing on observations that are used as evidence to prove or disprove hypotheses.
 
-## ANTH 51. First-Year Seminar: Environmentalism and American Society. 3 Credits.
+## [ANTH 51. First-Year Seminar: Environmentalism and American Society. 3 Credits.](./ANTH_51_First-Year_Seminar_Environmentalism_and_American_Society)
 
 This first-year seminar examines United States environmentalism and its relationship to power and privilege, consumer desire, and attachment to place. Students conduct original group research on the environmental movement.
 
-## ANTH 52. First-Year Seminar: Asian Cultures, Asian Cities, Asian Modernities. 3 Credits.
+## [ANTH 52. First-Year Seminar: Asian Cultures, Asian Cities, Asian Modernities. 3 Credits.](./ANTH_52_First-Year_Seminar_Asian_Cultures_Asian_Cities_Asian_Modernities)
 
 Introduction to the processes of cultural productions and the making of social diversity in large Southeast Asian cities, as they have experienced modernity and globalization during the last 30 years.
 
-## ANTH 53. First-Year Seminar: Darwin's Dangerous Idea. 3 Credits.
+## [ANTH 53. First-Year Seminar: Darwin's Dangerous Idea. 3 Credits.](./ANTH_53_First-Year_Seminar_Darwins_Dangerous_Idea)
 
 Exploration of how natural selection works, how it has been used and misused for understanding human nature, health and disease, aging, social behavior, how we choose mates, and more. Honors version available.
 
-## ANTH 54. First-Year Seminar: The Indians' New Worlds: Southeastern Histories from 1200 to 1800. 3 Credits.
+## [ANTH 54. First-Year Seminar: The Indians' New Worlds: Southeastern Histories from 1200 to 1800. 3 Credits.](./ANTH_54_First-Year_Seminar_The_Indians_New_Worlds_Southeastern_Histories_from_1200_to_1800)
 
 This course uses archaeological and historical scholarship to consider the histories of the Southern Indians from the Mississippian period to the end of the 18th century.
 
-## ANTH 56. First-Year Seminar: The Art of Healing, the Culture of Curing. 3 Credits.
+## [ANTH 56. First-Year Seminar: The Art of Healing, the Culture of Curing. 3 Credits.](./ANTH_56_First-Year_Seminar_The_Art_of_Healing_the_Culture_of_Curing)
 
 This seminar focuses on cross-cultural healing beliefs and practices and on how social, economic, political, and ethical aspects of our lives relate to health and healing.
 
-## ANTH 57. First-Year Seminar: Today in Africa. 3 Credits.
+## [ANTH 57. First-Year Seminar: Today in Africa. 3 Credits.](./ANTH_57_First-Year_Seminar_Today_in_Africa)
 
 Examination of the daily news as reported online by African newspapers, the BBC, etc. Readings and class discussions of ethnographic and historical background. Student projects based on following major stories.
 
-## ANTH 59. First-Year Seminar: The Right to Childhood: Global Efforts and Challenges. 3 Credits.
+## [ANTH 59. First-Year Seminar: The Right to Childhood: Global Efforts and Challenges. 3 Credits.](./ANTH_59_First-Year_Seminar_The_Right_to_Childhood_Global_Efforts_and_Challenges)
 
 Do children have special needs and rights? This seminar will answer this question.
 
-## ANTH 60. First-Year Seminar: Crisis & Resilience: Past and Future of Human Societies. 3 Credits.
+## [ANTH 60. First-Year Seminar: Crisis & Resilience: Past and Future of Human Societies. 3 Credits.](./ANTH_60_First-Year_Seminar_Crisis__Resilience_Past_and_Future_of_Human_Societies)
 
 Adopting a long view of human societies, students examine responses to crises engendered by political, economic, and environmental factors. Perspectives on societal change - apocalyptic, transformational, and resilient - undergo scrutiny. Honors version available.
 
-## ANTH 61. First-Year Seminar: Deep Economies. 3 Credits.
+## [ANTH 61. First-Year Seminar: Deep Economies. 3 Credits.](./ANTH_61_First-Year_Seminar_Deep_Economies)
 
 Using cultural case studies, the course examines how communities organize an economy to promote local well-being. Readings emphasize cross-cultural problems of status, trust, property, exchange and political authority.
 
-## ANTH 62. First-Year Seminar: Indian Country Today. 3 Credits.
+## [ANTH 62. First-Year Seminar: Indian Country Today. 3 Credits.](./ANTH_62_First-Year_Seminar_Indian_Country_Today)
 
 This course examines current topics in American Indian country today through the use of films and interactive case studies.
 
-## ANTH 63. First-Year Seminar: The Lives of Others: Exploring Ethnography. 3 Credits.
+## [ANTH 63. First-Year Seminar: The Lives of Others: Exploring Ethnography. 3 Credits.](./ANTH_63_First-Year_Seminar_The_Lives_of_Others_Exploring_Ethnography)
 
 Can we truly access, understand, and represent the lives of others? In this class, students take on these questions by taking up the practice of ethnography, a research method consisting of entering into a community, interacting with its members, observing social life, asking questions, and writing about these experiences.
 
-## ANTH 64. First-Year Seminar: Public Archaeology in Bronzeville, Chicago's Black Metropolis. 3 Credits.
+## [ANTH 64. First-Year Seminar: Public Archaeology in Bronzeville, Chicago's Black Metropolis. 3 Credits.](./ANTH_64_First-Year_Seminar_Public_Archaeology_in_Bronzeville_Chicagos_Black_Metropolis)
 
 In the early 20th century millions of African Americans migrated to large northern cities. The Phyllis Wheatley Home for Girls was run by black women to provide social services for female migrants to Chicago starting in 1926. The course combines elements of archaeology, anthropology, and history to study their lives.
 
-## ANTH 65. First-Year Seminar: Humans and Animals: Anthropological Perspectives. 3 Credits.
+## [ANTH 65. First-Year Seminar: Humans and Animals: Anthropological Perspectives. 3 Credits.](./ANTH_65_First-Year_Seminar_Humans_and_Animals_Anthropological_Perspectives)
 
 In this course we explore the complex relationships between people and animals cross-culturally and through time. Taking both anthropological and archaeological perspectives we address a wide range of topics, including the origins and uses of domestic animals, the history of dogs and cats, animal symbolism, hunting, and animal rights.
 
-## ANTH 67. First-Year Seminar: Blackness and Racialization: A Multidimensional Approach. 3 Credits.
+## [ANTH 67. First-Year Seminar: Blackness and Racialization: A Multidimensional Approach. 3 Credits.](./ANTH_67_First-Year_Seminar_Blackness_and_Racialization_A_Multidimensional_Approach)
 
 This seminar is an introduction to the history, social construction, cultural production, and lived experience of race in the United States and Jamaica (for comparison). The seminar will utilize historical, theoretical, ethnographic, and popular culture content to explain the effects, uses, durability, and pliability of racial formations.
 
-## ANTH 68. Forced Out and Fenced In: Ethnography of Latinx Immigration. 3 Credits.
+## [ANTH 68. Forced Out and Fenced In: Ethnography of Latinx Immigration. 3 Credits.](./ANTH_68_Forced_Out_and_Fenced_In_Ethnography_of_Latinx_Immigration)
 
 Undocumented immigration receives considerable attention in the U.S., but what does it mean to be undocumented? How does illegality shape the lived realities of migrants themselves? Through in-depth engagement with ethnographic research on the topic, this course examines the social, political, and legal challenges faced by undocumented Latinx migrants and their families.
 
-## ANTH 70. By Persons Unknown: Race and Reckoning in North Carolina. 3 Credits.
+## [ANTH 70. By Persons Unknown: Race and Reckoning in North Carolina. 3 Credits.](./ANTH_70_By_Persons_Unknown_Race_and_Reckoning_in_North_Carolina)
 
 This research-intensive seminar explores the legacy of race and racial terrorism in N.C. by using archival resources and community testimony. The class projects-focusing on a single county-explore the public erasure of Black histories, the careful craftings of public memory, and the far-reaching impact of racist practices on the economic, educational, social, and political lives of communities. The class will be working directly with community members to build public awareness of the legacies of racial violence. Honors version available.
 
-## ANTH 72. First-Year Seminar: Archaeology and Popular Culture. 3 Credits.
+## [ANTH 72. First-Year Seminar: Archaeology and Popular Culture. 3 Credits.](./ANTH_72_First-Year_Seminar_Archaeology_and_Popular_Culture)
 
 Archaeology often captures the popular imagination through fantastic and farfetched portrayals of lost civilizations, aliens, and spectacular treasures. While these depictions of archaeology and the past may not be accurate, the story being told is nonetheless significant and reflects something about the culture that produced it. This course explores how these films, televisions shows, books, and video games tell stories about the past and what these representations imply about the present.
 
-## ANTH 77. First-Year Seminar: Windows of Mystery and Wonder: Exploring Self-Taught Art. 3 Credits.
+## [ANTH 77. First-Year Seminar: Windows of Mystery and Wonder: Exploring Self-Taught Art. 3 Credits.](./ANTH_77_First-Year_Seminar_Windows_of_Mystery_and_Wonder_Exploring_Self-Taught_Art)
 
 Folk, outsider, visionary: these terms invoke artistry that unfolds outside of mainstream artistic traditions. This seminar explores these worlds of self-taught art, addressing issues of inspiration, authenticity, and cultural (mis)representation.
 
-## ANTH 89. First-Year Seminar: Special Topics. 3 Credits.
+## [ANTH 89. First-Year Seminar: Special Topics. 3 Credits.](./ANTH_89_First-Year_Seminar_Special_Topics)
 
 Special topics course; content will vary each semester. Honors version available.
 
-## ANTH 92. UNITAS. 3 Credits.
+## [ANTH 92. UNITAS. 3 Credits.](./ANTH_92_UNITAS)
 
 Fall component of a two-semester course. A seminar that explores issues of social and cultural diversity. Students must be residents of UNITAS residence hall.
 
-## ANTH 93. UNITAS. 3 Credits.
+## [ANTH 93. UNITAS. 3 Credits.](./ANTH_93_UNITAS)
 
 Spring component of a two-semester course. Students engage in service learning through APPLES and produce a final product that thoughtfully reflects on their experience. Students must be residents of UNITAS residence hall.
 
-## ANTH 101. General Anthropology. 3 Credits.
+## [ANTH 101. General Anthropology. 3 Credits.](./ANTH_101_General_Anthropology)
 
 An introduction to anthropology, the science of humans, the culture-bearing animal. Topics considered: human evolution and biological variations within and between modern populations, prehistoric and historic developments of culture, cultural dynamics viewed analytically and comparatively. Honors version available.
 
-## ANTH 102. Introduction to Cultural Anthropology. 3 Credits.
+## [ANTH 102. Introduction to Cultural Anthropology. 3 Credits.](./ANTH_102_Introduction_to_Cultural_Anthropology)
 
 An introduction to non-Western cultures studied by anthropologists. Includes an in-depth focus on the cultural and social systems of several groups.
 
-## ANTH 104. Introduction to Biocultural Medical Anthropology. 3 Credits.
+## [ANTH 104. Introduction to Biocultural Medical Anthropology. 3 Credits.](./ANTH_104_Introduction_to_Biocultural_Medical_Anthropology)
 
 This course examines how health and illness are shaped, experienced, and understood across cultures and in light of global, historical, and political forces. Health and well-being are examined through a range of theoretical, methodological, and applied perspectives.
 
-## ANTH 120. Anthropology through Expressive Cultures. 3 Credits.
+## [ANTH 120. Anthropology through Expressive Cultures. 3 Credits.](./ANTH_120_Anthropology_through_Expressive_Cultures)
 
 Introduction to cultural analysis and the anthropological point of view through analytic and interpretive readings of films, fiction, and ethnography. Emphasis on social conditions and native points of view.
 
-## ANTH 121. Ancient Cities of the Americas. 3 Credits.
+## [ANTH 121. Ancient Cities of the Americas. 3 Credits.](./ANTH_121_Ancient_Cities_of_the_Americas)
 
 An introduction to archaeology through the study of towns and cities built by the ancient peoples of the Americas. The focus is on historical processes by which these centers arose.
 
-## ANTH 123. Habitat and Humanity. 3 Credits.
+## [ANTH 123. Habitat and Humanity. 3 Credits.](./ANTH_123_Habitat_and_Humanity)
 
 Cross-cultural survey of building and landscape architecture, including prehistoric dwellings and sacred structures such as shrines and temples. Emphasis on architecture as symbolic form and cultural meaning.
 
-## ANTH 125. Canine Cultures. 3 Credits.
+## [ANTH 125. Canine Cultures. 3 Credits.](./ANTH_125_Canine_Cultures)
 
 Introduces anthropology through human-dog relations across time and space. Theories about domestication; canine versus primate cognition and perception; working and service dogs; street dogs; the development and global spread of breeds; impact of human values and politics on dog lives around the world. Honors version available.
 
-## ANTH 130. Anthropology of the Caribbean. 3 Credits.
+## [ANTH 130. Anthropology of the Caribbean. 3 Credits.](./ANTH_130_Anthropology_of_the_Caribbean)
 
 Theories and examples of how Caribbean people live, act, and see themselves within various cultural, social, economic, and political contexts across time. Attention to North American views of the Caribbean.
 
-## ANTH 138. Linguistic Anthropology. 3 Credits.
+## [ANTH 138. Linguistic Anthropology. 3 Credits.](./ANTH_138_Linguistic_Anthropology)
 
 An introduction to linguistic anthropology and anthropological linguistics. The course approaches the complex interconnections between language, culture, and cognition; theoretical approaches employed during the past century (structuralism, functionalism, ethnoscience, universalism, linguistic relativity); common case studies (spatial language, colors, classifiers, deixis); verbal art (orality, literacy), linguistic ideology; and ethnolinguistic vitality.
 
-## ANTH 139. Ecological Anthropology. 3 Credits.
+## [ANTH 139. Ecological Anthropology. 3 Credits.](./ANTH_139_Ecological_Anthropology)
 
 Examines how human-environmental adaptations shape the economic, social, and cultural lives of hunter-gatherers, pastoralists, and agriculturalists. Approaches include optimal foraging theory, political ecology, and subsistence risk.
 
-## ANTH 142. Local Cultures, Global Forces. 3 Credits.
+## [ANTH 142. Local Cultures, Global Forces. 3 Credits.](./ANTH_142_Local_Cultures_Global_Forces)
 
 Globalization as a cultural and economic phenomenon, emphasizing the historical development of the current world situation and the impact of increasing global interconnection on local cultural traditions. Honors version available.
 
-## ANTH 143. Human Evolution and Adaptation. 3 Credits.
+## [ANTH 143. Human Evolution and Adaptation. 3 Credits.](./ANTH_143_Human_Evolution_and_Adaptation)
 
 Evolutionary and ecological approach to understanding the human species' past and contemporary human variation. Emphasis on evolutionary processes, biological adaptation, and biocultural interactions with diverse environments.
 
-## ANTH 144. Archaeology and the Media. 3 Credits.
+## [ANTH 144. Archaeology and the Media. 3 Credits.](./ANTH_144_Archaeology_and_the_Media)
 
 This class will examine how archaeology is represented in the media. This will include the characterization of archaeology and archaeologists in film and written fiction. This course will also examine the dissemination of archaeological findings through fact based presentations such as television documentaries and material published for the general public's consumption.
 
-## ANTH 145. Introduction to World Prehistory. 3 Credits.
+## [ANTH 145. Introduction to World Prehistory. 3 Credits.](./ANTH_145_Introduction_to_World_Prehistory)
 
 Introduction to world prehistory and archaeological methods. Examines the development of human society from the emergence of modern human beings 100,000 years ago through the formation of ancient civilizations.
 
-## ANTH 147. Comparative Healing Systems. 3 Credits.
+## [ANTH 147. Comparative Healing Systems. 3 Credits.](./ANTH_147_Comparative_Healing_Systems)
 
 In this course we compare a variety of healing beliefs and practices so that students may gain a better understanding of their own society, culture, and medical system.
 
-## ANTH 148. Human Origins. 3 Credits.
+## [ANTH 148. Human Origins. 3 Credits.](./ANTH_148_Human_Origins)
 
 Study of human evolution. Focus on the fossil record of humans and human-like ancestors. Topics include communication, aggression, dietary adaptations, locomotion, major anatomical changes, and behavioral shifts in an evolutionary framework.
 
-## ANTH 149. Great Discoveries in Archaeology. 3 Credits.
+## [ANTH 149. Great Discoveries in Archaeology. 3 Credits.](./ANTH_149_Great_Discoveries_in_Archaeology)
 
 This course provides students with a detailed look at some of the most significant archaeological discoveries from around the world, including Neanderthals, Stonehenge, and the Egyptian pyramids.
 
-## ANTH 151. Anthropological Perspectives on Food and Culture. 3 Credits.
+## [ANTH 151. Anthropological Perspectives on Food and Culture. 3 Credits.](./ANTH_151_Anthropological_Perspectives_on_Food_and_Culture)
 
 Anthropological perspectives on foodways. This course examines the biological basis of human diets as well as the historical and cultural contexts of food production, preparation, presentation, and consumption.
 
-## ANTH 190. Special Topics in Anthropology I. 1-4 Credits.
+## [ANTH 190. Special Topics in Anthropology I. 1-4 Credits.
 Examines selected topics from an anthropological perspective. Course description is available from the departmental office.
 
-ANTH 191. Peoples of Siberia. 3 Credits.
+ANTH 191. Peoples of Siberia. 3 Credits.](./ANTH_190_Special_Topics_in_Anthropology_I_1-4_Credits
+Examines_selected_topics_from_an_anthropological_perspective_Course_description_is_available_from_the_departmental_office
+
+ANTH_191_Peoples_of_Siberia)
 
 Comparative study of the cultural and biological diversity of peoples of Siberia from prehistoric through contemporary times. Course topics include the biological diversity, culture, behavior, and history of Siberian populations.
 
-## ANTH 194. Anthropology and Community Development. 3 Credits.
+## [ANTH 194. Anthropology and Community Development. 3 Credits.](./ANTH_194_Anthropology_and_Community_Development)
 
 The course examines ethnographic, theoretical, practical, and policy approaches to community development and community organizations in America and the English-speaking Caribbean. Students can work with a local community organization.
 
-## ANTH 195. Research in Anthropology I. 1-3 Credits.
+## [ANTH 195. Research in Anthropology I. 1-3 Credits.
 Permission of the instructor. Data collection, analysis, and interpretation for independent research project.
 
 ANTH 196. Independent Reading or Study in Anthropology I. 1-3 Credits.
 Permission of the instructor. Reading and study under a faculty member whose interests coincide with those of the individual student.
 
-ANTH 198H. First Year Honors in Anthropology II. 3 Credits.
+ANTH 198H. First Year Honors in Anthropology II. 3 Credits.](./ANTH_195_Research_in_Anthropology_I_1-3_Credits
+Permission_of_the_instructor_Data_collection_analysis_and_interpretation_for_independent_research_project
+
+ANTH_196_Independent_Reading_or_Study_in_Anthropology_I_1-3_Credits
+Permission_of_the_instructor_Reading_and_study_under_a_faculty_member_whose_interests_coincide_with_those_of_the_individual_student
+
+ANTH_198H_First_Year_Honors_in_Anthropology_II)
 
 Open to honors candidates. Permission of the instructor is required. Reading or study under a faculty member whose interests coincide with those of the individual student.
 
-## ANTH 202. Everyday Cultures: Folklore in America. 3 Credits.
+## [ANTH 202. Everyday Cultures: Folklore in America. 3 Credits.](./ANTH_202_Everyday_Cultures_Folklore_in_America)
 
 An introduction to the study of creativity and aesthetic expression in everyday life, considering both traditional genres and contemporary innovations in the material, verbal, and musical arts.
 
-## ANTH 203. Approaches to American Indian Studies. 3 Credits.
+## [ANTH 203. Approaches to American Indian Studies. 3 Credits.](./ANTH_203_Approaches_to_American_Indian_Studies)
 
 Introduces students to the disciplines comprising American Indian studies and teaches them how to integrate disciplines for a more complete understanding of the experiences of American Indian peoples.
 
-## ANTH 204. From Ayahuasca to Zoloft: Anthropological Approaches to Drugs and Drug Use. 3 Credits.
+## [ANTH 204. From Ayahuasca to Zoloft: Anthropological Approaches to Drugs and Drug Use. 3 Credits.](./ANTH_204_From_Ayahuasca_to_Zoloft_Anthropological_Approaches_to_Drugs_and_Drug_Use)
 
 This course considers the cultural, social, political, medical, and biological aspects of drugs (legal, illegal, pharmaceutical, botanical, and otherwise) through space and time. We take an interdisciplinary approach drawing on research from anthropology, science studies, biology, history, ethnobotany, and sociology to examine what counts as a drug, who determines what is a drug, why people use drugs, and how drugs influence us as individuals and as a society.
 
-## ANTH 206. American Indian Societies. 3 Credits.
+## [ANTH 206. American Indian Societies. 3 Credits.](./ANTH_206_American_Indian_Societies)
 
 Explores the tremendous diversity that exists within and across American Indian nations, together with the concerns, issues, and challenges that shape the futures American Indians are charting for themselves.
 
-## ANTH 210. Global Issues and Globalization. 3 Credits.
+## [ANTH 210. Global Issues and Globalization. 3 Credits.](./ANTH_210_Global_Issues_and_Globalization)
 
 Survey of international social, political, and cultural patterns in selected societies of Africa, Asia, America, and Europe, stressing comparative analysis of conflicts and change in different historical contexts. LAC recitation sections offered in French, German, and Spanish.
 
-## ANTH 214. Medicine in the Arab World. 3 Credits.
+## [ANTH 214. Medicine in the Arab World. 3 Credits.](./ANTH_214_Medicine_in_the_Arab_World)
 
 This course introduces students to questions of medicine in the Arab world, from medieval times to the present with an emphasis on the contemporary period. It takes medicine as a lens for understanding the formation of the Arab world, connecting medical practices and institutions with wider formations like colonialism, nationalism, violence, or religion.
 
-## ANTH 217. Human Biology in Comparative Perspective. 3 Credits.
+## [ANTH 217. Human Biology in Comparative Perspective. 3 Credits.](./ANTH_217_Human_Biology_in_Comparative_Perspective)
 
 Students explore the biological and biocultural factors that shape human biology and health from the cellular to the societal levels. This course compares human biology, health, and development across a range of international settings. Students have the opportunity to analyze current research in human biology and conduct independent research.
 
-## ANTH 220. Principles of Archaeology. 3 Credits.
+## [ANTH 220. Principles of Archaeology. 3 Credits.](./ANTH_220_Principles_of_Archaeology)
 
 Introduction to method and theory in archaeology. An examination of how archaeologists make inferences about past societies, including reconstruction of culture histories; lifeways; ideologies; and social, political, and economic relationships.
 
-## ANTH 222. Prehistoric Art. 3 Credits.
+## [ANTH 222. Prehistoric Art. 3 Credits.](./ANTH_222_Prehistoric_Art)
 
 A survey of prehistoric art in Africa, the Americas, Australia, and Europe.
 
-## ANTH 226. The Peoples of Africa. 3 Credits.
+## [ANTH 226. The Peoples of Africa. 3 Credits.](./ANTH_226_The_Peoples_of_Africa)
 
 Introductory ethnographic survey emphasizing 1) diversity of kinship systems, economies, polities, religious beliefs, etc.; 2) transformations during the colonial era; and 3) political and economic challenges of independent nations. Lectures, films, recitation.
 
-## ANTH 231. The Inca and Their Ancestors: The Archaeology of Andean South America. 3 Credits.
+## [ANTH 231. The Inca and Their Ancestors: The Archaeology of Andean South America. 3 Credits.](./ANTH_231_The_Inca_and_Their_Ancestors_The_Archaeology_of_Andean_South_America)
 
 An examination of the prehistory of Andean South America (Ecuador, Peru, and Bolivia) from first colonization 12,000 years ago to the fall of the Inca Empire in 1532 CE.
 
-## ANTH 232. Ancestral Maya Civilizations. 3 Credits.
+## [ANTH 232. Ancestral Maya Civilizations. 3 Credits.](./ANTH_232_Ancestral_Maya_Civilizations)
 
 Maya civilization is prominent among American societies that flourish prior to European incursions. Archaeological, epigraphic, and historical materials provide the foundation for understanding this past and its romance allure. Honors version available.
 
-## ANTH 233. Archaeology of Ancient Turkey. 3 Credits.
+## [ANTH 233. Archaeology of Ancient Turkey. 3 Credits.](./ANTH_233_Archaeology_of_Ancient_Turkey)
 
 In this course, we examine important archaeological sites in the Republic of Turkey representing some of the most influential events in human history from the origins of farming and the earliest monumental ritual structures, to the first early city states and empires, to the beginnings of the Silk Road.
 
-## ANTH 234. Native American Tribal Studies. 3 Credits.
+## [ANTH 234. Native American Tribal Studies. 3 Credits.](./ANTH_234_Native_American_Tribal_Studies)
 
 This course introduces students to a tribally specific body of knowledge. The tribal focus of the course and the instructor change from term to term. Honors version available.
 
-## ANTH 235. Origins of Civilization: Archaeology of the British Museum. 3 Credits.
+## [ANTH 235. Origins of Civilization: Archaeology of the British Museum. 3 Credits.](./ANTH_235_Origins_of_Civilization_Archaeology_of_the_British_Museum)
 
 The collections of the British Museum, a product of Britain's Colonial Empire, include famous objects from the Ancient Near East such as the Rosetta Stone. In this course we examine how these objects are often used to tell grand stories about the 'rise of civilization' emphasizing themes of progress but also tell more subtle, implicit stories such as the inevitability of European colonial domination.
 
-## ANTH 237. Food, Environment, and Sustainability. 3 Credits.
+## [ANTH 237. Food, Environment, and Sustainability. 3 Credits.](./ANTH_237_Food_Environment_and_Sustainability)
 
 Explores the nexus of agricultural, ecological, and food systems as they dynamically interact. The class examines case studies from North Carolina and other parts of the world. Themes include nutrition, food security, agroecology, and sustainable livelihoods. Students engage in readings, class projects, and hands-on activities in a laboratory setting.
 
-## ANTH 238. Human Ecology of Africa. 3 Credits.
+## [ANTH 238. Human Ecology of Africa. 3 Credits.](./ANTH_238_Human_Ecology_of_Africa)
 
 Course examines human adaptations to environments across Africa. Focuses on livelihood systems such as farming, herding and hunting/gathering.
 
-## ANTH 240. Action Research. 3 Credits.
+## [ANTH 240. Action Research. 3 Credits.](./ANTH_240_Action_Research)
 
 Action research is a strategy for answering important questions, solving problems, and generating meaningful and democratic relationships. Through this course you will learn action research from an anthropological perspective through readings, essays, discussion, and hands-on experience. APPLES leadership and service students have seating priority.
 
-## ANTH 248. Anthropology and Public Interest. 3 Credits.
+## [ANTH 248. Anthropology and Public Interest. 3 Credits.](./ANTH_248_Anthropology_and_Public_Interest)
 
 Explores how anthropologists can impact or participate in policy debates regarding contemporary social problems. Involves professional and internship options in public service fields. APPLES service-learning course.
 
-## ANTH 250. Archaeology of North America. 3 Credits.
+## [ANTH 250. Archaeology of North America. 3 Credits.](./ANTH_250_Archaeology_of_North_America)
 
 The history of North American Indian cultures from 10,000 BCE to the time of the European colonization as reconstructed by archaeological research. Special emphasis on the eastern and southwestern United States. Honors version available.
 
-## ANTH 252. Archaeology of Food. 3 Credits.
+## [ANTH 252. Archaeology of Food. 3 Credits.](./ANTH_252_Archaeology_of_Food)
 
 Examines how people in the past acquired, distributed, prepared, presented, consumed, and thought about food. Considers the questions that archaeologists ask, the data and methods they use to answer those questions, and how the study of food contributes to understanding people in the distant and recent past.
 
-## ANTH 259. Culture and Identity. 3 Credits.
+## [ANTH 259. Culture and Identity. 3 Credits.](./ANTH_259_Culture_and_Identity)
 
 Introduces anthropological approaches to identity. Explores the relationship of identity, cultural contexts, and social life. Emphasizes contemporary global cultural interchange and visual media as tools of self-expression.
 
-## ANTH 270. Living Medicine. 3 Credits.
+## [ANTH 270. Living Medicine. 3 Credits.](./ANTH_270_Living_Medicine)
 
 This course examines the social and cultural experience of medicine, the interpersonal and personal aspects of healing and being healed. It explores how medicine shapes and is shaped by those who inhabit this vital arena of human interaction: physicians, nurses, other professionals and administrators; patients; families; friends and advocates.
 
-## ANTH 272. Healing in Ethnography and Literature. 3 Credits.
+## [ANTH 272. Healing in Ethnography and Literature. 3 Credits.](./ANTH_272_Healing_in_Ethnography_and_Literature)
 
 This course brings together literary and ethnographic methods to explore narratives of illness, suffering, and healing, and medicine's roles in these processes. Themes include illness narratives, outbreak narratives, collective memory and healing from social trauma, and healers' memoirs.
 
-## ANTH 277. Gender and Culture. 3 Credits.
+## [ANTH 277. Gender and Culture. 3 Credits.](./ANTH_277_Gender_and_Culture)
 
 Examines what it means to be male, female, and other gendered categories in different societies. Focus on institutions, groups, and individuals that both shape and challenge how gender is understood, organized, and enacted.
 
-## ANTH 278. Women in Science. 3 Credits.
+## [ANTH 278. Women in Science. 3 Credits.](./ANTH_278_Women_in_Science)
 
 The role of women in scientific domains throughout history and a consideration of the status of women and men as scientists. The development of science as a cultural practice.
 
-## ANTH 280. Anthropology of War and Peace. 3 Credits.
+## [ANTH 280. Anthropology of War and Peace. 3 Credits.](./ANTH_280_Anthropology_of_War_and_Peace)
 
 Cross-cultural perspectives on war in its relation to society, including Western and non-Western examples. Surveys political, economic, and cultural approaches to warfare and peacemaking.
 
-## ANTH 284. Culture and Consumption. 3 Credits.
+## [ANTH 284. Culture and Consumption. 3 Credits.](./ANTH_284_Culture_and_Consumption)
 
 A cross-cultural look at gift giving, commodities, and status symbols. Course explores branded commodities, materialism as a factor in cultural change, global consumer culture, and local alternatives.
 
-## ANTH 290. Special Topic in Anthropology II. 3 Credits.
+## [ANTH 290. Special Topic in Anthropology II. 3 Credits.](./ANTH_290_Special_Topic_in_Anthropology_II)
 
 Examines selected topics from an anthropological perspective. Course description is available from the departmental office. Honors version available.
 
-## ANTH 291. Archaeological Theory and Practice. 3 Credits.
+## [ANTH 291. Archaeological Theory and Practice. 3 Credits.](./ANTH_291_Archaeological_Theory_and_Practice)
 
 A review of historical and theoretical developments that have framed archaeological research, including a discussion of substantive changes in research questions, topics, methods, and analyses that reshaped the field. Course will place American archaeology in a wider international context.
 
-## ANTH 294. Anthropological Perspectives on Society and Culture. 3 Credits.
+## [ANTH 294. Anthropological Perspectives on Society and Culture. 3 Credits.](./ANTH_294_Anthropological_Perspectives_on_Society_and_Culture)
 
 Examines major theoretical perspectives that anthropologists have used to explain cultural diversity, social organization, and relations among societies. The class will offer a historical look at how anthropology developed its commitment to holism and ethnography and how contemporary debates have reshaped the field. Restricted to anthropology majors.
 
-## ANTH 295. Research in Anthropology II. 1-3 Credits.
+## [ANTH 295. Research in Anthropology II. 1-3 Credits.
 Permission of the instructor. Data collection, analysis, and interpretation for independent research project.
 
 ANTH 296. Independent Reading or Study in Anthropology II. 1-3 Credits.
 Permission of the instructor. Reading or study under a faculty member whose interests coincide with those of the individual student.
 
-ANTH 298. Biological Anthropology Theory and Practice. 3 Credits.
+ANTH 298. Biological Anthropology Theory and Practice. 3 Credits.](./ANTH_295_Research_in_Anthropology_II_1-3_Credits
+Permission_of_the_instructor_Data_collection_analysis_and_interpretation_for_independent_research_project
+
+ANTH_296_Independent_Reading_or_Study_in_Anthropology_II_1-3_Credits
+Permission_of_the_instructor_Reading_or_study_under_a_faculty_member_whose_interests_coincide_with_those_of_the_individual_student
+
+ANTH_298_Biological_Anthropology_Theory_and_Practice)
 
 Biological anthropology theory and practice, including human natural history, human genetics, epigenetics, and evolution; primatology; paleoanthropology; human biological variation; human biology and ecology; natural selection and adaptation in human evolution; and evolutionary, ecological, and biocultural perspectives on health and disease.
 
-## ANTH 300. Hip Hop Roots: The Politics and Passions of Black Oral Poetry. 3 Credits.
+## [ANTH 300. Hip Hop Roots: The Politics and Passions of Black Oral Poetry. 3 Credits.](./ANTH_300_Hip_Hop_Roots_The_Politics_and_Passions_of_Black_Oral_Poetry)
 
 A journey into the prehistory of hip hop, exploring the hidden and erased legacies of Black oral poetry. Guided by poets and emcees, we'll demonstrate oral poetry's longstanding role as a key marker of Black identity, and as a critical voice of cultural affirmation and political dissent. Rather than focusing on contemporary hip hop, this course instead explores the roots that gave it rise, with students conducting original research to re-write the music's history. Honors version available.
 
-## ANTH 302. Language and Power. 3 Credits.
+## [ANTH 302. Language and Power. 3 Credits.](./ANTH_302_Language_and_Power)
 
 This course provides an overview of language and power studies. Issues: sexist and sex-neutral language; languages of subcultures defined by gender, sexual orientation, ethnicity; hate speech; "politically correct" language.
 
-## ANTH 303. Native Languages of the Americas. 3 Credits.
+## [ANTH 303. Native Languages of the Americas. 3 Credits.](./ANTH_303_Native_Languages_of_the_Americas)
 
 This course is an introduction to languages indigenous to the Americas. The course touches on the linguistic structure and classification of Native American languages as well as on social issues. This version requires that the student learn intensively about the structure of a specific language, as well as its social and cultural context. Students may not receive credit for LING 561 after completing LING 303.
 
-## ANTH 306. Water and Inequality: Anthropological Perspectives. 3 Credits.
+## [ANTH 306. Water and Inequality: Anthropological Perspectives. 3 Credits.](./ANTH_306_Water_and_Inequality_Anthropological_Perspectives)
 
 This course aims to foster an appreciation of the tremendous role of water in shaping human experience, including the ways water shapes where people live, constrains what they do, and plays a major role in the institutionalization of social, political, and economic inequalities. No prerequisites or permissions.
 
-## ANTH 312. From the Equator to the Poles: Case Studies in Global Environmental Change. 3 Credits.
+## [ANTH 312. From the Equator to the Poles: Case Studies in Global Environmental Change. 3 Credits.](./ANTH_312_From_the_Equator_to_the_Poles_Case_Studies_in_Global_Environmental_Change)
 
 Case studies in environmental change, highlighting human and environmental dynamics in terrestrial and marine ecosystems on multiple spatial and temporal scales. Includes active learning modules, group presentations, writing assignments.
 
-## ANTH 315. Human Genetics and Evolution. 3 Credits.
+## [ANTH 315. Human Genetics and Evolution. 3 Credits.](./ANTH_315_Human_Genetics_and_Evolution)
 
 Interaction of heredity, environment, and culture in shaping human biological diversity and behavior, and what such patterns of diversity reveal about our evolutionary past.
 
-## ANTH 318. Human Growth and Development. 3 Credits.
+## [ANTH 318. Human Growth and Development. 3 Credits.](./ANTH_318_Human_Growth_and_Development)
 
 Comparative study of human growth and development from conception through adulthood. Special emphasis on evolutionary, biocultural, ecological, and social factors that influence growth.
 
-## ANTH 319. Global Health. 3 Credits.
+## [ANTH 319. Global Health. 3 Credits.](./ANTH_319_Global_Health)
 
 This class explores some of the historical, biological, economic, medical, and social issues surrounding globalization and health consequences.
 
-## ANTH 320. Anthropology of Development. 3 Credits.
+## [ANTH 320. Anthropology of Development. 3 Credits.](./ANTH_320_Anthropology_of_Development)
 
 Critical exploration of current debates in the anthropology of Third World development, the production of global inequality, and the construction of parts of the world as underdeveloped through discourses and practices of development.
 
-## ANTH 325. Emotions and Society. 3 Credits.
+## [ANTH 325. Emotions and Society. 3 Credits.](./ANTH_325_Emotions_and_Society)
 
 Survey of the interplay between emotional experience and social life. Emotions as learned, culturally variable, and socially performed perceptions, understandings, and actions.
 
-## ANTH 326. Practicing Medical Anthropology. 3 Credits.
+## [ANTH 326. Practicing Medical Anthropology. 3 Credits.](./ANTH_326_Practicing_Medical_Anthropology)
 
 A workshop on careers in medical anthropology and the kinds of contributions that medical anthropologists make to health care professions. Students will learn skills including interviewing methods, writing for diverse audiences, blogging. Intended for medical anthropology minors and students interested in bringing anthropological perspectives to a range of practical contexts.
 
-## ANTH 328. Anthropology of Care. 3 Credits.
+## [ANTH 328. Anthropology of Care. 3 Credits.](./ANTH_328_Anthropology_of_Care)
 
 In this course, we study how medical anthropologists have come to think and write about the concept and practice of care over the last two decades. We will draw on ethnographic literature from a wide range of sites, such as the home, the hospital, the arctic circle, and international border posts, to explore big-picture questions about the efficacy of modern medicine, state of social justice, and challenges facing humanity in the world today. Restricted to medical anthropology majors.
 
-## ANTH 330. Melancholy Japan: Myth, Memory, and Everyday Life. 3 Credits.
+## [ANTH 330. Melancholy Japan: Myth, Memory, and Everyday Life. 3 Credits.](./ANTH_330_Melancholy_Japan_Myth_Memory_and_Everyday_Life)
 
 Ethnographic study of the profound social and cultural transformations that accompanied the capitalist modernization of Japan. Considers the emergence of native ethnology and state interventions into everyday life.
 
-## ANTH 331. The Anthropology of Memory. 3 Credits.
+## [ANTH 331. The Anthropology of Memory. 3 Credits.](./ANTH_331_The_Anthropology_of_Memory)
 
 This course is a historical and ethnographic study of the problems of history, memory, and forgetting in contemporary society.
 
-## ANTH 333. Anthropology of Democracy. 3 Credits.
+## [ANTH 333. Anthropology of Democracy. 3 Credits.](./ANTH_333_Anthropology_of_Democracy)
 
 This course explores how anthropological perspectives might take understandings of democracy in new and unanticipated directions. Using examples from across the globe students will investigate the forces and impacts of democracy. Through hands-on assignments, students will implement a local research project related to the theme of democracy.
 
-## ANTH 334. Art, Nature, and Religion: Cross-Cultural Perspectives. 3 Credits.
+## [ANTH 334. Art, Nature, and Religion: Cross-Cultural Perspectives. 3 Credits.](./ANTH_334_Art_Nature_and_Religion_Cross-Cultural_Perspectives)
 
 This cross-cultural study of art focuses on the forms, images, and meanings of paintings, drawings, and carvings produced by the Diyin Dine'é (Navajo), the Dogon (Mali, West Africa), and the Haida, Kwagiutl, Tlingit, and Tshimshian (northwest coast of North America).
 
-## ANTH 335. The Commons, Ecology, and Human Futures. 3 Credits.
+## [ANTH 335. The Commons, Ecology, and Human Futures. 3 Credits.](./ANTH_335_The_Commons_Ecology_and_Human_Futures)
 
 Commons are shared resources that make human life sustainable over time, and are an alternative to private property and the state. This course explores the Commons in terms of property rights, environmental problems, and political challenges using case studies from the fisheries, waterways, forests, and pasture management. Previously offered as ANTH 440.
 
-## ANTH 340. Southern Styles, Southern Cultures. 4 Credits.
+## [ANTH 340. Southern Styles, Southern Cultures. 4 Credits.](./ANTH_340_Southern_Styles_Southern_Cultures)
 
 A journey into hidden worlds of southern meaning, exploring the region from the experiential lens of African Americans and the South's indigenous peoples, as a way of rethinking the question, "What does it mean to be a Southerner?" Students will explore focused issues each semester through intensive, group-based field work projects.
 
-## ANTH 341. Anthropology of Fitness Culture. 3 Credits.
+## [ANTH 341. Anthropology of Fitness Culture. 3 Credits.](./ANTH_341_Anthropology_of_Fitness_Culture)
 
 This course examines the global rise of fitness culture and its relationship to health, social change, inequalities, gender, and globalization through a selection of anthropological and sociological texts. This course also has a methods component: students will acquire qualitative research skills including participant observation and interviewing through designing and carrying out their own ethnographic study in a local fitness space.
 
-## ANTH 342. African-American Religious Experience. 3 Credits.
+## [ANTH 342. African-American Religious Experience. 3 Credits.](./ANTH_342_African-American_Religious_Experience)
 
 Permission of the instructor. An introduction to the diversity of African American beliefs, experiences, and expressions from the colonial era to the present. Exploration will be both historical and thematic.
 
-## ANTH 343. Africa and Masks. 3 Credits.
+## [ANTH 343. Africa and Masks. 3 Credits.](./ANTH_343_Africa_and_Masks)
 
 Examines the production, circulation, and consumption of masks in both African and non-African contexts. Expands, nuances, and sometimes undoes our notions of mask, masquerade, and masking.
 
-## ANTH 345. Alternatives to Capitalism. 3 Credits.
+## [ANTH 345. Alternatives to Capitalism. 3 Credits.](./ANTH_345_Alternatives_to_Capitalism)
 
 An investigation of economic systems that are sustainable alternatives to the globally dominant political and economic order. Topics include markets, the Commons, cooperatives, local trading systems, participatory budgeting, and social movements seeking to bring these alternatives about. Throughout, the course asks: what can anthropology tell us about the potentials and limits of social transformation? Previously offered as ANTH 466.
 
-## ANTH 347. Anthropology of Travel and Tourism. 3 Credits.
+## [ANTH 347. Anthropology of Travel and Tourism. 3 Credits.](./ANTH_347_Anthropology_of_Travel_and_Tourism)
 
 This course considers anthropological approaches to travel and tourism in the contemporary world. We examine differences of race, class, gender, sexual orientation, and nationality in the experiences of travelers as well as of those who work in the service industries that accommodate travelers' needs--and the ways in which travel destinations are represented and marketed.
 
-## ANTH 348. Gender, Sexuality, and Health. 3 Credits.
+## [ANTH 348. Gender, Sexuality, and Health. 3 Credits.](./ANTH_348_Gender_Sexuality_and_Health)
 
 This course will a) introduce students to gender and sexuality as theoretical concepts and b) explore the persistence of gender inequality as it pertains to health. How do gender and sexuality impact people's institutional, intimate, and everyday lives? Topics covered include intersectional feminism, reproductive politics, masculinity, HIV, and gender bias in biomedicine.
 
-## ANTH 349. Histories of Violence. 3 Credits.
+## [ANTH 349. Histories of Violence. 3 Credits.](./ANTH_349_Histories_of_Violence)
 
 This course explores the role of violence in the creation of the ''modern world'' over the past 500 years, the legacies of this violence for the 21st century, and the debates over how to memorialize these histories of violence. This is an archaeology course, which means the content and case studies will be approached from a material perspective by focusing on the landscapes, buildings, homes, and artifacts that structured our violent pasts.
 
-## ANTH 350. Anthropology of the State, Civil Society, and Politics. 3 Credits.
+## [ANTH 350. Anthropology of the State, Civil Society, and Politics. 3 Credits.](./ANTH_350_Anthropology_of_the_State_Civil_Society_and_Politics)
 
 This course is a thematically organized investigation of political processes in modern nation-states and corporate states in the current era of globalization. Using ethnographic and historical studies, we ask: what is happening to the contemporary nation-state, social and political life, and the conditions for human welfare given these processes? Previously offered as ANTH 491.
 
-## ANTH 354. Everyday Lives in the Middle East: Anthropological Perspectives. 3 Credits.
+## [ANTH 354. Everyday Lives in the Middle East: Anthropological Perspectives. 3 Credits.](./ANTH_354_Everyday_Lives_in_the_Middle_East_Anthropological_Perspectives)
 
 The course introduces students to patterns of everyday life in the contemporary Middle East. From an anthropological perspective the course explores a variety of topics such as gender, religion, politics, the economy, urban life, and popular culture.
 
-## ANTH 355. Life, Society and Work in the Globalized City. 3 Credits.
+## [ANTH 355. Life, Society and Work in the Globalized City. 3 Credits.](./ANTH_355_Life_Society_and_Work_in_the_Globalized_City)
 
 Contemporary cities are undergoing major transformations due to globalization, economic restructuring, political conflict, and transnational migration. This course is a comparative study of the structures of power, everyday life, and social inequalities in globalized cities in North America, Asia, and Europe. Previously offered as ANTH 567.
 
-## ANTH 356. Artisans and Global Culture: Economic, Historical, Experiential, and Cross-Cultural Dimensions. 3 Credits.
+## [ANTH 356. Artisans and Global Culture: Economic, Historical, Experiential, and Cross-Cultural Dimensions. 3 Credits.](./ANTH_356_Artisans_and_Global_Culture_Economic_Historical_Experiential_and_Cross-Cultural_Dimensions)
 
 An anthropological investigation of the role of skilled handiwork in the creation of contemporary culture and society. It includes field work with a local artisan. Ethnographies about artisan industries and apprenticeship in Latin America, Africa, and Southeast Asia guide our conceptual focus. Honors version available.
 
-## ANTH 360. Latin American Economy and Society. 3 Credits.
+## [ANTH 360. Latin American Economy and Society. 3 Credits.](./ANTH_360_Latin_American_Economy_and_Society)
 
 Examines economic and cultural diversity of Latin America. Using case studies, class focuses on community social organization, work habits, family life and cosmologies, and the problem of inclusion in national cultures.
 
-## ANTH 361. Community in India and South Asia. 3 Credits.
+## [ANTH 361. Community in India and South Asia. 3 Credits.](./ANTH_361_Community_in_India_and_South_Asia)
 
 This course offers an introduction to the peoples and current dynamics of South Asia by focusing on how communities are constituted and mobilized in India, Pakistan, Nepal, Sri Lanka, and Bangladesh. No prior knowledge of this world area is needed.
 
-## ANTH 365. Chinese Diaspora in the Asia Pacific. 3 Credits.
+## [ANTH 365. Chinese Diaspora in the Asia Pacific. 3 Credits.](./ANTH_365_Chinese_Diaspora_in_the_Asia_Pacific)
 
 This course is an examination of the histories, social organization, and cultures of the Chinese diaspora in the Asia-Pacific region, focusing on contemporary issues in the cultural politics and identities of "overseas Chinese." Previously offered as ANTH/ASIA 578.
 
-## ANTH 370. Southern Legacies: The Descendants Project. 4 Credits.
+## [ANTH 370. Southern Legacies: The Descendants Project. 4 Credits.](./ANTH_370_Southern_Legacies_The_Descendants_Project)
 
 In this Course-based Undergraduate Research Experience (CURE) class, students will explore the legacy of racial terrorism in North Carolina. Students will search archival sources to discover the family histories of lynching victims, tracing those families to the present, interviewing their descendants, and working with communities to build public awareness of - and perhaps public memorials to - the victims of racial violence.
 
-## ANTH 375. Memory, Massacres, and Monuments in Southeast Asia. 3 Credits.
+## [ANTH 375. Memory, Massacres, and Monuments in Southeast Asia. 3 Credits.](./ANTH_375_Memory_Massacres_and_Monuments_in_Southeast_Asia)
 
 The past in Southeast Asia's present, focusing on global, national, and local processes; individual and collective memory; and the legacies of violent death.
 
-## ANTH 377. European Societies. 3 Credits.
+## [ANTH 377. European Societies. 3 Credits.](./ANTH_377_European_Societies)
 
 This course explores many cultural factors and diverse peoples, non-Greco-Roman as well as Greco-Roman, that have formed the European identity from the earliest human occupation of Europe to present.
 
-## ANTH 380. Anthropological Perspectives on Cultural Diversity. 3 Credits.
+## [ANTH 380. Anthropological Perspectives on Cultural Diversity. 3 Credits.](./ANTH_380_Anthropological_Perspectives_on_Cultural_Diversity)
 
 Introduction to theories of cultural and social difference. Encourages students to use social theory and ethnography to understand how various societies imagine and enact their cultural and political worlds.
 
-## ANTH 389. Special Topics in Medical Anthropology - Research Methods and Experiences. 3 Credits.
+## [ANTH 389. Special Topics in Medical Anthropology - Research Methods and Experiences. 3 Credits.](./ANTH_389_Special_Topics_in_Medical_Anthropology_-_Research_Methods_and_Experiences)
 
 This course exposes medical anthropology students to a wide range of social science methods used to conduct research and analyze data. This course highlights approaches used primarily in medical anthropology but also draws on those used by other anthropologists. The focus will be on conducting fieldwork using participant-observation and interview techniques. Analytical techniques will focus on writing, organizing and analyzing fieldnotes. Students will engage in orginal fieldwork exercises and produce fieldnotes.
 
-## ANTH 390. Special Topics in Medical Anthropology. 3 Credits.
+## [ANTH 390. Special Topics in Medical Anthropology. 3 Credits.](./ANTH_390_Special_Topics_in_Medical_Anthropology)
 
 A rotating topics course related to any of the subject areas and methodological approaches in medical anthropology. Seminar format will enable students to engage closely with a faculty member on his or her area of research. Intended for medical anthropology minors with enrollment open to other students if space allows.
 
-## ANTH 392. Professional Development and Career Exploration. 3 Credits.
+## [ANTH 392. Professional Development and Career Exploration. 3 Credits.](./ANTH_392_Professional_Development_and_Career_Exploration)
 
 Someone will eventually ask you "What are you going to do with that?" when they find out what you're studying in college. This class is designed to help you figure out the answer to that question, not to satisfy their curiosity, but to develop a vision for your future that draws on your training. In this course, we'll explore your options and develop additional tools to make the most of your degree in anthropology.
 
-## ANTH 393. Internship in Anthropology. 1-12 Credits.
+## [ANTH 393. Internship in Anthropology. 1-12 Credits.
 Internship in Anthropology. Permission of the instructor and the director of undergraduate studies.
 
 ANTH 395. Research in Anthropology. 1-6 Credits.
@@ -480,562 +495,574 @@ Permission of the instructor. Honors version available.
 ANTH 396. Independent Reading or Study in Anthropology. 1-6 Credits.
 Permission of the instructor. Honors version available.
 
-ANTH 405. Mental Health, Psychiatry, and Culture. 3 Credits.
+ANTH 405. Mental Health, Psychiatry, and Culture. 3 Credits.](./ANTH_393_Internship_in_Anthropology_1-12_Credits
+Internship_in_Anthropology_Permission_of_the_instructor_and_the_director_of_undergraduate_studies
+
+ANTH_395_Research_in_Anthropology_1-6_Credits
+Permission_of_the_instructor_Honors_version_available
+
+ANTH_396_Independent_Reading_or_Study_in_Anthropology_1-6_Credits
+Permission_of_the_instructor_Honors_version_available
+
+ANTH_405_Mental_Health_Psychiatry_and_Culture)
 
 This course explores mental illness as subjective experience, social process, key cultural symbol, and object of intervention and expert knowledge. Our questions include: Does mental illness vary across cultural and social settings? How do psychiatric ways of categorizing, diagnosing, and treating mental illness shape people's subjective experience of their affliction? How is psychiatry predicated on cultural ideas about self and society? What does this contingency mean for the movement for global mental health?
 
-## ANTH 406. Native Writers. 3 Credits.
+## [ANTH 406. Native Writers. 3 Credits.](./ANTH_406_Native_Writers)
 
 Exploration of a broad selection of writings by native or indigenous scholars from tribal societies throughout the world. Seeks to understand the hopes, dreams, priorities, and perspectives of native peoples as expressed by and through their writers.
 
-## ANTH 409. Curating Things. 3 Credits.
+## [ANTH 409. Curating Things. 3 Credits.](./ANTH_409_Curating_Things)
 
 Curating things focuses on the curation and care of archaeological collections. Students will learn about collections management through readings, discussions, lectures, and hands-on work at the Research Laboratories of Archaeology's curation facility, which houses the North Carolina Archaeological Collection. We'll explore basic principles of curation and data management and issues that affect curation nation-wide and internationally, such as collection accessibility and accountability, conservation and preservation, policies and regulations, and ethical concerns.
 
-## ANTH 410. The Identification and Analysis of Historical Artifacts. 3 Credits.
+## [ANTH 410. The Identification and Analysis of Historical Artifacts. 3 Credits.](./ANTH_410_The_Identification_and_Analysis_of_Historical_Artifacts)
 
 This is a hands-on lab class on the identification and analysis of ceramics, tobacco pipes, glassware, small finds, and personal objects produced or traded in Northern Europe and Eastern North America. Students will be instructed on how to identify, date, and analyze artifacts from the 17th century through the middle of the 20th century. In addition, topics such as function, technology, and socioeconomic status will be discussed.
 
-## ANTH 411. Laboratory Methods in Archaeology. 3 Credits.
+## [ANTH 411. Laboratory Methods in Archaeology. 3 Credits.](./ANTH_411_Laboratory_Methods_in_Archaeology)
 
 ANTH 411 will be all about curating things, specifically the curation and care of archaeological collections. Students will learn about collections management through readings, discussion, lectures, and hands-on work at the Research Laboratories of Archaeology's curation facility. The RLA curates collections mainly from the American South. Through the lens of the RLA collections, we'll explore basic principles of curation and data management as well as issues that affect curation nation-wide and internationally. Honors version available.
 
-## ANTH 412. Paleoanthropology. 3 Credits.
+## [ANTH 412. Paleoanthropology. 3 Credits.](./ANTH_412_Paleoanthropology)
 
 This course traces the evolution of humans and nonhuman primates--including behaviors, tools, and bodies of monkeys, apes, and human hunters and gatherers--evolutionary theory, and paleoanthropological methods.
 
-## ANTH 413. Laboratory Methods: Archaeobotany. 3 Credits.
+## [ANTH 413. Laboratory Methods: Archaeobotany. 3 Credits.](./ANTH_413_Laboratory_Methods_Archaeobotany)
 
 This course will focus on the analysis of plant remains from archaeological sites. Introduction to laboratory methods, analytical approaches, and interpretive framework for archaeobotany. Prior course in archaeology recommended but not required.
 
-## ANTH 414. Laboratory Methods: Human Osteology. 3 Credits.
+## [ANTH 414. Laboratory Methods: Human Osteology. 3 Credits.](./ANTH_414_Laboratory_Methods_Human_Osteology)
 
 This course will focus on the analysis of human skeletal materials in the laboratory and in the field, with an emphasis on basic identification, age and sex estimation, and quantitative analysis.
 
-## ANTH 415. Laboratory Methods: Zooarchaeology. 3 Credits.
+## [ANTH 415. Laboratory Methods: Zooarchaeology. 3 Credits.](./ANTH_415_Laboratory_Methods_Zooarchaeology)
 
 This course will focus on the analysis of animal remains from archaeological sites. Introduction to laboratory methods, analytical approaches, and interpretive frameworks for zooarchaeology.
 
-## ANTH 416. Bioarchaeology. 3 Credits.
+## [ANTH 416. Bioarchaeology. 3 Credits.](./ANTH_416_Bioarchaeology)
 
 The study of human skeletal remains from archaeological contexts. The collection and interpretation of quantitative and qualitative data is emphasized to assess the relationship between past biology, environment, culture, and behavior.
 
-## ANTH 417. Laboratory Methods: Lithic Seminar. 3 Credits.
+## [ANTH 417. Laboratory Methods: Lithic Seminar. 3 Credits.](./ANTH_417_Laboratory_Methods_Lithic_Seminar)
 
 Laboratory techniques in stone tool research and experimental practice.
 
-## ANTH 417. ANTH 418. Laboratory Methods: Ceramic Analysis. 3 Credits.
+## [ANTH 417. ANTH 418. Laboratory Methods: Ceramic Analysis. 3 Credits.](./ANTH_417_ANTH_418_Laboratory_Methods_Ceramic_Analysis)
 
 A survey of the laboratory techniques used by archaeologists to study and draw social and behavioral inferences from ancient pottery.
 
-## ANTH 419. Anthropological Application of GIS. 3 Credits.
+## [ANTH 419. Anthropological Application of GIS. 3 Credits.](./ANTH_419_Anthropological_Application_of_GIS)
 
 Permission of the instructor. GIS experience required. This course explores applying GIS science technologies to anthropological problems. Students will learn GIS skills and apply them using spatial data.
 
-## ANTH 420. Public Archaeology. 3 Credits.
+## [ANTH 420. Public Archaeology. 3 Credits.](./ANTH_420_Public_Archaeology)
 
 The aim of the course is to build an understanding of archaeology as a discipline that involves and affects the public. Among the areas to be covered are the implementation of federal, state, and other statutes, and the presentation of archaeological knowledge through museums and public media.
 
-## ANTH 421. Archaeological Geology. 3 Credits.
+## [ANTH 421. Archaeological Geology. 3 Credits.](./ANTH_421_Archaeological_Geology)
 
 The application of geological principles and techniques to the solution of archaeological problems. Studies geological processes and deposits pertinent to archaeological sites, geologic framework of archaeology in the southeastern United States, and techniques of archaeological geology. Field trips to three or more sites; written reports required. Course previously offered as GEOL 421. Permission of the instructor.
 
-## ANTH 422. Anthropology and Human Rights. 3 Credits.
+## [ANTH 422. Anthropology and Human Rights. 3 Credits.](./ANTH_422_Anthropology_and_Human_Rights)
 
 An examination of human rights issues from an anthropological perspective, addressing the historical formation of rights, their cross-cultural context and the emergence of humanitarian and human rights organizations on a global scale.
 
-## ANTH 423. Written in Bone: CSI and the Science of Death Investigation from Skeletal Remains. 3 Credits.
+## [ANTH 423. Written in Bone: CSI and the Science of Death Investigation from Skeletal Remains. 3 Credits.](./ANTH_423_Written_in_Bone_CSI_and_the_Science_of_Death_Investigation_from_Skeletal_Remains)
 
 This course combines laboratory training, field projects, lectures, films, discussion, and student presentations into a course on the science of human skeletal analysis. Students learn the laboratory methods scientists use to study human remains and the role of skeletal analysis in the study of contemporary forensic cases.
 
-## ANTH 424. Ritual, Festival, and Public Culture. 3 Credits.
+## [ANTH 424. Ritual, Festival, and Public Culture. 3 Credits.](./ANTH_424_Ritual_Festival_and_Public_Culture)
 
 This course explores rituals, festivals, and public cultural performances as forms of complex, collective, embodied creative expression. As sites of popular celebration, conflict resolution, identity definition, and social exchange, they provide rich texts for folkloristic study. We consider how local and global forces both sustain and challenge these forms.
 
-## ANTH 425. Public Archaeology Practicum. 3 Credits.
+## [ANTH 425. Public Archaeology Practicum. 3 Credits.](./ANTH_425_Public_Archaeology_Practicum)
 
 An opportunity for archaeology students to apply their field and/or lab skills to a semester long, team-based research project developed to address the needs of a community partner.
 
-## ANTH 426. Making Magic. 3 Credits.
+## [ANTH 426. Making Magic. 3 Credits.](./ANTH_426_Making_Magic)
 
 Magic in anthropology and popular culture, from the 19th century to the present. Focuses on witchcraft and healing; arts of illusion; fantasy and (multiple) realities. Examines how realities are made and unmade through speech, rites, relations of power.
 
-## ANTH 427. Race. 3 Credits.
+## [ANTH 427. Race. 3 Credits.](./ANTH_427_Race)
 
 This course explores the history, politics, and social dimensions of race as a category. It examines the lived experience of race, racialization and racism, as well as the role of anthropology in contemporary and historic definitions of race.
 
-## ANTH 428. Religion and Anthropology. 3 Credits.
+## [ANTH 428. Religion and Anthropology. 3 Credits.](./ANTH_428_Religion_and_Anthropology)
 
 Religion studied anthropologically as a cultural, social, and psychological phenomenon in the works of classical and contemporary social thought. Honors version available.
 
-## ANTH 429. Culture and Power in Southeast Asia. 3 Credits.
+## [ANTH 429. Culture and Power in Southeast Asia. 3 Credits.](./ANTH_429_Culture_and_Power_in_Southeast_Asia)
 
 The formation and transformation of values, identities, and expressive forms in Southeast Asia in response to forms of power. Emphasis on the impact of colonialism, the nation-state, and globalization.
 
-## ANTH 430. War, Medicine, and the Military. 3 Credits.
+## [ANTH 430. War, Medicine, and the Military. 3 Credits.](./ANTH_430_War_Medicine_and_the_Military)
 
 This course provides anthropological perspectives on the interrelationships between medicine and medical research, military institutions, and war.
 
-## ANTH 432. Science and Society in the Middle East. 3 Credits.
+## [ANTH 432. Science and Society in the Middle East. 3 Credits.](./ANTH_432_Science_and_Society_in_the_Middle_East)
 
 This class explores science and society in the modern Middle East. Drawing on works from anthropology and history, it investigates how science interacts with, is shaped by, and reflects wider processes and formations such as nationalism, colonialism, religion, subject formation, or cultural production. Previously offered as ARAB 353.
 
-## ANTH 437. Evolutionary Medicine. 3 Credits.
+## [ANTH 437. Evolutionary Medicine. 3 Credits.](./ANTH_437_Evolutionary_Medicine)
 
 This course explores evolutionary dimensions of variation in health and disease in human populations. Topics include biocultural and evolutionary models for the emergence of infectious and chronic diseases and cancers.
 
-## ANTH 438. Religion, Nature, and Environment. 3 Credits.
+## [ANTH 438. Religion, Nature, and Environment. 3 Credits.](./ANTH_438_Religion_Nature_and_Environment)
 
 A seminar on concepts of nature within religions and a variety of world-wide spiritual traditions. Emphasis on sacred space, place, and pilgrimage as a vital intersection of religion and nature. Honors version available.
 
-## ANTH 439. Political Ecology. 3 Credits.
+## [ANTH 439. Political Ecology. 3 Credits.](./ANTH_439_Political_Ecology)
 
 Examines environmental degradation, hunger, and poverty through the lens of power relationships, particularly inequality, political and economic disenfranchisement, and discrimination. Discussion of global case studies, with a Latin American focus.
 
-## ANTH 441. The Anthropology of Gender, Health, and Illness. 3 Credits.
+## [ANTH 441. The Anthropology of Gender, Health, and Illness. 3 Credits.](./ANTH_441_The_Anthropology_of_Gender_Health_and_Illness)
 
 The course explores cultural beliefs, practices, and social conditions that influence health and sickness of women and men from a cross-cultural perspective.
 
-## ANTH 442. Health and Gender after Socialism. 3 Credits.
+## [ANTH 442. Health and Gender after Socialism. 3 Credits.](./ANTH_442_Health_and_Gender_after_Socialism)
 
 This course examines postsocialist experiences of the relationship between political, economic, social, and cultural transitions, and challenges in public health and gender relations.
 
-## ANTH 443. Cultures and Politics of Reproduction. 3 Credits.
+## [ANTH 443. Cultures and Politics of Reproduction. 3 Credits.](./ANTH_443_Cultures_and_Politics_of_Reproduction)
 
 This course takes a cross-cultural approach to understanding how reproduction and associated phenomena become arenas where political debates are played out, and where global and local social relations are contested.
 
-## ANTH 444. Medicine, Politics, and Justice. 3 Credits.
+## [ANTH 444. Medicine, Politics, and Justice. 3 Credits.](./ANTH_444_Medicine_Politics_and_Justice)
 
 This course brings an anthropological approach to understanding the intersections between medicine, politics, and public health.
 
-## ANTH 445. Migration and Health. 3 Credits.
+## [ANTH 445. Migration and Health. 3 Credits.](./ANTH_445_Migration_and_Health)
 
 This course examines the intersections between migration processes and the political, economic, and social dimensions of health and well-being among migrants, their families, and their communities.
 
-## ANTH 446. Poverty, Inequality, and Health. 3 Credits.
+## [ANTH 446. Poverty, Inequality, and Health. 3 Credits.](./ANTH_446_Poverty_Inequality_and_Health)
 
 This course examines poverty, inequalities, and health from a global and historical perspective. We will study the role of sociopolitical context, individual behavior, and human biology, and will pay particular attention to the roles of psychosocial stress, material conditions, and policy in shaping health differences within and between populations.
 
-## ANTH 447. The Anthropology of Work. 3 Credits.
+## [ANTH 447. The Anthropology of Work. 3 Credits.](./ANTH_447_The_Anthropology_of_Work)
 
 Anthropological investigations of work and the relationship between work, family life, and community in contemporary societies in the United States, Asia, and Latin America, within the framework of globalization. Honors version available.
 
-## ANTH 448. Health and Medicine in the American South. 3 Credits.
+## [ANTH 448. Health and Medicine in the American South. 3 Credits.](./ANTH_448_Health_and_Medicine_in_the_American_South)
 
 This course examines ways we can understand the history and culture of a region through the experience of health and healthcare among its people. With an anthropological approach, this course considers the individual, social, and political dimensions of medicalized bodies in the American South from the 18th century through the current day.
 
-## ANTH 449. Anthropology and Marxism. 3 Credits.
+## [ANTH 449. Anthropology and Marxism. 3 Credits.](./ANTH_449_Anthropology_and_Marxism)
 
 Critical study of Marx' mature social theory and its relationship to contemporary anthropology.
 
-## ANTH 450. Ethnographic Research Methods. 3 Credits.
+## [ANTH 450. Ethnographic Research Methods. 3 Credits.](./ANTH_450_Ethnographic_Research_Methods)
 
 Students learn about methodologies of ethnographic research and put these into practice through a semester-long field research project. We explore the theoretical, ethical, and practical promises and challenges of ethnography, from problem definition and research design to data analysis and writing. Students collect and analyze ethnographic data using participant observation, fieldnotes, interviewing, visual methods, focus groups, archival and ethnographic survey research, and learn various strategies for organizing, coding, and presenting findings.
 
-## ANTH 451. Field School in North American Archaeology. 6 Credits.
+## [ANTH 451. Field School in North American Archaeology. 6 Credits.](./ANTH_451_Field_School_in_North_American_Archaeology)
 
 Intensive training in archaeological field methods and techniques. Students participate in the excavation, recovery, recording, and interpretation of archaeological remains. Instruction given in survey, mapping, photography, flotation recovery, etc. Honors version available.
 
-## ANTH 452. The Past in the Present. 3 Credits.
+## [ANTH 452. The Past in the Present. 3 Credits.](./ANTH_452_The_Past_in_the_Present)
 
 Memory and history, history and politics, national narratives, the past in the present, and the present in the past; a cross-cultural examination of ways of connecting the present and the past.
 
-## ANTH 453. Field School in South American Archaeology. 6 Credits.
+## [ANTH 453. Field School in South American Archaeology. 6 Credits.](./ANTH_453_Field_School_in_South_American_Archaeology)
 
 Intensive study of archaeological field and laboratory methods and prehistory of the Andes through excavation and analysis of materials from archaeological sites in Peru. Includes tours of major archaeological sites. Honors version available.
 
-## ANTH 454. The Archaeology of African Diasporas. 3 Credits.
+## [ANTH 454. The Archaeology of African Diasporas. 3 Credits.](./ANTH_454_The_Archaeology_of_African_Diasporas)
 
 How is archaeological evidence used to understand the movement of Africans and their descendants across the globe? This course focuses on what archaeologists have learned about the transformation of societies on the African continent and in the Americas from the era of the trans-Atlantic slave trade to the present.
 
-## ANTH 455. Ethnohistory. 3 Credits.
+## [ANTH 455. Ethnohistory. 3 Credits.](./ANTH_455_Ethnohistory)
 
 Integration of data from ethnographic and archaeological research with pertinent historic information. Familiarization with a wide range of sources for ethnohistoric data and practice in obtaining and evaluating information. Pertinent theoretical concepts will be explored.
 
-## ANTH 456. Archaeology and Ethnography of Small-Scale Societies. 3 Credits.
+## [ANTH 456. Archaeology and Ethnography of Small-Scale Societies. 3 Credits.](./ANTH_456_Archaeology_and_Ethnography_of_Small-Scale_Societies)
 
 The study of small-scale hunter-gatherer and farming societies from archaeological and ethnographic perspectives. Methods and theories for investigating economic, ecological, and social relations in such societies are explored.
 
-## ANTH 457. Perspectives in Historical Archaeology. 3 Credits.
+## [ANTH 457. Perspectives in Historical Archaeology. 3 Credits.](./ANTH_457_Perspectives_in_Historical_Archaeology)
 
 This class will examine the development of historical archaeology as a distinct subdiscipline as well as investigating how the field is being practiced currently around the world.
 
-## ANTH 458. Archaeology of Sex and Gender. 3 Credits.
+## [ANTH 458. Archaeology of Sex and Gender. 3 Credits.](./ANTH_458_Archaeology_of_Sex_and_Gender)
 
 Required preparation, at least one ANTH or one WMST course. A discussion of gender and sex roles and sexuality in past cultures; a cross-cultural examination of ways of knowing about past human behavior.
 
-## ANTH 459. Ecological Anthropology. 3 Credits.
+## [ANTH 459. Ecological Anthropology. 3 Credits.](./ANTH_459_Ecological_Anthropology)
 
 Examines how human-environmental adaptations shape the economic, social, and cultural lives of hunter-gatherers, pastoralists and agriculturalists. Approaches include optimal foraging theory, political ecology and subsistence risk.
 
-## ANTH 460. Historical Ecology. 3 Credits.
+## [ANTH 460. Historical Ecology. 3 Credits.](./ANTH_460_Historical_Ecology)
 
 Historical ecology is a framework for integrating physical, biological, and social science data with insights from the humanities to understand the reciprocal relationship between human activity and the Earth system.
 
-## ANTH 461. Colonialism and Postcolonialism: History and Anthropology. 3 Credits.
+## [ANTH 461. Colonialism and Postcolonialism: History and Anthropology. 3 Credits.](./ANTH_461_Colonialism_and_Postcolonialism_History_and_Anthropology)
 
 This course examines colonialism and postcolonialism through the lenses of history and anthropology respectively. Through history, it asks, What were the dynamics of colonialism then? Through anthropology, it questions, What are the conditions, quandaries, and possibilities of postcolonialism now? Regional focus varies by instructor and year.
 
-## ANTH 462. Archaeologies of Capitalism. 3 Credits.
+## [ANTH 462. Archaeologies of Capitalism. 3 Credits.](./ANTH_462_Archaeologies_of_Capitalism)
 
 This course explores the origins, development, and consequences of capitalism over the last five hundred years from an archaeological perspective. What this means is that we will use the relationships between peoples and material objects to understand this thing we now call ''capitalism.''
 
-## ANTH 463. Settler Colonialism. 3 Credits.
+## [ANTH 463. Settler Colonialism. 3 Credits.](./ANTH_463_Settler_Colonialism)
 
 This class will be framed around readings that explore the varied impact of European settlement across the globe. In focusing on both the varied global legacies of colonialism and the continued sociopolitical movements of indigenous populations, this class will encourage a broad perspective on what settler colonialism looks like today.
 
-## ANTH 464. Life and Violence. 3 Credits.
+## [ANTH 464. Life and Violence. 3 Credits.](./ANTH_464_Life_and_Violence)
 
 Violence in human societies has been studied by social scientists for decades. Yet, how violence is defined and written about varies from discipline to discipline. In this course, we study violence in its many forms (e.g., political, ethnic, bodily, and religious), from an anthropological perspective. We will critically assess how the past and present violence affect everyday life and inform our perspectives about places and people that might be unfamiliar to us.
 
-## ANTH 467. Culture, Wealth, and Poverty. 3 Credits.
+## [ANTH 467. Culture, Wealth, and Poverty. 3 Credits.](./ANTH_467_Culture_Wealth_and_Poverty)
 
 Examines three broad perspectives used to explain inequality: ecological, cultural, and political. Students read theoretical works and evaluate arguments using ethnographies that describe local economies, institutions, and adaptive practices.
 
-## ANTH 468. State Formation. 3 Credits.
+## [ANTH 468. State Formation. 3 Credits.](./ANTH_468_State_Formation)
 
 The course examines the state, from its initial appearance 5,000 years ago to newly established nation-states, exploring the concepts of ethnicity, class, race, and history in state formation and maintenance.
 
-## ANTH 469. History and Anthropology. 3 Credits.
+## [ANTH 469. History and Anthropology. 3 Credits.](./ANTH_469_History_and_Anthropology)
 
 Studies links between history and anthropology; cultures in historical perspective and history in cultural perspective; and effects of relations of power and historical interconnections on the peoples of the world.
 
-## ANTH 470. Medicine and Anthropology. 3 Credits.
+## [ANTH 470. Medicine and Anthropology. 3 Credits.](./ANTH_470_Medicine_and_Anthropology)
 
 This course examines cultural understandings of health, illness, and medical systems from an anthropological perspective with a special focus on Western medicine.
 
-## ANTH 471. Biocultural Perspectives on Maternal and Child Health. 3 Credits.
+## [ANTH 471. Biocultural Perspectives on Maternal and Child Health. 3 Credits.](./ANTH_471_Biocultural_Perspectives_on_Maternal_and_Child_Health)
 
 This course explores maternal and child health from an evolutionary, biocultural, and global health perspective. It focuses on the physiological, ecological, and cultural factors shaping health and takes a life course perspective to examine childhood development, reproductive processes such as pregnancy, birth and lactation, and menopause and aging.
 
-## ANTH 473. Anthropology of the Body and the Subject. 3 Credits.
+## [ANTH 473. Anthropology of the Body and the Subject. 3 Credits.](./ANTH_473_Anthropology_of_the_Body_and_the_Subject)
 
 Anthropological and historical studies of cultural constructions of bodily experience and subjectivity are reviewed, with emphasis on the genesis of the modern individual and cultural approaches to gender and sexuality.
 
-## ANTH 474. The Anthropology of Disability. 3 Credits.
+## [ANTH 474. The Anthropology of Disability. 3 Credits.](./ANTH_474_The_Anthropology_of_Disability)
 
 Investigates the social, cultural, and historical variation in the conception of disability, in its practical meaning and performance, and in its social and medical management. Special attention is paid to the interplay of embodiment, identity, and agency in work and everyday life and in political action and advocacy.
 
-## ANTH 477. Visual Anthropology. 3 Credits.
+## [ANTH 477. Visual Anthropology. 3 Credits.](./ANTH_477_Visual_Anthropology)
 
 This course introduces students to visual forms of communication through both the analysis and production of still and video materials. Ethics, cross-cultural representations, and ethnographic theory will all be explored.
 
-## ANTH 484. Discourse and Dialogue in Ethnographic Research. 3 Credits.
+## [ANTH 484. Discourse and Dialogue in Ethnographic Research. 3 Credits.](./ANTH_484_Discourse_and_Dialogue_in_Ethnographic_Research)
 
 Study of cultural variation in styles of speaking applied to collection of ethnographic data. Talk as responsive social action and its role in the constitution of ethnic and gender identities.
 
-## ANTH 490. Undergraduate Seminar in Anthropology. 3 Credits.
+## [ANTH 490. Undergraduate Seminar in Anthropology. 3 Credits.](./ANTH_490_Undergraduate_Seminar_in_Anthropology)
 
 The subject matter will vary with the instructor. Each course will concern itself with a study in contemporary anthropology and new directions in research or applications. Restricted to junior and senior anthropology majors; generally the course is limited to 18 students.
 
-## ANTH 502. Globalization and Transnationalism. 3 Credits.
+## [ANTH 502. Globalization and Transnationalism. 3 Credits.](./ANTH_502_Globalization_and_Transnationalism)
 
 Anthropological examination of processes of globalization and transnationalism, with special attention to transnational migration, emergence of transnational ('global') institutions, commodity flows, and dissemination of ideologies, cultural frameworks, and media imagery.
 
-## ANTH 503. Gender, Culture, and Development. 3 Credits.
+## [ANTH 503. Gender, Culture, and Development. 3 Credits.](./ANTH_503_Gender_Culture_and_Development)
 
 Classic writings and debates relating to gender and development, with emphasis on recent work that critiques conventional development models. The scope is global, with special attention to Latin America and to such questions as how alternative approaches to gender, culture, and development may be more inclusive of diverse peoples and grassroots movements for change.
 
-## ANTH 520. Linguistic Phonetics. 3 Credits.
+## [ANTH 520. Linguistic Phonetics. 3 Credits.](./ANTH_520_Linguistic_Phonetics)
 
 Introduction to the general principles of linguistic phonetics; anatomy of vocal tract, physiology of speech production, universal phonetic theory. Practice in the recognition and transcription of speech sounds.
 
-## ANTH 523. Phonological Theory I. 3 Credits.
+## [ANTH 523. Phonological Theory I. 3 Credits.](./ANTH_523_Phonological_Theory_I)
 
 Permission of the instructor for undergraduates. Introduction to the principles of modern generative phonology. Methods and theory of phonological analysis. Students may not receive credit for both LING 200 and LING 523.
 
-## ANTH 535. The Archaeology of Health and Well-Being. 3 Credits.
+## [ANTH 535. The Archaeology of Health and Well-Being. 3 Credits.](./ANTH_535_The_Archaeology_of_Health_and_Well-Being)
 
 In this course, we will engage the juxtaposition between traditional cures and the institutionalized ones of the 21st century through analyzing earlier material manifestations of health care and well-being. We will trace the growth of medical care in America from the early colonial years, and consider how they resulted in wholly American circumstances and applications.
 
-## ANTH 537. Gender and Performance: Constituting Identity. 3 Credits.
+## [ANTH 537. Gender and Performance: Constituting Identity. 3 Credits.](./ANTH_537_Gender_and_Performance_Constituting_Identity)
 
 Examines the culturally and historically variable ways in which individuals constitute themselves as cis- or transgendered subjects, drawing upon extant expressive resources, modifying them, and expanding options available to others. Performance of self as the product of esthetically marked or unmarked, everyday actions.
 
-## ANTH 538. Disease and Discrimination in Colonial Atlantic America. 3 Credits.
+## [ANTH 538. Disease and Discrimination in Colonial Atlantic America. 3 Credits.](./ANTH_538_Disease_and_Discrimination_in_Colonial_Atlantic_America)
 
 Colonization of Atlantic America between 1500 and 1900, through landscape change, agriculture, poverty, labor discrimination, and slavery differentially placed subsets of the general population at risk for infectious disease and other insults to their health. Lecture and discussion using archaeological and bioarchaeological studies, modern disease studies, and historic documents.
 
-## ANTH 539. Environmental Justice. 3 Credits.
+## [ANTH 539. Environmental Justice. 3 Credits.](./ANTH_539_Environmental_Justice)
 
 Course examining issues of race, poverty, and equity in the environmental movement. Cases include the siting of toxic incinerators in predominantly people-of-color communities to resource exploitation on indigenous lands.
 
-## ANTH 540. Planetary Crises and Ecological and Cultural Transitions. 3 Credits.
+## [ANTH 540. Planetary Crises and Ecological and Cultural Transitions. 3 Credits.](./ANTH_540_Planetary_Crises_and_Ecological_and_Cultural_Transitions)
 
 Analysis of the social-environmental crisis and approaches to redress it, particularly those that posit ecological and cultural transitions beyond current globalization models. Participants will construct their own scenarios for transitions to sustainable and pluralistic societies. The course will have an in-built, collective research component. Intended for upper-division undergraduates.
 
-## ANTH 541. Sociolinguistics. 3 Credits.
+## [ANTH 541. Sociolinguistics. 3 Credits.](./ANTH_541_Sociolinguistics)
 
 Introduction to the study of language in relation to society; variation as it correlates with socioeconomic status, region, gender; the social motivation of change; language and equality; language maintenance, planning, shift.
 
-## ANTH 542. Pidgins and Creoles. 3 Credits.
+## [ANTH 542. Pidgins and Creoles. 3 Credits.](./ANTH_542_Pidgins_and_Creoles)
 
 Examination of the social contexts of language contact and their linguistic outcomes, with particular emphasis on the formation of pidgins and creoles. The course investigates the structural properties of these new contact languages and evaluates the conflicting theories that explain their genesis.
 
-## ANTH 545. The Politics of Culture in East Asia. 3 Credits.
+## [ANTH 545. The Politics of Culture in East Asia. 3 Credits.](./ANTH_545_The_Politics_of_Culture_in_East_Asia)
 
 Examines struggles to define culture and the nation in 20th-century China in domains like popular culture, museums, traditional medicine, fiction, film, ethnic group politics, and biography and autobiography.
 
-## ANTH 550. Archaeology of the American South. 3 Credits.
+## [ANTH 550. Archaeology of the American South. 3 Credits.](./ANTH_550_Archaeology_of_the_American_South)
 
 Current issues and interpretations in the archaeology of the American South. Through weekly readings and discussions, students will explore the lifeways and changes that characterized each major period of the South's ancient history, from 12,000 years ago to the beginnings of European colonization.
 
-## ANTH 551. Origins of Agriculture in the Ancient World. 3 Credits.
+## [ANTH 551. Origins of Agriculture in the Ancient World. 3 Credits.](./ANTH_551_Origins_of_Agriculture_in_the_Ancient_World)
 
 This course explores archaeological evidence for the origins of food production. We address when and where this profound change occurred as well as focusing on why it happened and what its consequences were. We will examine current evidence for the origins of agriculture in both Old and New Worlds.
 
-## ANTH 574. Chinese World Views. 3 Credits.
+## [ANTH 574. Chinese World Views. 3 Credits.](./ANTH_574_Chinese_World_Views)
 
 Explores the indigenous Chinese sciences and the cosmological ideas that informed them. Topics include astronomy, divination, medicine, fengshui, and political and literary theory. Chinese sources in translation are emphasized.
 
-## ANTH 582. Fieldwork with Social Models of Well-Being. 3 Credits.
+## [ANTH 582. Fieldwork with Social Models of Well-Being. 3 Credits.](./ANTH_582_Fieldwork_with_Social_Models_of_Well-Being)
 
 Required preparation, at least one introductory cultural medical anthropology course. This course highlights approaches and organizations that pursue well-being through social relations and social change, rather than through medical treatment and cure. Students will: 1) learn the conceptual understandings that inform social models of well-being in disability studies/disability rights, occupational science, and critical gerontology; and 2) learn and apply anthropological methods of participant-observation fieldwork and interviewing in local organizations that implement these social models.
 
-## ANTH 585. Anthropology of Science. 3 Credits.
+## [ANTH 585. Anthropology of Science. 3 Credits.](./ANTH_585_Anthropology_of_Science)
 
 Cultural perspectives on science and technology at a global scale, including research settings and social contexts, knowledge claims and material practice, and relations between scientific worldviews, social institutions, and popular imagination.
 
-## ANTH 590. Special Topics in Anthropology I. 3 Credits.
+## [ANTH 590. Special Topics in Anthropology I. 3 Credits.](./ANTH_590_Special_Topics_in_Anthropology_I)
 
 Subject matter will vary with instructor but will focus on some particular topic or anthropological approach. Course description is available from the departmental office. Honors version available.
 
-## ANTH 623. Human Disease Ecology. 3 Credits.
+## [ANTH 623. Human Disease Ecology. 3 Credits.](./ANTH_623_Human_Disease_Ecology)
 
 This seminar considers cultural ecologies of disease by examining how social, cultural, and historical factors shape disease patterns. We examine how ecosystems are shaped by disease, how disease shapes ecosystems, and how cultural processes (e.g., population movements, transportation, economic shifts, landscape modifications, and built environments) contribute to emerging infectious disease.
 
-## ANTH 624. Anthropology and Public Health. 3 Credits.
+## [ANTH 624. Anthropology and Public Health. 3 Credits.](./ANTH_624_Anthropology_and_Public_Health)
 
 This course compares disciplinary approaches of public health and anthropology. We begin by examining the social determinants of health paradigms and relationships between inequality, poverty, and global health. We will explore epidemiological, biocultural, and symbolic approaches to these problems. Public policy and health development will also be examined.
 
-## ANTH 625. Ethnography and Life Stories. 3 Credits.
+## [ANTH 625. Ethnography and Life Stories. 3 Credits.](./ANTH_625_Ethnography_and_Life_Stories)
 
 The course focuses on the practical and research uses of ethnography and oral history, emphasizing life histories, life stories, biographies, and how these intersect with communities.
 
-## ANTH 629. Language Minority Students: Issues for Practitioners. 3 Credits.
+## [ANTH 629. Language Minority Students: Issues for Practitioners. 3 Credits.](./ANTH_629_Language_Minority_Students_Issues_for_Practitioners)
 
 Permission of the instructor. Explores issues of culture and language associated with teaching English as a second language.
 
-## ANTH 649. Politics of Life and Death. 3 Credits.
+## [ANTH 649. Politics of Life and Death. 3 Credits.](./ANTH_649_Politics_of_Life_and_Death)
 
 The course examines intersections between life, death, and contemporary politics, with a historical focus on the health of populations. It combines theoretical discussions with comparative empirical cases in a global frame and includes a research component.
 
-## ANTH 651. Identity, Memory, and the Afterlife: The Space and Place of Death. 3 Credits.
+## [ANTH 651. Identity, Memory, and the Afterlife: The Space and Place of Death. 3 Credits.](./ANTH_651_Identity_Memory_and_the_Afterlife_The_Space_and_Place_of_Death)
 
 Death is a universal event, yet treatment of the dead varies from society to society. This course will be directed at examining mortuary rituals, memory and identity, and the scientific study of the dead to interpret the space and place of death in archaeological contexts.
 
-## ANTH 674. Issues in Cultural Heritage. 3 Credits.
+## [ANTH 674. Issues in Cultural Heritage. 3 Credits.](./ANTH_674_Issues_in_Cultural_Heritage)
 
 This course examines entanglements between the past and present from multiple and conflicting perspectives, highlighting an archaeological point of view. Models of participatory research are considered in relation to cultural heritage, and indigenous-rights perspectives are discussed in reference to archaeological, nation-state, and global interests.
 
-## ANTH 675. Ethnographic Method. 3 Credits.
+## [ANTH 675. Ethnographic Method. 3 Credits.](./ANTH_675_Ethnographic_Method)
 
 Intensive study and practice of the core research methods of cultural and social anthropology.
 
-## ANTH 676. Research Methods in Human Biology. 3 Credits.
+## [ANTH 676. Research Methods in Human Biology. 3 Credits.](./ANTH_676_Research_Methods_in_Human_Biology)
 
 This course focuses on laboratory and field research methods in human biology. Through readings, in-class exercises, data collection outside of class, and laboratory analysis, students will examine issues of epistemology, ethics, data and biomarker collection methods, analysis and data processing. We will pay particular attention to issues of bias and validity, as well as precision and accuracy in human biology research.
 
-## ANTH 680. Quantitative Methods in Archaeology. 3 Credits.
+## [ANTH 680. Quantitative Methods in Archaeology. 3 Credits.](./ANTH_680_Quantitative_Methods_in_Archaeology)
 
 Introduction to quantitative and computer methods in archaeology. The course stresses exploratory data analysis and graphical pattern recognition techniques. Previously offered as ANTH 726. Permission of instructor.
 
-## ANTH 682. Contemporary Chinese Society. 3 Credits.
+## [ANTH 682. Contemporary Chinese Society. 3 Credits.](./ANTH_682_Contemporary_Chinese_Society)
 
 Presents recent anthropological research on the People's Republic of China. In addition to social sciences sources, fictional genres are used to explore the particular modernity of Chinese society and culture.
 
-## ANTH 688. Observation and Interpretation of Religious Action. 3 Credits.
+## [ANTH 688. Observation and Interpretation of Religious Action. 3 Credits.](./ANTH_688_Observation_and_Interpretation_of_Religious_Action)
 
 Permission of the instructor. Exercises (including field work) in learning to read the primary modes of public action in religious traditions, e.g., sermons, testimonies, rituals, and prayers.
 
-## ANTH 690. Special Topics in Anthropology II. 2-3 Credits.
+## [ANTH 690. Special Topics in Anthropology II. 2-3 Credits.
 Subject matter will vary with instructor but will focus on some particular topic or anthropological approach. Course description is available from the departmental office.
 
-ANTH 691H. Seniors Honors Project in Anthropology. 3 Credits.
+ANTH 691H. Seniors Honors Project in Anthropology. 3 Credits.](./ANTH_690_Special_Topics_in_Anthropology_II_2-3_Credits
+Subject_matter_will_vary_with_instructor_but_will_focus_on_some_particular_topic_or_anthropological_approach_Course_description_is_available_from_the_departmental_office
+
+ANTH_691H_Seniors_Honors_Project_in_Anthropology)
 
 Seniors Honors Project in Anthropology. Permission of the instructor. Open only to honors candidates.
 
-## ANTH 700. Advanced Survey of Anthropology. 3 Credits.
+## [ANTH 700. Advanced Survey of Anthropology. 3 Credits.](./ANTH_700_Advanced_Survey_of_Anthropology)
 
 Course description is available from the departmental office.
 
-## ANTH 701. Theory and Ethnography. 3 Credits.
+## [ANTH 701. Theory and Ethnography. 3 Credits.](./ANTH_701_Theory_and_Ethnography)
 
 Permission of the instructor. Development of a critical understanding of the anthropological study of society and culture through discussion of problems and issues expressed in classic theoretical and ethnographic literature.
 
-## ANTH 702. Sociocultural Theory and Ethnography. 3 Credits.
+## [ANTH 702. Sociocultural Theory and Ethnography. 3 Credits.](./ANTH_702_Sociocultural_Theory_and_Ethnography)
 
 No description available.
 
-## ANTH 703. Evolution and Ecology. 3 Credits.
+## [ANTH 703. Evolution and Ecology. 3 Credits.](./ANTH_703_Evolution_and_Ecology)
 
 Permission of the instructor. Development of a critical understanding of anthropological approaches to evolution and ecology in paleontological, archaeological, and present-day crosscultural contexts through the historical and comparative study of theory, method, and content.
 
-## ANTH 704. Evolution and Ecology. 3 Credits.
+## [ANTH 704. Evolution and Ecology. 3 Credits.](./ANTH_704_Evolution_and_Ecology)
 
 Continuation of topics covered in 703, with an emphasis on ecological and evolutionary perspectives on contemporary human biology and behavior.
 
-## ANTH 705. Archaeological Theory. 3 Credits.
+## [ANTH 705. Archaeological Theory. 3 Credits.](./ANTH_705_Archaeological_Theory)
 
 Review of the recent history of archaeology and contemporary approaches to archaeological interpretation.
 
-## ANTH 706. The Practice of Anthropology - Professionalization Seminar. 3 Credits.
+## [ANTH 706. The Practice of Anthropology - Professionalization Seminar. 3 Credits.](./ANTH_706_The_Practice_of_Anthropology_-_Professionalization_Seminar)
 
 This professionalization seminar covers a range of practical skills and processes (e.g. grant writing, teaching, research methods, academic publishing, career placement, etc.) necessary for functioning and thriving in a career in anthropology. The fall and spring course is required for first-year students and serves as a locus of professional training and departmental culture. Anthropology graduate students only.
 
-## ANTH 710. Writing and Publishing in Anthropology. 3 Credits.
+## [ANTH 710. Writing and Publishing in Anthropology. 3 Credits.](./ANTH_710_Writing_and_Publishing_in_Anthropology)
 
 A seminar on the peer review and analysis of student writing. Training in writing for academic publication.
 
-## ANTH 711. Feminist Ethnography. 3 Credits.
+## [ANTH 711. Feminist Ethnography. 3 Credits.](./ANTH_711_Feminist_Ethnography)
 
 This graduate seminar considers issues in qualitative research methodology through reading and discussing feminist ethnographies and critical assessments of such work. Asks questions about interdisciplinarity and the dilemmas of field research and writing. Highlights the feminist politics of positionality of the researcher and the ethnographic representation of subjects of research.
 
-## ANTH 714. Current Issues in Participatory Research: A Workshop Course. 1 Credits.
+## [ANTH 714. Current Issues in Participatory Research: A Workshop Course. 1 Credits.](./ANTH_714_Current_Issues_in_Participatory_Research_A_Workshop_Course)
 
 This one-hour course is open to UNC graduate students interested in Participatory Research (PR). It is required for the Graduate Certificate in PR and designed to integrate new students into the intellectual discussions and the PR community on campus.
 
-## ANTH 715. Feminism and Society. 3 Credits.
+## [ANTH 715. Feminism and Society. 3 Credits.](./ANTH_715_Feminism_and_Society)
 
 Selected topics in feminist analysis of social life, with materials drawn from a global range of societies.
 
-## ANTH 717. Advanced Studies in Art and Architecture. 3 Credits.
+## [ANTH 717. Advanced Studies in Art and Architecture. 3 Credits.](./ANTH_717_Advanced_Studies_in_Art_and_Architecture)
 
 Intensive study of selected topics and issues in the analysis and interpretation of prehistoric and cross-cultural art, architecture, and other aesthetic forms.
 
-## ANTH 723. Seminar in Anthropological Linguistics. 3 Credits.
+## [ANTH 723. Seminar in Anthropological Linguistics. 3 Credits.](./ANTH_723_Seminar_in_Anthropological_Linguistics)
 
 Selected topics from general linguistics and sociolinguistics, special emphasis on methods and problems involved in analysis and description of semantic structure of language and its relation to the rest of culture.
 
-## ANTH 724. Seminar in Anthropology and Cybernetics. 3 Credits.
+## [ANTH 724. Seminar in Anthropology and Cybernetics. 3 Credits.](./ANTH_724_Seminar_in_Anthropology_and_Cybernetics)
 
 Examination of systems theory, or cybernetics; evaluation of previous applications of cybernetic models in anthropology; and original analysis of anthropological data in these terms by students.
 
-## ANTH 725. Quantitative Methods in Anthropology. 3 Credits.
+## [ANTH 725. Quantitative Methods in Anthropology. 3 Credits.](./ANTH_725_Quantitative_Methods_in_Anthropology)
 
 Survey of standardized data-gathering techniques, problems in research design, and methods of quantitative analysis encountered in anthropological research.
 
-## ANTH 727. Archaeology of North America. 3 Credits.
+## [ANTH 727. Archaeology of North America. 3 Credits.](./ANTH_727_Archaeology_of_North_America)
 
 The history of American Indian cultures from 10,000 BCE to the time of the European colonization as reconstructed by archaeological research. Special emphasis on the eastern and southwestern United States.
 
-## ANTH 728. Seminar in American Archaeology. 3 Credits.
+## [ANTH 728. Seminar in American Archaeology. 3 Credits.](./ANTH_728_Seminar_in_American_Archaeology)
 
 This seminar covers current research topics in North American archaeology, with an emphasis on the eastern or southwestern United States. Specific topics may vary from year to year.
 
-## ANTH 729. Research Strategies in Archaeology. 3 Credits.
+## [ANTH 729. Research Strategies in Archaeology. 3 Credits.](./ANTH_729_Research_Strategies_in_Archaeology)
 
 This seminar develops student's skills in crafting research designs, proposals, and presentations. Examples and readings focus on archaeology and bioarchaeology but the skills covered are widely applicable.
 
-## ANTH 733. Advanced Seminar in Caribbean Studies. 3 Credits.
+## [ANTH 733. Advanced Seminar in Caribbean Studies. 3 Credits.](./ANTH_733_Advanced_Seminar_in_Caribbean_Studies)
 
 Permission of the instructor. Survey of Caribbean cultural development for students with some knowledge or experience in the area. Particular attention is given to current problems and recent theoretical issues.
 
-## ANTH 740. Power. 3 Credits.
+## [ANTH 740. Power. 3 Credits.](./ANTH_740_Power)
 
 Theories of power within anthropology, from Marxism, poststructuralism, feminist studies, studies in race relations, cultural studies, others.
 
-## ANTH 744. Seminar in Ethnicity and Cultural Boundaries. 3 Credits.
+## [ANTH 744. Seminar in Ethnicity and Cultural Boundaries. 3 Credits.](./ANTH_744_Seminar_in_Ethnicity_and_Cultural_Boundaries)
 
 Investigation of recent theoretical approaches to ethnic phenomena; consideration of cases ranging from tribal organization to complex industrial nations; analysis of particular ethnographic and ethnohistorical situations by individual students.
 
-## ANTH 749. Cultural Production. 3 Credits.
+## [ANTH 749. Cultural Production. 3 Credits.](./ANTH_749_Cultural_Production)
 
 Critical examination of theories of social and cultural (re)production (e.g., Bourdieu's practice theory, cultural studies, and resistance theory) applied to enduring issues (e.g., the relations between power and gender, race, and class).
 
-## ANTH 750. Seminar in Medical Anthropology. 3 Credits.
+## [ANTH 750. Seminar in Medical Anthropology. 3 Credits.](./ANTH_750_Seminar_in_Medical_Anthropology)
 
 Specially designed for, but not restricted to, students who are specializing in medical anthropology. Medicine as part of culture; medicine and social structure viewed crossculturally; medicine in the perspective of anthropological theory; research methods. A special purpose is to help students plan their own research projects, theses, and dissertations.
 
-## ANTH 751. Seminar on the Anthropological Contribution to the Understanding of Medical Systems. 3 Credits.
+## [ANTH 751. Seminar on the Anthropological Contribution to the Understanding of Medical Systems. 3 Credits.](./ANTH_751_Seminar_on_the_Anthropological_Contribution_to_the_Understanding_of_Medical_Systems)
 
 Anthropological contributions to the understanding of medical systems, sickness, and public health. Attention is given to the ways in which medical anthropology illuminates social processes, beliefs, and ideologies.
 
-## ANTH 752. Transcultural Psychiatry. 3 Credits.
+## [ANTH 752. Transcultural Psychiatry. 3 Credits.](./ANTH_752_Transcultural_Psychiatry)
 
 Considers cross-cultural variations in the perception, definition of, and reaction to course and treatment of deviant behavior--especially mental disorders.
 
-## ANTH 753. Gender, Sickness, and Society. 3 Credits.
+## [ANTH 753. Gender, Sickness, and Society. 3 Credits.](./ANTH_753_Gender_Sickness_and_Society)
 
 This seminar deals in depth and cross-culturally with the nature of gender and the ways in which social comprehension of gender, gender status, and gender relationships impinge upon differential experience of health and sickness of men and women from a historical and contemporary perspective.
 
-## ANTH 754. Phenomenological Anthropology. 3 Credits.
+## [ANTH 754. Phenomenological Anthropology. 3 Credits.](./ANTH_754_Phenomenological_Anthropology)
 
 Permission of the instructor. The course aims to apply the theories and methods of phenomenology to the practice of anthropology.
 
-## ANTH 755. Seminar in Ecology and Population. 3 Credits.
+## [ANTH 755. Seminar in Ecology and Population. 3 Credits.](./ANTH_755_Seminar_in_Ecology_and_Population)
 
 Mutual relationships of environment, social structure, mortality, and natality, reviewed in an evolutionary framework.
 
-## ANTH 756. The Evolution of Human Cognition. 3 Credits.
+## [ANTH 756. The Evolution of Human Cognition. 3 Credits.](./ANTH_756_The_Evolution_of_Human_Cognition)
 
 Permission of the instructor. A critical exploration of contemporary evidence on the evolution of human cognition and consciousness, including phylogenetic, comparative (interspecific), ontogenetic, and cross-cultural perspectives.
 
-## ANTH 759. Identity and Agency. 3 Credits.
+## [ANTH 759. Identity and Agency. 3 Credits.](./ANTH_759_Identity_and_Agency)
 
 Sociogenic theories of identity, agency, and human consciousness - the works of Mikhail Bakhtin, Pierre Bourdieu, and others - examined ethnographically and cross-culturally in selected fields of social activity.
 
-## ANTH 760. Seminar in Human Evolutionary Ecology. 3 Credits.
+## [ANTH 760. Seminar in Human Evolutionary Ecology. 3 Credits.](./ANTH_760_Seminar_in_Human_Evolutionary_Ecology)
 
 Permission of the instructor for undergraduates. Examination of evolutionary ecology concepts with existing or potential uses in human adaptation research, including adaptation and optimization, effective environmental properties, foraging strategies, niche, competitive exclusion, life history tactics, and biogeography.
 
-## ANTH 765. Seminar in the Anthropology of Law. 3 Credits.
+## [ANTH 765. Seminar in the Anthropology of Law. 3 Credits.](./ANTH_765_Seminar_in_the_Anthropology_of_Law)
 
 This course analyzes the nature of law and conceptions of authority in various Asian, African, and American preliterate societies. Using theories of social cohesion and process, the course relates law to the economy, social organization, religious ideology, and political institutions.
 
-## ANTH 766. SEMINAR IN ETHNOBOTANY. 3 Credits.
+## [ANTH 766. SEMINAR IN ETHNOBOTANY. 3 Credits.](./ANTH_766_SEMINAR_IN_ETHNOBOTANY)
 
 Permission of the instructor. The focus is on economic plants and primitive technology, ecological relationships between man and plants, and analysis and interpretation of archaeological plant remains. Some laboratory work is expected.
 
-## ANTH 770. Seminar on Anthropological Perspectives on Latin America. 3 Credits.
+## [ANTH 770. Seminar on Anthropological Perspectives on Latin America. 3 Credits.](./ANTH_770_Seminar_on_Anthropological_Perspectives_on_Latin_America)
 
 The seminar focuses on the interaction of five major issues in Latin America: class, ethnicity, gender, religion, and health.
 
-## ANTH 777. Human Rights and Humanitarianism. 3 Credits.
+## [ANTH 777. Human Rights and Humanitarianism. 3 Credits.](./ANTH_777_Human_Rights_and_Humanitarianism)
 
 This seminar examines human rights claims and contemporary moral discourse about human suffering from the perspective of anthropology.
 
-## ANTH 788. Observation and Interpretation of Religious Action. 3 Credits.
+## [ANTH 788. Observation and Interpretation of Religious Action. 3 Credits.](./ANTH_788_Observation_and_Interpretation_of_Religious_Action)
 
 Explores religious action through field work as a way of studying method and theory.
 
-## ANTH 790. Dialectology. 3 Credits.
+## [ANTH 790. Dialectology. 3 Credits.](./ANTH_790_Dialectology)
 
 Principles and methods of areal linguistics and social dialectology.
 
-## ANTH 793. Linguistic Field Methods I. 3 Credits.
+## [ANTH 793. Linguistic Field Methods I. 3 Credits.](./ANTH_793_Linguistic_Field_Methods_I)
 
 Analysis and description of a language unknown to the class from data solicited from a native-speaker consultant.
 
-## ANTH 808. Researching and Writing Lives. 3 Credits.
+## [ANTH 808. Researching and Writing Lives. 3 Credits.](./ANTH_808_Researching_and_Writing_Lives)
 
 The course focuses on developing students' qualitative and analytic research skill through a project that culminates in writing a life story. Students will design a research plan, develop a research relationship with an interlocutor, hone methodological techniques, discuss ethical concerns, strengthen analytic interpretation, and produce a polished life narrative.
 
-## ANTH 809. Ethnographic Methods. 3 Credits.
+## [ANTH 809. Ethnographic Methods. 3 Credits.](./ANTH_809_Ethnographic_Methods)
 
 Explores method and theory of ethnographic research, including its critical development, ethical challenges, personal transformations, and place as social scientific inquiry. Field project required.
 
-## ANTH 810. Seminar in the Anthropology of Meaning. 1 Credits.
+## [ANTH 810. Seminar in the Anthropology of Meaning. 1 Credits.](./ANTH_810_Seminar_in_the_Anthropology_of_Meaning)
 
 Ongoing seminar for students and faculty participating in the Anthropology of Meaning concentration.
 
-## ANTH 817. The Concept of Teaching General Anthropology. 3 Credits.
+## [ANTH 817. The Concept of Teaching General Anthropology. 3 Credits.](./ANTH_817_The_Concept_of_Teaching_General_Anthropology)
 
 Permission of the department. Directed course preparation and review of teaching techniques, films, and other aids.
 
-## ANTH 818. Training in the Teaching of Anthropology. 3 Credits.
+## [ANTH 818. Training in the Teaching of Anthropology. 3 Credits.](./ANTH_818_Training_in_the_Teaching_of_Anthropology)
 
 Permission of the department. The trainee teaches a small class in general anthropology under supervision.
 
-## ANTH 850. Engaging Ethnography. 3 Credits.
+## [ANTH 850. Engaging Ethnography. 3 Credits.](./ANTH_850_Engaging_Ethnography)
 
 What is engaged ethnography? We often speak of engaged research, but what does it look like on the ground? How is it represented through textual narrative? And what difference does it make in the "real" world? In this seminar students "engage" these questions in an examination of ethnographies produced by politically- and community-engaged researchers, exploring how methodologies, epistemologies, and the products of research are transformed by various forms of engagement.
 
-## ANTH 860. Art of Ethnography. 3 Credits.
+## [ANTH 860. Art of Ethnography. 3 Credits.](./ANTH_860_Art_of_Ethnography)
 
 A field-based exploration of the pragmatic, ethical, and theoretical dimensions of ethnographic research, addressing issues of experience, aesthetics, authority, and worldview through the lens of cultural encounter. Field research required.
 
-## ANTH 893. Internship/Practicum in Applied Anthropology. 1-3 Credits.
+## [ANTH 893. Internship/Practicum in Applied Anthropology. 1-3 Credits.
 This course facilitates training through internships and practicums in applied anthropology. To receive credit, students must obtain approval from the Director of Graduate Studies prior to the internship/practicum. The internship/practicum is meant to help students bridge from their academic training to practical applications of their knowledge in the world beyond. The internship/practicum should be designed and carried out with partnering organizations. Anthropology graduate students only. Approval required.
 
 ANTH 897. Seminar in Selected Topics. 1-4 Credits.
@@ -1056,19 +1083,40 @@ Permission of the instructor. Topic determined by instructor and announced in ad
 ANTH 916. Reading and Research in Methodology. 1-4 Credits.
 Permission of the instructor. Topic determined by instructor and announced in advance.
 
-ANTH 921. Field Research. 3 Credits.
+ANTH 921. Field Research. 3 Credits.](./ANTH_893_InternshipPracticum_in_Applied_Anthropology_1-3_Credits
+This_course_facilitates_training_through_internships_and_practicums_in_applied_anthropology_To_receive_credit_students_must_obtain_approval_from_the_Director_of_Graduate_Studies_prior_to_the_internshippracticum_The_internshippracticum_is_meant_to_help_students_bridge_from_their_academic_training_to_practical_applications_of_their_knowledge_in_the_world_beyond_The_internshippracticum_should_be_designed_and_carried_out_with_partnering_organizations_Anthropology_graduate_students_only_Approval_required
+
+ANTH_897_Seminar_in_Selected_Topics_1-4_Credits
+Topic_determined_by_instructor_and_announced_in_advance
+
+ANTH_898_Seminar_in_Selected_Topics_1-4_Credits
+Topic_determined_by_instructor_and_announced_in_advance
+
+ANTH_901_Reading_and_Research_1-4_Credits
+Permission_of_the_instructor_Topic_determined_by_instructor_and_announced_in_advance
+
+ANTH_902_Reading_and_Research_1-4_Credits
+Permission_of_the_instructor_Topic_determined_by_instructor_and_announced_in_advance
+
+ANTH_915_Reading_and_Research_in_Methodology_1-4_Credits
+Permission_of_the_instructor_Topic_determined_by_instructor_and_announced_in_advance
+
+ANTH_916_Reading_and_Research_in_Methodology_1-4_Credits
+Permission_of_the_instructor_Topic_determined_by_instructor_and_announced_in_advance
+
+ANTH_921_Field_Research)
 
 Permission of the instructor. Topic determined by instructor and announced in advance.
 
-## ANTH 922. Field Research. 3 Credits.
+## [ANTH 922. Field Research. 3 Credits.](./ANTH_922_Field_Research)
 
 Permission of the instructor. Topic determined by instructor and announced in advance.
 
-## ANTH 993. Master's Research and Thesis. 3 Credits.
+## [ANTH 993. Master's Research and Thesis. 3 Credits.](./ANTH_993_Masters_Research_and_Thesis)
 
 Individual research in a special field under the direction of a member of the department.
 
-## ANTH 994. Doctoral Research and Dissertation. 3 Credits.
+## [ANTH 994. Doctoral Research and Dissertation. 3 Credits.](./ANTH_994_Doctoral_Research_and_Dissertation)
 
 Individual research in a special field under the direction of a member of the department.
 
