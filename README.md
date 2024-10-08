@@ -1,7 +1,6 @@
 # UNC Course Catalog Repository
 
 Welcome to the UNC Course Catalog Repository! This student-run repository relies on uploads by students and other members of the UNC community to provide course syllabi and relevant materials, helping current and prospective students understand how courses are taught at UNC.
-```
 
 ## Repository Structure
 
@@ -47,7 +46,6 @@ COMP/
                 └── etc.
 ```
 # End of Selection
-```
 
 ## How to Submit Materials
 
@@ -56,7 +54,6 @@ You can submit your course materials in one of the following ways:
 1. **Pull Request:** Submit a pull request to this repository with the title of the course, the material you are uploading, your name, and your university email.
 
 2. **Email:** Alternatively, you can send an email to [yashveersemlan@gmail.com](mailto:yashveersemlan@gmail.com) with the above information.
-```
 
 ## Upload Guidelines
 
@@ -70,8 +67,6 @@ You can submit your course materials in one of the following ways:
 ## Information Accuracy
 
 Please note that while we strive to maintain accurate and up-to-date information in this repository, we cannot guarantee the accuracy of the data provided. Users are encouraged to verify course details with official university sources.
-```
-
 
 ---
 
