@@ -1,4 +1,10 @@
 # CBMC Course Catalog
 
-- [CBMC 805: Molecular Modeling](CBMC_805_Molecular_Modeling)
-- [CBMC 807: Foundations of Chemical Biology I: Organic and Medicinal Chemistry](CBMC_807_Foundations_of_Chemical_Biology_I:_Organic_and_Medicinal_Chemistry)
+## CBMC 805. Molecular Modeling. 3 Credits.
+
+Introduction to computer-assisted molecular design, techniques, and theory with an emphasis on the practical use of molecular mechanics and quantum mechanics programs.
+
+## CBMC 807. Foundations of Chemical Biology I: Organic and Medicinal Chemistry. 3 Credits.
+
+The elements of organic chemistry required for the design and synthesis of chemical probes and biologically active compounds.
+

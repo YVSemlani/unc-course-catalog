@@ -1,2 +1,15 @@
 # ARCH Course Catalog
 
+## ARCH 393. Internship in Archaeology. 3-6 Credits.
+Permission of the instructor and the director of undergraduate studies. Internships combine substantive work experience with an academic project.
+
+ARCH 395. Research in Archaeology. 1-6 Credits.
+Permission of the instructor. For students who wish to participate in laboratory or field research programs. May be taken twice.
+
+ARCH 396. Independent Study in Archaeology. 1-6 Credits.
+Permission of the instructor. Special reading and research in archaeology under the supervision of a selected instructor. May be taken twice.
+
+ARCH 691H. Seniors Honors Thesis, Part 1. 3 Credits.
+
+First semester of senior honors thesis. Independent research under the direction of an archaeology curriculum faculty member. Permission of the instructor. Restricted to senior honors candidates.
+

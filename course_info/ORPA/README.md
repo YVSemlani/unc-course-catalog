@@ -1,5 +1,26 @@
 # ORPA Course Catalog
 
-- [ORPA 762: Oral and Maxillofacial Pathology Seminar](ORPA_762_Oral_and_Maxillofacial_Pathology_Seminar)
-- [ORPA 763: Oral and Maxillofacial Pathology Seminar](ORPA_763_Oral_and_Maxillofacial_Pathology_Seminar)
-- [ORPA 992: Master's (Non-Thesis)](ORPA_992_Master's_(Non-Thesis))
+## ORPA 731. Surgical Oral Pathology Seminar. 1-3 Credits.
+This weekly seminar uses unknown cases as the basis for discussion of a variety of biopsy specimens taken from the head and neck. Clinical management of cases also is discussed. Students will develop skills for interacting with their medical and dental colleagues.
+
+ORPA 732. Current Perspectives on Oral and Maxillofacial Pathology. 1-3 Credits.
+This seminar series will focus on current research in oral and maxillofacial pathology (OMP) and related fields. Current scientific literature will be critically reviewed. In addition, students will review historical literature to gain a perspective on the development of OMP as a specialty.
+
+ORPA 733. Advanced Oral Pathology. 1-3 Credits.
+This lecture and clinicopathologic correlation series includes study of the etiology, pathogenesis, clinical, and histopathologic aspects of diseases of the head and neck.
+
+ORPA 750. Surgical Pathology in the Hospital Setting. 1-3 Credits.
+Under the supervision of the hospital pathologists, the student will rotate in anatomic pathology, laboratory medicine, dermatopathology, hematopathology, molecular medicine, surgical specialties, and other elective areas to develop advanced concepts of disease as well as a working relationship with medical colleagues.
+
+ORPA 762. Oral and Maxillofacial Pathology Seminar. 2 Credits.
+
+Course includes developmental disturbances of soft and hard tissues, syndromes, inflammation, immunology, pulp and periapical disease, periodontal disease, tumor-like proliferations, microbial disease, endocrine and metabolic diseases. Also includes odontogenic cysts, salivary gland disease, oral epithelial and mesenchymal neoplasms, bone and joint diseases, nerve muscle diseases, dermatological diseases, and blood diseases.
+
+## ORPA 763. Oral and Maxillofacial Pathology Seminar. 2 Credits.
+
+Continuation of ORPA 762.
+
+## ORPA 992. Master's (Non-Thesis). 3 Credits.
+
+Individual research under the direction of a mentor with the intention of publication. Completion of a manuscript and submission is a requirement for an MS degree.
+

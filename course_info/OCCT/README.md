@@ -1,22 +1,85 @@
 # OCCT Course Catalog
 
-- [OCCT 704: Research in Occupational Science and Therapy](OCCT_704_Research_in_Occupational_Science_and_Therapy)
-- [OCCT 725: Human Capacities: Body Structures and Functions I](OCCT_725_Human_Capacities:_Body_Structures_and_Functions_I)
-- [OCCT 726: Human Capacities: Body Structures and Functions II](OCCT_726_Human_Capacities:_Body_Structures_and_Functions_II)
-- [OCCT 727: Perspectives on Disability and Health I](OCCT_727_Perspectives_on_Disability_and_Health_I)
-- [OCCT 728: Perspectives on Disability and Health II](OCCT_728_Perspectives_on_Disability_and_Health_II)
-- [OCCT 729: Perspectives on Disability and Health III: Older Adults](OCCT_729_Perspectives_on_Disability_and_Health_III:_Older_Adults)
-- [OCCT 736: Occupational Therapy Practice Environments](OCCT_736_Occupational_Therapy_Practice_Environments)
-- [OCCT 755: Foundations of Occupational Therapy Practice](OCCT_755_Foundations_of_Occupational_Therapy_Practice)
-- [OCCT 756: Therapeutic Processes I](OCCT_756_Therapeutic_Processes_I)
-- [OCCT 757: Therapeutic Processes II](OCCT_757_Therapeutic_Processes_II)
-- [OCCT 770: Occupational Science](OCCT_770_Occupational_Science)
-- [OCCT 771: Life Course I: Early Years](OCCT_771_Life_Course_I:_Early_Years)
-- [OCCT 772: Life Course II: Adulthood](OCCT_772_Life_Course_II:_Adulthood)
-- [OCCT 773: Life course III: Older Adults](OCCT_773_Life_course_III:_Older_Adults)
-- [OCCT 781: Environments and Technologies](OCCT_781_Environments_and_Technologies)
-- [OCCT 836: Community Level OT Practice](OCCT_836_Community_Level_OT_Practice)
-- [OCCT 837: Professional Development and Transition to Practice](OCCT_837_Professional_Development_and_Transition_to_Practice)
-- [OCCT 990: Applied Research Seminar I](OCCT_990_Applied_Research_Seminar_I)
-- [OCCT 992: Master's Applied Research Experience](OCCT_992_Master's_Applied_Research_Experience)
-- [OCCT 993: Master's Research and Thesis](OCCT_993_Master's_Research_and_Thesis)
+## OCCT 704. Research in Occupational Science and Therapy. 3 Credits.
+
+Examination of research approaches and issues within occupational science and occupational therapy. Development of skills in writing research proposals and applying research results to insure evidence-based practice.
+
+## OCCT 725. Human Capacities: Body Structures and Functions I. 3 Credits.
+
+An introduction to the structures, functions, and processes of the human body that support participation. Mental and sensory processing, digestion, reproduction, endocrine, and immune responses that support occupation are explored.
+
+## OCCT 726. Human Capacities: Body Structures and Functions II. 3 Credits.
+
+An introduction to the structures, functions, and processes of the human body that support participation. The focus is on motor and somatosensory capacities and the structures related to those functions.
+
+## OCCT 727. Perspectives on Disability and Health I. 2 Credits.
+
+An exploration of the biological and phenomenological aspects of specific mental and physical health conditions that may be experienced by children, adolescents, and young adults.
+
+## OCCT 728. Perspectives on Disability and Health II. 2 Credits.
+
+This course addresses the biological and phenomenological aspects of specific mental and physical health conditions that may be experienced by adults.
+
+## OCCT 729. Perspectives on Disability and Health III: Older Adults. 3 Credits.
+
+Complex health conditions and changes affecting older adults' capacity to engage in meaningful occupations. Biomedical and narrative perspectives.
+
+## OCCT 736. Occupational Therapy Practice Environments. 3 Credits.
+
+Overview of OT practice settings, professional organizations, and regulatory bodies. Factors influencing practice, including legislation, reimbursement, documentation, and culture of communities. Ethics, confidentiality, self-awareness, teamwork, and professionalism in practical settings.
+
+## OCCT 755. Foundations of Occupational Therapy Practice. 4 Credits.
+
+Introduction of core foundations for occupation-centered occupational therapy practice. Students learn fundamentals of professional communication and behavior, therapeutic use of self, clinical reasoning, activity analysis, theory, and evidence-based practice.
+
+## OCCT 756. Therapeutic Processes I. 3 Credits.
+
+Occupational therapy majors only. This course focuses on occupational therapy practice with children, adolescents, and young adults who have disabilities or health problems that inhibit occupational performance and/or social participation, across a variety of situations.
+
+## OCCT 757. Therapeutic Processes II. 3 Credits.
+
+A focus on occupational therapy practice with adults that have physical and/or mental health conditions that impact their participation in occupations.
+
+## OCCT 770. Occupational Science. 2 Credits.
+
+Introduction to the philosophical tenets of occupational science and their application to occupational therapy. The course highlights the multiplicity of interconnected factors which generate participation in occupational situations.
+
+## OCCT 771. Life Course I: Early Years. 2 Credits.
+
+Changing capacities for engagement with occupations and occupational opportunities during childhood, adolescents, and early adulthood.
+
+## OCCT 772. Life Course II: Adulthood. 1 Credits.
+
+Examination of the patterns of participation through occupational engagement with families, communities, workplace, and other social structures in the middle years of the life course.
+
+## OCCT 773. Life course III: Older Adults. 3 Credits.
+
+Changing capacities for engagement with occupations and occupational opportunities during older adulthood. Strategies for compensation and adaptation.
+
+## OCCT 781. Environments and Technologies. 2 Credits.
+
+Occupational therapy majors only. Exploration of environmental dimensions of performance. Learn to use assistive and rehabilitation technologies in practice. Students assess situational impact on performance, modify the environment for therapeutic effect, and utilize technology.
+
+## OCCT 836. Community Level OT Practice. 3 Credits.
+
+This course develops the students' understanding of social systems, how they function, and are perpetuated through everyday practices. Students partner with community entities to identify strengths, resources, and service gaps and develop a response.
+
+## OCCT 837. Professional Development and Transition to Practice. 2 Credits.
+
+Professional understanding and skills to assess practice context, plan programs, and management of profession interpersonal relationship for collaboration and service delivery.
+
+## OCCT 896. Independent Study: Occupational Therapy and Science. 1-15 Credits.
+Elective. Independent study to pursue specific interests and topics. Faculty supervision. May be repeated for credit.
+
+OCCT 990. Applied Research Seminar I. 1 Credits.
+
+Applied Research Seminar with particular focus on the application of the scientific process to address an identified clinical problem.
+
+## OCCT 992. Master's Applied Research Experience. 3 Credits.
+
+Collaborative research projects in occupational science or occupational therapy. Emphasis on data collection, analysis, and professional communications of research findings.
+
+## OCCT 993. Master's Research and Thesis. 3 Credits.
+
+Permission of the department.
+

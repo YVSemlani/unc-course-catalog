@@ -1,118 +1,551 @@
 # GEOG Course Catalog
 
-- [GEOG 110: The Blue Planet: An Introduction to Earth's Environmental Systems](GEOG_110_The_Blue_Planet:_An_Introduction_to_Earth's_Environmental_Systems)
-- [GEOG 111: Weather and Climate](GEOG_111_Weather_and_Climate)
-- [GEOG 115: Maps: Geographic Information from Babylon to Google](GEOG_115_Maps:_Geographic_Information_from_Babylon_to_Google)
-- [GEOG 120: World Regional Geography](GEOG_120_World_Regional_Geography)
-- [GEOG 121: Geographies of Globalization](GEOG_121_Geographies_of_Globalization)
-- [GEOG 123: Cultural Geography](GEOG_123_Cultural_Geography)
-- [GEOG 124: Feminist Geographies](GEOG_124_Feminist_Geographies)
-- [GEOG 125: Cultural Landscapes](GEOG_125_Cultural_Landscapes)
-- [GEOG 130: Development and Inequality: Global Perspectives](GEOG_130_Development_and_Inequality:_Global_Perspectives)
-- [GEOG 141: Geography for Future Leaders](GEOG_141_Geography_for_Future_Leaders)
-- [GEOG 210: Global Issues and Globalization](GEOG_210_Global_Issues_and_Globalization)
-- [GEOG 212: Environmental Conservation and Global Change](GEOG_212_Environmental_Conservation_and_Global_Change)
-- [GEOG 215: Introduction to Spatial Data Science](GEOG_215_Introduction_to_Spatial_Data_Science)
-- [GEOG 222: Health and Medical Geography](GEOG_222_Health_and_Medical_Geography)
-- [GEOG 225: Space, Place, and Difference](GEOG_225_Space,_Place,_and_Difference)
-- [GEOG 228: Urban Geography](GEOG_228_Urban_Geography)
-- [GEOG 230: The World at Eight Billion](GEOG_230_The_World_at_Eight_Billion)
-- [GEOG 232: Agriculture, Food, and Society](GEOG_232_Agriculture,_Food,_and_Society)
-- [GEOG 237: Natural Resources](GEOG_237_Natural_Resources)
-- [GEOG 240: Introduction to Environmental Justice](GEOG_240_Introduction_to_Environmental_Justice)
-- [GEOG 253: Introduction to Atmospheric Processes](GEOG_253_Introduction_to_Atmospheric_Processes)
-- [GEOG 259: Society and Environment in Latin America](GEOG_259_Society_and_Environment_in_Latin_America)
-- [GEOG 260: North America's Landscapes](GEOG_260_North_America's_Landscapes)
-- [GEOG 261: The South](GEOG_261_The_South)
-- [GEOG 262: Geography of North Carolina](GEOG_262_Geography_of_North_Carolina)
-- [GEOG 263: Environmental Field Studies in Siberia](GEOG_263_Environmental_Field_Studies_in_Siberia)
-- [GEOG 264: Conservation of Biodiversity in Theory and Practice](GEOG_264_Conservation_of_Biodiversity_in_Theory_and_Practice)
-- [GEOG 265: Eastern Asia](GEOG_265_Eastern_Asia)
-- [GEOG 266: Society and Environment in Southeast Asia](GEOG_266_Society_and_Environment_in_Southeast_Asia)
-- [GEOG 267: South Asia](GEOG_267_South_Asia)
-- [GEOG 268: Geography of Africa](GEOG_268_Geography_of_Africa)
-- [GEOG 269: Human-Environment Interactions in the Galapagos Islands](GEOG_269_Human-Environment_Interactions_in_the_Galapagos_Islands)
-- [GEOG 270: Geography of Contemporary China](GEOG_270_Geography_of_Contemporary_China)
-- [GEOG 281: Ethnographies of Globalization: From 'Culture' to Decolonization](GEOG_281_Ethnographies_of_Globalization:_From_'Culture'_to_Decolonization)
-- [GEOG 293: Freedom Farming](GEOG_293_Freedom_Farming)
-- [GEOG 294: Beyond Sustainability](GEOG_294_Beyond_Sustainability)
-- [GEOG 295: Undergraduate Research in Geography](GEOG_295_Undergraduate_Research_in_Geography)
-- [GEOG 334: Human Ecology of Health and Disease](GEOG_334_Human_Ecology_of_Health_and_Disease)
-- [GEOG 341: Hydrology, Ecology, and Sustainability of the Humid Tropics](GEOG_341_Hydrology,_Ecology,_and_Sustainability_of_the_Humid_Tropics)
-- [GEOG 370: Introduction to Geographic Information](GEOG_370_Introduction_to_Geographic_Information)
-- [GEOG 391: Quantitative Methods in Geography](GEOG_391_Quantitative_Methods_in_Geography)
-- [GEOG 392: Research Methods in Geography](GEOG_392_Research_Methods_in_Geography)
-- [GEOG 406: Atmospheric Processes II](GEOG_406_Atmospheric_Processes_II)
-- [GEOG 410: Modeling of Environmental Systems](GEOG_410_Modeling_of_Environmental_Systems)
-- [GEOG 412: Synoptic Meteorology](GEOG_412_Synoptic_Meteorology)
-- [GEOG 414: Climate Change](GEOG_414_Climate_Change)
-- [GEOG 415: Communicating Important Ideas](GEOG_415_Communicating_Important_Ideas)
-- [GEOG 416: Applied Climatology: The Impacts of Climate and Weather on Environmental and Social Systems](GEOG_416_Applied_Climatology:_The_Impacts_of_Climate_and_Weather_on_Environmental_and_Social_Systems)
-- [GEOG 419: Field Methods in Physical Geography](GEOG_419_Field_Methods_in_Physical_Geography)
-- [GEOG 423: Social Geography](GEOG_423_Social_Geography)
-- [GEOG 424: Geographies of Religion](GEOG_424_Geographies_of_Religion)
-- [GEOG 428: Global Cities: Space, Power, and Identity in the Built Environment](GEOG_428_Global_Cities:_Space,_Power,_and_Identity_in_the_Built_Environment)
-- [GEOG 429: Urban Political Geography: Durham, NC](GEOG_429_Urban_Political_Geography:_Durham,_NC)
-- [GEOG 430: Global Migrations, Local Impacts: Urbanization and Migration in the United States](GEOG_430_Global_Migrations,_Local_Impacts:_Urbanization_and_Migration_in_the_United_States)
-- [GEOG 435: Global Environmental Justice](GEOG_435_Global_Environmental_Justice)
-- [GEOG 436: Governance, Institutions, and Global Environmental Change](GEOG_436_Governance,_Institutions,_and_Global_Environmental_Change)
-- [GEOG 437: Social Vulnerability to Climate Change](GEOG_437_Social_Vulnerability_to_Climate_Change)
-- [GEOG 440: Earth Surface Processes](GEOG_440_Earth_Surface_Processes)
-- [GEOG 441: Introduction to Watershed Systems](GEOG_441_Introduction_to_Watershed_Systems)
-- [GEOG 442: River Processes](GEOG_442_River_Processes)
-- [GEOG 444: Landscape Biogeography](GEOG_444_Landscape_Biogeography)
-- [GEOG 446: Geography of Health Care Delivery](GEOG_446_Geography_of_Health_Care_Delivery)
-- [GEOG 447: Gender, Space, and Place in the Middle East](GEOG_447_Gender,_Space,_and_Place_in_the_Middle_East)
-- [GEOG 448: Transnational Geographies of Muslim Societies](GEOG_448_Transnational_Geographies_of_Muslim_Societies)
-- [GEOG 451: Population, Development, and the Environment](GEOG_451_Population,_Development,_and_the_Environment)
-- [GEOG 452: Mobile Geographies: The Political Economy of Migration](GEOG_452_Mobile_Geographies:_The_Political_Economy_of_Migration)
-- [GEOG 453: Political Geography](GEOG_453_Political_Geography)
-- [GEOG 456: Geovisualizing Change](GEOG_456_Geovisualizing_Change)
-- [GEOG 457: Rural Latin America: Agriculture, Environment, and Natural Resources](GEOG_457_Rural_Latin_America:_Agriculture,_Environment,_and_Natural_Resources)
-- [GEOG 458: Urban Latin America: Politics, Economy, and Society](GEOG_458_Urban_Latin_America:_Politics,_Economy,_and_Society)
-- [GEOG 460: Geographies of Economic Change](GEOG_460_Geographies_of_Economic_Change)
-- [GEOG 464: Europe Today: Transnationalism, Globalisms, and the Geographies of Pan-Europe](GEOG_464_Europe_Today:_Transnationalism,_Globalisms,_and_the_Geographies_of_Pan-Europe)
-- [GEOG 468: Environmental Justice in Urban Europe](GEOG_468_Environmental_Justice_in_Urban_Europe)
-- [GEOG 470: Political Ecology: Geographical Perspectives](GEOG_470_Political_Ecology:_Geographical_Perspectives)
-- [GEOG 477: Introduction to Remote Sensing of the Environment](GEOG_477_Introduction_to_Remote_Sensing_of_the_Environment)
-- [GEOG 480: Liberation Geographies: The Place, Politics, and Practice of Resistance](GEOG_480_Liberation_Geographies:_The_Place,_Politics,_and_Practice_of_Resistance)
-- [GEOG 491: Introduction to GIS](GEOG_491_Introduction_to_GIS)
-- [GEOG 492: Radical Black Thought](GEOG_492_Radical_Black_Thought)
-- [GEOG 493: Internship](GEOG_493_Internship)
-- [GEOG 541: GIS in Public Health](GEOG_541_GIS_in_Public_Health)
-- [GEOG 542: Neighborhoods and Health](GEOG_542_Neighborhoods_and_Health)
-- [GEOG 543: Qualitative Methods in Geography](GEOG_543_Qualitative_Methods_in_Geography)
-- [GEOG 544: Geographic Information Systems for Impact Evaluation and Health Studies](GEOG_544_Geographic_Information_Systems_for_Impact_Evaluation_and_Health_Studies)
-- [GEOG 555: Cartography of the Global South](GEOG_555_Cartography_of_the_Global_South)
-- [GEOG 567: Geospatial Data Analysis with Google Earth Engine](GEOG_567_Geospatial_Data_Analysis_with_Google_Earth_Engine)
-- [GEOG 577: Advanced Remote Sensing](GEOG_577_Advanced_Remote_Sensing)
-- [GEOG 591: Applied Issues in Geographic Information Systems](GEOG_591_Applied_Issues_in_Geographic_Information_Systems)
-- [GEOG 592: Geographic Information Science Programming](GEOG_592_Geographic_Information_Science_Programming)
-- [GEOG 594: Global Positioning Systems and Applications](GEOG_594_Global_Positioning_Systems_and_Applications)
-- [GEOG 597: Ecological Modeling](GEOG_597_Ecological_Modeling)
-- [GEOG 598: GIS and Systems Modeling](GEOG_598_GIS_and_Systems_Modeling)
-- [GEOG 650: Technology and Democracy Research](GEOG_650_Technology_and_Democracy_Research)
-- [GEOG 697: Capstone Seminar in Geographic Research](GEOG_697_Capstone_Seminar_in_Geographic_Research)
-- [GEOG 702: Contemporary Geographic Thought](GEOG_702_Contemporary_Geographic_Thought)
-- [GEOG 703: Geographic Research Design](GEOG_703_Geographic_Research_Design)
-- [GEOG 704: Communicating Geography](GEOG_704_Communicating_Geography)
-- [GEOG 705: Advanced Quantitative Methods in Geography](GEOG_705_Advanced_Quantitative_Methods_in_Geography)
-- [GEOG 706: Demographic Methods](GEOG_706_Demographic_Methods)
-- [GEOG 710: Advanced Physical Geography - Biogeoscience](GEOG_710_Advanced_Physical_Geography_-_Biogeoscience)
-- [GEOG 711: Advanced Physical Geography - Hydroclimatology and Bioclimatology](GEOG_711_Advanced_Physical_Geography_-_Hydroclimatology_and_Bioclimatology)
-- [GEOG 715: 715 Land Use/Land Cover Dynamics and Human-Environment Interaction](GEOG_715_715_Land_Use/Land_Cover_Dynamics_and_Human-Environment_Interaction)
-- [GEOG 720: Cultural and Political Ecology](GEOG_720_Cultural_and_Political_Ecology)
-- [GEOG 760: Geographies of Economic Change](GEOG_760_Geographies_of_Economic_Change)
-- [GEOG 790: Spatial Analysis and Computer Modeling](GEOG_790_Spatial_Analysis_and_Computer_Modeling)
-- [GEOG 801: Research Seminar in Earth System Science and Biophysical Geography](GEOG_801_Research_Seminar_in_Earth_System_Science_and_Biophysical_Geography)
-- [GEOG 802: Research Seminar in Geographic Information Sciences](GEOG_802_Research_Seminar_in_Geographic_Information_Sciences)
-- [GEOG 803: Research Seminar in Nature-Society Studies and Human-Environment Interactions](GEOG_803_Research_Seminar_in_Nature-Society_Studies_and_Human-Environment_Interactions)
-- [GEOG 804: Research Seminar in Social Geography](GEOG_804_Research_Seminar_in_Social_Geography)
-- [GEOG 805: Research Seminar in International Area Studies, Development, and Globalization](GEOG_805_Research_Seminar_in_International_Area_Studies,_Development,_and_Globalization)
-- [GEOG 811: Seminar/Readings in Earth System Science and Biophysical Geography](GEOG_811_Seminar/Readings_in_Earth_System_Science_and_Biophysical_Geography)
-- [GEOG 812: Seminar/Readings in Geographic Information Sciences](GEOG_812_Seminar/Readings_in_Geographic_Information_Sciences)
-- [GEOG 813: Seminar/Readings in Nature-Society Studies and Human-Environment Interactions](GEOG_813_Seminar/Readings_in_Nature-Society_Studies_and_Human-Environment_Interactions)
-- [GEOG 814: Seminar/Readings in Social Geography](GEOG_814_Seminar/Readings_in_Social_Geography)
-- [GEOG 815: Seminar/Readings in International Area Studies, Development, and Globalization](GEOG_815_Seminar/Readings_in_International_Area_Studies,_Development,_and_Globalization)
-- [GEOG 993: Master's Research and Thesis](GEOG_993_Master's_Research_and_Thesis)
-- [GEOG 994: Doctoral Research and Dissertation](GEOG_994_Doctoral_Research_and_Dissertation)
+## GEOG 50. First-Year Seminar: Mountain Environments. 3 Credits.
+
+This course is on understanding the physical geography of mountain environments and the processes that have created them, shaped them, and sustained them. Honors version available.
+
+## GEOG 52. First-Year Seminar: Political Ecology of Health and Disease. 3 Credits.
+
+This course examines the intersection of political, economic, social, and environmental systems that shape health and disease across spatial and temporal scales. A political ecological framework is used to examine such topics as how political forces and economic interests helped shape the HIV/AIDS and malaria pandemics in Africa and beyond. Honors version available.
+
+## GEOG 53. First-Year Seminar: Battle Park: Carolina's Urban Forest. 3 Credits.
+
+An introduction to the study of urban forest landscapes through a series of field experiences in Carolina's Battle Park.
+
+## GEOG 54. First-Year Seminar: Global Change and the Carolinas. 3 Credits.
+
+An examination of the ways in which change in the global physical environment, human induced and natural, might impact the Carolinas.
+
+## GEOG 55. First-Year Seminar: Landscape in Science and Art. 3 Credits.
+
+Explores viewing landscape from the perspective of science and of art, and investigates how an integration of both leads to a better understanding and appreciation of a landscape.
+
+## GEOG 56. First-Year Seminar: Local Places in a Globalizing World. 3 Credits.
+
+An examination of the relationship between globalization and localization in order to think about how we, as individuals and groups, can make a difference in the world.
+
+## GEOG 58. First-Year Seminar: Making Myth-Leading Memories: Landscapes of Remembrance. 3 Credits.
+
+This course considers memorial landscapes created to reinforce values symbolized by the person, group, or event memorialized. It looks at how disagreements and cultural changes affect memorial landscape interpretation.
+
+## GEOG 59. First-Year Seminar: Space, Identity, and Power in the Middle East. 3 Credits.
+
+This seminar examines the role traditional and modern spaces play in representations of the Middle East and how Middle Easterners engage these contested spaces to construct their cultural and political identities.
+
+## GEOG 60. First-Year Seminar: Health Care Inequalities. 3 Credits.
+
+Explores the social and spatial inequalities in health care access and use and their impacts on health. A variety of topics are examined, including health-related policies, beliefs about health and health care, modern medical practices, and health care costs.
+
+## GEOG 61. First-Year Seminar: Climate Change in the American Southeast. 3 Credits.
+
+Seminar participants, working in small groups, will run climate models and investigate current climate trends, combining the results to create scenarios of future climate for the southeast United States.
+
+## GEOG 62. First-Year Seminar: The Culture of Technology. 3 Credits.
+
+This first-year seminar uses the lens of culture to explore systems of meaning and values, and relations of social power, that are invested in technologies.
+
+## GEOG 63. First-Year Seminar: The Problem with Nature and Its Preservation. 3 Credits.
+
+Alternative conceptualizations of nature in Western culture and how these meanings help create the landscapes in which we live and allow us to evaluate the implications of efforts to preserve nature. Honors version available.
+
+## GEOG 64. First-Year Seminar: Vietnam. 3 Credits.
+
+Explores modern Vietnam and situates the American war in broader spatial and historical context. Draws on fact, fiction, and visual media to introduce a fascinating place, rich in history, and to animate a geographic imagination students can take anywhere.
+
+## GEOG 65. First-Year Seminar: Climate Change in the Media. 3 Credits.
+
+Examines the scientific basis of climate change and how the established science is presented, distorted, and debated in the public sphere. Explores how a variety of media sources can be used to effectively communicate about climate change to people with different perspectives. Honors version available. Honors version available.
+
+## GEOG 67. First-Year Seminar: Politics of Everyday Life. 3 Credits.
+
+Seminar examines the ways that politics, especially contests over territory, are part of our day-to-day life. We will explore a range of cases, from immigration policy and rhetoric in the United States, to popular representations of geopolitics in film, to the politics of family planning in India.
+
+## GEOG 68. First-Year Seminar: Freshwaters in the Anthropocene. 3 Credits.
+
+Freshwaters sustain myriad ecosystem services by providing drinking water, irrigation, inland fisheries, transportation, recreational opportunities, nutrient cycling, and biodiversity. At the same time, both water quality and quantity are impacted by land use, water abstraction, damming, contamination, and climate change. This seminar will focus (1) on understanding how these anthropogenic pressures affect freshwater ecosystems differently across ecoregions, and (2) how management, legislative, and social initiatives have adapted or developed solutions.
+
+## GEOG 69. First-Year Seminar: People and Forests. 3 Credits.
+
+This course delves into the interplay between human communities and the vital forest ecosystems upon which they rely. Through our collective exploration, we will deepen our understanding of the far-reaching impacts of forests on virtually every facet of our daily lives. In addition to forests of the world, we will also explore art about trees as well as the forests that make our campus unique with field visits to the Coker Arboretum. First-year students only.
+
+## GEOG 89. First Year Seminar: Special Topics. 3 Credits.
+
+Special Topics Course. Content will vary each semester.
+
+## GEOG 110. The Blue Planet: An Introduction to Earth's Environmental Systems. 3 Credits.
+
+Emphasizes geographic patterns and interrelationships in energy, climate, terrain, and life. Develops integrative view of how atmospheric, hydrologic, geomorphic, and biotic processes create global patterns in the environment. Incorporates influence of human activities on earth. Class will help students understand the natural environment, both globally and in North Carolina. Honors version available.
+
+## GEOG 111. Weather and Climate. 3 Credits.
+
+An introduction to the nature and causes of weather variability and climate change and their impact on human activity. No laboratory. (Core)
+
+## GEOG 115. Maps: Geographic Information from Babylon to Google. 3 Credits.
+
+Introduces the science and art of map making and will lay the conceptual foundation necessary to understand how and why maps are made and used.
+
+## GEOG 120. World Regional Geography. 3 Credits.
+
+A survey of the geographic structure of human activity in major world regions and nations. Emphasizes current developments related to population, urbanization, and economic activity. (Core)
+
+## GEOG 121. Geographies of Globalization. 3 Credits.
+
+This course examines places and the connections between places to build critical understandings of the role of human geographies in global economic, political, social, and cultural systems. (Core)
+
+## GEOG 123. Cultural Geography. 3 Credits.
+
+How population, environment, and human culture is expressed in technology and organization interact over space and time. (GHA)
+
+## GEOG 124. Feminist Geographies. 3 Credits.
+
+This course explores the relationship between gender and place and introduces feminist approaches to key geographical concepts. We will study how places that we live in shape our gender identities and how gender relations affect our worlds. Topics include bodies, home, city, migration, development, nationalism, and war.
+
+## GEOG 125. Cultural Landscapes. 3 Credits.
+
+Explores how everyday culture helps create the landscapes and places in which we live and what these landscapes tell us about ourselves.
+
+## GEOG 130. Development and Inequality: Global Perspectives. 3 Credits.
+
+An introduction to historical and contemporary ideas about practices and meanings of development. Students will explore "development" in a global landscape of poverty, power, and struggles over inequality.
+
+## GEOG 141. Geography for Future Leaders. 3 Credits.
+
+In this course, students develop geographic concepts and skills and use them to navigate real-world social and environmental challenges. Co-taught by a physical and human geographer, the course provides students with essential building blocks for becoming active and engaged leaders and citizens in a rapidly changing world.
+
+## GEOG 210. Global Issues and Globalization. 3 Credits.
+
+Survey of international social, political, and cultural patterns in selected societies of Africa, Asia, America, and Europe, stressing comparative analysis of conflicts and change in different historical contexts. LAC recitation sections offered in French, German, and Spanish.
+
+## GEOG 212. Environmental Conservation and Global Change. 3 Credits.
+
+Survey of environmental change as driven by physical processes and human activity. Problem-solving methods are explored. Focus on issues such as global warming, ozone depletion, deforestation, extinction, pollution, wetland loss. This course will provide significant background in physical geography in the context of today's most pressing environmental concerns and with reference to the societal implications and management strategies. (No lab.) (Core)
+
+## GEOG 215. Introduction to Spatial Data Science. 3 Credits.
+
+This course will introduce students to data science with a focus on spatial (geographic) data, data that are referenced to a location on Earth's surface. Students will learn concepts and techniques to apply various facets of data science practice, including data collection, management, and integration, descriptive modeling, exploratory spatial data analysis, and communication via visualization and mapping. Real world examples and datasets spanning physical, social, and health sciences will be used throughout the course.
+
+## GEOG 222. Health and Medical Geography. 3 Credits.
+
+Health and disease are studied by analyzing the cultural/environmental interactions that lie behind world patterns of disease distribution, diffusion, and treatment, and the ways these are being altered by development. Previously offered as GEOG 445. (GHA)
+
+## GEOG 225. Space, Place, and Difference. 3 Credits.
+
+Gender, race, and class are examined in terms of the spatial patterns of everyday life, regional patterns, and global patterns. (GHA)
+
+## GEOG 228. Urban Geography. 3 Credits.
+
+Explores the evolution, patterns, and processes of urbanization and the development of cities. Emphasis on the power, politics, technology, and environmental forces shaping urban life. Topics may include housing and segregation, cities and climate change, economic development, transportation challenges, and the racialization of urban policy.
+
+## GEOG 230. The World at Eight Billion. 3 Credits.
+
+Approximately eight billion people live on the Earth. How did we get here? What have been the consequences for us and the planet? What will the future bring? To answer these questions, we will draw on population and human-environment geography and on an abundance of new data sources.
+
+## GEOG 232. Agriculture, Food, and Society. 3 Credits.
+
+A study of environmental parameters, cultural preferences, technological developments, and spatial economic infrastructure that result in world patterns of food consumption, production, and distribution. (GHA)
+
+## GEOG 237. Natural Resources. 3 Credits.
+
+An analysis of selected biological and mineral resources of the world with particular emphasis on their distribution, utilization, and management policies and on their social and economic implications. (GHA)
+
+## GEOG 240. Introduction to Environmental Justice. 3 Credits.
+
+Environmental justice is about social equity and its relationship to the environment. This course provides an introduction to the principles, history, and scholarship of environmental justice. It traces the origins of the movement in the US and globally and its relationship to environmentalism. Students will use case studies and engagement to become familiar with environmental justice concerns related to food systems, environmental health, climate change, and economic development.
+
+## GEOG 253. Introduction to Atmospheric Processes. 4 Credits.
+
+Includes one-hour laboratory. Atmospheric processes including radiation, dynamics, and thermodynamics are emphasized. Circulations across a range of temporal and spatial scales are described. Links between environmental problems and the atmosphere are explored.
+
+## GEOG 254. U.S. Historical Geographies. 3 Credits.
+
+A study of selected past geographies of the United States with emphasis on the significant geographic changes in population, cultural, and economic conditions through time. Previously offered as FOLK/GEOG 454. (GHA)
+
+## GEOG 259. Society and Environment in Latin America. 3 Credits.
+
+This survey course examines political, cultural, and biophysical dimensions of human- environment relations across the ecologically diverse and historically rich region of Latin America. It draws on multiple data sources, perspectives, and media to explore sub-regions and their biocultural histories, including the Caribbean, Andes, Amazon, Central and North America, and their relationship with the United States.
+
+## GEOG 260. North America's Landscapes. 3 Credits.
+
+A survey of the cultural and physical landscapes of the United States and Canada. Emphasis on landscape evolution, present distributions, and interactions between people and their environment. (Regional)
+
+## GEOG 261. The South. 3 Credits.
+
+Present-day Southern United States, approached historically through a study of its physical, economic, and cultural environment. (Regional)
+
+## GEOG 262. Geography of North Carolina. 3 Credits.
+
+A survey of the cultural, economic, and physical diversity of North Carolina. Emphasizes regional patterns, historical changes, and the appearance of the landscape. (Regional)
+
+## GEOG 263. Environmental Field Studies in Siberia. 4 Credits.
+
+This course explores the biogeography of Siberia and gives students practical training on how to do field work in field ecology and physical geography.
+
+## GEOG 264. Conservation of Biodiversity in Theory and Practice. 3 Credits.
+
+This course will give students a multidisciplinary introduction to growing field of biodiversity preservation.
+
+## GEOG 265. Eastern Asia. 3 Credits.
+
+Spatial structure of population, urbanization, agriculture, industrialization, and regional links in China, Japan, and Korea. (Regional)
+
+## GEOG 266. Society and Environment in Southeast Asia. 3 Credits.
+
+This survey integrates sociological, biophysical, and geographical elements to examine interactions of population and environment across the ecologically-diverse and historically-rich region of Southeast Asia. Draws on multiple data sources, perspectives, and media to explore Vietnam, Indonesia, Malaysia, Thailand, Burma/Myanmar, the Philippines, and neighboring countries.
+
+## GEOG 267. South Asia. 3 Credits.
+
+Introduces students to the geography of South Asia, including an overview of the physical environment, cultural practices, and economic development. Emphasizes the political geography of South Asia and political and social processes such as nationalism and colonialism that have played a formative role in the region.
+
+## GEOG 268. Geography of Africa. 3 Credits.
+
+Africa is a vast continent with extraordinary biodiversity, cultural diversity, and history. But despite its many historic and contemporary contributions to the modern world, Africa is often represented as needing civilization, development, economic growth, charity, and education. This course investigates Africa's place in the global geopolitical imagination. With an emphasis on human geography, we analyze various forms of media (including maps, films, songs) to investigate the relationship between representation and the sociopolitical construction of place.
+
+## GEOG 269. Human-Environment Interactions in the Galapagos Islands. 3 Credits.
+
+The Social and ecological implications of resource conservation and economic development in a World Heritage Site are examined in the Galapagos Islands of Ecuador.
+
+## GEOG 270. Geography of Contemporary China. 3 Credits.
+
+This course provides a systematic introduction to China as an emerging political and economic power. From a geographic perspective, this course addresses uneven human and physical landscapes, the historical evolution and current status of the natural environment, economic development, and human well being.
+
+## GEOG 281. Ethnographies of Globalization: From 'Culture' to Decolonization. 3 Credits.
+
+This course will provide lower level undergraduate students with a survey of ethnographic research in geography and related fields. We will examine studies from work, labor, and gender, to indigenous youth and decolonization. Previously offered as GEOG 481.
+
+## GEOG 293. Freedom Farming. 3 Credits.
+
+The objective of Freedom Farming is to understand--in theory and in practice--the relationship between farming, health, and social justice among Black communities throughout the African diaspora. To this end we will investigate the history of agriculture's place in Black liberation movements; engage theories that orient these movements. Students also contribute to a local freedom farm. APPLES service-learning.
+
+## GEOG 294. Beyond Sustainability. 3 Credits.
+
+This course explores critical questions of sustenance, which are often overlooked in ''sustainability'' discourse: How do people sustain themselves in North America? Against what pressures? How does the geography and history of the land shape cultural, social, political, and economic practices of sustenance? And, in contexts of oppression, dispossession, and discrimination, how do acts of sustenance intersect or conflict with larger cultural, social, economic, and political debates about ''sustainability''?
+
+## GEOG 295. Undergraduate Research in Geography. 3 Credits.
+
+Permission of the instructor. For students who wish to participate in departmental research programs. May be taken twice.
+
+## GEOG 296. Independent Study. 1-12 Credits.
+Permission of the instructor. Special reading and research in geography under the supervision of a selected instructor. Course may not be taken more than twice.
+
+GEOG 334. Human Ecology of Health and Disease. 3 Credits.
+
+Examines the role of the interactions of cultures, environments, and human diseases in the quest for sustainable agriculture by examining the cultural ecology of agriculture systems and their human diseases. Previously offered as GEOG 434. (GHA)
+
+## GEOG 341. Hydrology, Ecology, and Sustainability of the Humid Tropics. 3 Credits.
+
+The Tropics have some of the largest river flows in the world. Three billion people live in humid tropical regions, yet many of them lack adequate water supply. This course focuses on the water cycle of tropical regions and the interactions between hydrology and ecology with an emphasis on sustainability.
+
+## GEOG 370. Introduction to Geographic Information. 3 Credits.
+
+A survey of geographic data sources including maps, photos, digital images, Census information, and others. Emphasis is on appropriate uses, limitations, and skilled interpretation in physical and human geography applications. (Core)
+
+## GEOG 390. Contemporary Topics in Geography. 1-12 Credits.
+Exploration of topics in contemporary geography.
+
+GEOG 391. Quantitative Methods in Geography. 3 Credits.
+
+This course provides an introduction to the application of statistical methods to geographic problems and to statistical packages in their solution. Attention given to spatial data analysis and sampling methods.
+
+## GEOG 392. Research Methods in Geography. 3 Credits.
+
+Introduces geographic research methods and develops skills to conduct independent research. Themes include spatial analysis, knowledge production, methodology, theory and evidence, and principles of informed argument. Students gain experience with multiple methods applicable to the study of diverse topics.
+
+## GEOG 406. Atmospheric Processes II. 4 Credits.
+
+Principles of analysis of the atmosphere are applied to the analysis of environmental phenomena. The link between the atmosphere and other environmental compartments is explored through environmental case studies.
+
+## GEOG 410. Modeling of Environmental Systems. 3 Credits.
+
+Uses systems theory and computer models to understand ecosystem energy and matter flows, such as energy flow in food webs, terrestrial ecosystem evapotranspiration and productivity, related to climate, vegetation, soils, and hydrology across a range of spatial and temporal scales.
+
+## GEOG 412. Synoptic Meteorology. 3 Credits.
+
+An analysis of synoptic weather patterns and the processes responsible for them. Climatological aspects of these weather patterns are emphasized. (EES)
+
+## GEOG 414. Climate Change. 3 Credits.
+
+An investigation of the scientific basis of climate change (past, present, and future), the current state of knowledge concerning future projections, and the implications of climate change for society and the environment.
+
+## GEOG 415. Communicating Important Ideas. 3 Credits.
+
+This hands-on course will set you on a path towards making a positive difference in the world through effective communication of ideas that are important to you. Emphasis will be on practical skills in listening, clarifying your message, having a narrative focus, creating effective graphics, giving engaging oral and poster presentations, social media use, communication with journalists, operating in the judicial and political arenas, and community outreach and public talks.
+
+## GEOG 416. Applied Climatology: The Impacts of Climate and Weather on Environmental and Social Systems. 3 Credits.
+
+Applied climatology involves the interdisciplinary application of climate data and techniques to solve a wide range of societal and environmental problems. This projects-based course investigates how climate impacts a range of sectors, including water resources, urban environments, ecosystems, and human health.
+
+## GEOG 419. Field Methods in Physical Geography. 3 Credits.
+
+Involves evaluation of landscapes by examining nature and biophysical elements influencing landscape form and function. Course emphasizes data collection, analysis, and interpretation using GIS and field methods. (EES)
+
+## GEOG 423. Social Geography. 3 Credits.
+
+A study of the spatial components of current social problems, such as poverty, race relations, environmental deterioration and pollution, and crime. (GHA)
+
+## GEOG 424. Geographies of Religion. 3 Credits.
+
+This course considers the theoretical and empirical dimensions of religion from a geographical perspective. The course introduces the key theories linking space, place, and religion and helps students apply these new theoretical tools to examine some of the pressing issues in the contemporary study of religion.
+
+## GEOG 428. Global Cities: Space, Power, and Identity in the Built Environment. 3 Credits.
+
+This course addresses questions of power, politics, and identity in the urban environment, with a focus on the emergence of key selected global cities and the processes that both created them historically and which are currently transforming them locally and globally.
+
+## GEOG 429. Urban Political Geography: Durham, NC. 3 Credits.
+
+An interdisciplinary exploration of urban social problems, bridging the literature on urban geography with that on urban politics. Students will be required to complete 30 hours of service for an organization that works on an urban social issue.
+
+## GEOG 430. Global Migrations, Local Impacts: Urbanization and Migration in the United States. 3 Credits.
+
+This course explores the relationship between patterns of urban development in the United States and migration, in both historical and contemporary contexts.
+
+## GEOG 435. Global Environmental Justice. 3 Credits.
+
+This advanced course brings geographical perspectives on place, space, scale, and environmental change to the study of environmental justice. In lectures, texts, and research projects, students examine environmental concerns as they intersect with racial, economic and political differences. Topics include environmental policy processes, environmental justice movements, environmental health risks, conservation, urban environments, and the role of science in environmental politics and justice. (GHA)
+
+## GEOG 436. Governance, Institutions, and Global Environmental Change. 3 Credits.
+
+Interdisciplinary course for advanced undergraduates and graduate students. Focuses on multiscale environmental issues and related social, institutional, governance, and policy challenges. Examines key concepts and theories involving global environmental change and problem-solving efforts.
+
+## GEOG 437. Social Vulnerability to Climate Change. 3 Credits.
+
+How does climate change affect vulnerable human populations? We will attempt to answer a shared research question on this topic by reading the peer-reviewed literature and by conducting a semester-long data analysis project incorporating social and climate data from around the world. This is a course-based undergraduate research experience (CURE).
+
+## GEOG 440. Earth Surface Processes. 3 Credits.
+
+This course will focus on the processes of soil formation, erosion, and landform evolution with an emphasis on the interaction of geomorphic processes with surface hydrology and ecosystems. (EES) Course previously offered as GEOL 502.
+
+## GEOG 441. Introduction to Watershed Systems. 3 Credits.
+
+Introduction to hydrologic and geomorphic processes in watersheds as applied to problems in flood analysis, water quality, and interactions of hydrology and environmental sciences. Drainage networks, nested catchments, and distribution and controls of precipitation, evaporation, runoff, and groundwater flow. Includes local field trips. (EES)
+
+## GEOG 442. River Processes. 3 Credits.
+
+Introduction to landforms and processes associated with flowing water at the earth's surface. Hydrology, sedimentology, and theories of channel formation and drainage basin evolution. (ESS)
+
+## GEOG 444. Landscape Biogeography. 3 Credits.
+
+This course is concerned with the application of biogeographical principles and techniques to the study of natural and human-modified landscapes. It includes local and extraregional case studies. (EES)
+
+## GEOG 446. Geography of Health Care Delivery. 3 Credits.
+
+This course examines the role that geography plays in shaping how people interact with the health care system. Topics include health care delivery system types, facility and personnel distributions, access to care, health care utilization, as well as GIS, spatial analysis, and decision support systems.
+
+## GEOG 447. Gender, Space, and Place in the Middle East. 3 Credits.
+
+Examines gender, space, and place relationships in the modern Middle East. Investigates shifting gender geographies of colonialism, nationalism, modernization, and globalization in this region. (GHA)
+
+## GEOG 448. Transnational Geographies of Muslim Societies. 3 Credits.
+
+Examines modern Muslim geographies that are created by transnational flows, connections, and imaginaries that cross national and regional boundaries across the Middle East, Southeast Asia, and beyond.
+
+## GEOG 451. Population, Development, and the Environment. 3 Credits.
+
+Introduction to contemporary and historical changes in human population, international development, and the global environment and how these processes interact, drawing on population geography as an organizing framework. Previously offered as GEOG 450.
+
+## GEOG 452. Mobile Geographies: The Political Economy of Migration. 3 Credits.
+
+This course explores the contemporary experience of migrants. Various theoretical approaches are introduced, with the emphasis on a political-economic approach. (GHA)
+
+## GEOG 453. Political Geography. 3 Credits.
+
+The geography of politics is explored at the global, the nation-state, and the local scale in separate course units, but the interconnections between these geographical scales are emphasized throughout. (GHA)
+
+## GEOG 456. Geovisualizing Change. 3 Credits.
+
+This course investigates the challenges, tools and techniques, and important applications of visualizing and analyzing geographic data that is temporally dynamic. We tackle technical challenges in obtaining, analyzing, and visualizing dynamic processes in space though maps, and discuss the consequences of our choices in how to re/present these processes. Students will produce original geovisualizations of dynamic data related to their field. Recommended preparation: experience with GIS software (GEOG 370 or GEOG 491).
+
+## GEOG 457. Rural Latin America: Agriculture, Environment, and Natural Resources. 3 Credits.
+
+This course explores a systems and cultural-ecological view of agriculture, environment, natural resource, and rural development issues in Latin America. It serves as a complement to GEOG 458 Urban Latin America. (Regional) Honors version available.
+
+## GEOG 458. Urban Latin America: Politics, Economy, and Society. 3 Credits.
+
+This course examines urban social issues in contemporary Latin America. Cities and their residents will be considered in relation to each other and to North American examples. (Regional)
+
+## GEOG 460. Geographies of Economic Change. 3 Credits.
+
+This course is designed to explore changing geographies of production and consumption in theory and in practice.
+
+## GEOG 464. Europe Today: Transnationalism, Globalisms, and the Geographies of Pan-Europe. 3 Credits.
+
+A survey by topic and country of Europe west of Russia. Those features that make Europe a distinct and important region today are emphasized. (Regional)
+
+## GEOG 468. Environmental Justice in Urban Europe. 3 Credits.
+
+While much attention has been given to Europe's "green" cities and the region's examples of sustainable development, less attention has been given to the ways in which the uneven distributions of environmental degradation have social and spatial ramifications within and beyond the region. This course will provide an overview of environmental justice in urban Europe to consider the key concepts, topics, debates, and trends shaping people and places there.
+
+## GEOG 470. Political Ecology: Geographical Perspectives. 3 Credits.
+
+Examines foundational concepts and methods and their relevance for understanding nature-society relationships. Discussions on environmental change and conflict and how nature is bound up with relations of power and constructions of identity.
+
+## GEOG 477. Introduction to Remote Sensing of the Environment. 3 Credits.
+
+Covers fundamental theory and mechanics of remote sensing, related theoretical aspects of radiation and the environment, and remote-sensing applications relating to terrestrial, atmospheric, and marine environments. Hands-on experience for application and information extraction from satellite-based imagery through biweekly laboratory assignments. Prepares students for GEOG 577. (GISc)
+
+## GEOG 480. Liberation Geographies: The Place, Politics, and Practice of Resistance. 3 Credits.
+
+An examination of the theory and history of resistance in the modern world, including instances of contestation from 'foot dragging' to the formation of social movements, and exploring the relationship between place and protest.
+
+## GEOG 491. Introduction to GIS. 3 Credits.
+
+Stresses the spatial analysis and modeling capabilities of organizing data within a geographic information system. (GISci)
+
+## GEOG 492. Radical Black Thought. 3 Credits.
+
+The premise of this course is that the possibilities articulated by radical Black intellectuals and artists in Africa and its diaspora are key to dismantling systems of oppression. It includes theories of unfreedoms derived from experiences of oppression-colonization, slavery, mass incarceration, racial inequity. It also examines radical Black responses to unfreedoms through practices of mental (de)colonization and moral courage, epistemology and pedagogy, human-earth relationships and environmental justice.
+
+## GEOG 493. Internship. 3 Credits.
+
+Open to junior and senior geography majors. Geography internships combine substantive geographic work experience with an academic project designed to integrate theory and practice. Field work is included.
+
+## GEOG 541. GIS in Public Health. 3 Credits.
+
+Explores theory and application of geographic information systems (GIS) for public health. The course includes an overview of the principles of GIS in public health and practical experience in its use. (GISci)
+
+## GEOG 542. Neighborhoods and Health. 3 Credits.
+
+This course explores how neighborhood context influences the health of the populations living in them. It includes a survey of neighborhoods and health theory and empirical examples. (GHA)
+
+## GEOG 543. Qualitative Methods in Geography. 3 Credits.
+
+This course teaches qualitative methods in geography for graduate and advanced undergraduate students. We will cover interviews, focus groups, visual, and other methodologies. We will also discuss modes of analysis, coding, and writing up qualitative research for publication.
+
+## GEOG 544. Geographic Information Systems for Impact Evaluation and Health Studies. 3 Credits.
+
+Examines the theory and application of geographic information systems (GIS) for impact evaluation for intervention studies. The course will focus especially on health and economic interventions in the developing world. The course includes an overview of the principles of GIS in impact evaluation and practical experience in its use.
+
+## GEOG 555. Cartography of the Global South. 3 Credits.
+
+This course presents cartographic techniques for better map design, with a focus on mapping the geographies of the Global South. Modern techniques and software will be used for developing and demonstrating proficiency in what are considered standard map design techniques, and we will also study examples from places and map makers outside of dominant cartographic traditions, and maps meant for actors and audiences in the Global South.
+
+## GEOG 567. Geospatial Data Analysis with Google Earth Engine. 3 Credits.
+
+This course teaches students key concepts and skills for geospatial data analysis using the rich geospatial data resources, tools, and cloud computing facility on Google Earth Engine for environmental monitoring, mapping, modeling, and visualization. The course will enable students to pursue geospatial data analysis ranging from local to global scales to extract critical information for scientific understanding of the environment and for making science-based policies to address the environmental challenges we face today.
+
+## GEOG 577. Advanced Remote Sensing. 3 Credits.
+
+Acquisition, processing, and analysis of satellite digital data for the mapping and characterization of land cover types. (GISci)
+
+## GEOG 591. Applied Issues in Geographic Information Systems. 3 Credits.
+
+Applied issues in the use of geographic information systems in terrain analysis, medical geography, biophysical analysis, and population geography. (GISci)
+
+## GEOG 592. Geographic Information Science Programming. 3 Credits.
+
+This course will teach students the elements of GISci software development using major GIS platforms. Students will modularly build a series of applications through the term, culminating in an integrated GIS applications program.
+
+## GEOG 594. Global Positioning Systems and Applications. 3 Credits.
+
+Global Positioning Systems (GPS) fundamental theory, application design, post processing, integration of GPS data into GIS and GPS application examples (such as public health, business, etc.) will be introduced.
+
+## GEOG 597. Ecological Modeling. 3 Credits.
+
+This course focuses on modeling the terrestrial forest ecosystems processes, including population dynamics, energy, water, nutrients, and carbon flow through the ecosystem. (GISci)
+
+## GEOG 598. GIS and Systems Modeling. 3 Credits.
+
+GIS and Systems Modeling are theory and methodology that use GIS, quantitative models, and systems analysis to describe processes, interactions, and feedbacks in complex systems. Simulation experiments of systems models can be used as a "laboratory" to answer many "what if" questions, which can be used for the evaluation of policies and scenarios.
+
+## GEOG 650. Technology and Democracy Research. 3 Credits.
+
+Are technological choices open to democratic participation? Through a novel research workshop format, this graduate and undergraduate course explores political and geographical dimensions of technological change around key environmental issues--energy, water, and waste.
+
+## GEOG 697. Capstone Seminar in Geographic Research. 3 Credits.
+
+A systematic study of the approaches, key concepts, and methods of geography, emphasizing the application of these approaches through hands-on independent research designed and implemented by the students. (Core)
+
+## GEOG 702. Contemporary Geographic Thought. 3 Credits.
+
+History and philosophy of the geographic discipline, with particular emphasis on developments in recent decades.
+
+## GEOG 703. Geographic Research Design. 3 Credits.
+
+Introduction to the theory and practice of geographic research. The range of methods available for problem identification and solution are considered through development of specific research proposals.
+
+## GEOG 704. Communicating Geography. 3 Credits.
+
+Seminar introduces new students to current geographic sub-disciplines, faculty research interests and areas of expertise within the Department, and university resources. In this required core course in Geography's graduate curriculum, students also engage with issues of communication, professionalization, and career development in Geography and related fields.
+
+## GEOG 705. Advanced Quantitative Methods in Geography. 3 Credits.
+
+Application of selected multivariate statistical techniques to the analysis of geographic phenomena and problems.
+
+## GEOG 706. Demographic Methods. 3 Credits.
+
+This is an introductory course in demographic research methods. Common methods for measuring demographic indicators (fertility, mortality, migration, population growth, and marriage) will be presented.
+
+## GEOG 710. Advanced Physical Geography - Biogeoscience. 3 Credits.
+
+Examination of the major processes controlling environmental cycling of material and energy at the landscape level, and development of a quantitative understanding of the physical and ecosystem processes responsible for landscape pattern and evolution.
+
+## GEOG 711. Advanced Physical Geography - Hydroclimatology and Bioclimatology. 3 Credits.
+
+Examination of topics focused on the atmospheric and the vegetation and land surface parts of the hydrologic cycle at the micro to global spatial scale and short-term to millennial temporal scale.
+
+## GEOG 715. 715 Land Use/Land Cover Dynamics and Human-Environment Interaction. 3 Credits.
+
+Examination of topics that integrate social, natural, and spatial sciences within the context of human-environment interactions, with an emphasis on landuse/landcover dynamics and spatial digital technologies for linking landscape form and function.
+
+## GEOG 720. Cultural and Political Ecology. 3 Credits.
+
+This course examines the foundations and current literature on cultural and political ecology. Focus is given to the appropriation of "Nature," degradation and deforestation, conservation, famine, postcolonial peasants, resistance, Indigeneit, and property, land distribution, and governmentality.
+
+## GEOG 760. Geographies of Economic Change. 3 Credits.
+
+This course is designed to explore changing geographies of production and consumption in theory and in practice.
+
+## GEOG 790. Spatial Analysis and Computer Modeling. 3 Credits.
+
+This course introduces students to spatial analysis techniques involving points, lines, areas, surfaces, and non-metric spaces, as well as programming basic geographic models on microcomputers.
+
+## GEOG 801. Research Seminar in Earth System Science and Biophysical Geography. 3 Credits.
+
+An in-depth seminar devoted to contemporary faculty research topics in earth system science and biophysical geography. Topics and instructors vary.
+
+## GEOG 802. Research Seminar in Geographic Information Sciences. 3 Credits.
+
+An in-depth seminar devoted to contemporary faculty research topics in geographic information sciences. Topics and instructors vary.
+
+## GEOG 803. Research Seminar in Nature-Society Studies and Human-Environment Interactions. 3 Credits.
+
+An in-depth seminar devoted to contemporary faculty research topics in nature-society studies and human-environment interactions. Topics and instructors vary.
+
+## GEOG 804. Research Seminar in Social Geography. 3 Credits.
+
+An in-depth seminar devoted to contemporary faculty research topics in social geography. Topics and instructors vary.
+
+## GEOG 805. Research Seminar in International Area Studies, Development, and Globalization. 3 Credits.
+
+An in-depth seminar devoted to contemporary faculty research topics in international area studies, development, and globalization. Topics and instructors vary.
+
+## GEOG 811. Seminar/Readings in Earth System Science and Biophysical Geography. 3 Credits.
+
+An in-depth seminar devoted to contemporary readings in earth system science and biophysical geography. Topics and instructors vary.
+
+## GEOG 812. Seminar/Readings in Geographic Information Sciences. 3 Credits.
+
+An in-depth seminar devoted to contemporary readings in geographic information sciences. Topics and instructors vary.
+
+## GEOG 813. Seminar/Readings in Nature-Society Studies and Human-Environment Interactions. 3 Credits.
+
+An in-depth seminar devoted to contemporary readings in nature-society studies and human-environment interactions. Topics and instructors vary.
+
+## GEOG 814. Seminar/Readings in Social Geography. 3 Credits.
+
+An in-depth seminar devoted to contemporary readings in social geography. Topics and instructors vary.
+
+## GEOG 815. Seminar/Readings in International Area Studies, Development, and Globalization. 3 Credits.
+
+An in-depth seminar devoted to contemporary readings in international area studies, development, and globalization. Topics and instructors vary.
+
+## GEOG 900. Special Work in Geography. 1-21 Credits.
+Required preparation, two courses in the one hundred bracket or permission of the instructor.
+
+GEOG 993. Master's Research and Thesis. 3 Credits.
+
+No description available.
+
+## GEOG 994. Doctoral Research and Dissertation. 3 Credits.
+
+No description available.
+

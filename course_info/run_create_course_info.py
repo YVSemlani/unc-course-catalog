@@ -21,12 +21,25 @@ def create_course_folders(catalog_file, department_code, base_dir):
 
     # Create department-level README.md
     dept_readme_path = os.path.join(base_dir, 'README.md')
+    catalog_file_path = os.path.join(base_dir, 'course_catalog.txt')
+    
+    with open(catalog_file_path, 'r', encoding='utf-8') as catalog_file:
+        catalog_content = catalog_file.read()
+    
+    # Convert the content to markdown
+    markdown_content = f"# {department_code} Course Catalog\n\n"
+    
+    # Regular expression to match course entries
+    course_pattern = re.compile(r'(\w+\s+\d+)\.\s+(.*?)\.\s+(\d+)\s+Credits\.\s+(.*?)(?=\n\n|\Z)', re.DOTALL)
+    
+    matches = course_pattern.findall(catalog_content)
+    for match in matches:
+        course_code, course_name, credits, description = match
+        markdown_content += f"## {course_code}. {course_name}. {credits} Credits.\n\n"
+        markdown_content += f"{description.strip()}\n\n"
+    
     with open(dept_readme_path, 'w', encoding='utf-8') as dept_readme_file:
-        dept_readme_content = f"# {department_code} Course Catalog\n\n"
-        for course in courses:
-            course_number, course_name, _ = course
-            dept_readme_content += f"- [{department_code} {course_number}: {course_name}]({department_code}_{course_number}_{course_name.replace(' ', '_')})\n"
-        dept_readme_file.write(dept_readme_content)
+        dept_readme_file.write(markdown_content)
 
     print(f"Created department-level README.md for {department_code}")
 
@@ -64,7 +77,7 @@ def run_create_course_info():
 
     # Step 1: Create or update course_catalog.txt files
     print("Step 1: Creating/updating course_catalog.txt files")
-    create_course_catalog_files(department_codes)
+    #create_course_catalog_files(department_codes)
 
     # Step 2: Create individual course folders and README files
     print("\nStep 2: Creating individual course folders and README files")

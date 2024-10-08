@@ -1,159 +1,826 @@
 # BIOL Course Catalog
 
-- [BIOL 101: Principles of Biology](BIOL_101_Principles_of_Biology)
-- [BIOL 103: How Cells Function](BIOL_103_How_Cells_Function)
-- [BIOL 104: Biodiversity](BIOL_104_Biodiversity)
-- [BIOL 105: Biological Research Skills](BIOL_105_Biological_Research_Skills)
-- [BIOL 113: Issues in Modern Biology](BIOL_113_Issues_in_Modern_Biology)
-- [BIOL 115: Reasoning with Data: Navigating a Quantitative World](BIOL_115_Reasoning_with_Data:_Navigating_a_Quantitative_World)
-- [BIOL 117: Pre-Health Thrive-1 Considering Health Professions](BIOL_117_Pre-Health_Thrive-1_Considering_Health_Professions)
-- [BIOL 118: Pre-Health Thrive-2 Pursuing Health Professions](BIOL_118_Pre-Health_Thrive-2_Pursuing_Health_Professions)
-- [BIOL 119: Experiencing Health Professions: A Service-Learning Partnership for Pre-Health Students](BIOL_119_Experiencing_Health_Professions:_A_Service-Learning_Partnership_for_Pre-Health_Students)
-- [BIOL 150: The Creativity of Science, or Scientific Thinking in Biology](BIOL_150_The_Creativity_of_Science,_or_Scientific_Thinking_in_Biology)
-- [BIOL 190: Special Topics in Biology at an Introductory Level](BIOL_190_Special_Topics_in_Biology_at_an_Introductory_Level)
-- [BIOL 195: Introduction to Research](BIOL_195_Introduction_to_Research)
-- [BIOL 201: Ecology and Evolution](BIOL_201_Ecology_and_Evolution)
-- [BIOL 202: Molecular Biology and Genetics](BIOL_202_Molecular_Biology_and_Genetics)
-- [BIOL 204: The Microbial World: Foundations in Structure, Metabolism, and Ecology](BIOL_204_The_Microbial_World:_Foundations_in_Structure,_Metabolism,_and_Ecology)
-- [BIOL 205: Cellular and Developmental Biology](BIOL_205_Cellular_and_Developmental_Biology)
-- [BIOL 211: Introduction to Research in Biology](BIOL_211_Introduction_to_Research_in_Biology)
-- [BIOL 213: Evolution and Life](BIOL_213_Evolution_and_Life)
-- [BIOL 217: The Physician's Garden](BIOL_217_The_Physician's_Garden)
-- [BIOL 220: Molecular Genetics](BIOL_220_Molecular_Genetics)
-- [BIOL 221: Seafood Forensics](BIOL_221_Seafood_Forensics)
-- [BIOL 222: Introduction to Programming with Biological Data](BIOL_222_Introduction_to_Programming_with_Biological_Data)
-- [BIOL 226: Mathematical Methods for Quantitative Biology](BIOL_226_Mathematical_Methods_for_Quantitative_Biology)
-- [BIOL 240: Cell Biology](BIOL_240_Cell_Biology)
-- [BIOL 243: The Cellular Agriculture Revolution](BIOL_243_The_Cellular_Agriculture_Revolution)
-- [BIOL 250: Evolutionary Biology](BIOL_250_Evolutionary_Biology)
-- [BIOL 252: Fundamentals of Human Anatomy and Physiology](BIOL_252_Fundamentals_of_Human_Anatomy_and_Physiology)
-- [BIOL 253: Advanced Human Anatomy and Physiology](BIOL_253_Advanced_Human_Anatomy_and_Physiology)
-- [BIOL 255: The Evolution of Extraordinary Adaptations](BIOL_255_The_Evolution_of_Extraordinary_Adaptations)
-- [BIOL 256: Mountain Biodiversity](BIOL_256_Mountain_Biodiversity)
-- [BIOL 260: Introduction to Ecology](BIOL_260_Introduction_to_Ecology)
-- [BIOL 271: Plant Biology](BIOL_271_Plant_Biology)
-- [BIOL 272: Local Flora](BIOL_272_Local_Flora)
-- [BIOL 273: Horticulture](BIOL_273_Horticulture)
-- [BIOL 274: Plant Diversity](BIOL_274_Plant_Diversity)
-- [BIOL 277: Vertebrate Field Zoology](BIOL_277_Vertebrate_Field_Zoology)
-- [BIOL 278: Animal Behavior](BIOL_278_Animal_Behavior)
-- [BIOL 291: Teaching Apprentice in Biology](BIOL_291_Teaching_Apprentice_in_Biology)
-- [BIOL 292: Teaching Assistant in Biology](BIOL_292_Teaching_Assistant_in_Biology)
-- [BIOL 293: Undergraduate Internship in Biology](BIOL_293_Undergraduate_Internship_in_Biology)
-- [BIOL 350: Oceanography](BIOL_350_Oceanography)
-- [BIOL 402: Infectious Disease in the Developing World](BIOL_402_Infectious_Disease_in_the_Developing_World)
-- [BIOL 405: Good Genes: Human Reproduction in the Social Context](BIOL_405_Good_Genes:_Human_Reproduction_in_the_Social_Context)
-- [BIOL 422: Microbiology](BIOL_422_Microbiology)
-- [BIOL 423: Genetics Experiments](BIOL_423_Genetics_Experiments)
-- [BIOL 424: Microbial Ecology](BIOL_424_Microbial_Ecology)
-- [BIOL 425: Human Genetics](BIOL_425_Human_Genetics)
-- [BIOL 426: Biology of Blood Diseases](BIOL_426_Biology_of_Blood_Diseases)
-- [BIOL 427: Human Diversity and Population Genetics](BIOL_427_Human_Diversity_and_Population_Genetics)
-- [BIOL 428: Biology of Viruses](BIOL_428_Biology_of_Viruses)
-- [BIOL 430: Introduction to Biological Chemistry](BIOL_430_Introduction_to_Biological_Chemistry)
-- [BIOL 431: Biological Physics](BIOL_431_Biological_Physics)
-- [BIOL 434: Molecular Biology](BIOL_434_Molecular_Biology)
-- [BIOL 436: Plant Genetics, Development, and Biotechnology](BIOL_436_Plant_Genetics,_Development,_and_Biotechnology)
-- [BIOL 439: Introduction to Signal Transduction](BIOL_439_Introduction_to_Signal_Transduction)
-- [BIOL 440: Stem Cell Biology](BIOL_440_Stem_Cell_Biology)
-- [BIOL 441: Vertebrate Embryology](BIOL_441_Vertebrate_Embryology)
-- [BIOL 442: Self Assembly in Cell Biology](BIOL_442_Self_Assembly_in_Cell_Biology)
-- [BIOL 443: Developmental Biology](BIOL_443_Developmental_Biology)
-- [BIOL 444: Molecular Basis of Disease](BIOL_444_Molecular_Basis_of_Disease)
-- [BIOL 445: Cancer Biology](BIOL_445_Cancer_Biology)
-- [BIOL 446: Unsolved Problems in Cellular Biology](BIOL_446_Unsolved_Problems_in_Cellular_Biology)
-- [BIOL 447: Cell Biology: Beyond Core Basics](BIOL_447_Cell_Biology:_Beyond_Core_Basics)
-- [BIOL 448: Advanced Cell Biology](BIOL_448_Advanced_Cell_Biology)
-- [BIOL 449: Introduction to Immunology](BIOL_449_Introduction_to_Immunology)
-- [BIOL 450: Neurobiology](BIOL_450_Neurobiology)
-- [BIOL 451: Comparative Physiology](BIOL_451_Comparative_Physiology)
-- [BIOL 452: Marine Microbial Symbioses: Exploring How Microbial Interactions Affect Ecosystems and Human Health](BIOL_452_Marine_Microbial_Symbioses:_Exploring_How_Microbial_Interactions_Affect_Ecosystems_and_Human_Health)
-- [BIOL 453: Molecular Control of Metabolism and Metabolic Disease](BIOL_453_Molecular_Control_of_Metabolism_and_Metabolic_Disease)
-- [BIOL 454: Evolutionary Genetics](BIOL_454_Evolutionary_Genetics)
-- [BIOL 455: Behavioral Neuroscience](BIOL_455_Behavioral_Neuroscience)
-- [BIOL 456: Marine Phytoplankton](BIOL_456_Marine_Phytoplankton)
-- [BIOL 457: Marine Biology](BIOL_457_Marine_Biology)
-- [BIOL 458: Sensory Neurobiology and Behavior](BIOL_458_Sensory_Neurobiology_and_Behavior)
-- [BIOL 461: Fundamentals of Ecology](BIOL_461_Fundamentals_of_Ecology)
-- [BIOL 462: Marine Ecology](BIOL_462_Marine_Ecology)
-- [BIOL 463: Field Ecology](BIOL_463_Field_Ecology)
-- [BIOL 464: Global Change Biology](BIOL_464_Global_Change_Biology)
-- [BIOL 465: Global Biodiversity and Macroecology](BIOL_465_Global_Biodiversity_and_Macroecology)
-- [BIOL 466: Environmental Microbiology](BIOL_466_Environmental_Microbiology)
-- [BIOL 469: Behavioral Ecology](BIOL_469_Behavioral_Ecology)
-- [BIOL 471: Evolutionary Mechanisms](BIOL_471_Evolutionary_Mechanisms)
-- [BIOL 472: Introduction to Plant Taxonomy](BIOL_472_Introduction_to_Plant_Taxonomy)
-- [BIOL 473: Mammalian Morphology and Development](BIOL_473_Mammalian_Morphology_and_Development)
-- [BIOL 474: Evolution of Vertebrate Life](BIOL_474_Evolution_of_Vertebrate_Life)
-- [BIOL 475: Biology of Marine Animals](BIOL_475_Biology_of_Marine_Animals)
-- [BIOL 476: Avian Biology](BIOL_476_Avian_Biology)
-- [BIOL 479: Topics in Organismal Biology at an Advanced Level](BIOL_479_Topics_in_Organismal_Biology_at_an_Advanced_Level)
-- [BIOL 480: Discoveries in Prevention and Cure of Infectious Disease in London](BIOL_480_Discoveries_in_Prevention_and_Cure_of_Infectious_Disease_in_London)
-- [BIOL 481: Biology, History, and Evolution of Epidemic Diseases](BIOL_481_Biology,_History,_and_Evolution_of_Epidemic_Diseases)
-- [BIOL 490: Advanced Topics in Biology](BIOL_490_Advanced_Topics_in_Biology)
-- [BIOL 501: Ethical Issues in Life Sciences](BIOL_501_Ethical_Issues_in_Life_Sciences)
-- [BIOL 514: Ecological and Evolutionary Developmental Biology](BIOL_514_Ecological_and_Evolutionary_Developmental_Biology)
-- [BIOL 523: Sex Differences in Human Disease](BIOL_523_Sex_Differences_in_Human_Disease)
-- [BIOL 524: Strategies of Host-Microbe Interactions](BIOL_524_Strategies_of_Host-Microbe_Interactions)
-- [BIOL 525: Analysis and Interpretation of Sequence-Based Functional Genomics Experiments](BIOL_525_Analysis_and_Interpretation_of_Sequence-Based_Functional_Genomics_Experiments)
-- [BIOL 526: Computational Genetics](BIOL_526_Computational_Genetics)
-- [BIOL 527: Seminar in Quantitative Biology](BIOL_527_Seminar_in_Quantitative_Biology)
-- [BIOL 528: Quantitative Personalized Genomics](BIOL_528_Quantitative_Personalized_Genomics)
-- [BIOL 529: Clinical and Counseling Aspects of Human Genetics](BIOL_529_Clinical_and_Counseling_Aspects_of_Human_Genetics)
-- [BIOL 532: Recent Discoveries in Molecular Biology](BIOL_532_Recent_Discoveries_in_Molecular_Biology)
-- [BIOL 534: Mathematical Modeling in the Life Sciences](BIOL_534_Mathematical_Modeling_in_the_Life_Sciences)
-- [BIOL 535: Molecular Biology Techniques](BIOL_535_Molecular_Biology_Techniques)
-- [BIOL 537: Biotechnology and Synthetic Biology](BIOL_537_Biotechnology_and_Synthetic_Biology)
-- [BIOL 542: Light Microscopy for the Biological Sciences](BIOL_542_Light_Microscopy_for_the_Biological_Sciences)
-- [BIOL 543: Cardiovascular Biology](BIOL_543_Cardiovascular_Biology)
-- [BIOL 545: Exploring Brain, Gut, and Immunity](BIOL_545_Exploring_Brain,_Gut,_and_Immunity)
-- [BIOL 546: Biology of Aging](BIOL_546_Biology_of_Aging)
-- [BIOL 547: Synaptic Plasticity: Analysis of Primary Literature](BIOL_547_Synaptic_Plasticity:_Analysis_of_Primary_Literature)
-- [BIOL 551: Comparative Biomechanics](BIOL_551_Comparative_Biomechanics)
-- [BIOL 552: Behavioral Endocrinology](BIOL_552_Behavioral_Endocrinology)
-- [BIOL 553: Mathematical and Computational Models in Biology](BIOL_553_Mathematical_and_Computational_Models_in_Biology)
-- [BIOL 554: Introduction to Computational Neuroscience](BIOL_554_Introduction_to_Computational_Neuroscience)
-- [BIOL 555: Paleobotany: An Introduction to the Past History of Plants](BIOL_555_Paleobotany:_An_Introduction_to_the_Past_History_of_Plants)
-- [BIOL 561: Ecological Plant Geography](BIOL_561_Ecological_Plant_Geography)
-- [BIOL 562: Statistics for Environmental Scientists](BIOL_562_Statistics_for_Environmental_Scientists)
-- [BIOL 563: Statistical Analysis in Ecology and Evolution](BIOL_563_Statistical_Analysis_in_Ecology_and_Evolution)
-- [BIOL 564: Population Ecology](BIOL_564_Population_Ecology)
-- [BIOL 565: Conservation Biology](BIOL_565_Conservation_Biology)
-- [BIOL 567: Evolutionary Ecology](BIOL_567_Evolutionary_Ecology)
-- [BIOL 579: Organismal Structure and Diversity in the Southern Appalachian Mountains](BIOL_579_Organismal_Structure_and_Diversity_in_the_Southern_Appalachian_Mountains)
-- [BIOL 590: Advanced Special Topics in Biology](BIOL_590_Advanced_Special_Topics_in_Biology)
-- [BIOL 602: Professional Development Skills for Ecologists and Biologists](BIOL_602_Professional_Development_Skills_for_Ecologists_and_Biologists)
-- [BIOL 603: MiBio Seminar](BIOL_603_MiBio_Seminar)
-- [BIOL 604: Laboratory Practices for New Investigators](BIOL_604_Laboratory_Practices_for_New_Investigators)
-- [BIOL 605: Reading and Writing Scientific Literature](BIOL_605_Reading_and_Writing_Scientific_Literature)
-- [BIOL 620: Bacterial Genetics with Emphasis on Pathogenic and Symbiotic Interactions](BIOL_620_Bacterial_Genetics_with_Emphasis_on_Pathogenic_and_Symbiotic_Interactions)
-- [BIOL 621: Principles of Genetic Analysis I](BIOL_621_Principles_of_Genetic_Analysis_I)
-- [BIOL 622: Principles of Genetic Analysis II](BIOL_622_Principles_of_Genetic_Analysis_II)
-- [BIOL 624: Developmental Genetics](BIOL_624_Developmental_Genetics)
-- [BIOL 625: Seminar in Genetics](BIOL_625_Seminar_in_Genetics)
-- [BIOL 631: Advanced Molecular Biology](BIOL_631_Advanced_Molecular_Biology)
-- [BIOL 632: Advanced Molecular Biology II](BIOL_632_Advanced_Molecular_Biology_II)
-- [BIOL 635: Careers in Biotechnology](BIOL_635_Careers_in_Biotechnology)
-- [BIOL 639: Seminar in Plant Molecular and Cell Biology](BIOL_639_Seminar_in_Plant_Molecular_and_Cell_Biology)
-- [BIOL 642: Advanced Studies of Cell Division](BIOL_642_Advanced_Studies_of_Cell_Division)
-- [BIOL 648: Palynology](BIOL_648_Palynology)
-- [BIOL 649: Seminar in Cell Biology](BIOL_649_Seminar_in_Cell_Biology)
-- [BIOL 650: Animal Cognition](BIOL_650_Animal_Cognition)
-- [BIOL 657: Biological Oceanography](BIOL_657_Biological_Oceanography)
-- [BIOL 659: Seminar in Evolutionary Biology](BIOL_659_Seminar_in_Evolutionary_Biology)
-- [BIOL 661: Plant Ecology](BIOL_661_Plant_Ecology)
-- [BIOL 680: Advanced Seminar in Recent Biological Research and Methods](BIOL_680_Advanced_Seminar_in_Recent_Biological_Research_and_Methods)
-- [BIOL 690: Advanced Special Topics with an Emphasis on Recent Research](BIOL_690_Advanced_Special_Topics_with_an_Emphasis_on_Recent_Research)
-- [BIOL 702: Student Seminars](BIOL_702_Student_Seminars)
-- [BIOL 704: Seminars in Biophysics](BIOL_704_Seminars_in_Biophysics)
-- [BIOL 705: Best Practices for Rigor and Reproducibility in Research](BIOL_705_Best_Practices_for_Rigor_and_Reproducibility_in_Research)
-- [BIOL 711: Genetic Lecture Series](BIOL_711_Genetic_Lecture_Series)
-- [BIOL 713: Student Seminars](BIOL_713_Student_Seminars)
-- [BIOL 758: Molecular Population Biology](BIOL_758_Molecular_Population_Biology)
-- [BIOL 810: Seminar in College Science Teaching](BIOL_810_Seminar_in_College_Science_Teaching)
-- [BIOL 845: Advanced Seminar in Neurobiology](BIOL_845_Advanced_Seminar_in_Neurobiology)
-- [BIOL 861: Statistical Analysis in Ecology and Evolution using R](BIOL_861_Statistical_Analysis_in_Ecology_and_Evolution_using_R)
-- [BIOL 891: Graduate Seminar in Biology](BIOL_891_Graduate_Seminar_in_Biology)
-- [BIOL 992: Master's (Non-Thesis)](BIOL_992_Master's_(Non-Thesis))
-- [BIOL 993: Master's Research and Thesis](BIOL_993_Master's_Research_and_Thesis)
-- [BIOL 994: Doctoral Research and Dissertation](BIOL_994_Doctoral_Research_and_Dissertation)
+## BIOL 53. First-Year Seminar: Biotechnology: Genetically Modified Foods to the Sequence of the Human Genome. 3 Credits.
+
+Restricted to first-year students. Introduction, in a first-year seminar, to recent advances in genetics and cell biology, and discussion and debate concerning how these advances are changing medicine, agriculture, and other aspects of our lives.
+
+## BIOL 55. First-Year Seminar: The Roots and Flowering of Civilization: A Seminar on Plants and People. 3 Credits.
+
+Restricted to first-year students. The focus of this first-year seminar will be on the transition from hunter-gatherer, the interchange of crops, medicinal and psychoactive plants, and organic vs. industrial farming methods.
+
+## BIOL 57. First-Year Seminar: Detecting the Future: Human Diseases and Genetic Tests. 3 Credits.
+
+Restricted to first-year students. A first-year seminar focusing on the future of human diseases and genetic tests.
+
+## BIOL 59. First-Year Seminar: Unsolved Problems in the Genomic Age. 3 Credits.
+
+We are living in times of a genetic revolution. We have sequenced the human genome and are in a position to transform medical treatment in the world. In spite of the advances in DNA sequencing, there remain mysteries in terms of how the cell accesses genetic information and how our genomes are transmitted to progeny cells with such high fidelity. The principles governing chromosome organization have been discovered through advances in biology, physics, and statistics.
+
+## BIOL 61. First-Year Seminar: Sea Turtles: A Case Study in the Biology of Conservation. 3 Credits.
+
+Restricted to first-year students. An examination of the biology and conservation of sea turtles, with an emphasis on how current scientific research informs conservation practices.
+
+## BIOL 62. First-Year Seminar: Mountains Beyond Mountains: Infectious Disease in the Developing World. 3 Credits.
+
+Restricted to first-year students. In this course we will examine the challenges of treating infectious disease in the developing world, and explore the root causes of global health care inequity. Honors version available.
+
+## BIOL 65. First-Year Seminar: Pneumonia. 3 Credits.
+
+Restricted to first-year students. Pneumonia will be a lens to examine a thread of history of biology and medicine. Current research to understand the condition, discover treatment and enact prevention options will be examined.
+
+## BIOL 66. First-year seminar: Evolution and the Science of Life. 3 Credits.
+
+This interdisciplinary first-year seminar examines the roots, ideas, questions and applications of evolutionary biology. What is evolution, how does it work, and how do we study it? How did modern scientific theories of evolution emerge from the traditions of natural philosophy and natural history? How does studying evolution inform us about adaptation, biological diversity, human origins, disease, aging, sex and culture? First-year seminar.
+
+## BIOL 68. A History of Life, the Universe, and Everything. 3 Credits.
+
+This seminar introduces students to the continuum of historical change of everything in the cosmos, from the Big Bang to humans. Students will develop new perspectives on 'big' history and learn how scientists from diverse fields (e.g., astronomy, geology, biology, and anthropology) study the past. They will also cultivate skills (oral and written), using science as a way of learning, to analyze the past, and inform the present.
+
+## BIOL 75. First-Year Seminar: Biodiversity and Citizen Science. 3 Credits.
+
+This seminar will introduce students to the discipline of citizen science as a means to understanding more about biodiversity. Through citizen science, members of the public provide millions of biodiversity observations each year. We will learn about the promise of citizen science for answering important questions in biodiversity science, we will contribute our own observations, and we will learn to analyze citizen science data. Honors version available.
+
+## BIOL 81. First-Year Seminar: Intuition, Initiative and Industry: Biologists as Entrepreneurs. 3 Credits.
+
+Successful biologists are necessarily entrepreneurs. This course will explore the parallels between biology and entrepreneurship. We follow these steps: generating ideas, marketing those ideas, testing them, and producing a product.
+
+## BIOL 89. First Year Seminar: Special Topics. 3 Credits.
+
+This is a special topics course; content will vary.
+
+## BIOL 101. Principles of Biology. 3 Credits.
+
+Open to all undergraduates. This course is the prerequisite to most higher courses in biology. An introduction to the fundamental principles of biology, including cell structure, chemistry, and function; genetics; evolution; adaptation; and ecology. (See department concerning Advanced Placement credit.) Three lecture hours a week. Honors version available.
+
+## BIOL 103. How Cells Function. 3 Credits.
+
+This class is designed for first- or second-year students beginning their study of biological sciences. The course will cover both biological concepts and scientific competencies necessary for a foundational mastery of genetics, molecular biology, and cellular biology. For biology majors, this is one of the three mandatory fundamentals courses required before taking relevant 200-level core classes and upper-level electives.
+
+## BIOL 104. Biodiversity. 3 Credits.
+
+The biological diversity we see on Earth today encompasses a variety of genetic, species, and ecosystem level variation. This course will focus on the biological principles that push biologists to understand what produces and sustains the biodiversity of life on Earth. This class will address key questions about how we identify and measure biological diversity, how it changes over time, and why biological diversity matters as our planet continues to change.
+
+## BIOL 105. Biological Research Skills. 2 Credits.
+
+What is research and how is it done? This course aims to give you a first-hand exposure to the scientific approach in real world situations. You will build your science skills toolkit--experimental design, data processing and interpretation, basic statistics, system modeling, interdisciplinary approaches, and science communication and policy--then use it to explore relevant societal issues like global warming, virus evolution and vaccine development, cancer therapeutics, machine learning, and more! Majors only.
+
+## BIOL 113. Issues in Modern Biology. 3 Credits.
+
+For students not majoring in biology. Students who have taken any other course in the Department of Biology may not register for this course. Recent advances in the understanding of major principles in biology. Emphasis on genetics and medicine. Does not count as a course in the major. Three lecture hours a week.
+
+## BIOL 115. Reasoning with Data: Navigating a Quantitative World. 3 Credits.
+
+Students will use mathematical and statistical methods to address societal problems, make personal decisions, and reason critically about the world. Authentic contexts may include voting, health and risk, digital humanities, finance, and human behavior. This course does not count as credit towards the psychology or neuroscience majors.
+
+## BIOL 117. Pre-Health Thrive-1 Considering Health Professions. 1 Credits.
+
+This course provides exposure to a variety of health professions, emphasizing ways health care teams work together (interprofessional interactions). Self-assessments will be utilized to examine articulation between strengths and interests and the skills and competencies required in healthcare careers. Throughout the course, practitioners will provide insight into their professions such as allopathic and osteopathic medicine, podiatric medicine, veterinary medicine, optometry, dentistry, pharmacy, nursing, social work, and occupational therapy. Does not count toward major.
+
+## BIOL 118. Pre-Health Thrive-2 Pursuing Health Professions. 1 Credits.
+
+This course will provide guidance to plan a path toward a profession of interest by selecting appropriate course, service, and research opportunities to include in a portfolio useful in completing applications. Application preparation and interview skills will be addressed for health professions programs such as allopathic and osteopathic medicine, podiatric medicine, veterinary medicine, optometry, dentistry, pharmacy, nursing, social work, occupational therapy, and many others. This does not count as a course in the major.
+
+## BIOL 119. Experiencing Health Professions: A Service-Learning Partnership for Pre-Health Students. 3 Credits.
+
+This course provides experiential service opportunities for career exploration with select communities and populations associated with UNC Health. Students will be assigned to a role within the health system and will complete service hours within their assigned role. Class sessions will include topics related to healthcare and will develop skills in reflection, communication, and teamwork for career development. Does not count as an elective in the BIOL major or minor. Permission of instructor.
+
+## BIOL 150. The Creativity of Science, or Scientific Thinking in Biology. 3 Credits.
+
+This course provides an introduction to the dynamic, creative, and open-ended process that is the scientific method. Through the analysis of news reports and primary scientific literature (covering a range of socially relevant biology topics), students will learn how to understand and interpret data, gain critical analysis skills, and begin to "think like scientists." Enrollment restricted to first-years and transfer students in their first year at UNC (transfer students, email instructor to be enrolled).
+
+## BIOL 190. Special Topics in Biology at an Introductory Level. 3 Credits.
+
+Special topics in biology at an introductory level. This course does not count as a course in the biology major.
+
+## BIOL 195. Introduction to Research. 1 Credits.
+
+The research work must involve at least four hours per week of mentored research in a campus research laboratory. Does not count as a course in the major.
+
+## BIOL 201. Ecology and Evolution. 4 Credits.
+
+Principles governing the ecology and evolution of populations, communities, and ecosystems, including speciation, population genetics, population regulation, and community and ecosystem structure and dynamics. Three lecture hours and one recitation-demonstration-conference hour a week. Honors version available.
+
+## BIOL 202. Molecular Biology and Genetics. 4 Credits.
+
+Structure and function of nucleic acids, principles of inheritance, gene expression, and genetic engineering. Three lecture hours and one recitation-demonstration-conference hour a week. Honors version available.
+
+## BIOL 204. The Microbial World: Foundations in Structure, Metabolism, and Ecology. 3 Credits.
+
+This course will provide a basic introduction to microbiology and microbial ecology and evolution, covering topics such as cell structure, energetics, genomics, evolution and gene flow, ecological interactions, population and community dynamics, and biogeochemical cycling.
+
+## BIOL 205. Cellular and Developmental Biology. 4 Credits.
+
+Fundamentals of cell structure and activity in relation to special functions, metabolism, reproduction, embryogenesis, and with an introduction to the experimental analysis of cell physiology and development. Three lectures and one recitation-demonstration-conference hour a week. Honors version available.
+
+## BIOL 211. Introduction to Research in Biology. 3 Credits.
+
+Seminar based on current investigations at UNC. Students examine sources of scientific information, explore the logic of investigation, and develop proposals. Students with BIOL 211 credit may take a maximum of three hours of BIOL 395.
+
+## BIOL 213. Evolution and Life. 3 Credits.
+
+For students not majoring in biology. Introduction to the scientific study of biological evolution and its applications. The mechanisms that cause evolution and general patterns of evolution during the history of life. Does not count as a course in the major.
+
+## BIOL 217. The Physician's Garden. 3 Credits.
+
+First-year transfer students only. This course combines human cell biology and classical botany elaborating the mode of action of plant metabolites in humans. Hands-on experience includes visits to a pharmaceutical company, a botanical garden, and maintaining the campus medicinal garden.
+
+## BIOL 220. Molecular Genetics. 3 Credits.
+
+This intermediate-level biology course is geared towards advanced first years, sophomores, and juniors majoring in biology or in related fields. This is a comprehensive course for majors, covering transmission and molecular genetics; DNA replication, repair and mutation; the central dogma, gene regulation mechanisms, and manipulation of genes at the molecular level. We will also learn the impact of molecular genetics on development and disease. Honors section available. Honors version available.
+
+## BIOL 221. Seafood Forensics. 3 Credits.
+
+In this Course-based Undergraduate Research Experience (CURE) class, students will use forensic sciences (primarily DNA barcoding technology) to quantify seafood mislabeling. Students will learn the importance of food labeling as well as its impact on marine ecosystems and human health.
+
+## BIOL 222. Introduction to Programming with Biological Data. 3 Credits.
+
+All subdisciplines of biology deal with data. As the amount of data increases, automated methods of reading, manipulating and displaying data are necessary. This course covers the basics of practical computer programming to deal with this biological data. The emphasis is on learning techniques of reading, manipulating, analyzing and visualizing biological data. For Biology majors, the course satisfies the computer programming option, but does not count as a biology elective.
+
+## and 205. Three lecture hours a week. Students may not receive credit for both BIOL 224H and BIOL 214H.
+
+BIOL 224L. The Mathematics of Life Laboratory. 1 Credits.
+
+An accessible treatment of classic mathematical applications to molecules, cells, development, genetics, ecology, and evolution, complementing the material taught in BIOL 201, 202, and 205. This lab component is programming-based.
+
+## BIOL 226. Mathematical Methods for Quantitative Biology. 3 Credits.
+
+Introduction to quantitative biology with emphasis on applications that use mathematical modeling, linear algebra, differential equations, and computer programming. Applications may include neural networks, biomechanics, dispersion, and systems of biochemical reactions. Three lecture hours a week.
+
+## BIOL 240. Cell Biology. 3 Credits.
+
+This course will cover both biological concepts and scientific competencies necessary for a foundational mastery of cellular biology. Honors version available.
+
+## BIOL 243. The Cellular Agriculture Revolution. 3 Credits.
+
+Learn the foundational biological and chemical processes used to produce cultivated meat. Lectures will cover state-of-the-art techniques for cultivated meat production and will allow you to think critically about the future of food. Weekly guest speakers will expose students to innovative startups and academic researchers establishing a new paradigm for manufacturing sustainable commodity meat products. The course will also introduce the environmental, ethical, and economic drivers behind the mission of alternative protein science and technology.
+
+## BIOL 250. Evolutionary Biology. 3 Credits.
+
+This course will foster an understanding of how the science of evolutionary biology can be used to understand life on the planet. Topics to be explored include the causes of speciation and extinction, why humans get sick and age, and how genomes evolve. Students will learn how to interpret data from an evolutionary perspective, apply evolutionary principles to applications in medicine, conservation, agriculture and other disciplines, and prepare for more advanced work in biology.
+
+## BIOL 252. BIOL 252. Fundamentals of Human Anatomy and Physiology. 3 Credits.
+
+One biology course over 200 recommended. An introductory but comprehensive course emphasizing the relationship between form and function of the body's organ systems. Three lecture hours each week. Students may not receive credit for BIOL 252 and BIOL 251 or BIOL 251L or BIOL 352 or BIOL 353. Honors version available.
+
+## BIOL 253. Advanced Human Anatomy and Physiology. 3 Credits.
+
+In-depth study of physiological mechanisms at molecular, cellular, and system levels of organization. Students will develop analytical and problem solving skills. Intended for preprofessional students requiring a second semester of anatomy and physiology. Can be used as an allied science elective but not a biology elective course for the major or minor.
+
+## BIOL 255. The Evolution of Extraordinary Adaptations. 4 Credits.
+
+In this honors Course-based Undergraduate Research (CURE) class, students will learn how to do science. This includes reading the relevant scientific literature, formulating a research question, collecting data, performing statistical analysis, and presenting research results. Students will test new hypotheses in ecology and evolution for spectacular adaptations in organisms using field and laboratory experiments and observations. This course counts as a lab elective for Biology degrees. Honors version available.
+
+## BIOL 256. Mountain Biodiversity. 4 Credits.
+
+Introduction to the new field of biodiversity studies, which integrates approaches from systematics, ecology, evolution, and conservation. Taught at off-campus field station.
+
+## BIOL 260. Introduction to Ecology. 3 Credits.
+
+This course is a survey of the field of ecology intended for undergraduates who are early in their studies of biology. The course will provide a broad and detailed understanding of the field of ecology, including major concepts, broad empirical patterns, important contemporary directions, and ecological applications. Students will read and discuss primary literature, analyze ecological data sets, and consider effective science communication strategies.
+
+## BIOL 271. Plant Biology. 3 Credits.
+
+Designed for students with an interest in natural sciences. An introduction to the principles of botany including structure, function, reproduction, heredity, environmental relationships, evolution and classification of plants. Three lecture hours a week.
+
+## BIOL 272. Local Flora. 3 Credits.
+
+Open to all undergraduates. North Carolina's flora: recognition, identification, classification, evolution, history, economics, plant families, ecology, and conservation. Three lecture hours per week.
+
+## BIOL 273. Horticulture. 4 Credits.
+
+The cultivation, propagation and breeding of plants, with emphasis on ornamentals. Control of environmental factors for optimal plant growth. Laboratory exercises include plant culture, propagation, pruning, and identification of common ornamentals. Two lecture, one recitation, and three laboratory hours a week.
+
+## BIOL 274. Plant Diversity. 3 Credits.
+
+Survey of major groups of plants emphasizing interrelationships and comparative morphology. Culturing techniques and field work included. Three lecture hours a week.
+
+## BIOL 277. Vertebrate Field Zoology. 3 Credits.
+
+Introduction to the diversity, ecology, behavior, and conservation of living vertebrates. Three lecture hours a week.
+
+## BIOL 278. Animal Behavior. 3 Credits.
+
+Introduction to animal behavior with emphases on the diversity and adaptation of behavior in natural conditions. Three lecture hours a week.
+
+## BIOL 279. Seminar in Organismal Biology. 2-3 Credits.
+Permission of the instructor. An undergraduate course devoted to consideration of pertinent aspects of a selected organismal biological discipline.
+
+BIOL 279L. Topics in Organismal Biology Laboratory. 1-2 Credits.
+Permission of the instructor. An undergraduate laboratory course covering aspects of a specific organismal biological discipline. Laboratory reports will be required. Research work is not included in this course.
+
+BIOL 290. Special Topics in Biology. 1-3 Credits.
+Permission of the instructor. An undergraduate seminar course devoted to consideration of pertinent aspects of a selected biological discipline. Honors version available.
+
+BIOL 290L. Special Topics in Biology Laboratory. 1-2 Credits.
+Permission of the instructor. An undergraduate laboratory course covering aspects of a specific biological discipline. Laboratory reports will be required. Research work is not included in this course.
+
+BIOL 291. Teaching Apprentice in Biology. 1 Credits.
+
+Permission required. 3.0 or higher in course taught. Experience includes preparations, demonstrations, assistance, and attendance at weekly meetings. Apprentices will not be involved in any aspects of grading. May be repeated for credit.
+
+## BIOL 292. Teaching Assistant in Biology. 2 Credits.
+
+Permission required. 3.0 in course taught. Experience includes weekly meetings, preparations, demonstrations, instruction, and grading. May be repeated for credit. Six hours per week.
+
+## BIOL 293. Undergraduate Internship in Biology. 3 Credits.
+
+Biology majors only. The sponsored, off-campus work must involve at least 135 hours. Does not count as a course in the major. Permission of the instructor.
+
+## BIOL 294. Service Learning in Biology: APPLES. 1-2 Credits.
+Permission of the instructor. APPLES service-learning component for students enrolled in biology courses. Does not count as a course in the major. Honors version available.
+
+BIOL 295. Educational and Social Research in Biology. 1-3 Credits.
+This class is for students to pursue educational or social research related to the field of biology under the mentorship of a faculty member in the Department of Biology or another department on campus. Students mentored on projects by faculty outside the Department of Biology must identify a Department of Biology faculty member to sponsor their research. This course does not count as a biology elective in the biology major or minor.
+
+BIOL 296. Directed Readings in Biology. 1-3 Credits.
+Permission of the instructor. Extensive and intensive reading of the literature of a specific biological field directly supervised by a member of the biology faculty. Written reports on the readings, or a literature review paper will be required. Cannot be used as a course toward the major. Honors version available.
+
+BIOL 350. Oceanography. 3 Credits.
+
+Required preparation, major in a natural science or two courses in natural sciences. Studies origin of ocean basins, seawater chemistry and dynamics, biological communities, sedimentary record, and oceanographic history. Term paper. Students lacking science background should see EMES 103. Students may not receive credit for both EMES 103 and EMES 401. Course previously offered as GEOL 403/MASC 401.
+
+## BIOL 390. Special Topics in Biology. 1-3 Credits.
+Special topics course. Content and topics will vary each semester.
+
+BIOL 395. Undergraduate Research in Biology. 1-3 Credits.
+Hands-on research in the laboratory and/or field involving the study of biology. Requires written paper (first semester) or research poster (second semester). Up to five total hours counts as a lecture course. Six total hours counts as a biology elective with laboratory. Majors only. Honors version available.
+
+BIOL 402. Infectious Disease in the Developing World. 3 Credits.
+
+We will explore the challenges of infectious disease in the developing world, focusing on tuberculosis, HIV, and malaria. We will also examine the economics of different approaches to health care.
+
+## BIOL 405. Good Genes: Human Reproduction in the Social Context. 3 Credits.
+
+Reproduction is the most ancient feature of life and a continued focus of cutting-edge medical technology. This interdisciplinary course examines our biological imperative and cultural quest to make babies. We examine reproduction from the perspectives of bioethics, reproductive medicine, behavioral economics, genetic engineering, disability studies, and gender studies. Teaching methods include traditional lectures, in-class discussions, group work, peer teaching, and occasional flipped-classroom. Students who previously took BIOL 89/490 with Dr. Zwemer may not enroll.
+
+## BIOL 422. Microbiology. 3 Credits.
+
+Bacterial form, growth, physiology, genetics, and diversity. Bacterial interactions including symbiosis and pathogenesis (animal and plant). Use of bacteria in biotechnology. Brief introduction to viruses.
+
+## BIOL 423. Genetics Experiments. 3 Credits.
+
+This is a Course-based Undergraduate Research Experience (CURE) combination course/lab. Using genetics and genome biology, students will study DNA repair and chromosome stability using yeast as a model system in a cutting edge research laboratory.
+
+## BIOL 424. Microbial Ecology. 3 Credits.
+
+Class emphasizes the creativity of the scientific process, using primary scientific literature as a framework to discuss topics in microbial ecology, including microbial diversity, distributions, genomics, and co-evolution; host-microbe and microbe-microbe interactions; nutrient cycling; and degradation of plant matter and biofuels.
+
+## BIOL 425. Human Genetics. 3 Credits.
+
+Pedigree analysis, inheritance of complex traits, DNA damage and repair, human genome organization, DNA fingerprinting, the genes of hereditary diseases, chromosomal aberrations, cancer and oncogenes, immunogenetics and tissue transplants. Three lecture hours a week.
+
+## BIOL 426. Biology of Blood Diseases. 3 Credits.
+
+An introduction to the biology and pathophysiology of blood and the molecular mechanisms of some human diseases: anemias; leukemias; hemorrhagic, thrombotic, and vascular disorders; and HIV disease/AIDS. Honors version available.
+
+## BIOL 427. Human Diversity and Population Genetics. 3 Credits.
+
+Specifically, it addresses questions of human origins, population structure, and genetic diversity. This course investigates the facts, methods, and theories behind human population genetics, evolution, and diversity.
+
+## BIOL 428. Biology of Viruses. 3 Credits.
+
+Historically viruses are microscopic disease-causing vectors that make headlines around the world as they emerge, spread, and evolve. More recently, viruses are being used as therapeutic agents to treat disease. The course will provide a historical perspective of viruses past to present. Students will learn virus history, molecular biology of viruses and infection, discovery and treatment of emerging viruses, and the impact of viruses on society.
+
+## BIOL 430. Introduction to Biological Chemistry. 3 Credits.
+
+The study of cellular processes including catalysts, metabolism, bioenergetics, and biochemical genetics. The structure and function of biological macromolecules involved in these processes is emphasized. Honors version available.
+
+## BIOL 431. Biological Physics. 3 Credits.
+
+How diffusion, entropy, electrostatics, and hydrophobicity generate order and force in biology. Topics include DNA manipulation, intracellular transport, cell division, molecular motors, single molecule biophysics techniques, nerve impulses, neuroscience.
+
+## BIOL 434. Molecular Biology. 3 Credits.
+
+Advanced studies in molecular biology from an experimental approach.
+
+## BIOL 436. Plant Genetics, Development, and Biotechnology. 3 Credits.
+
+Recent advances in plant molecular biology, genetics, development, and biotechnology, and their potential relevance to agriculture. The course will include lectures, reading and discussions of papers from the primary literature, and student presentations. Honors version available.
+
+## BIOL 439. Introduction to Signal Transduction. 3 Credits.
+
+This course presents an introduction to signal transduction pathways used by higher eukaryotes. Several signaling paradigms will be discussed to illustrate the ways that cells transmit information. Three lecture hours per week.
+
+## BIOL 440. Stem Cell Biology. 3 Credits.
+
+Stem cells are important for a number of biological processes and have become topics of fascination in popular science and culture. This course will build from a solid foundation of genetics, cell, and developmental biology to give students a broad appreciation of stem cells in development, aging, disease, and bioengineering. Students will understand key concepts in stem cell biology like potential and immortality as well as understand stem cells' promise and limitations in therapeutic settings.
+
+## BIOL 441. Vertebrate Embryology. 3 Credits.
+
+Principles of development with special emphasis on gametogenesis, fertilization, cleavage, germ layer formation, organogenesis, and mechanisms, with experimental analysis of developmental processes. Three lecture hours a week.
+
+## BIOL 442. Self Assembly in Cell Biology. 3 Credits.
+
+In this class, we will read and discuss together the primary literature to understand how self-assembly in cell biology is harnessed in normal cells and goes awry in disease. A secondary goal will be for students to develop numeracy in cell biology so as to understand cell processes in a quantitative framework.
+
+## BIOL 443. Developmental Biology. 3 Credits.
+
+An experimental approach to an understanding of animals and plants. The approach covers developmental processes, molecular, genetic, cell biological and biochemical techniques, with an emphasis on the molecules involved in development.
+
+## BIOL 444. Molecular Basis of Disease. 3 Credits.
+
+This course investigates the biological causes behind human diseases via critical thinking and analysis of experimental research outcomes. It approaches topics from a research perspective similar to a graduate seminar. Topics covered include genetic/inherited diseases, metabolic diseases, immunological disorders, infectious diseases, cancer, cardiovascular diseases, and neurological diseases.
+
+## BIOL 445. Cancer Biology. 3 Credits.
+
+Selected examples will be used to illustrate how basic research allows us to understand the mechanistic basis of cancer and how these insights offer hope for new treatments.
+
+## BIOL 446. Unsolved Problems in Cellular Biology. 3 Credits.
+
+A survey of areas of current interest in cytology, embryology, and genetics with concentration on problems that remain unsolved but that appear to be near solution. Three lecture and discussion hours a week.
+
+## BIOL 447. Cell Biology: Beyond Core Basics. 1 Credits.
+
+Modern methods in cell biology.
+
+## BIOL 448. Advanced Cell Biology. 3 Credits.
+
+An advanced course in cell biology, with emphasis on the biochemistry and molecular biology of cell structure and function. Three lecture hours a week.
+
+## BIOL 449. Introduction to Immunology. 3 Credits.
+
+This course provides a general overview of the evolution, organization, and function of the immune system. Instruction will be inquiry-based with extensive use of informational and instructional technology tools.
+
+## BIOL 450. Neurobiology. 3 Credits.
+
+Recommended preparation, BIOL 205. Survey of neurobiological principles in vertebrates and invertebrates, including development, morphology, physiology, and molecular mechanisms. Three lectures a week.
+
+## BIOL 451. Comparative Physiology. 3 Credits.
+
+An examination of the physiology of animals using a comparative approach. Both invertebrate and vertebrate animals are discussed in order to elucidate general principles.
+
+## BIOL 452. Marine Microbial Symbioses: Exploring How Microbial Interactions Affect Ecosystems and Human Health. 3 Credits.
+
+Course material covers host-microbe and microbe-microbe interactions found in marine ecosystems, including beneficial and parasitic relationships among viruses, microbes, marine animals, and humans. Limited to upper-level undergraduate science majors and graduate students. Course previously offered as MASC 446.
+
+## BIOL 453. Molecular Control of Metabolism and Metabolic Disease. 3 Credits.
+
+This class will cover the small molecules, enzymes, signaling proteins, and pathways that control metabolic processes and that are altered in metabolic disease. We will generally take an experimental approach to explore and understand the fundamental aspects of metabolism.
+
+## BIOL 454. Evolutionary Genetics. 3 Credits.
+
+The roles of mutation, migration, genetic drift, and natural selection in the evolution of the genotype and phenotype. Basic principles are applied to biological studies. Three lecture hours a week.
+
+## BIOL 455. Behavioral Neuroscience. 3 Credits.
+
+The neurobiological basis of animal behavior at the level of single cells, neural circuits, sensory systems, and organisms. Lecture topics range from principles of cellular neurobiology to ethological field studies.
+
+## BIOL 456. Marine Phytoplankton. 3 Credits.
+
+For junior and senior science majors or graduate students. Biology of marine photosynthetic protists and cyanobacteria. Phytoplankton evolution, biodiversity, structure, function, biogeochemical cycles and genomics. Harmful algal blooms, commercial products, and climate change. Three lecture/practical session hours per week. Course previously offered as MASC 444. Permission of the instructor.
+
+## BIOL 457. Marine Biology. 3 Credits.
+
+Recommended preparation, BIOL 201 or 475. A survey of plants and animals that live in the sea: characteristics of marine habitats, organisms, and the ecosystems will be emphasized. Marine environment, the organisms involved, and the ecological systems that sustain them. Course previously offered as MASC 442.
+
+## BIOL 458. Sensory Neurobiology and Behavior. 3 Credits.
+
+Recommended preparation, BIOL 205. An exploration of sensory systems and sensory ecology in animals. Topics range from neurophysiological function of sensory receptors to the role of sensory cues in animal behavior.
+
+## BIOL 459. Field Biology at Highlands Biological Station. 1-4 Credits.
+Content varies. Summer field biology at the Highlands Biological Station focuses on the special faunal and floristic processes and patterns characteristic of the southern Appalachian mountains. Five lecture and three to five laboratory and field hours per week, depending on credit.
+
+BIOL 461. Fundamentals of Ecology. 4 Credits.
+
+Students will develop a comprehensive understanding of the field of ecology, including modern and emerging trends in ecology. They will develop literacy in the fundamental theories and models that capture ecological processes; emphasis will also be placed on the relevance of ecology and ecological research for human society.
+
+## BIOL 462. Marine Ecology. 3 Credits.
+
+Survey of the ecological processes that structure marine communities in a range of coastal habitats. Course emphasizes experimental approaches to addressing basic and applied problems in marine systems. Course previously offered as MASC 440.
+
+## BIOL 463. Field Ecology. 4 Credits.
+
+Application of ecological theory to terrestrial and/or freshwater systems. Lectures emphasize quantitative properties of interacting population and communities within these systems. Required laboratory teaches methodology applicable for analysis of these systems. Projects emphasize experimental testing of ecological theory in the field. Two lecture and six field hours a week.
+
+## BIOL 464. Global Change Biology. 3 Credits.
+
+Responses of plants, animals, and communities to climate and other global changes, emphasizing ecology, physiology, behavior, and evolution. Investigation of past responses and tools for predicting future responses.
+
+## BIOL 465. Global Biodiversity and Macroecology. 3 Credits.
+
+We will explore global patterns of diversity of plants, animals, fungi, and microbes, and the insights gained by taking a statistical approach to describing these and other broad-scale ecological patterns.
+
+## BIOL 466. Environmental Microbiology. 3 Credits.
+
+This course surveys multiple dimensions of environmental microbiology, including methods and techniques for microbial genomics, transcriptomics, and metabolomics, ecological and evolutionary microbiology, the roles of microbes in ecological systems, and current applications of and issues in environmental microbiology.
+
+## BIOL 469. Behavioral Ecology. 3 Credits.
+
+BIOL 278 recommended but not required and can be taken concurrently. Behavior as an adaptation to the environment. Evolution of behavioral strategies for survival and reproduction. Optimality and games that animals play. Three lecture hours a week.
+
+## BIOL 471. Evolutionary Mechanisms. 3 Credits.
+
+Introduction to mechanisms of evolutionary change, including natural selection, population genetics, life history evolution, speciation, and micro- and macroevolutionary trends. Three lecture hours a week.
+
+## BIOL 472. Introduction to Plant Taxonomy. 4 Credits.
+
+Introduction to the taxonomy of vascular plants. Principles of classification, identification, nomenclature, and description. Laboratory and field emphasis on phytography, families, description, identification, and classification of vascular plant species. Three lecture and three laboratory hours a week.
+
+## BIOL 473. Mammalian Morphology and Development. 3 Credits.
+
+An in-depth examination of the anatomical, evolutionary, and developmental history of mammals, including humans. Particular attention will be given to nervous, musculoskeletal and craniofacial structures.
+
+## BIOL 474. Evolution of Vertebrate Life. 3 Credits.
+
+Evolutionary history of the vertebrates. Emphasis on anatomical, physiological, behavioral adaptations accompanying major transitions: the move from water to land, the development of complex integrating systems. Honors version available.
+
+## BIOL 475. Biology of Marine Animals. 3 Credits.
+
+Required preparation, one additional course in biology. An introduction to the major animal phyla emphasizing form, function, behavior, ecology, evolution, and classification of marine invertebrates. Three lecture and three laboratory hours per week.
+
+## BIOL 476. Avian Biology. 3 Credits.
+
+A study of avian evolution, anatomy, physiology, neurobiology, behavior, biogeography, and ecology. Three lecture hours a week.
+
+## BIOL 479. Topics in Organismal Biology at an Advanced Level. 3 Credits.
+
+Topics in organismal biology at an advanced undergraduate or graduate student level.
+
+## BIOL 480. Discoveries in Prevention and Cure of Infectious Disease in London. 3 Credits.
+
+This is a Burch summer honors course taught in London. We will examine three major discoveries relating to infectious disease (vaccination, transmission via water, and antibiotics) and one major epidemic (plague) which led to no scientific response and explore how the thought of the time influenced scientific research. Honors version available.
+
+## BIOL 481. Biology, History, and Evolution of Epidemic Diseases. 3 Credits.
+
+A consideration of the biology and evolution of epidemic diseases and the response of society and the scientific community. Plague, smallpox, cholera, influenza, polio, and COVID-19. Readings from recent scientific papers and history and literature. Students may not receive credit for both BIOL 480 and 481.
+
+## BIOL 490. Advanced Topics in Biology. 3 Credits.
+
+Permission of the instructor. Content will vary. Three lecture and discussion hours per week by visiting and resident faculty. Honors version available.
+
+## BIOL 495. Undergraduate Research in Biology. 1-3 Credits.
+Permission of the instructor. Biology majors only. A continuation of the hands-on research in the laboratory and/or field that was started in BIOL 395. A final written paper is required each term. May be repeated. Does not count as a course in the major. Pass/fail credit only. Honors version available.
+
+BIOL 501. Ethical Issues in Life Sciences. 3 Credits.
+
+Permission of the instructor. A consideration and discussion of ethical issues in life sciences including cloning humans, genetic engineering, stem cell research, organ transplantation, and animal experimentation. Counts as a course numbered below 400 for biology major requirements.
+
+## BIOL 514. Ecological and Evolutionary Developmental Biology. 3 Credits.
+
+This course explores the history, concepts, and applications of the emerging field of ecological and evolutionary developmental biology. In doing so, students will learn how traits emerge from the interplay of genes and the environment and how such developmental plasticity impacts ecology, evolution, and health. Students will also gain experience interpreting scientific literature, planning creative research, and integrating ideas from disciplines ranging from molecular biology and the health sciences to ecology and evolutionary biology. Honors version available.
+
+## BIOL 523. Sex Differences in Human Disease. 3 Credits.
+
+Many human diseases including cancer, cardiovascular disease, dementia, chronic kidney disease, obesity, and auto-immune disease differ in their pathology and treatment between males and females. The class will first cover the hormonal and genetic mechanisms of sex determination, and then build on this knowledge to understand sexual disparities in the development and potential treatments of disease. The course will be based on primary literature and discussions of experimental evidence.
+
+## BIOL 524. Strategies of Host-Microbe Interactions. 3 Credits.
+
+There is great variety in how microbes colonize and live with their hosts. The course will summarize strategies of pathogenicity, symbiosis, commensalism and mutualism. Evolutionary, cellular, and molecular aspects will be analyzed.
+
+## BIOL 525. Analysis and Interpretation of Sequence-Based Functional Genomics Experiments. 3 Credits.
+
+Practical introduction to functional genomics experiments, such as RNA-seq and ChIP-seq, and computational techniques for the analysis of these data derived from high-throughput sequencing. Interpretation of results will be stressed. Basic knowledge of molecular biology, beginning level computational skills, and familiarity with basic statistical concepts are expected. Three lecture hours a week.
+
+## BIOL 526. Computational Genetics. 4 Credits.
+
+Introduction to computational principles underlying sequence alignment and phylogenetics, genome assembly and annotation, analysis of gene function, and other bioinformatics applications. Includes a one-hour computer laboratory. Honors version available.
+
+## BIOL 527. Seminar in Quantitative Biology. 3 Credits.
+
+Seminar in quantitative biology for advanced students. The course counts as a quantitative biology course for the major.
+
+## BIOL 528. Quantitative Personalized Genomics. 3 Credits.
+
+Personalized medicine, specifically using genetic markers to improve outcomes and minimize side effects (pharmacogenomics) requires the development and application of advanced computational and quantitative techniques. Students will develop computational skills to address contemporary genomic and statistical problems.
+
+## BIOL 529. Clinical and Counseling Aspects of Human Genetics. 3 Credits.
+
+Topics in clinical genetics including pedigree analysis, counseling/ethical issues, genetic testing, screening, and issues in human research. Taught in a small group format. Active student participation is expected.
+
+## BIOL 532. Recent Discoveries in Molecular Biology. 3 Credits.
+
+This course examines recent insights into molecular and cellular processes obtained through modern experimental approaches. Extensive reading of primary literature, discussed in a seminar format.
+
+## BIOL 534. Mathematical Modeling in the Life Sciences. 3 Credits.
+
+Requires some knowledge of computer programming. Model validation and numerical simulations using ordinary, partial, stochastic, and delay differential equations. Applications to the life sciences may include muscle physiology, biological fluid dynamics, neurobiology, molecular regulatory networks, and cell biology.
+
+## BIOL 535. Molecular Biology Techniques. 4 Credits.
+
+Recommended preparation, BIOL 434. Experiments with bacterial phage, nucleic acid isolation and properties, recombinant DNA techniques, and DNA sequencing. Additional hours in laboratory will be necessary to complete assignments. Permission of the instructor.
+
+## BIOL 537. Biotechnology and Synthetic Biology. 3 Credits.
+
+Recent advances in biotechnology and synthetic biology, and their potential relevance to medicine, agriculture, and engineering. The course will include lectures, reading and discussions of papers from the primary literature, and student projects and presentations.
+
+## BIOL 542. Light Microscopy for the Biological Sciences. 3 Credits.
+
+Introduction to various types of light microscopy, digital and video imaging techniques, and their application in biological sciences. Permission of the instructor.
+
+## BIOL 543. Cardiovascular Biology. 3 Credits.
+
+An experimental approach to understanding cardiovascular development, function, and disease. It covers cardiovascular development (heart, blood vasculature, lymphatic vasculature) and cardiovascular function as linked to selected diseases. Focus on molecular, genetic, cell biological, and biochemical techniques used to study the cardiovascular system, with an emphasis on the genes and signaling pathways involved in cardiovascular development and disease. Most topics will be paired with a research paper from the primary literature. Honors version available.
+
+## BIOL 545. Exploring Brain, Gut, and Immunity. 3 Credits.
+
+The course will explore topics that relate to how the brain and the gut communicate with one another. The course will also examine the connection between the brain-gut axis to the immune system and the microbiota at a molecular, cellular, and organismal level. Students will survey these emerging research topics and critically think, critique, and understand the experimental evidence for what we understand today about the gut and brain relationship. Honors version available.
+
+## BIOL 546. Biology of Aging. 3 Credits.
+
+This course is designed for undergraduate or graduate students who are interested in understanding how aging is controlled at an advanced level. Emphasis will be placed on molecular and cellular mechanisms of aging in metazoans. Emphasis will also be placed on healthy aging and on how progress and discoveries are made in the field of aging. This course is based on scientific research or review papers and has no textbook.
+
+## BIOL 547. Synaptic Plasticity: Analysis of Primary Literature. 3 Credits.
+
+In this highly interactive, small-group course, we will read a series of scientific papers that elegantly demonstrate molecular events that are fundamental to synaptic plasticity, a key mechanism of learning and memory. Students will become familiar with this exciting neuroscience topic, and also learn how to interpret experimental data and read papers critically and objectively. We will also think about the future experiments suggested by each paper we read.
+
+## BIOL 551. Comparative Biomechanics. 3 Credits.
+
+The structure and function of organisms in relation to the principles of fluid mechanics and solid mechanics.
+
+## BIOL 552. Behavioral Endocrinology. 3 Credits.
+
+Undergraduates need permission of the instructor to enroll. The study of the interactions among hormones, the brain, and behavior from how hormones shape the development and expression of behaviors to how behavioral interactions regulate endocrine physiology.
+
+## BIOL 553. Mathematical and Computational Models in Biology. 3 Credits.
+
+This course introduces analytical, computational, and statistical techniques, such as discrete models, numerical integration of ordinary differential equations, and likelihood functions, to explore various fields of biology.
+
+## BIOL 554. Introduction to Computational Neuroscience. 3 Credits.
+
+This course covers various mathematical tools and techniques for modeling the various elements and phenomena that comprise the nervous system and brain.
+
+## BIOL 555. Paleobotany: An Introduction to the Past History of Plants. 3 Credits.
+
+An introduction to the fossil record of plants, investigating how plants originated and changed through geological time to produce the modern flora. Both macrofossils and microfossils will be considered. Three lecture hours a week. Previously offered as GEOL 555.
+
+## BIOL 561. Ecological Plant Geography. 3 Credits.
+
+Description of the major vegetation types of the world including their distribution, structure, and dynamics. The principal causes for the distribution of plant species and communities, such as climate, soils, and history will be discussed.
+
+## BIOL 562. Statistics for Environmental Scientists. 4 Credits.
+
+Introduction to the application of quantitative and statistical methods in environmental science, including environmental monitoring, assessment, threshold exceedance, risk assessment, and environmental decision making.
+
+## BIOL 563. Statistical Analysis in Ecology and Evolution. 4 Credits.
+
+Application of modern statistical analysis and data modeling in ecological and evolutionary research. Emphasis is on computer-intensive methods and model-based approaches. Familiarity with standard parametic statistics is assumed.
+
+## BIOL 564. Population Ecology. 3 Credits.
+
+Permission of the instructor for those lacking the prerequisites. Corequisite, BIOL 546L. Principles governing the phenomena of single and interacting populations are examined, from basic tenets to cutting-edge research questions. Population and community-level perspectives are integrated by drawing parallels between approaches and considering how to scale up from phenomena involving one or a few species to the structure and dynamics of whole communities. This course is intended for advanced undergraduate and beginning graduate students. Emphasis will be on theoretical concepts and corresponding mathematical approaches.
+
+## BIOL 564. In this laboratory course, students will understand the assumptions and predictions of core models in population and community ecology (and in general terms, how the predictions are derived from the models), and the role of these models and others like them in the development and testing of the theory of populations and communities, i.e. in the "core ideas" of population and community ecology.
+
+BIOL 565. Conservation Biology. 3 Credits.
+
+The application of biological science to the conservation of populations, communities, and ecosystems, including rare species management, exotic species invasions, management of natural disturbance, research strategies, and preserve design principles. Honors version available.
+
+## BIOL 567. Evolutionary Ecology. 3 Credits.
+
+Advanced consideration of the evolution of form and function. May include issues in life-history evolution, evolutionary physiology, evolutionary morphology, and the evolution of complexity. Three lecture hours per week.
+
+## BIOL 568. BIOL 579. Organismal Structure and Diversity in the Southern Appalachian Mountains. 4 Credits.
+
+Permission of the instructor. An examination of the field biology of selected fungi, plants, or animals of the Appalachian Mountains. The morphology, taxonomy, ecology, life history, and behavior of the organisms will be explored both in the laboratory and in the field.
+
+## BIOL 590. Advanced Special Topics in Biology. 3 Credits.
+
+Special topics in biology for advanced undergraduate students and graduate students.
+
+## BIOL 602. Professional Development Skills for Ecologists and Biologists. 3 Credits.
+
+The goal of this course is to help students who intend to become professional ecologists or biologists acquire critical skills and strategies needed for achieving their career goals.
+
+## BIOL 603. MiBio Seminar. 2 Credits.
+
+This class is designed to 1) enhance students' ability to present scientific material to their peers in a comprehensive, cohesive manner, 2) familiarize students with scientific concepts and technologies used in multiple disciplines, 3) expose students to cutting edge research, 4) prepare students to gain substantial meaning from seminars and to ask questions, and 5) enhance students' ability to evaluate scientific papers and seminars.
+
+## BIOL 604. Laboratory Practices for New Investigators. 1 Credits.
+
+Required preparation, participation in an ongoing laboratory research project. Permission of the instructor. A seminar course designed to introduce students to approaches and methods needed in carrying out an independent research project in a particular focus area of biology. For advanced undergraduates and graduate students.
+
+## BIOL 605. Reading and Writing Scientific Literature. 1 Credits.
+
+A seminar course designed to introduce students to how to read and write scientific papers. For advanced undergraduates and graduate students.
+
+## BIOL 620. Bacterial Genetics with Emphasis on Pathogenic and Symbiotic Interactions. 3 Credits.
+
+Molecular genetics of bacteria. The emphasis will be on pathogenic and symbiotic interactions of bacteria with eukaryotes, although other aspects of bacterial genetics will be considered.
+
+## BIOL 621. Principles of Genetic Analysis I. 3 Credits.
+
+Genetic principles of genetic analysis in prokaryotes and lower eukaryotes.
+
+## BIOL 622. Principles of Genetic Analysis II. 4 Credits.
+
+Principles of genetic analysis in higher eukaryotes; genomics.
+
+## BIOL 624. Developmental Genetics. 3 Credits.
+
+Permission of the instructor for undergraduates. Genetic and molecular control of plant and animal development. Extensive reading from primary literature.
+
+## BIOL 625. Seminar in Genetics. 2 Credits.
+
+Permission of the instructor for undergraduates. Current and significant problems in genetics. May be repeated for credit.
+
+## BIOL 631. Advanced Molecular Biology. 4 Credits.
+
+This course explores cutting edge research in molecular biology -- the investigation at molecule-scale of the mechanisms behind life. We briefly review core-principles in molecular biology, then investigate more recent research that extends or overturns these core principles.
+
+## BIOL 632. Advanced Molecular Biology II. 3 Credits.
+
+Required preparation for undergraduates, at least one undergraduate course in both biochemistry and genetics. The purpose of this course is to provide historical, basic, and current information about the flow and regulation of genetic information from DNA to RNA in a variety of biological systems. Three lecture hours a week.
+
+## BIOL 635. Careers in Biotechnology. 1 Credits.
+
+This seminar course will provide graduate and advanced undergraduate students information on career opportunities and culture in the field of biotechnology. The instructor and guest lecturers will present examples of global challenges addressed by modern biotechnology, and how research and development are carried out in the industry. Students will develop and present their own plan for a new biotechnology venture. Does not count within the Biology major or minor.
+
+## BIOL 639. Seminar in Plant Molecular and Cell Biology. 1 Credits.
+
+Permission of the instructor. May be repeated for credit. Current and significant problems in plant molecular and cell biology are discussed in a seminar format. Can count as BIOL elective credit in the major if combined with other 600-level courses for a total of three credit hours.
+
+## BIOL 642. Advanced Studies of Cell Division. 3 Credits.
+
+An advanced course in cell and molecular biology integrating genetic, biochemical, and structural aspects of the cell cycle. Principles derived from a variety of biological systems. Extensive reading of classic papers as well as recent literature.
+
+## BIOL 648. Palynology. 5 Credits.
+
+Permission of the instructor. A consideration of various aspects of palynology, including the morphology, structure, development, systematics, evolution, preparation techniques, and analysis of living and fossil pollen grains, spores, and other palynomorphs. Two lecture and six laboratory hours a week.
+
+## BIOL 649. Seminar in Cell Biology. 2 Credits.
+
+May be repeated for credit. Can count as BIOL elective credit in the major if combined with other 600-level courses for a total of three credit hours.
+
+## BIOL 650. Animal Cognition. 3 Credits.
+
+For advanced undergraduates and graduate students. The goal of the course is to gain an in-depth understanding of animal cognition in the context of evolution and neurobiology with an emphasis on recent research.
+
+## BIOL 657. Biological Oceanography. 4 Credits.
+
+For graduate students; undergraduates need permission of the instructor. Marine ecosystem processes pertaining to the structure, function, and ecological interactions of biological communities; management of biological resources; taxonomy and natural history of pelagic and benthic marine organisms. Three lecture and recitation hours per week. One mandatory weekend fieldtrip. Course previously offered as MASC 504.
+
+## BIOL 659. Seminar in Evolutionary Biology. 2 Credits.
+
+Permission of the instructor. Advanced studies in evolutionary biology. Can count as BIOL elective credit in the major if combined with other 600-level courses for a total of three credit hours.
+
+## BIOL 661. Plant Ecology. 4 Credits.
+
+Consideration of terrestrial, vascular plant ecology including environmental physiology, population dynamics, and community structure. Laboratory stresses collection and interpretation of field data. Three lecture and three laboratory hours a week.
+
+## BIOL 669. Seminar in Ecology. 1-3 Credits.
+May be repeated for credit.
+
+BIOL 680. Advanced Seminar in Recent Biological Research and Methods. 1 Credits.
+
+Permission of the instructor. The course will cover topics and experimental approaches of current interest. Students will learn intellectual and practical aspects of cutting-edge topics in biology. It will meet for one hour per week, in a lecture and discussion format.
+
+## BIOL 690. Advanced Special Topics with an Emphasis on Recent Research. 3 Credits.
+
+Permission of the instructor. Special topics in biology with an emphasis on recent research. For advanced undergraduates and graduate students.
+
+## BIOL 395. Senior biology majors only (first or second majors). Required of all candidates for Highest Honors or Honors. Can be taken in either the fall or spring semester of their senior year. Approval of the Biology Honors Director required. Permission of a faculty research director and three credit hours of BIOL 395 in the same laboratory required.
+
+BIOL 701. Overview of Biology. 1-2 Credits.
+Biology faculty will present individual research presentations followed by discussion.
+
+BIOL 702. Student Seminars. 1 Credits.
+
+Required of all candidates for the degree in genetics. A course to provide public lecture experience to advanced genetics students. Students present personal research seminars based on their individual dissertation projects. Lectures are privately critiqued by fellow students and genetics faculty.
+
+## BIOL 703. Recent Advances in Biology. 1-3 Credits.
+A consideration of the methods and literature involved in the latest advances in selected areas of biology.
+
+BIOL 704. Seminars in Biophysics. 2 Credits.
+
+Permission of the instructor. Students present seminars coordinated with the visiting lecturer series of the Program in Molecular and Cellular Biophysics.
+
+## BIOL 705. Best Practices for Rigor and Reproducibility in Research. 1 Credits.
+
+A workshop to introduce best practices for increasing rigor and reproducibility in research. Permission of course directors required.
+
+## BIOL 711. Genetic Lecture Series. 1 Credits.
+
+Diverse but current topics in all aspects of genetics. Relates new techniques and current research of notables in the field of genetics.
+
+## BIOL 713. Student Seminars. 1 Credits.
+
+Required of all candidates for the degree in genetics. A course to provide public lecture experience to advanced genetics students. Students present personal research seminars based on their individual dissertation projects. Lectures are privately critiqued by fellow students and genetics faculty.
+
+## BIOL 758. Molecular Population Biology. 4 Credits.
+
+Hands-on training, experience, and discussion of the application of molecular genetic tools to questions of ecology, evolution, systematics, and conservation.
+
+## BIOL 801. Seminar in Biological Sciences. 1-2 Credits.
+Permission of the instructor. Advanced seminar in interdisciplinary biological sciences.
+
+BIOL 810. Seminar in College Science Teaching. 2 Credits.
+
+This interactive course will help graduate students develop the knowledge and skills needed to implement student-centered science instruction at the university level. Participants will support one another in creating a teachable unit, a personal teaching philosophy statement, and a course syllabus.
+
+## BIOL 829. Seminar in Quantitative Biology. 1-3 Credits.
+Permission of the instructor. Advanced seminar in quantitative biology.
+
+BIOL 831. Seminar in Insect Physiology, Biochemistry, and Endocrinology. 1-2 Credits.
+Permission of the instructor. Advanced seminar in insect physiology, biochemistry, and endocrinology.
+
+BIOL 832. Seminar in Molecular Biology. 1-2 Credits.
+Advanced seminar in molecular biology.
+
+BIOL 841. Seminar in Embryology. 1-2 Credits.
+Advanced seminar in embryology.
+
+BIOL 842. Seminar in Cell Biology and Biochemistry. 1-2 Credits.
+Permission of the instructor. Advanced seminar in cell biology and biochemistry.
+
+BIOL 845. Advanced Seminar in Neurobiology. 2 Credits.
+
+Advanced seminar in Neurobiology. Students should have previous experience in Neurobiology courses or research.
+
+## BIOL 852. Seminar in Plant Systematics. 1-2 Credits.
+Permission of the instructor. Advanced seminar in plant systematics.
+
+BIOL 853. Seminar in Plant Morphology and Anatomy. 1-2 Credits.
+Permission of the instructor. Advanced seminar in plant morphology and anatomy.
+
+BIOL 854. Seminar in Neurophysiology. 1-2 Credits.
+Permission of the instructor. Advanced seminar in neurophysiology. May be repeated for credit.
+
+BIOL 855. Seminar in Invertebrate Zoology. 1-2 Credits.
+Advanced seminar in invertebrate zoology. May be repeated for credit.
+
+BIOL 856. Seminar in Vertebrate Evolutionary Biology. 1-2 Credits.
+Permission of the instructor. Advanced seminar in vertebrate evolutionary biology. May be repeated for credit.
+
+BIOL 857. Seminar in Comparative Animal Behavior. 1-2 Credits.
+Permission of the instructor. Advanced seminar in comparative animal behavior. May be repeated for credit.
+
+BIOL 858. Seminar in Comparative Physiology. 1-2 Credits.
+Advanced seminar in comparative physiology.
+
+BIOL 859. Seminar in Marine Biology. 1-2 Credits.
+Permission of the instructor. Advanced seminar in marine biology. May be repeated for credit.
+
+BIOL 861. Statistical Analysis in Ecology and Evolution using R. 1 Credits.
+
+Graduate standing in biology, ecology or genetics required. Introduction to statistical analysis and modeling of ecological and evolutionary data using the R programming environment.
+
+## BIOL 890. Special Topics in Biology. 1-2 Credits.
+Permission of the instructor. Consideration of special topics in biology. May be repeated once for credit.
+
+BIOL 891. Graduate Seminar in Biology. 2 Credits.
+
+Graduate standing or permission of the instructor. This course will increase students' intellectual depth across the fields of ecology, evolution, and organismal biology (EEOB). Students will read and discuss papers, attend seminars, and present research ideas. Required of all candidates for the degree in biology in the EEOB graduate program.
+
+## BIOL 892. Special Topics in Biology for Graduate Students. 1-4 Credits.
+This course is designed to allow graduate students to explore areas of biology outside their direct area of specialization. Three credits lecture only. Four credits lecture and lab.
+
+BIOL 901. Introduction to Graduate Research. 1-15 Credits.
+Graduate research for six weeks in two laboratories. Designed primarily to acquaint first-year students with research techniques and to assess their propensity for research. Arranged by mutual agreement of students and faculty members during fall orientation. May be repeated once for credit. Six to nine hours per week.
+
+BIOL 921. Research in Genetics. 1-15 Credits.
+May be repeated for credit.
+
+BIOL 931. Research in Molecular Biology. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.
+
+BIOL 932. Research in Plant Molecular Biology. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.
+
+BIOL 941. Research in Cytology and Cell Biology. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.
+
+BIOL 942. Research in Embryology. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.
+
+BIOL 943. Research in Physiology: Cellular, Comparative, Neurophysiology. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.
+
+BIOL 951. Research in Neurobiology. 3-12 Credits.
+Permission of the department. Research in various aspects of neurobiology. Six to 24 hours a week.
+
+BIOL 952. Research in Ethology and Animal Behavior. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.
+
+BIOL 953. Research in Marine Sciences. 2-21 Credits.
+No description available.
+
+BIOL 954. Research in Marine Sciences on Mollusca, Crustacea, Ichthyology, or Oceanography. 1-15 Credits.
+Permission of the department. At the Institute for Marine Sciences, Morehead City, NC.
+
+BIOL 955. Research in Vertebrate or Invertebrate Zoology. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.
+
+BIOL 957. Research in Plant Systematics. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.
+
+BIOL 958. Research in Plant Morphology and Anatomy. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement for student and faculty member.
+
+BIOL 959. Research in Paleobotany. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of student and faculty member.
+
+BIOL 961. Research in Ecology. 1-15 Credits.
+Acquaints early career graduate students with research techniques and assesses their propensity for research. Arranged by mutual agreement of the student and faculty member.
+
+BIOL 992. Master's (Non-Thesis). 3 Credits.
+
+Course for graduate students expecting to receive the degree of Master of Arts in Biology.
+
+## BIOL 993. Master's Research and Thesis. 3 Credits.
+
+No description available.
+
+## BIOL 994. Doctoral Research and Dissertation. 3 Credits.
+
+No description available.
+

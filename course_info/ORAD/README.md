@@ -1,9 +1,33 @@
 # ORAD Course Catalog
 
-- [ORAD 702: Advanced Oral Radiologic Technology](ORAD_702_Advanced_Oral_Radiologic_Technology)
-- [ORAD 704: Advanced Radiologic Diagnosis II](ORAD_704_Advanced_Radiologic_Diagnosis_II)
-- [ORAD 705: Principles for Advanced Diagnostic and Therapeutic Radiology](ORAD_705_Principles_for_Advanced_Diagnostic_and_Therapeutic_Radiology)
-- [ORAD 706: Advanced Oral Radiology](ORAD_706_Advanced_Oral_Radiology)
-- [ORAD 710: Oral and Maxillofacial Radiology Literature Review](ORAD_710_Oral_and_Maxillofacial_Radiology_Literature_Review)
-- [ORAD 802: Clinical Radiology Conference](ORAD_802_Clinical_Radiology_Conference)
-- [ORAD 992: Master's (Non-Thesis)](ORAD_992_Master's_(Non-Thesis))
+## ORAD 702. Advanced Oral Radiologic Technology. 4 Credits.
+
+Seminars, laboratory, and clinical sessions to provide experience in advanced oral radiologic procedures.
+
+## ORAD 704. Advanced Radiologic Diagnosis II. 3 Credits.
+
+Literature review, seminars, and clinical experience in advanced radiologic diagnosis.
+
+## ORAD 705. Principles for Advanced Diagnostic and Therapeutic Radiology. 4 Credits.
+
+Literature review and seminars in the application of radiologic procedures such as computed tomography, digital imaging, and magnetic resonance for diagnosis of oral and maxillofacial conditions. Fundamentals of radiation therapy are also included.
+
+## ORAD 706. Advanced Oral Radiology. 2 Credits.
+
+Radiographic selection criteria, dental radiographs efficacy, panoramic radiology, extraoral techniques, radiation risks and radiological hygiene in dental practice, principle of radiologic interpretation, radiology of cysts and tumors, radiology of the TMJ, radiology of systemic disease, quality improvement, radiology for dental implants, digital imaging in dentistry, and advanced craniofacial region imaging.
+
+## ORAD 707. Graduate Clinical Oral Radiology. 2-6 Credits.
+No description available.
+
+ORAD 710. Oral and Maxillofacial Radiology Literature Review. 1 Credits.
+
+Course is designed for graduate students with a strong interest in OMFR and seeks to expose students to classical articles in the radiology literature.
+
+## ORAD 802. Clinical Radiology Conference. 1 Credits.
+
+Case studies in the interpretation of unusual conditions of the oral and maxillofacial region.
+
+## ORAD 992. Master's (Non-Thesis). 3 Credits.
+
+Individual research under the direction of a mentor with the intention of publication. Completion of a manuscript and submission is a requirement for an MS degree.
+

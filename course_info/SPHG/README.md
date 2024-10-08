@@ -1,16 +1,78 @@
 # SPHG Course Catalog
 
-- [SPHG 101: Exploring Public Health Fields](SPHG_101_Exploring_Public_Health_Fields)
-- [SPHG 351: Foundations of Public Health](SPHG_351_Foundations_of_Public_Health)
-- [SPHG 352: Public Health Systems and Solutions](SPHG_352_Public_Health_Systems_and_Solutions)
-- [SPHG 428: Public Health Entrepreneurship](SPHG_428_Public_Health_Entrepreneurship)
-- [SPHG 429: Public Health, Entrepreneurship, and Food Systems in Southeast Asia](SPHG_429_Public_Health,_Entrepreneurship,_and_Food_Systems_in_Southeast_Asia)
-- [SPHG 600: Introduction to Public Health](SPHG_600_Introduction_to_Public_Health)
-- [SPHG 701: Leading from the Inside-Out](SPHG_701_Leading_from_the_Inside-Out)
-- [SPHG 702: Practicum Assignments & Interprofessional Practice Activities](SPHG_702_Practicum_Assignments_&_Interprofessional_Practice_Activities)
-- [SPHG 711: Data Analysis for Public Health](SPHG_711_Data_Analysis_for_Public_Health)
-- [SPHG 712: Methods and Measures for Public Health Practice](SPHG_712_Methods_and_Measures_for_Public_Health_Practice)
-- [SPHG 713: Systems Approaches to Understanding Public Health Issues](SPHG_713_Systems_Approaches_to_Understanding_Public_Health_Issues)
-- [SPHG 721: Public Health Solutions: Systems, Policy and Advocacy](SPHG_721_Public_Health_Solutions:_Systems,_Policy_and_Advocacy)
-- [SPHG 722: Developing, Implementing, and Evaluating Public Health Solutions](SPHG_722_Developing,_Implementing,_and_Evaluating_Public_Health_Solutions)
-- [SPHG 992: Master's (Non-Thesis)](SPHG_992_Master's_(Non-Thesis))
+## SPHG 89. First-Year Seminar: Special Topics. 3 Credits.
+
+Special topics course. Content will vary each semester.
+
+## SPHG 101. Exploring Public Health Fields. 1 Credits.
+
+This introductory course serves to develop a foundation in the breadth and depth of public health, locally and globally. Students will develop an understanding of the basic concepts of the public health disciplines and research, and how they are used to promote health at a population level.
+
+## SPHG 190. Special Topics in Public Health. 1-3 Credits.
+Public health topics will vary with the instructor and semester.
+
+SPHG 350H. Introduction to Public Health. 3 Credits.
+
+This introductory course will describe the history of public health, the key terms and concepts, and how the core areas of public health are integrated to promote health at a population level. The class will engage the students in active learning through the use of media, innovative technology, discussion groups, and field experiences.
+
+## SPHG 351. Foundations of Public Health. 3 Credits.
+
+This course is designed to introduce you to public health and help you develop the knowledge and skills necessary to identify and describe public health problems. Restricted to matriculated BSPH majors in BIOS, HPM, EHS, and NUTR.
+
+## SPHG 352. Public Health Systems and Solutions. 4 Credits.
+
+The course is designed to help you understand and analyze complex health systems and develop the knowledge and skills necessary to develop, implement, and evaluate solutions to public health problems.
+
+## SPHG 428. Public Health Entrepreneurship. 3 Credits.
+
+Basic concept underlying commercial and social entrepreneurship applied to public health, including guest lectures by individuals with proven success in these areas. Honors version available.
+
+## SPHG 429. Public Health, Entrepreneurship, and Food Systems in Southeast Asia. 3 Credits.
+
+Thailand-based summer version of this course will introduce students to basic concepts and case studies of commercial and social entrepreneurship as applied to the pursuit of public health through both for-profit and non-profit entities. This course features many guest speakers with successful experience in public health entrepreneurship in diverse arenas as well as those who have experienced challenges or venture failures. Students may not receive credit for both SPHG 428 and SPHG 429. Honors version available.
+
+## SPHG 600. Introduction to Public Health. 3 Credits.
+
+School of Public Health majors only. By applying crosscutting themes of equity, history, community engagement and the Gillings's mantra of "Global is Local. Local is Global," students develop foundational knowledge of how public health has evolved, its frameworks, the determinants of health and health disparities, and research and practice applications. With this knowledge, students work individually and in teams to apply their learning to a public health problem and to propose innovative solutions.
+
+## SPHG 690. Special Topics in Public Health. 0.5-3 Credits.
+Topic will vary with the instructor and semester.
+
+SPHG 701. Leading from the Inside-Out. 2 Credits.
+
+This course prepares students for public health practice by introducing fundamental leadership skills necessary to advance equity and recognize and address bias in organizational settings. Restricted to MPH students only.
+
+## SPHG 702. Practicum Assignments & Interprofessional Practice Activities. 1 Credits.
+
+This course awards credit to required practicum assignments and includes a series of interprofessional practice activities designed to provide healthcare professionals with the foundational skills needed to work in teams to effectively collaborate and coordinate care in population health. Restricted to MPH students only.
+
+## SPHG 703. MPH Pre-Practicum Assignments. 0.5 Credits.
+This course provides supports for students as they search, select, and plan for the practicum. It awards credit to required pre-practicum assignments.
+
+SPHG 707. MPH Post-Practicum Assignments. 0.5 Credits.
+This course facilitates reflection on the practicum and awards credit to required post-practicum assignments.
+
+SPHG 711. Data Analysis for Public Health. 2 Credits.
+
+This introductory course is part of the MPH core curriculum and focuses on the biostatistics and analysis methods commonly found in public health. Students will learn to produce, interpret, and use straight-forward data analyses.
+
+## SPHG 712. Methods and Measures for Public Health Practice. 2 Credits.
+
+This course is part of the MPH core curriculum, and introduces epidemiologic concepts and how to describe population patterns of health, inequities, and their determinants.
+
+## SPHG 713. Systems Approaches to Understanding Public Health Issues. 2 Credits.
+
+This course is part of the MPH core curriculum and introduces students to systems thinking approaches to understanding the complex and interconnecting factors that underpin current public health issues.
+
+## SPHG 721. Public Health Solutions: Systems, Policy and Advocacy. 2 Credits.
+
+This course introduces students to the health systems and the US health system in particular. It provides an introduction to the role of health policy in addressing public health problems and advancing health equity, and how evidence, law and ethics play a role in policy-making. It provides students with the skills to communicate information about public health problems and solutions to diverse audiences and introduces them to concepts of public health advocacy.
+
+## SPHG 722. Developing, Implementing, and Evaluating Public Health Solutions. 4 Credits.
+
+Students will identify, analyze and prioritize potential public health solutions. In addition, students will learn to adapt evidence-based solutions, engage with stakeholders, and disseminate solutions. Builds on first semester MPH core courses.
+
+## SPHG 992. Master's (Non-Thesis). 3 Credits.
+
+This course serves as the Master's Thesis substitute course for the MPH program.
+

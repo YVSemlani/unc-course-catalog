@@ -1,71 +1,339 @@
 # PHYS Course Catalog
 
-- [PHYS 100: How Things Work](PHYS_100_How_Things_Work)
-- [PHYS 101: Basic Concepts of Physics](PHYS_101_Basic_Concepts_of_Physics)
-- [PHYS 108: Climate and Energy Transitions: Understanding the Forecasts](PHYS_108_Climate_and_Energy_Transitions:_Understanding_the_Forecasts)
-- [PHYS 114: General Physics I: For Students of the Life Sciences](PHYS_114_General_Physics_I:_For_Students_of_the_Life_Sciences)
-- [PHYS 115: General Physics II: For Students of the Life Sciences](PHYS_115_General_Physics_II:_For_Students_of_the_Life_Sciences)
-- [PHYS 118: Introductory Calculus-based Mechanics and Relativity](PHYS_118_Introductory_Calculus-based_Mechanics_and_Relativity)
-- [PHYS 119: Introductory Calculus-based Electromagnetism and Quanta](PHYS_119_Introductory_Calculus-based_Electromagnetism_and_Quanta)
-- [PHYS 128: Modern Physics](PHYS_128_Modern_Physics)
-- [PHYS 131: Energy: Physical Principles and the Quest for Alternatives to Dwindling Oil and Gas](PHYS_131_Energy:_Physical_Principles_and_the_Quest_for_Alternatives_to_Dwindling_Oil_and_Gas)
-- [PHYS 201: Basic Mechanics](PHYS_201_Basic_Mechanics)
-- [PHYS 211: Intermediate Electromagnetism](PHYS_211_Intermediate_Electromagnetism)
-- [PHYS 231: Physical Computing](PHYS_231_Physical_Computing)
-- [PHYS 293: Internship In Physics and Astronomy](PHYS_293_Internship_In_Physics_and_Astronomy)
-- [PHYS 311: Electromagnetism I](PHYS_311_Electromagnetism_I)
-- [PHYS 331: Numerical Techniques for the Sciences I](PHYS_331_Numerical_Techniques_for_the_Sciences_I)
-- [PHYS 332: Numerical Techniques for the Sciences II](PHYS_332_Numerical_Techniques_for_the_Sciences_II)
-- [PHYS 354: Quantum Mechanics, Weirdness, and Reality](PHYS_354_Quantum_Mechanics,_Weirdness,_and_Reality)
-- [PHYS 381: Renewable Electric Power Systems](PHYS_381_Renewable_Electric_Power_Systems)
-- [PHYS 401: Mechanics I](PHYS_401_Mechanics_I)
-- [PHYS 405: Biological Physics](PHYS_405_Biological_Physics)
-- [PHYS 410: Teaching and Learning Physics](PHYS_410_Teaching_and_Learning_Physics)
-- [PHYS 412: Electromagnetism II](PHYS_412_Electromagnetism_II)
-- [PHYS 421: Introduction to Quantum Mechanics](PHYS_421_Introduction_to_Quantum_Mechanics)
-- [PHYS 422: Physics of the Earth's Interior](PHYS_422_Physics_of_the_Earth's_Interior)
-- [PHYS 441: Thermal Physics](PHYS_441_Thermal_Physics)
-- [PHYS 447: Quantum Computing](PHYS_447_Quantum_Computing)
-- [PHYS 451: Electronics I](PHYS_451_Electronics_I)
-- [PHYS 452: Electronics II](PHYS_452_Electronics_II)
-- [PHYS 461: Introduction to Medical Physics](PHYS_461_Introduction_to_Medical_Physics)
-- [PHYS 471: Physics of Solid State Electronic Devices](PHYS_471_Physics_of_Solid_State_Electronic_Devices)
-- [PHYS 472: Chemistry and Physics of Electronic Materials Processing](PHYS_472_Chemistry_and_Physics_of_Electronic_Materials_Processing)
-- [PHYS 510: Seminar for Physics and Astronomy Teaching Assistants](PHYS_510_Seminar_for_Physics_and_Astronomy_Teaching_Assistants)
-- [PHYS 515: Optics](PHYS_515_Optics)
-- [PHYS 521: Applications of Quantum Mechanics](PHYS_521_Applications_of_Quantum_Mechanics)
-- [PHYS 529: Introduction to Magnetic Resonance](PHYS_529_Introduction_to_Magnetic_Resonance)
-- [PHYS 543: Nuclear Physics](PHYS_543_Nuclear_Physics)
-- [PHYS 545: Introductory Elementary Particle Physics](PHYS_545_Introductory_Elementary_Particle_Physics)
-- [PHYS 573: Introductory Solid State Physics](PHYS_573_Introductory_Solid_State_Physics)
-- [PHYS 586: Introduction to Biomedical Imaging Science](PHYS_586_Introduction_to_Biomedical_Imaging_Science)
-- [PHYS 594: Nonlinear Dynamics](PHYS_594_Nonlinear_Dynamics)
-- [PHYS 631: Mathematical Methods of Theoretical Physics](PHYS_631_Mathematical_Methods_of_Theoretical_Physics)
-- [PHYS 632: Advanced Research Analytics](PHYS_632_Advanced_Research_Analytics)
-- [PHYS 633: Scientific Programming](PHYS_633_Scientific_Programming)
-- [PHYS 660: Fluid Dynamics](PHYS_660_Fluid_Dynamics)
-- [PHYS 701: Classical Dynamics](PHYS_701_Classical_Dynamics)
-- [PHYS 711: Electromagnetic Theory I](PHYS_711_Electromagnetic_Theory_I)
-- [PHYS 712: Electromagnetic Theory](PHYS_712_Electromagnetic_Theory)
-- [PHYS 715: Visualization in the Sciences](PHYS_715_Visualization_in_the_Sciences)
-- [PHYS 721: Quantum Mechanics](PHYS_721_Quantum_Mechanics)
-- [PHYS 722: Quantum Mechanics](PHYS_722_Quantum_Mechanics)
-- [PHYS 741: Statistical Mechanics](PHYS_741_Statistical_Mechanics)
-- [PHYS 780: Advanced Materials Science](PHYS_780_Advanced_Materials_Science)
-- [PHYS 821: Advanced Quantum Mechanics](PHYS_821_Advanced_Quantum_Mechanics)
-- [PHYS 822: Field Theory](PHYS_822_Field_Theory)
-- [PHYS 823: Field Theory](PHYS_823_Field_Theory)
-- [PHYS 824: Group Theory and its Applications](PHYS_824_Group_Theory_and_its_Applications)
-- [PHYS 829: Principles of Magnetic Resonance](PHYS_829_Principles_of_Magnetic_Resonance)
-- [PHYS 831: Differential Geometry in Modern Physics](PHYS_831_Differential_Geometry_in_Modern_Physics)
-- [PHYS 832: General Theory of Relativity](PHYS_832_General_Theory_of_Relativity)
-- [PHYS 861: Nuclear Physics](PHYS_861_Nuclear_Physics)
-- [PHYS 862: Nuclear Physics](PHYS_862_Nuclear_Physics)
-- [PHYS 871: Solid State Physics](PHYS_871_Solid_State_Physics)
-- [PHYS 872: Solid State Physics II](PHYS_872_Solid_State_Physics_II)
-- [PHYS 873: Theory of the Solid State](PHYS_873_Theory_of_the_Solid_State)
-- [PHYS 883: Current Advances in Physics](PHYS_883_Current_Advances_in_Physics)
-- [PHYS 885: Introductory Graduate Seminar in Physics and Astronomy](PHYS_885_Introductory_Graduate_Seminar_in_Physics_and_Astronomy)
-- [PHYS 992: Master's (Non-Thesis)](PHYS_992_Master's_(Non-Thesis))
-- [PHYS 993: Master's Research and Thesis](PHYS_993_Master's_Research_and_Thesis)
-- [PHYS 994: Doctoral Research and Dissertation](PHYS_994_Doctoral_Research_and_Dissertation)
+## PHYS 50. First-Year Seminar: Time and the Medieval Cosmos. 3 Credits.
+
+This course introduces first-year students to the basic motions of the solar system as viewed from the Earth along with the mechanical and mathematical models used to reproduce them, while exploring the history of medieval and early modern education, theology, and natural philosophy.
+
+## PHYS 51. First-Year Seminar: The Interplay of Music and Physics. 3 Credits.
+
+How sound is produced in instruments, and how those sounds are used in music making. Wave motion, resonance, sound perception, scales, harmony, and music theory. Collaborative laboratory exercises to investigate the acoustics of string, woodwind, and brass instruments as well as study of the physics of keyboard and percussion instruments. Students will make instruments from found objects and perform compositions on them, and can pursue their areas of special interest in a research paper.
+
+## PHYS 53. First-Year Seminar: Handcrafting in the Nanoworld: Building Models and Manipulating Molecules. 3 Credits.
+
+This seminar provides a general introduction to nanoscience and nanotechnology, focusing on recent advances in molecular electronics, nanomaterials, and biomedical research. Course activities include group model-building projects, presentations, and discussions of reading material.
+
+## PHYS 54. First-Year Seminar: Physics of Movies. 3 Credits.
+
+Students watch and analyze short movie clips that demonstrate interesting, unusual, or impossible physics. Group analysis emphasized.
+
+## PHYS 55. First-Year Seminar: Introduction to Mechatronics. 4 Credits.
+
+Introduction to important skills and knowledge required in the STEM fields of today and tomorrow, from academic, employment, and social perspectives. All students, regardless of their educational goals, will achieve critical introductory skills in numerical reasoning and analysis, engineering design and prototyping, computer programming and electronics, and will demonstrate proficiency and knowledge about topics that increasingly impact society, including Artificial Intelligence, Machine Learning, and Quantum Computing.
+
+## PHYS 63. First-Year Seminar: Catastrophe and Chaos: Unpredictable Physics. 3 Credits.
+
+Physics is often seen as the most precise and deterministic of sciences. Determinism can break down, however. This seminar explores the rich and diverse areas of modern physics in which "unpredictability" is the norm. Honors version available.
+
+## PHYS 89. First-Year Seminar: Special Topics. 3 Credits.
+
+Special Topics course. Content will vary each semester.
+
+## PHYS 100. How Things Work. 4 Credits.
+
+Demystifying the working of objects such as CD players, microwave ovens, lasers, computers, roller coasters, rockets, light bulbs, automobiles, clocks, copy machines, X-ray and CAT-scan machines, and nuclear reactors.
+
+## PHYS 101. Basic Concepts of Physics. 4 Credits.
+
+This is an introductory physics course for non-science majors. This course focuses on basic physics concepts and connections to everyday life. Course topics include Newtonian mechanics, fluids, heat, vibrations, electricity and magnetism, light and sound, quantum phenomenon, nuclear radiation, relativity, and cosmology. Connections to everyday life and society include energy conservation, global warming, nuclear energy, the origin of the universe, pseudoscience, and the search for extraterrestrial life.
+
+## PHYS 108. Climate and Energy Transitions: Understanding the Forecasts. 4 Credits.
+
+This course examines uncertainties in projecting future fossil fuel consumption and impact on global climate by quantifying how effectively alternative power-generation and energy-storage technologies can scale to meet needs in developing and developed nations, and by understanding past and present climates. Course previously offered as GEOL 108/MASC 108.
+
+## PHYS 114. General Physics I: For Students of the Life Sciences. 4 Credits.
+
+Basic principles of physics, including forces, energy, oscillations, sound, diffusion, and heat transfer, and applications to biological systems. Intended to meet the needs of, but not restricted to, students majoring in the life sciences. Students may not receive credit for PHYS 114 in addition to PHYS 104, 116, or 118.
+
+## PHYS 115. General Physics II: For Students of the Life Sciences. 4 Credits.
+
+Basic principles of physics, including fluids, electricity, magnetism, optics, quantum physics, and nuclear physics, and applications to biological systems. Intended to meet the needs of, but not restricted to, students majoring in the life sciences. Students may not receive credit for PHYS 115 in addition to PHYS 105, 117, or 119.
+
+## PHYS 118. Introductory Calculus-based Mechanics and Relativity. 4 Credits.
+
+Mechanics of particles and rigid bodies. Newton's laws; mechanical and potential energy; mechanical conservation laws; frame-dependence of physical laws; Einstein's Theory of Relativity. Students may not receive credit for PHYS 118 in addition to PHYS 104, 114, or 116. Honors version available.
+
+## PHYS 119. Introductory Calculus-based Electromagnetism and Quanta. 4 Credits.
+
+Unification of the laws of electricity and magnetism; electromagnetic waves; the particle-wave duality; fundamental principles and applications of quantum mechanics. Students may not receive credit for PHYS 119 in addition to PHYS 105, 115, or 117. Honors version available.
+
+## PHYS 128. Modern Physics. 3 Credits.
+
+Special relativity theory, black body radiation, photons and electrons; wave particle duality. Elements of atomic theory, nuclei and fundamental particles. Three lecture hours a week.
+
+## PHYS 131. Energy: Physical Principles and the Quest for Alternatives to Dwindling Oil and Gas. 3 Credits.
+
+A quantitative exploration of the physical principles behind energy development and use within modern civilization, the stark impact of depleted fossil fuel reserves, and alternative sources.
+
+## PHYS 201. Basic Mechanics. 3 Credits.
+
+A one-semester course in statics, kinematics, simple harmonic motion, central forces, and applications from modern physics.
+
+## PHYS 211. Intermediate Electromagnetism. 3 Credits.
+
+Electric fields and potentials, dielectrics, steady currents, magnetic flux and magnetic materials, electromagnetic induction. Emphasis on Maxwell's equations and their application to electromagnetic waves in bounded and unbounded media.
+
+## PHYS 231. Physical Computing. 4 Credits.
+
+Physical Computing is an introduction to the interaction between a computing unit and the outside world, using measurement and control. The tools for this implementation of physical computing are microcontrollers, software, sensors, a variety of analog and digital electronic components, and algorithms that anticipate and respond in ways that humans perceive as NOT inherently computerized. Honors version available.
+
+## PHYS 290. Special Topics in Physics. 1-3 Credits.
+Elective topics in the field of Physics. This course has variable content and may be taken multiple times for credit.
+
+PHYS 293. Internship In Physics and Astronomy. 3 Credits.
+
+The sponsored, off-campus work must involve at least 140 hours. Does not fulfill any requirement in the physics major or minor. Physics majors only. Permission of instructor/department.
+
+## PHYS 295. Research with Faculty Mentor I. 1-12 Credits.
+Students undertake independent research with a faculty mentor. Approved learning contract required. Mentored research courses (PHYS 295 or PHYS 395) may be used to satisfy degree requirements only for a maximum of 3 credit hours.
+
+PHYS 311. Electromagnetism I. 3 Credits.
+
+First semester of a two-semester sequence on electromagnetic theory and applications. This first semester is focused on electrostatic fields and potentials, magnetic fields and potentials, dielectrics, and magnetic fields in matter.
+
+## PHYS 331. Numerical Techniques for the Sciences I. 4 Credits.
+
+Applications of calculus, vector analysis, differential equations, complex numbers, and computer programming to realistic physical systems. Three lecture and two computational laboratory hours per week.
+
+## PHYS 332. Numerical Techniques for the Sciences II. 4 Credits.
+
+Modeling of celestial dynamics, nuclear physics problems, electrostatics; Monte Carlo integration in particle and theoretical physics; data modeling for physics and astronomy; gravitation, electromagnetism, fluid dynamics and quantum mechanics. Three lecture and two computational laboratory hours per week. Previously offered as PHYS 358.
+
+## PHYS 354. Quantum Mechanics, Weirdness, and Reality. 3 Credits.
+
+An interdisciplinary course on the weirdness of quantum mechanics and the problem of interpreting it. Nonlocality, the measurement problem, superpositions, Bohm's theory, collapse theories, and the many-worlds interpretation.
+
+## PHYS 381. Renewable Electric Power Systems. 3 Credits.
+
+Broad and quantitative study of renewable electric power systems: wind systems, photovoltaic cells, distributed generation (concentrating solar power, microhydro, biomass), and the economics of these technologies. Course previously offered as PHYS 581.
+
+## PHYS 390. Special Topics in Physics and Astronomy. 1-3 Credits.
+Elective topics in the field of Physics and Astronomy. This course has variable content and may be taken multiple times for credit.
+
+PHYS 391. Senior Seminar. 1-15 Credits.
+To be taken by seniors with permission of the department.
+
+PHYS 395. Research with Faculty Mentor II. 1-12 Credits.
+Students undertake independent research with a faculty mentor. Approved learning contract required. A research proposal and/or summary research report is required. Although not mandatory, a submission of a research proposal to an internal or external competition for funding is encouraged. Students must also present their research at an appropriate symposium, conference, or seminar. Mentored research courses (295 or 395) may be used to satisfy degree requirements only for a maximum of 3 credit hours.
+
+PHYS 401. Mechanics I. 3 Credits.
+
+Particle kinematics, central forces, planetary motions. Systems of particles, conservation laws, nonlinearity. Statics, motion of rigid bodies. Lagrange's and Hamilton's equations. Euler's equations. Vibrations and waves.
+
+## PHYS 405. Biological Physics. 3 Credits.
+
+How diffusion, entropy, electrostatics, and hydrophobicity generate order and force in biology. Topics include DNA manipulation, intracellular transport, cell division, molecular motors, single molecule biophysics techniques, nerve impulses, neuroscience.
+
+## PHYS 410. Teaching and Learning Physics. 4 Credits.
+
+Learning how to teach physics using current research-based methods. Includes extensive fieldwork in high school environments.
+
+## PHYS 412. Electromagnetism II. 3 Credits.
+
+Electrodynamics: Maxwell's equations and their application to electromagnetic waves, radiation, and relativity.
+
+## PHYS 421. Introduction to Quantum Mechanics. 3 Credits.
+
+Origins of quantum theory. Uncertainty principle. Schrödinger equation for simple systems including the hydrogen atom. Spin. Identical particles. Previously offered as PHYS 321.
+
+## PHYS 422. Physics of the Earth's Interior. 3 Credits.
+
+Origin of the solar system: the nebular hypothesis. Evolution of the earth and its accretionary history. Earthquakes: plate tectonics and the interior of the earth. The earth's magnetic field. Mantle convection.
+
+## PHYS 441. Thermal Physics. 3 Credits.
+
+Equilibrium statistical mechanics; the laws of thermodynamics, internal energy, enthalpy, entropy, thermodynamic potentials, Maxwell's relations.
+
+## PHYS 447. Quantum Computing. 3 Credits.
+
+Recommended preparation, some knowledge of basic linear algebra. An introduction to quantum computing. Basic math and quantum mechanics necessary to understand the operation of quantum bits. Quantum gates, circuits, and algorithms, including Shor's algorithm for factoring and Grover's search algorithm. Entanglement and error correction. Quantum encryption, annealing, and simulation. Brief discussion of technologies.
+
+## PHYS 451. Electronics I. 4 Credits.
+
+DC and AC circuit analysis and design, construction, test, and measurements. Semiconductors physics and semiconductor devices (diodes and transistors). Signal conditioning and introduction to digital electronics and automated data acquisition and analysis. Previously offered as PHYS 351.
+
+## PHYS 452. Electronics II. 4 Credits.
+
+Introduction to digital circuits: gates, flip-flops, and counters. Computers and device interconnections, converters and data acquisition. Signal analysis and digital filters. Graphical (LabVIEW) programming and computer interfacing. Individual projects and practical applications. Course previously offered as PHYS 352.
+
+## PHYS 461. Introduction to Medical Physics. 3 Credits.
+
+This class will introduce how physics principles and techniques have been applied to medical imaging and radiation therapy. Topics will include ionizing radiation and radiation safety, x-ray and computed tomography, ultrasound, magnetic resonance imaging, positron emission tomography, and radiation therapy. Topics such as the career path to become a medical physicist will also be discussed. The class will have lectures given by the instructor and guest lectures by experts and practitioners in this field.
+
+## PHYS 471. Physics of Solid State Electronic Devices. 3 Credits.
+
+Properties of crystal lattices, electrons in energy bands, behavior of majority and minority charge carriers, PN junctions related to the structure and function of semiconductor diodes, transistors, display devices.
+
+## PHYS 472. Chemistry and Physics of Electronic Materials Processing. 3 Credits.
+
+A survey of materials processing and characterization used in fabricating microelectronic devices. Crystal growth, thin film deposition and etching, and microlithography. Previously offered as APPL 472. Permission of the instructor.
+
+## PHYS 510. Seminar for Physics and Astronomy Teaching Assistants. 1 Credits.
+
+A seminar on how students learn and understand physics and astronomy and how to teach using current research-based methods.
+
+## PHYS 515. Optics. 3 Credits.
+
+Broad coverage including ray, wave, Gaussian, and Fourier optics. Interference, diffraction, polarization, and coherence. Optical properties of materials, absorption, scattering. Fiber optics, lasers, semiconductors, imaging, and special topics. Previously offered as PHYS 415.
+
+## PHYS 521. Applications of Quantum Mechanics. 3 Credits.
+
+Emphasizes atomic physics but includes topics from nuclear, solid state, and particle physics, such as energy levels, the periodic system, selection rules, and fundamentals of spectroscopy.
+
+## PHYS 529. Introduction to Magnetic Resonance. 3 Credits.
+
+This course will provide a broad coverage of important physics principles behind nuclear magnetic resonance (NMR) spectroscopy, especially the applications of quantum mechanics. Theoretical approaches and tools for grasping the design principles of various important NMR spectroscopic techniques will be discussed. It will show, for instance, how to use NMR spectroscopy to determine molecular structures and dynamics, and how to obtain images and functional information using magnetic resonance imaging (MRI).
+
+## PHYS 543. Nuclear Physics. 3 Credits.
+
+Structure of nucleons and nuclei, nuclear models, forces and interactions, nuclear reactions.
+
+## PHYS 545. Introductory Elementary Particle Physics. 3 Credits.
+
+Relativistic kinematics, symmetries and conservation laws, elementary particles and bound states, gauge theories, quantum electrodynamics, chromodynamics, electroweak unification, standard model and beyond.
+
+## PHYS 573. Introductory Solid State Physics. 3 Credits.
+
+Crystal symmetry, types of crystalline solids; electron and mechanical waves in crystals, electrical and magnetic properties of solids, semiconductors; low temperature phenomena; imperfections in nearly perfect crystals. Previously offered as APPL 573.
+
+## PHYS 586. Introduction to Biomedical Imaging Science. 3 Credits.
+
+This course offers an introduction to the most common biomedical imaging modalities, including Magnetic Resonance Imaging (MRI), Computed-Tomography (CT), Positron Emission Tomography (PET), Single-Photon Emission Computed Tomography (SPECT), Ultrasound, and Optical Imaging. Lectures include discussions of imaging hardware, and relevant physics, as well as pre-clinical and clinical applications.
+
+## PHYS 594. Nonlinear Dynamics. 3 Credits.
+
+Interdisciplinary introduction to nonlinear dynamics and chaos. Fixed points, bifurcations, strange attractors, with applications to physics, biology, chemistry, finance.
+
+## PHYS 631. Mathematical Methods of Theoretical Physics. 3 Credits.
+
+Linear vector spaces and matrices, curvilinear coordinates, functions of complex variables, ordinary and partial differential equations, Fourier series, integral transforms, special functions, differential forms.
+
+## PHYS 632. Advanced Research Analytics. 3 Credits.
+
+Required preparation, ability to program in a high-level computer language. Permission of the instructor for students lacking the required preparation. Methods required for the analysis, interpretation, and evaluation of physics measurements and theory. Error analysis, statistical tests, model fitting, parameter estimation, Monte Carlo methods, Bayesian inference, noise mitigation, experimental design, big data, selected numerical techniques including differential equations and Fourier techniques.
+
+## PHYS 633. Scientific Programming. 3 Credits.
+
+Required preparation, elementary Fortran, C, or Pascal programming. Structured programming in Fortran or Pascal; use of secondary storage and program packages; numerical methods for advanced problems, error propagation and computational efficiency; symbolic mathematics by computer.
+
+## PHYS 660. Fluid Dynamics. 3 Credits.
+
+The physical properties of fluids, kinematics, governing equations, viscous incompressible flow, vorticity dynamics, boundary layers, irrotational incompressible flow. Course previously offered as GEOL 560/MASC 560.
+
+## PHYS 701. Classical Dynamics. 3 Credits.
+
+Variational principles, Lagrangian and Hamiltonian mechanics. Symmetries and conservation laws. Two-body problems, perturbations, and small oscillations, rigid-body motion. Relation of classical to quantum mechanics.
+
+## PHYS 711. Electromagnetic Theory I. 3 Credits.
+
+Electrostatics, magnetostatics, time-varying fields, Maxwell's equations.
+
+## PHYS 712. Electromagnetic Theory. 3 Credits.
+
+Maxwell's equations, time-varying fields, and conservation laws. Plane EM waves, polarization, propagation, dispersive media. Wave guides and resonant cavities. Radiation from slow-moving charges. Special theory of relativity. Radiation from relativistic charges. Interaction between radiation and matter.
+
+## PHYS 715. Visualization in the Sciences. 3 Credits.
+
+Computational visualization applied in the natural sciences. For both computer science and natural science students. Available techniques and their characteristics, based on human perception, using software visualization toolkits. Project course.
+
+## PHYS 721. Quantum Mechanics. 3 Credits.
+
+Review of nonrelativistic quantum mechanics. Spin, angular momentum, perturbation theory, scattering, identical particles, Hartree-Fock method, Dirac equation, radiation theory.
+
+## PHYS 722. Quantum Mechanics. 3 Credits.
+
+Review of nonrelativistic quantum mechanics. Spin, angular momentum, perturbation theory, scattering, identical particles, Hartree-Fock method, Dirac equation, radiation theory.
+
+## PHYS 741. Statistical Mechanics. 3 Credits.
+
+Classical and quantal statistical mechanics, ensembles, partition functions, ideal Fermi and Bose gases.
+
+## PHYS 780. Advanced Materials Science. 3 Credits.
+
+This course covers the physical fundamentals of material science with an in-depth discussion of structure formation in soft and hard materials and how structure determines material mechanical, electrical, thermal, and optical properties. Topics include amorphous and crystal structures, defects, dislocation theory, thermodynamics and phase diagrams, diffusion, interfaces and microstructures, solidification, and theory of phase transformation. Special emphasis will be on the structure-property relationships of (bio)polymers, (nano)composites, and their structure property relationships.
+
+## PHYS 821. Advanced Quantum Mechanics. 3 Credits.
+
+Advanced angular momentum, atomic and molecular theory, many-body theory, quantum field theory.
+
+## PHYS 822. Field Theory. 3 Credits.
+
+Quantum field theory, path integrals, gauge invariance, renormalization group, Higgs mechanism, electroweak theory, quantum chromodynamics, Standard Model, unified field theories.
+
+## PHYS 823. Field Theory. 3 Credits.
+
+Quantum field theory, path integrals, gauge invariance, renormalization group, Higgs mechanism, electroweak theory, quantum chromodynamics, Standard Model, unified field theories.
+
+## PHYS 824. Group Theory and its Applications. 3 Credits.
+
+Required preparation, knowledge of matrices, mechanics, and quantum mechanics. Discrete and continuous groups. Representation theory. Application to atomic, molecular, solid state, nuclear, and particle physics.
+
+## PHYS 829. Principles of Magnetic Resonance. 3 Credits.
+
+No description available.
+
+## PHYS 831. Differential Geometry in Modern Physics. 3 Credits.
+
+Applications to electrodynamics, general relativity, and nonabelian gauge theories of methods of differential geometry, including tensors, spinors, differential forms, connections and curvature, covariant exterior derivatives, and Lie derivatives.
+
+## PHYS 832. General Theory of Relativity. 3 Credits.
+
+Differential geometry of space-time. Tensor fields and forms. Curvature, geodesics. Einstein's gravitational field equations. Tests of Einstein's theory. Applications to astrophysics and cosmology.
+
+## PHYS 861. Nuclear Physics. 3 Credits.
+
+Nuclear reactions, scattering, nuclear structure, nuclear astrophysics.
+
+## PHYS 862. Nuclear Physics. 3 Credits.
+
+Overview of Standard Model of particle physics. Fundamental symmetries and weak interactions. Neutrino physics. Particle-astrophysics and cosmology.
+
+## PHYS 871. Solid State Physics. 3 Credits.
+
+Topics considered include those of PHYS 573, but at a more advanced level, and in addition a detailed discussion of the interaction of waves (electromagnetic, elastic, and electron waves) with periodic structures, e.g., X-ray diffraction, phonons, band theory of metals and semiconductors.
+
+## PHYS 872. Solid State Physics II. 3 Credits.
+
+Topics considered include quantum and thermal fluctuations, and thermodynamics of phase transitions in a broad variety of condensed matter systems, their kinetic theory and hydrodynamics, novel materials (two-dimensional electron gas, graphene, topological insulators and superconductors, Dirac/Weyl/nodal line semimetals), condensed matter applications of modern field-theoretical methods (path integral, renormalization group, holography).
+
+## PHYS 873. Theory of the Solid State. 3 Credits.
+
+Calculation of one-electron energy band structure. Electron-hole correlation effect and excitons. Theory of spin waves. Many-body techniques in solid state problems including theory of superconductivity.
+
+## PHYS 883. Current Advances in Physics. 3 Credits.
+
+Permission of the instructor. In recent years, elementary particle physics, amorphous solids, neutrinos, and electron microscopy have been among the topics discussed.
+
+## PHYS 885. Introductory Graduate Seminar in Physics and Astronomy. 1 Credits.
+
+Introduction to skills needed for success in graduate courses and research, including practice using general-purpose mathematical/computational tools, assessment of the research landscape and research project design, preparing a proposal, and participating in peer review. Professional development topics such as ethics and etiquette, time management, and career planning are also covered.
+
+## PHYS 893. Seminar in Solid State Physics. 1-21 Credits.
+Research topics in condensed-matter physics, with emphasis on current experimental and theoretical studies.
+
+PHYS 895. Seminar in Nuclear Physics. 1-21 Credits.
+Current research topics in low-energy nuclear physics, especially as related to the interests of the Triangle Universities Nuclear Laboratory.
+
+PHYS 896. Seminar in Particle Physics. 1-21 Credits.
+Symmetries, gauge theories, asymptotic freedom, unified theories of weak and electromagnetic interactions, and recent developments in field theory.
+
+PHYS 897. Seminar in Theoretical Physics. 1-21 Credits.
+Topics from current theoretical research including, but not restricted to, field theory, particle physics, gravitation, and relativity.
+
+PHYS 899. Seminar in Professional Practice. 1-21 Credits.
+Required preparation, Ph.D. written exam passed. The role and responsibilities of a physicist in the industrial or corporate environment and as a consultant.
+
+PHYS 901. Research. 1-21 Credits.
+10 or more laboratory or computation hours a week.
+
+PHYS 992. Master's (Non-Thesis). 3 Credits.
+
+No description available.
+
+## PHYS 993. Master's Research and Thesis. 3 Credits.
+
+No description available.
+
+## PHYS 994. Doctoral Research and Dissertation. 3 Credits.
+
+Fall or spring. Staff.
+

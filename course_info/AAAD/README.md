@@ -1,93 +1,404 @@
 # AAAD Course Catalog
 
-- [AAAD 101: Introduction to Africa](AAAD_101_Introduction_to_Africa)
-- [AAAD 102: Introduction to Media in Africa](AAAD_102_Introduction_to_Media_in_Africa)
-- [AAAD 130: Introduction to African American and Diaspora Studies](AAAD_130_Introduction_to_African_American_and_Diaspora_Studies)
-- [AAAD 159: The History of the Black Church and Social Change](AAAD_159_The_History_of_the_Black_Church_and_Social_Change)
-- [AAAD 200: Gender and Sexuality in Africa](AAAD_200_Gender_and_Sexuality_in_Africa)
-- [AAAD 201: Introduction to African Literature](AAAD_201_Introduction_to_African_Literature)
-- [AAAD 202: African Film and Performance](AAAD_202_African_Film_and_Performance)
-- [AAAD 210: African Belief Systems: Religion and Philosophy in Sub-Saharan Africa](AAAD_210_African_Belief_Systems:_Religion_and_Philosophy_in_Sub-Saharan_Africa)
-- [AAAD 211: African Art and Culture](AAAD_211_African_Art_and_Culture)
-- [AAAD 212: Africa in the Global System](AAAD_212_Africa_in_the_Global_System)
-- [AAAD 214: Africa through the Ethnographic Lens](AAAD_214_Africa_through_the_Ethnographic_Lens)
-- [AAAD 220: Media and Democracy in Africa](AAAD_220_Media_and_Democracy_in_Africa)
-- [AAAD 231: African American History since 1865](AAAD_231_African_American_History_since_1865)
-- [AAAD 232: Black Women in America](AAAD_232_Black_Women_in_America)
-- [AAAD 237: African American Art Survey](AAAD_237_African_American_Art_Survey)
-- [AAAD 238: African American Literature Survey](AAAD_238_African_American_Literature_Survey)
-- [AAAD 239: Disaster, Recovery, Resistance in Southern Black History](AAAD_239_Disaster,_Recovery,_Resistance_in_Southern_Black_History)
-- [AAAD 240: African American Politics](AAAD_240_African_American_Politics)
-- [AAAD 250: The African American in Motion Pictures: 1900 to the Present](AAAD_250_The_African_American_in_Motion_Pictures:_1900_to_the_Present)
-- [AAAD 252: African Americans in the West](AAAD_252_African_Americans_in_the_West)
-- [AAAD 254: African Americans in North Carolina](AAAD_254_African_Americans_in_North_Carolina)
-- [AAAD 257: Black Nationalism in the United States](AAAD_257_Black_Nationalism_in_the_United_States)
-- [AAAD 258: The Civil Rights Movement](AAAD_258_The_Civil_Rights_Movement)
-- [AAAD 259: Black Influences on Popular Culture](AAAD_259_Black_Influences_on_Popular_Culture)
-- [AAAD 260: Blackness in Latin America](AAAD_260_Blackness_in_Latin_America)
-- [AAAD 261: Afro-Cuban Dance: History, Theory, and Practice](AAAD_261_Afro-Cuban_Dance:_History,_Theory,_and_Practice)
-- [AAAD 278: Black Caribbeans in the United States](AAAD_278_Black_Caribbeans_in_the_United_States)
-- [AAAD 282: Afropessimism in American and European Film](AAAD_282_Afropessimism_in_American_and_European_Film)
-- [AAAD 284: Contemporary Perspectives on the African Diaspora in the Americas](AAAD_284_Contemporary_Perspectives_on_the_African_Diaspora_in_the_Americas)
-- [AAAD 286: The African Diaspora in the Colonial Americas, 1450-1800](AAAD_286_The_African_Diaspora_in_the_Colonial_Americas,_1450-1800)
-- [AAAD 287: Health Equity in the African Diaspora](AAAD_287_Health_Equity_in_the_African_Diaspora)
-- [AAAD 288: Global Black Popular Cultures](AAAD_288_Global_Black_Popular_Cultures)
-- [AAAD 298: Blacks in British North America to 1833](AAAD_298_Blacks_in_British_North_America_to_1833)
-- [AAAD 300: Cultures of Health and Healing in Africa](AAAD_300_Cultures_of_Health_and_Healing_in_Africa)
-- [AAAD 301: Contemporary China-Africa Relations](AAAD_301_Contemporary_China-Africa_Relations)
-- [AAAD 302: West African History, Politics, and Culture](AAAD_302_West_African_History,_Politics,_and_Culture)
-- [AAAD 303: Islamic Cultures of Contemporary Africa](AAAD_303_Islamic_Cultures_of_Contemporary_Africa)
-- [AAAD 307: 21st-Century Scramble for Africa](AAAD_307_21st-Century_Scramble_for_Africa)
-- [AAAD 312: Terrorism in Africa](AAAD_312_Terrorism_in_Africa)
-- [AAAD 315: Political Protest and Conflict in Africa](AAAD_315_Political_Protest_and_Conflict_in_Africa)
-- [AAAD 316: Sustainable Development: Emergence, Debates, and Dynamics in Africa](AAAD_316_Sustainable_Development:_Emergence,_Debates,_and_Dynamics_in_Africa)
-- [AAAD 318: Politics of Art in Africa](AAAD_318_Politics_of_Art_in_Africa)
-- [AAAD 319: Africa and Masks](AAAD_319_Africa_and_Masks)
-- [AAAD 320: Music of Africa](AAAD_320_Music_of_Africa)
-- [AAAD 329: Islamic Cultures and Literatures in Africa](AAAD_329_Islamic_Cultures_and_Literatures_in_Africa)
-- [AAAD 330: 20th-Century African American Art](AAAD_330_20th-Century_African_American_Art)
-- [AAAD 332: Remembering Race and Slavery](AAAD_332_Remembering_Race_and_Slavery)
-- [AAAD 333: Race and Public Policy in the United States](AAAD_333_Race_and_Public_Policy_in_the_United_States)
-- [AAAD 334: Performing African American History](AAAD_334_Performing_African_American_History)
-- [AAAD 335: Structure of African American English](AAAD_335_Structure_of_African_American_English)
-- [AAAD 340: Diaspora Art and Cultural Politics](AAAD_340_Diaspora_Art_and_Cultural_Politics)
-- [AAAD 341: Law and Society](AAAD_341_Law_and_Society)
-- [AAAD 344: African American Theatre: Exploring Legacy and Contemporary Voices](AAAD_344_African_American_Theatre:_Exploring_Legacy_and_Contemporary_Voices)
-- [AAAD 350: The Harlem Renaissance](AAAD_350_The_Harlem_Renaissance)
-- [AAAD 354: The Lived Experience of Inequality and Public Policy](AAAD_354_The_Lived_Experience_of_Inequality_and_Public_Policy)
-- [AAAD 356: The History of Hip-Hop Culture](AAAD_356_The_History_of_Hip-Hop_Culture)
-- [AAAD 360: Black Women's Struggles and Resistance in Latin America and the Caribbean](AAAD_360_Black_Women's_Struggles_and_Resistance_in_Latin_America_and_the_Caribbean)
-- [AAAD 385: Emancipation in the New World](AAAD_385_Emancipation_in_the_New_World)
-- [AAAD 386: Comparative Studies in Culture, Gender, and Global Forces](AAAD_386_Comparative_Studies_in_Culture,_Gender,_and_Global_Forces)
-- [AAAD 387: HIV/AIDS in Africa and the Diaspora](AAAD_387_HIV/AIDS_in_Africa_and_the_Diaspora)
-- [AAAD 388: Black Feminist Thought & the Speculative Imagination](AAAD_388_Black_Feminist_Thought_&_the_Speculative_Imagination)
-- [AAAD 389: The Caribbean Anticolonial: Caribbean Literature, Film, Aesthetics, and Politics](AAAD_389_The_Caribbean_Anticolonial:_Caribbean_Literature,_Film,_Aesthetics,_and_Politics)
-- [AAAD 391: Human Development and Sustainability in Africa and the African Diaspora](AAAD_391_Human_Development_and_Sustainability_in_Africa_and_the_African_Diaspora)
-- [AAAD 392: Struggles to Shape the City](AAAD_392_Struggles_to_Shape_the_City)
-- [AAAD 395: Undergraduate Research Seminar](AAAD_395_Undergraduate_Research_Seminar)
-- [AAAD 396: Independent Studies](AAAD_396_Independent_Studies)
-- [AAAD 400: Contemporary African Politics](AAAD_400_Contemporary_African_Politics)
-- [AAAD 401: Poverty, Health, and Human Development in Low Income Countries](AAAD_401_Poverty,_Health,_and_Human_Development_in_Low_Income_Countries)
-- [AAAD 402: African Media and Film: History and Practice](AAAD_402_African_Media_and_Film:_History_and_Practice)
-- [AAAD 403: Human Rights: Theories and Practices in Africa](AAAD_403_Human_Rights:_Theories_and_Practices_in_Africa)
-- [AAAD 404: Music of African Diasporas](AAAD_404_Music_of_African_Diasporas)
-- [AAAD 405: Contemporary African Art](AAAD_405_Contemporary_African_Art)
-- [AAAD 410: Gender, Sexuality, and Development in Contemporary Africa](AAAD_410_Gender,_Sexuality,_and_Development_in_Contemporary_Africa)
-- [AAAD 414: Senegalese Society and Culture](AAAD_414_Senegalese_Society_and_Culture)
-- [AAAD 419: African Studies Colloquium](AAAD_419_African_Studies_Colloquium)
-- [AAAD 421: Introduction to the Languages of Africa](AAAD_421_Introduction_to_the_Languages_of_Africa)
-- [AAAD 430: African American Intellectual History](AAAD_430_African_American_Intellectual_History)
-- [AAAD 444: Race, Ethnicity, and Blackness in Comparative Perspective](AAAD_444_Race,_Ethnicity,_and_Blackness_in_Comparative_Perspective)
-- [AAAD 449: Black Women in Cinema: From the Early 1900s to the Present](AAAD_449_Black_Women_in_Cinema:_From_the_Early_1900s_to_the_Present)
-- [AAAD 451: Orality, Literacy, and Cultural Production: African Americans and Racial Modernity](AAAD_451_Orality,_Literacy,_and_Cultural_Production:_African_Americans_and_Racial_Modernity)
-- [AAAD 460: Race, Culture, and Politics in Brazil](AAAD_460_Race,_Culture,_and_Politics_in_Brazil)
-- [AAAD 461: Race, Gender, and Activism in Cuba](AAAD_461_Race,_Gender,_and_Activism_in_Cuba)
-- [AAAD 466: Race and Gender in the Atlantic World](AAAD_466_Race_and_Gender_in_the_Atlantic_World)
-- [AAAD 480: Vernacular Traditions in African American Music](AAAD_480_Vernacular_Traditions_in_African_American_Music)
-- [AAAD 485: Transnational Black Feminist Thought and Practice](AAAD_485_Transnational_Black_Feminist_Thought_and_Practice)
-- [AAAD 486: Africa in the American Imagination](AAAD_486_Africa_in_the_American_Imagination)
-- [AAAD 487: Intellectual Currents in African and African Diaspora Studies](AAAD_487_Intellectual_Currents_in_African_and_African_Diaspora_Studies)
-- [AAAD 488: Human Rights and Democracy in African Diaspora Communities](AAAD_488_Human_Rights_and_Democracy_in_African_Diaspora_Communities)
-- [AAAD 490: Colloquium in African, African American, and Diaspora Studies](AAAD_490_Colloquium_in_African,_African_American,_and_Diaspora_Studies)
-- [AAAD 491: Class, Race, and Inequality in America](AAAD_491_Class,_Race,_and_Inequality_in_America)
-- [AAAD 492: Urbanism in the Global South](AAAD_492_Urbanism_in_the_Global_South)
+## AAAD 50. First-Year Seminar: Defining Blackness. 3 Credits.
+
+Blackness and whiteness as racial categories have existed in the United States from the earliest colonial times, but their meanings have shifted and continue to shift. Over the semester we will attempt to define and redefine blackness in the United States.
+
+## AAAD 51. First-Year Seminar: Masquerades of Blackness. 3 Credits.
+
+This course is designed to investigate how race has been represented in cinema historically with an emphasis on representations of race when blackness is masqueraded.
+
+## AAAD 53. First-Year Seminar: Experimentalism in Global Black Music and Performance Arts. 3 Credits.
+
+This seminar focuses on artists from around the world who have taken an experimental approach to music-making and performance, inspired by black politics, culture, and history. Considers the special challenges blacks have faced in the field of "modernism." Students may opt to do creative artistic projects in lieu of a final research paper.
+
+## AAAD 54. First-Year Seminar: African Migrations, Boundaries, Displacements, and Belonging. 3 Credits.
+
+This discussion-oriented seminar will use the works of African authors and filmmakers to explore how this dimension of the African experience has in part shaped the everyday lives of the peoples of the African continent.
+
+## AAAD 55. First-Year Seminar: Youth Activism, Citizenship, and Social Change in Africa. 3 Credits.
+
+This seminar explores the role of youth in processes of social change on the African continent historically and in the contemporary era. It begins with an exploration of youth's experiences and involvement in liberation struggles against colonial rule. With a focus on the post-1980s period, it examines youth mobilization for democratization, human rights, and horizontal accountability by state actors, and the role of African Union in promoting youth citizenship.
+
+## AAAD 57. First-Year Seminar: Afro-Latinxs in the U.S.. 3 Credits.
+
+What does it mean to be both racially Black and ethnically Latino in the U.S.? This discussion-based course will look at the history, culture, experiences, political struggles, and social dilemmas of ''Afro-Latina/o/xs'': African-descended peoples from Latin America and the Spanish-speaking Caribbean who reside in the U.S. The erasure of these communities, along with their struggles for well-being, prosperity, belonging, and visibility, will be explored.
+
+## AAAD 58. First-Year Seminar: Health Inequality in Africa and the African Diaspora. 3 Credits.
+
+This first-year seminar examines the ways that healthcare access and health itself are shaped by social, racial, and economic inequalities in our society and others. The geographic focus of this course is Africa and the United States. Drawing on research in medical anthropology, sociology, public health, and history, we will gain an understanding of the political, economic, and social factors that create health inequalities.
+
+## AAAD 89. First Year Seminar: Special Topics. 3 Credits.
+
+Special Topics Course: content will vary each semester.
+
+## AAAD 101. Introduction to Africa. 3 Credits.
+
+Introduction to the study of the African continent, its peoples, history, and contemporary problems of development in a globalized world, including a survey of the African past, society and culture, and contemporary political, economic, and social issues.
+
+## AAAD 102. Introduction to Media in Africa. 3 Credits.
+
+This course explores the precolonial, colonial, and the contemporary media in Africa. It focuses on the different types of media, its impact on socioeconomic and political development, and the growth and development of internet in the region. It introduces students to the inventors, copyright regulations, African governments' media regulation statutes, and careers in the media industry in the continent.
+
+## AAAD 130. Introduction to African American and Diaspora Studies. 3 Credits.
+
+The course tracks the contours of history, life, societies, and cultures of the Atlantic African diaspora from their origins through Emancipation in the United States, the Caribbean, and South America.
+
+## AAAD 159. The History of the Black Church and Social Change. 3 Credits.
+
+A survey of the historical development of the black church in America, beginning during the antebellum period and continuing to the present day.
+
+## AAAD 200. Gender and Sexuality in Africa. 3 Credits.
+
+Introduction to the study of gender and sexuality in African societies. Theoretical questions relating to the cross-cultural study of gender will be a primary focus. Topics include historical perspectives on the study of kinship and family in Africa and the impact of colonialism and other forms of social change.
+
+## AAAD 201. Introduction to African Literature. 3 Credits.
+
+An introduction to African literature, with an emphasis on works by writers from the late colonial period to the present, and including a survey of different genres.
+
+## AAAD 202. African Film and Performance. 3 Credits.
+
+This course studies African film and performance as two distinct, but interconnected genres of artistic expression used for negotiating a postcolonial African agency.
+
+## AAAD 210. African Belief Systems: Religion and Philosophy in Sub-Saharan Africa. 3 Credits.
+
+Topics such as the impact of colonialism and missionization on African societies, the changing practice of Islam in Africa, and the intersection of religious and political unrest in postcolonial societies are addressed.
+
+## AAAD 211. African Art and Culture. 3 Credits.
+
+Introduction to the plastic arts of sub-Saharan Africa through study of their relationship to the human values, institutions, and modes of aesthetic expression of select traditional and modern African societies.
+
+## AAAD 212. Africa in the Global System. 3 Credits.
+
+This course provides a critical examination of the historical and theoretical bases for understanding the challenges and opportunities facing African states and societies in the current global system, which is dominated by neoliberal globalization.
+
+## AAAD 214. Africa through the Ethnographic Lens. 3 Credits.
+
+This course examines the ways by which anthropologists have used ethnographic texts to describe and frame African societies. Among the topics explored through a close textual reading of both classical and contemporary ethnographic texts are systems of thought, politics, economics, social organization and the politics of representation.
+
+## AAAD 220. Media and Democracy in Africa. 3 Credits.
+
+This course centers on the role of media in democratic governance in Africa. In particular, the course introduces to students political and normative theoretical bases for understanding the responsibility of the press in various forms of democracy, freedom of expression, and news influence on politics. Students will also explore and criticize the electoral processes and dynamics in electoral campaigns. The legal pressure on media during the elections and other times when African governments face scrutiny
+
+## AAAD 231. African American History since 1865. 3 Credits.
+
+Special emphasis on postemancipation developments.
+
+## AAAD 232. Black Women in America. 3 Credits.
+
+An examination of the individual and collective experiences of black women in America from slavery to the present and the evolution of feminist consciousness.
+
+## AAAD 237. African American Art Survey. 3 Credits.
+
+An introduction to African American art and artists and their social contexts from early slavery.
+
+## AAAD 238. African American Literature Survey. 3 Credits.
+
+This course is an introductory and chronological study of the African American literary canon. It examines various African American literary genres, including slave narratives, poetry, and the novel.
+
+## AAAD 239. Disaster, Recovery, Resistance in Southern Black History. 3 Credits.
+
+Since the 1920s environmental, health, industrial and other disasters have shaped southern African American culture, communities, and politics. The mass dislocation and despair brought by disasters and the manners in which African Americans resisted and struggled to overcome them have significantly changed the country's geographic, cultural, and political landscape. This course examines such epic disasters as floods, hurricanes, disease, and work-related tragedies and their long-term consequences and meanings.
+
+## AAAD 240. African American Politics. 3 Credits.
+
+A survey of African American political development from emancipation to the present. The course examines the dynamics of minority group politics with African Americans as the primary unit of analysis. Students consider African American politics in domestic and global contexts and issues of local, regional, national, and international relevance.
+
+## AAAD 250. The African American in Motion Pictures: 1900 to the Present. 3 Credits.
+
+This course will analyze the role of the African American in motion pictures, explore the development of stereotypical portrayals, and investigate the efforts of African American actors and actresses to overcome these portrayals.
+
+## AAAD 252. African Americans in the West. 3 Credits.
+
+African Americans in the West is a survey course that examines the origins, migration, and development of African descended peoples in the United States west of the Mississippi River.
+
+## AAAD 254. African Americans in North Carolina. 3 Credits.
+
+This course is an overview of the black experience in North Carolina with special emphasis on Chapel Hill and Wilmington.
+
+## AAAD 257. Black Nationalism in the United States. 3 Credits.
+
+This course traces the evolution of black nationalism, both as an idea and a movement, from the era of the American Revolution to its current Afrocentric expressions.
+
+## AAAD 258. The Civil Rights Movement. 3 Credits.
+
+An examination of the struggle by black Americans for social justice since World War II and of the systemic responses.
+
+## AAAD 259. Black Influences on Popular Culture. 3 Credits.
+
+This course examines the influence of African American expressive culture, particularly popular music, on American mainstream culture.
+
+## AAAD 260. Blackness in Latin America. 3 Credits.
+
+The majority of people of African descent in this hemisphere live in Latin America. This course will explore how blackness is understood and reproduced in Latin America, as well as Black history, cultures, experiences, and social movements in the region.
+
+## AAAD 261. Afro-Cuban Dance: History, Theory, and Practice. 3 Credits.
+
+Course interrogates concepts such as religion, folklore, nation, blackness, gender, history, and dance. Concepts illustrated through readings, movement practice (dance classes), and spectatorship.
+
+## AAAD 278. Black Caribbeans in the United States. 3 Credits.
+
+This course will look at the experiences of black Caribbean immigrants in the United States and the activities in which they participate, as well as their shifting senses of their identities.
+
+## AAAD 282. Afropessimism in American and European Film. 3 Credits.
+
+Scholars of Afropessimism argue that we are not living in the age of post-slavery, but in the "afterlife of slavery" and that Blacks exist outside of the world, because the social world is held together by anti-Blackness. This argumentation has had important effects within Black German and Black European Studies. This course seeks to explore these philosophical claims, by comparing American films with European films that deal with anti-Black racism.
+
+## AAAD 284. Contemporary Perspectives on the African Diaspora in the Americas. 3 Credits.
+
+An interdisciplinary survey of African-descendant communities and the development and expression of African/black identities in the context of competing definitions of diaspora.
+
+## AAAD 286. The African Diaspora in the Colonial Americas, 1450-1800. 3 Credits.
+
+Explores the experiences of Africans in European colonies in locations such as colonial Mexico, Brazil, the Caribbean, and mainland North America. Lecture and discussion format. The major themes of inquiry include labor, law, gender, culture, and resistance, exploring differing experiences based on gender, location, and religion.
+
+## AAAD 287. Health Equity in the African Diaspora. 3 Credits.
+
+Examines historical and contemporary processes shaping health and well-being in Africa Diaspora communities. Emphasis will be placed on health and health equity within African-descendant communities in the United States, Haiti, and Brazil.
+
+## AAAD 288. Global Black Popular Cultures. 3 Credits.
+
+Through an interdisciplinary analysis of key aspects of black popular cultures in their global diversity, this course tackles fundamental questions about the meanings of black identity, identification, and belonging.
+
+## AAAD 290. Topics in African, African American, and Diaspora Studies. 1-3 Credits.
+Subject matter will vary by instructor. Course description available from department office.
+
+AAAD 293. Individual Internships for Majors and Minors. 1-3 Credits.
+Students work internships and develop, in conjunction with a faculty supervisor, an academic project relating to their internship experience. Permission of the director of undergraduate studies required.
+
+AAAD 298. Blacks in British North America to 1833. 3 Credits.
+
+This course looks at blacks in the British world to 1833, with particular attention on the 13 colonies and the lands that would eventually form the Dominion of Canada.
+
+## AAAD 300. Cultures of Health and Healing in Africa. 3 Credits.
+
+This course explores contemporary economic, political, and social factors influencing the health and welfare of African peoples. Emphasis is placed on understanding the cultural perspectives that shape non-Western experiences of health, disease, and notions of spiritual and physical well-being. Readings draw from the fields of anthropology, history, and public health.
+
+## AAAD 301. Contemporary China-Africa Relations. 3 Credits.
+
+The course examines the contemporary relationship between China and Africa. This includes China and Africa's history; China's economic, trade, strategic, and foreign policy towards Africa; as well as the relationship between China and the Africans who live and work there.
+
+## AAAD 302. West African History, Politics, and Culture. 3 Credits.
+
+The first half of this course introduces students to the broad themes of West African history. The second half builds on this historical background by exploring case studies on a range of issues. Among the topics addressed in the case studies are Islam, gender, health, political violence, and globalization.
+
+## AAAD 303. Islamic Cultures of Contemporary Africa. 3 Credits.
+
+By examining the social history and meaning of various cultural practices, literature, art, and popular music among Muslim Africans, this course introduces students to how Islam has influenced contemporary African identity and to the practices that came to be associated with Africa as a land of Islam.
+
+## AAAD 307. 21st-Century Scramble for Africa. 3 Credits.
+
+Examines the 21st-century global competition for African resources and compares it to the 19th-century "scramble for Africa." Major actors include the European Union, the United States, and China.
+
+## AAAD 312. Terrorism in Africa. 3 Credits.
+
+This course introduces students to the phenomenon of religious-based terrorism in Africa today, its causes, dynamics, and what the states affected, regional organizations, and the international community are doing to eradicate it.
+
+## AAAD 315. Political Protest and Conflict in Africa. 3 Credits.
+
+This course surveys contemporary forms of political conflict and protest in Africa. The nature, causes, and consequences of these conflicts will be examined.
+
+## AAAD 316. Sustainable Development: Emergence, Debates, and Dynamics in Africa. 3 Credits.
+
+This is a discussion-based seminar that examines the emergence and evolution of the concept of sustainable development, including processes enacted by the United Nations' members states, such their 2015 adoption of 17 global Sustainable Development Goals. Further, it explores dynamics of sustainable development with a focus on selected cases studies drawn from various parts of the Africa continent.
+
+## AAAD 318. Politics of Art in Africa. 3 Credits.
+
+This course considers a variety of African artists and art scenes in their political, economic, and cultural contexts. Likely topics include artists under Apartheid, the global trade in traditional wood carvings, and Africa's place in the global contemporary art circuit.
+
+## AAAD 319. Africa and Masks. 3 Credits.
+
+Examines the production, circulation, and consumption of masks in both African and non-African contexts. Expands, nuances, and sometimes undoes our notions of mask, masquerade, and masking.
+
+## AAAD 320. Music of Africa. 3 Credits.
+
+An introduction to African music new and old, focusing on the continent's distinctive techniques and concepts, and on its musical interactions with the rest of the world. The politics of music making in various historical settings will be explored. Prior musical experience is helpful, but not required.
+
+## AAAD 329. Islamic Cultures and Literatures in Africa. 3 Credits.
+
+This course examines Islamic influences on the cultures and societies of East Africa. Topics include introduction of Islam in the region, Swahili city states, hybrid Islamic cultures, Islam in the constitution, Wahhabi and Salafist puritanical Islam, Islam and politics, and secessionist movements and terrorism in East Africa Muslim societies.
+
+## AAAD 330. 20th-Century African American Art. 3 Credits.
+
+Focus on the historical development of African American art from the Harlem Renaissance of early 20th century through the Black Arts Movement and Feminist Art Movement 1960s and early 1970s.
+
+## AAAD 332. Remembering Race and Slavery. 3 Credits.
+
+The course provides an examination of the ways that the past plays out in the present. Specifically this course examines memorials, monuments, and museums that remember and reinvent slavery and race in the United States and throughout the rest of the Diaspora.
+
+## AAAD 333. Race and Public Policy in the United States. 3 Credits.
+
+Exploration of the relationship between race and public policy in the U.S. Primary focus on African Americans, but other racial groups also studied. Key areas include reproductive justice, health care, employment, labor, welfare, education, housing, environmental justice, policing, criminalization, foreign policy, immigration, and war.
+
+## AAAD 334. Performing African American History. 3 Credits.
+
+Taking an issue of current or historic importance to African American communities, students conduct archival research and collect and/or analyze oral histories and work to create a documentary play that will be publicly performed.
+
+## AAAD 335. Structure of African American English. 3 Credits.
+
+This course treats the structural properties of African American English. Students will learn to use sentence data to test hypotheses about language structure by investigating the phonology, syntax and semantics of African American English.
+
+## AAAD 340. Diaspora Art and Cultural Politics. 3 Credits.
+
+Examines the socio-political dimensions of African diaspora art and culture with a focus on African Americans in the 20th century.
+
+## AAAD 341. Law and Society. 3 Credits.
+
+This course explores the intersection of law and societal developments drawing from the disciplines of history, political science, anthropology, feminist legal studies, and constitutional law. The themes of the course will vary depending on the training, research interests, and geographical concentration of the faculty teaching the course.
+
+## AAAD 344. African American Theatre: Exploring Legacy and Contemporary Voices. 3 Credits.
+
+This course investigates the history and legacy, as well as contemporary trends and ideas of African American drama through the study of its literary texts, performance styles, and cultural history. We will explore how the African American's dramatists voice is shaping cultural landscapes and ongoing conversations.
+
+## AAAD 350. The Harlem Renaissance. 3 Credits.
+
+An exploration of outstanding themes of the Harlem Renaissance's poetry, fiction, painting and visual art, and political journalism. The course includes excursions to museums and libraries. Previously offered as AAAD 450.
+
+## AAAD 354. The Lived Experience of Inequality and Public Policy. 3 Credits.
+
+The course will explore the gap between public policy and the lived experiences of and reactions from constituents. Students will explore this gap by studying the development of twentieth-century public policy, examining the differing outcomes across groups, and the contemporary impact on housing, voting, education, and policing.
+
+## AAAD 356. The History of Hip-Hop Culture. 3 Credits.
+
+Examines the emergence and impact of hip-hop music and culture and its broad influence in mainstream culture, as a global phenomenon and as a vehicle embodying formative ideas of its constituent communities.
+
+## AAAD 360. Black Women's Struggles and Resistance in Latin America and the Caribbean. 3 Credits.
+
+This course surveys Black women's experiences living with and confronting state oppression in Latin America and the Caribbean. Black women experience similar patterns of political, social, and economic inequality in the region. Transnationally, racism, sexism, patriarchy, homophobia, and classism affect the quality of life of Black women, particularly within nation-states with legacies of slavery and colonialism. This course takes a historical, social, and theoretical look at the roots of this inequality.
+
+## AAAD 385. Emancipation in the New World. 3 Credits.
+
+Students will examine the way that the process of emancipation unfolded in Haiti, Antiqua, and Cuba, with major emphasis on emancipation in the United States.
+
+## AAAD 386. Comparative Studies in Culture, Gender, and Global Forces. 3 Credits.
+
+Examines participatory development theory and practice in Africa and the United States in the context of other intervention strategies and with special attention to culture and gender.
+
+## AAAD 387. HIV/AIDS in Africa and the Diaspora. 3 Credits.
+
+This course explores the history and contemporary politics of HIV/AIDS in African communities and across the Diaspora. The differing trajectories of the epidemic on the continent, in the West, and in the Caribbean and Latin America will be explored.
+
+## AAAD 388. Black Feminist Thought & the Speculative Imagination. 3 Credits.
+
+This class places transnational Black feminist thought in conversation with Black speculative fiction from across the diaspora, particularly emphasizing sci-fi and fantasy narratives set in dystopic or post-apocalyptic worlds. By reading these two traditions of writing together, we study how both genres theorize the potential sources of, responses to, and preventative measures against forms of political, social, and environmental catastrophe.
+
+## AAAD 389. The Caribbean Anticolonial: Caribbean Literature, Film, Aesthetics, and Politics. 3 Credits.
+
+This course will examine literature, film, art, and music from the Caribbean that illustrates and critiques the past and present impacts of colonial rule in the region. What role has anticolonial Caribbean literature and art played in shaping the region's present and future, and in shaping global anticolonial politics?
+
+## AAAD 391. Human Development and Sustainability in Africa and the African Diaspora. 3 Credits.
+
+A critical introduction to the study of development and sustainability as interlinked approaches to understanding contemporary challenges in Africa and the African diaspora. Development is a concept with multiple meanings and contextual incarnations. The course emphasizes thinking of development as a field of expertise and intervention and as a modality of change, that goes beyond economistic understandings of development as simply economic growth.
+
+## AAAD 392. Struggles to Shape the City. 3 Credits.
+
+Examines approaches to studying the politicization and foreclosure of urban space. Focus in particular on race and socioeconomic class as key lenses through which to interpret and understand urban spatial struggles. Examines relations of inequality in the global North and the global South and analyzes struggles to remain in the city that are central to the politics of place.
+
+## AAAD 395. Undergraduate Research Seminar. 3 Credits.
+
+Permission of the instructor for nonmajors. Subject matter will vary with each instructor. Each course will concern itself with a study in depth of some problem in African, African American, or diaspora studies.
+
+## AAAD 396. Independent Studies. 3 Credits.
+
+Permission of the director of undergraduate studies. Independent study projects defined by student and faculty advisor. Majors only.
+
+## AAAD 400. Contemporary African Politics. 3 Credits.
+
+This upper level seminar examines contemporary African politics with a focus on political trends in the post-1990s period.
+
+## AAAD 401. Poverty, Health, and Human Development in Low Income Countries. 3 Credits.
+
+This course provides an understanding of how poverty is defined, the consequences of poverty, and policies to reduce poverty. It explores the determinants of human development outcomes from an interdisciplinary perspective (with a heavy economics focus).
+
+## AAAD 402. African Media and Film: History and Practice. 3 Credits.
+
+This course explores forms of filmic and photographic representation of and by Africans. An introduction to key concepts in social theory and their application to the field of media studies and ethnography is a primary focus.
+
+## AAAD 403. Human Rights: Theories and Practices in Africa. 3 Credits.
+
+This course explores major conceptual debates in the field of human rights. Further, it examines human rights practices and struggles in selected countries in Africa.
+
+## AAAD 404. Music of African Diasporas. 3 Credits.
+
+An exploration of musical articulations of African diasporic identity focusing on aesthetics, social fields of production, and the historical development of the diaspora concept around music.
+
+## AAAD 405. Contemporary African Art. 3 Credits.
+
+Examines modern and contemporary African art (1940s to the present) for Africans on the continent and abroad. Examines tradition, cultural heritage, colonialism, postcolonialism, local versus global, nationalism, gender, identity, diaspora.
+
+## AAAD 410. Gender, Sexuality, and Development in Contemporary Africa. 3 Credits.
+
+This upper-level seminar focuses on debates in international development studies exploring theories and policies of development, particularly those pertaining to gender, sexuality, masculinities, and women's political agency in contemporary Africa.
+
+## AAAD 414. Senegalese Society and Culture. 3 Credits.
+
+This course provides an overview of Senegalese society and culture through film, literary works, and scholarly books and articles. The course examines the geography, population, religious beliefs, visual culture, popular music, and gender discourses in Senegalese contexts.
+
+## AAAD 419. African Studies Colloquium. 3 Credits.
+
+This course will equip students to analyze critically cutting-edge issues concerning Africa today through readings, lectures, and research. For junior/senior majors and students with an interest in Africa.
+
+## AAAD 421. Introduction to the Languages of Africa. 3 Credits.
+
+This course is an introduction to the languages of Africa. No linguistics background is required. Topics include classification, characteristic linguistic features of African languages, and their role in their respective societies.
+
+## AAAD 430. African American Intellectual History. 3 Credits.
+
+An examination of major intellectual trends in African American life from the 19th to the early 21st century.
+
+## AAAD 444. Race, Ethnicity, and Blackness in Comparative Perspective. 3 Credits.
+
+This course will provide students the opportunity to compare and contrast how race, especially Blackness, and ethnicity are constructed across the globe as well as how race, politics, and policy interact in various countries. We will examine the phenomena of race and ethnicity in the political development of several countries including the U.S., South Africa, France, Australia, Brazil, and several others.
+
+## AAAD 449. Black Women in Cinema: From the Early 1900s to the Present. 3 Credits.
+
+This course interrogates the diverse representations that black women personified on screen, investigates intersections between their off-screen lives and on-screen images, and explores what and how they contributed to the cinema industry. This course is a theoretical, critical, and historical examination of the black woman's cinematic experience.
+
+## AAAD 451. Orality, Literacy, and Cultural Production: African Americans and Racial Modernity. 3 Credits.
+
+Examines the divide between literacy- and orality-based modes of self-expression and cultural production, and the effects of this fault line on the African American struggle for inclusion and self-definition in the United States.
+
+## AAAD 460. Race, Culture, and Politics in Brazil. 3 Credits.
+
+Examines race, culture, and politics in Brazil from historical and contemporary perspectives. Focuses on dynamics of race, gender, class, and nation in shaping Brazilian social relations.
+
+## AAAD 461. Race, Gender, and Activism in Cuba. 3 Credits.
+
+The course is designed to give students a simulated experience of ethnographic fieldwork and qualitative research. Students are led through a learning experience where they will examine black activism in Cuba from historical and contemporary perspectives.
+
+## AAAD 466. Race and Gender in the Atlantic World. 3 Credits.
+
+This course examines constructions of race and gender in a comparative framework from the fifteenth to the mid-nineteenth century. Students will explore how people across the Atlantic understood visual differences and human diversity in emerging concepts of race. Students will also focus on how inhabitants of Africa, Europe, North America, and South America constructed the category of "woman" and "man" and the constraints and liberties these constructions imposed.
+
+## AAAD 480. Vernacular Traditions in African American Music. 4 Credits.
+
+Explores performance traditions in African American music, tracing development from African song through reels, blues, gospel, and contemporary vernacular expression. Focuses on continuity, creativity, and change within African American aesthetics. Previously offered as FOLK 610/AAAD 432.
+
+## AAAD 485. Transnational Black Feminist Thought and Practice. 3 Credits.
+
+This course uses social science approaches to explore the development of black feminist thought and activism in diverse cultural and national contexts. Students will gain knowledge of black feminist thought writing and activism in Europe, Latin America, the Caribbean, and the United States.
+
+## AAAD 486. Africa in the American Imagination. 3 Credits.
+
+Examines the ways African art appears in United States popular culture (advertisements, magazines, toys, films, art) to generate meanings about Africa. Addresses intersecting issues of nationalism, multiculturalism, imperialism, nostalgia, and race. Restricted to sophomores, juniors, and seniors.
+
+## AAAD 487. Intellectual Currents in African and African Diaspora Studies. 3 Credits.
+
+In this seminar students will examine primary documents of engaged scholarship written by Africans and people of African descent in the Americas, Europe, and elsewhere in the African Diaspora.
+
+## AAAD 488. Human Rights and Democracy in African Diaspora Communities. 3 Credits.
+
+This course examines how questions of democracy and human rights have been conceptualized in African Diaspora communities in the Americas and Europe.
+
+## AAAD 490. Colloquium in African, African American, and Diaspora Studies. 3 Credits.
+
+This course is designed to give students a broad-ranging, interpretative perspective on-and analytical tools for studying-the migration and settlement of African peoples in various parts of the world, largely over the past several centuries. Based on selected secondary readings, students will study and compare the ways in which people of African descent have created political, cultural, and territorial communities in Africa and beyond the continent, especially in the slave and post-emancipation societies of the Americas.
+
+## AAAD 491. Class, Race, and Inequality in America. 3 Credits.
+
+Examines the origins of race in America, the relationship of racial oppression to class struggle at key points in American history, the proliferation of versions of the concept of privilege, and approaches to eliminating class and racial privilege.
+
+## AAAD 492. Urbanism in the Global South. 3 Credits.
+
+This course introduces concepts and themes on the development of urbanism in the "Global South". Students engage with current debates over urbanism in the Global South, including looking at urban inequalities in contemporary cities. Through the course, students will be able to compare and critically analyze formations of contemporary urbanism in selected cities in the Global South from a comparative perspective.
+

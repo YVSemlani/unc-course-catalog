@@ -1,26 +1,98 @@
 # LFIT Course Catalog
 
-- [LFIT 102: Lifetime Fitness: Adapted Physical Activity](LFIT_102_Lifetime_Fitness:_Adapted_Physical_Activity)
-- [LFIT 103: Lifetime Fitness: Aerobics](LFIT_103_Lifetime_Fitness:_Aerobics)
-- [LFIT 104: Lifetime Fitness: Exercise and Conditioning](LFIT_104_Lifetime_Fitness:_Exercise_and_Conditioning)
-- [LFIT 105: Lifetime Fitness: Indoor Sports](LFIT_105_Lifetime_Fitness:_Indoor_Sports)
-- [LFIT 106: Lifetime Fitness: Beginning Jogging](LFIT_106_Lifetime_Fitness:_Beginning_Jogging)
-- [LFIT 107: Lifetime Fitness: Intermediate Jogging](LFIT_107_Lifetime_Fitness:_Intermediate_Jogging)
-- [LFIT 108: Lifetime Fitness: Outdoor Sports](LFIT_108_Lifetime_Fitness:_Outdoor_Sports)
-- [LFIT 109: Lifetime Fitness: Racquet Sports](LFIT_109_Lifetime_Fitness:_Racquet_Sports)
-- [LFIT 110: Lifetime Fitness: Beginning Swimming](LFIT_110_Lifetime_Fitness:_Beginning_Swimming)
-- [LFIT 111: Lifetime Fitness: Swim Conditioning](LFIT_111_Lifetime_Fitness:_Swim_Conditioning)
-- [LFIT 112: Lifetime Fitness: Walking](LFIT_112_Lifetime_Fitness:_Walking)
-- [LFIT 113: Lifetime Fitness: Weight Training](LFIT_113_Lifetime_Fitness:_Weight_Training)
-- [LFIT 114: Lifetime Fitness: Yoga and Pilates](LFIT_114_Lifetime_Fitness:_Yoga_and_Pilates)
-- [LFIT 115: Lifetime Fitness: Cycle Fitness](LFIT_115_Lifetime_Fitness:_Cycle_Fitness)
-- [LFIT 118: Lifetime Fitness: Flag Football](LFIT_118_Lifetime_Fitness:_Flag_Football)
-- [LFIT 128: Lifetime Fitness: Self Defense](LFIT_128_Lifetime_Fitness:_Self_Defense)
-- [LFIT 129: Lifetime Fitness: Downhill Skiing and Snowboarding](LFIT_129_Lifetime_Fitness:_Downhill_Skiing_and_Snowboarding)
-- [LFIT 130: Lifetime Fitness: Soccer](LFIT_130_Lifetime_Fitness:_Soccer)
-- [LFIT 138: Lifetime Fitness: Tennis](LFIT_138_Lifetime_Fitness:_Tennis)
-- [LFIT 140: Lifetime Fitness: Ultimate Frisbee](LFIT_140_Lifetime_Fitness:_Ultimate_Frisbee)
-- [LFIT 145: Lifetime Fitness: Brazilian Jiu Jitsu](LFIT_145_Lifetime_Fitness:_Brazilian_Jiu_Jitsu)
-- [LFIT 146: Lifetime Fitness: Sand Volleyball](LFIT_146_Lifetime_Fitness:_Sand_Volleyball)
-- [LFIT 190: Special Topics in Lifetime Fitness](LFIT_190_Special_Topics_in_Lifetime_Fitness)
-- [LFIT 998: Lifetime Fitness Transfer Credit](LFIT_998_Lifetime_Fitness_Transfer_Credit)
+## LFIT 102. Lifetime Fitness: Adapted Physical Activity. 1 Credits.
+
+Assignments to this class are made for students with special needs in physical activities focusing primarily on acute and chronic physical limitations. Activities are assigned commensurate with interests and abilities. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 103. Lifetime Fitness: Aerobics. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course includes various forms of aerobics. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 104. Lifetime Fitness: Exercise and Conditioning. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. Activities will promote cardiovascular endurance, muscular strength and endurance, and flexibility. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 105. Lifetime Fitness: Indoor Sports. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. Activity portion of the course includes basketball, volleyball, and indoor soccer. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 106. Lifetime Fitness: Beginning Jogging. 1 Credits.
+
+This course is an introduction fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course promotes cardiovascular fitness through jogging. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 107. Lifetime Fitness: Intermediate Jogging. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. Activity portion for students who can complete 30 minutes of jogging. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 108. Lifetime Fitness: Outdoor Sports. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. Activity portion of course includes ultimate frisbee, flag football, and soccer. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 109. Lifetime Fitness: Racquet Sports. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course includes badminton, tennis, and racquetball. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 110. Lifetime Fitness: Beginning Swimming. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course includes swimming skills for beginners. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 111. Lifetime Fitness: Swim Conditioning. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course promotes cardiovascular fitness through swimming. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 112. Lifetime Fitness: Walking. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course promotes cardiovascular fitness through walking. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 113. Lifetime Fitness: Weight Training. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion includes basic techniques of weight training. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 114. Lifetime Fitness: Yoga and Pilates. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion includes basic instruction in both yoga and pilates. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 115. Lifetime Fitness: Cycle Fitness. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion includes basic instruction in cycle fitness. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 118. Lifetime Fitness: Flag Football. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course includes basic instruction in flag football. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 128. Lifetime Fitness: Self Defense. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion includes basic techniques of self defense. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 129. Lifetime Fitness: Downhill Skiing and Snowboarding. 1 Credits.
+
+An introduction to fitness and wellness that includes developing personal fitness programs and instruction in physical activity. The activity portion includes basic conditioning and instruction in both downhill skiing and snowboarding, including five days in Boone, NC. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 130. Lifetime Fitness: Soccer. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion will provide soccer instruction and game play. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 138. Lifetime Fitness: Tennis. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course includes basic instruction in tennis. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 140. Lifetime Fitness: Ultimate Frisbee. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course includes basic instruction in ultimate frisbee. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 145. Lifetime Fitness: Brazilian Jiu Jitsu. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course includes basic instruction in Brazilian jiu jitsu. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 146. Lifetime Fitness: Sand Volleyball. 1 Credits.
+
+This course is an introduction to fitness and wellness, and includes developing personal fitness programs and instruction in physical activity. The activity portion of the course includes basic instruction in sand volleyball. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 190. Special Topics in Lifetime Fitness. 1 Credits.
+
+This course is designed to cover the study and practice of special topics directed by an authority in the field. Subject matter will vary per instructor and topic. Students can enroll in only one LFIT course during their career at Carolina.
+
+## LFIT 998. Lifetime Fitness Transfer Credit. 1 Credits.
+
+Lifetime Fitness Transfer Credit
+

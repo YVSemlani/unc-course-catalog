@@ -1,6 +1,18 @@
 # VIET Course Catalog
 
-- [VIET 101: Elementary Vietnamese I](VIET_101_Elementary_Vietnamese_I)
-- [VIET 102: Elementary Vietnamese II](VIET_102_Elementary_Vietnamese_II)
-- [VIET 203: Intermediate Vietnamese I](VIET_203_Intermediate_Vietnamese_I)
-- [VIET 204: Intermediate Vietnamese II](VIET_204_Intermediate_Vietnamese_II)
+## VIET 101. Elementary Vietnamese I. 3 Credits.
+
+Introduction to modern standard Vietnamese, providing practice and instruction in basic grammar and vocabulary.
+
+## VIET 102. Elementary Vietnamese II. 3 Credits.
+
+Introduction to modern standard Vietnamese, providing practice and instruction in basic grammar and vocabulary.
+
+## VIET 203. Intermediate Vietnamese I. 3 Credits.
+
+Third semester of Vietnamese language instruction. Continued development of basic structures and introduction of new vocabulary and more complex grammar. Practice reading and writing longer passages and more conversation.
+
+## VIET 204. Intermediate Vietnamese II. 3 Credits.
+
+Fourth semester of Vietnamese language instruction. Continued development of basic structures and introduction of new vocabulary and more complex grammar. Practice reading and writing longer passages and more conversation.
+

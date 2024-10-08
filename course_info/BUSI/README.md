@@ -1,81 +1,596 @@
 # BUSI Course Catalog
 
-- [BUSI 107: Management Accounting SS](BUSI_107_Management_Accounting_SS)
-- [BUSI 120: Exploring the Intersection of Business and Society](BUSI_120_Exploring_the_Intersection_of_Business_and_Society)
-- [BUSI 220: Persuasion with Data](BUSI_220_Persuasion_with_Data)
-- [BUSI 221: Luther Hodges Scholars Leadership Seminar](BUSI_221_Luther_Hodges_Scholars_Leadership_Seminar)
-- [BUSI 286: Introduction to Personal Finance](BUSI_286_Introduction_to_Personal_Finance)
-- [BUSI 293: Affordable Housing Practicum](BUSI_293_Affordable_Housing_Practicum)
-- [BUSI 305: Business German](BUSI_305_Business_German)
-- [BUSI 401: Management and Corporate Communication](BUSI_401_Management_and_Corporate_Communication)
-- [BUSI 403: Operations Management](BUSI_403_Operations_Management)
-- [BUSI 405: Leading and Managing: An Introduction to Organizational Behavior](BUSI_405_Leading_and_Managing:_An_Introduction_to_Organizational_Behavior)
-- [BUSI 406: Marketing](BUSI_406_Marketing)
-- [BUSI 407: Financial Accounting](BUSI_407_Financial_Accounting)
-- [BUSI 408: Corporate Finance](BUSI_408_Corporate_Finance)
-- [BUSI 410: Business Analytics](BUSI_410_Business_Analytics)
-- [BUSI 463: Corporate Environmental Stewardship](BUSI_463_Corporate_Environmental_Stewardship)
-- [BUSI 488: Data Science in the Business World](BUSI_488_Data_Science_in_the_Business_World)
-- [BUSI 500: Entrepreneurship and Business Planning](BUSI_500_Entrepreneurship_and_Business_Planning)
-- [BUSI 505: Entrepreneurial Consulting](BUSI_505_Entrepreneurial_Consulting)
-- [BUSI 506: Entrepreneurial Strategy: How to Think Like a Venture Capitalist](BUSI_506_Entrepreneurial_Strategy:_How_to_Think_Like_a_Venture_Capitalist)
-- [BUSI 507: Sustainable Business and Social Enterprise](BUSI_507_Sustainable_Business_and_Social_Enterprise)
-- [BUSI 509: Entrepreneurs Lab: Advanced Entrepreneurial Insight and Leadership](BUSI_509_Entrepreneurs_Lab:_Advanced_Entrepreneurial_Insight_and_Leadership)
-- [BUSI 518: Applied Private Equity](BUSI_518_Applied_Private_Equity)
-- [BUSI 520: Advanced Spreadsheet Modeling for Business](BUSI_520_Advanced_Spreadsheet_Modeling_for_Business)
-- [BUSI 521: Design Thinking: The Innovation Process for Complex Problems](BUSI_521_Design_Thinking:_The_Innovation_Process_for_Complex_Problems)
-- [BUSI 524: Applied Improvisation for Business Communication](BUSI_524_Applied_Improvisation_for_Business_Communication)
-- [BUSI 526: Leadership in Action](BUSI_526_Leadership_in_Action)
-- [BUSI 532: Healthcare and Service Operations Management](BUSI_532_Healthcare_and_Service_Operations_Management)
-- [BUSI 533: Supply Chain Management](BUSI_533_Supply_Chain_Management)
-- [BUSI 534: Business Modeling with Excel](BUSI_534_Business_Modeling_with_Excel)
-- [BUSI 554: Consulting Skills and Frameworks](BUSI_554_Consulting_Skills_and_Frameworks)
-- [BUSI 558: Digital Marketing](BUSI_558_Digital_Marketing)
-- [BUSI 562: Consumer Behavior](BUSI_562_Consumer_Behavior)
-- [BUSI 564: Design Thinking and Product Development](BUSI_564_Design_Thinking_and_Product_Development)
-- [BUSI 565: Market Research](BUSI_565_Market_Research)
-- [BUSI 566: Marketing Strategy: Sustainable Competitive Advantage in Dynamic Environments](BUSI_566_Marketing_Strategy:_Sustainable_Competitive_Advantage_in_Dynamic_Environments)
-- [BUSI 567: Customer Journeys](BUSI_567_Customer_Journeys)
-- [BUSI 574: Taxes and Business Strategy](BUSI_574_Taxes_and_Business_Strategy)
-- [BUSI 580: Investments](BUSI_580_Investments)
-- [BUSI 582: Mergers and Acquisitions](BUSI_582_Mergers_and_Acquisitions)
-- [BUSI 583: Applied Investment Management](BUSI_583_Applied_Investment_Management)
-- [BUSI 584: Financial Modeling](BUSI_584_Financial_Modeling)
-- [BUSI 585: Introduction to Real Estate](BUSI_585_Introduction_to_Real_Estate)
-- [BUSI 590: Business Seminar](BUSI_590_Business_Seminar)
-- [BUSI 592: Applied Private Equity: Real Estate](BUSI_592_Applied_Private_Equity:_Real_Estate)
-- [BUSI 605: Real Estate Capstone](BUSI_605_Real_Estate_Capstone)
-- [BUSI 610: Global Environment of Business](BUSI_610_Global_Environment_of_Business)
-- [BUSI 611: International Development](BUSI_611_International_Development)
-- [BUSI 617: Global Marketing](BUSI_617_Global_Marketing)
-- [BUSI 701: Artistic Entrepreneurship](BUSI_701_Artistic_Entrepreneurship)
-- [BUSI 808: Applied Research Methods I](BUSI_808_Applied_Research_Methods_I)
-- [BUSI 809: Applied Research Methods II](BUSI_809_Applied_Research_Methods_II)
-- [BUSI 810: Empirical Operations](BUSI_810_Empirical_Operations)
-- [BUSI 830: Theory of Operations Management I](BUSI_830_Theory_of_Operations_Management_I)
-- [BUSI 831: Theory of Operations Management II](BUSI_831_Theory_of_Operations_Management_II)
-- [BUSI 832: Theory of Operations Management III](BUSI_832_Theory_of_Operations_Management_III)
-- [BUSI 837: Advanced Topics in Operations Management](BUSI_837_Advanced_Topics_in_Operations_Management)
-- [BUSI 838: Seminar in Operations Management](BUSI_838_Seminar_in_Operations_Management)
-- [BUSI 853: Macro Organizational Behavior](BUSI_853_Macro_Organizational_Behavior)
-- [BUSI 854: Organizational Design and Development](BUSI_854_Organizational_Design_and_Development)
-- [BUSI 856: Seminar in Organizational Behavior](BUSI_856_Seminar_in_Organizational_Behavior)
-- [BUSI 857: Seminar in Human Resource Management](BUSI_857_Seminar_in_Human_Resource_Management)
-- [BUSI 858: Special Topics in Organizational Behavior](BUSI_858_Special_Topics_in_Organizational_Behavior)
-- [BUSI 860: Seminar in Marketing I](BUSI_860_Seminar_in_Marketing_I)
-- [BUSI 861: Seminar in Marketing II](BUSI_861_Seminar_in_Marketing_II)
-- [BUSI 862: Marketing Models](BUSI_862_Marketing_Models)
-- [BUSI 865: Seminar in Current Marketing Topics](BUSI_865_Seminar_in_Current_Marketing_Topics)
-- [BUSI 867: Issues in the Design and Analysis of Research in Marketing](BUSI_867_Issues_in_the_Design_and_Analysis_of_Research_in_Marketing)
-- [BUSI 868: Seminar in Marketing Research Methodology](BUSI_868_Seminar_in_Marketing_Research_Methodology)
-- [BUSI 876: Seminar in Research in Accounting](BUSI_876_Seminar_in_Research_in_Accounting)
-- [BUSI 880: Financial Economics](BUSI_880_Financial_Economics)
-- [BUSI 882: Empirical Corporate Finance](BUSI_882_Empirical_Corporate_Finance)
-- [BUSI 886: Introduction to Empirical Finance](BUSI_886_Introduction_to_Empirical_Finance)
-- [BUSI 887: Quantitative Methods in Finance](BUSI_887_Quantitative_Methods_in_Finance)
-- [BUSI 888: Seminar in Financial Markets](BUSI_888_Seminar_in_Financial_Markets)
-- [BUSI 890: Strategic Management Overview](BUSI_890_Strategic_Management_Overview)
-- [BUSI 891: Strategic Formulation](BUSI_891_Strategic_Formulation)
-- [BUSI 892: Strategy Implementation](BUSI_892_Strategy_Implementation)
-- [BUSI 992: Master's (Non-Thesis)](BUSI_992_Master's_(Non-Thesis))
-- [BUSI 994: Doctoral Research and Dissertation](BUSI_994_Doctoral_Research_and_Dissertation)
+## BUSI 89. First-Year Seminar: Special Topics. 3 Credits.
+
+Special topics course. Content will vary each semester. Honors version available.
+
+## BUSI 100. Introduction to Business: People, Profits, Planet. 1.5 Credits.
+This course will cover five major themes: people, customers, firms, markets and society. In doing so, it will allow students to learn about the world of business, the major disciplines and how those disciplines fit together as well as how business can drive positive change in a rapidly changing world. Lastly, the course will highlight different career paths, and will introduce the skillsets and mindsets that are relevant to each.
+
+BUSI 107. Management Accounting SS. 3 Credits.
+
+Offered in summer school only. Elements of accounting for management planning, budgeting, and control. Emphasis is on management uses of accounting information. Students may not receive credit for both BUSI 107 and 108.
+
+## BUSI 120. Exploring the Intersection of Business and Society. 1 Credits.
+
+This is a professional, academic, and personal development course for undergraduate Luther Hodges Scholars in their first semester of the program. The main purpose is to support incoming scholars' transition by providing a roadmap to their active participation in the program, including: grounding scholars in the program's three core competencies (leadership, research, and cross-sector collaboration), connecting them to Kenan Institute resources, enhancing networking skills opportunities, and building community among fellow scholars. Luther Hodges Scholars only.
+
+## BUSI 188. Foundations of Leadership: Discovering Your Strengths. 1.5 Credits.
+This course introduces the concepts of strengths-based leadership development to help uncover strengths and maximize potential for overall success. Students will learn how to connect these strengths to all areas of life, including, but not limited to, their academic journey as well as their future career path. Restricted to first-year students who are offered Assured Enrollment into the Kenan-Flagler Business School.
+
+BUSI 189. Introduction to Careers in Business. 1.5 Credits.
+This course gives students an overview of the career options in business. This overview provides an understanding of the foundations of business and allows students to reflect on what specific business areas they might want to pursue. Restricted to first-year students who are offered Assured Enrollment into the Kenan-Flagler Business School.
+
+BUSI 190. Business Topics. 1-3 Credits.
+Varied topics in business administration.
+
+BUSI 203. Business in South East Asia. 0.5-15 Credits.
+Permission of the School required. This faculty-led immersion to South East Asia examines developed and developing parts of the region. Coursework in Chapel Hill focuses on economy, political life, and culture. In South East Asia, thru company visits you develop an understanding of the different pathways to economic growth and critically analyze why there is variation in the speed of development. Application and department permission required. Additional fees apply.
+
+BUSI 220. Persuasion with Data. 1 Credits.
+
+This class will emphasize research methods appropriate for projects that are designed to identify an important business-related problem and to evaluate potential solutions based on systematic empirical evidence. Even though the focus is on using empirical evidence, students may need to explore additional resources or skills not covered in the class as part of their research, such as data analytics, data visualization. Luther Hodges Scholars only.
+
+## BUSI 221. Luther Hodges Scholars Leadership Seminar. 1 Credits.
+
+In this course, students delve into cross-sector collaboration and the private sector's societal role. Through readings, guided discussions, and guest presentations, students will examine key attributes of effective leaders. They'll analyze leadership attributes, interact with leaders from various sectors, plan a campus debate on a pressing business topic, and explore the Kenan Institute's Grand Challenge. Luther Hodges Scholars only.
+
+## BUSI 286. Introduction to Personal Finance. 3 Credits.
+
+Introduces the fundamental principle tools of finance including time value of money (TVM), risk vs return, and asset pricing. It increases the student's understanding of the process of accumulating and protecting personal wealth by learning how to identify and analyze risk and return, understand the complexities of budgeting. It also covers investment alternatives, retirement planning, and how to transfer wealth. Intended for seniors and juniors who are not pursuing a business major/minor.
+
+## BUSI 290. Business Topics. 1.5-3 Credits.
+Varied topics in business administration.
+
+BUSI 293. Affordable Housing Practicum. 3 Credits.
+
+In this experiential class, junior and senior students, guided by the professor, serve as consultants for affordable housing organizations and developers. They collaborate with Housing Partners, including developers, financing institutions, government agencies, and not-for-profit organizations, to address business challenges tied to affordable housing initiatives. Students gain expertise in creating and delivering professional work while grasping the intricacies and significance of affordable housing.
+
+## BUSI 301. Business in Europe. 0.5-15 Credits.
+Expand your global business knowledge and gain project-based experience through an immersion in Europe. Coursework begins in Chapel Hill. The European portion will be highly experiential, where possible, working to connect students with local young people. Application and permission of department required. Additional fees apply. Course previously offered as BUSI 201.
+
+BUSI 302. Business in Asia. 0.5-15 Credits.
+Expand your global business knowledge and gain project-based experience through an immersion in Asia. Coursework begins in Chapel Hill. The Asian portion will be highly experiential, where possible, working to connect students with local young people. Application and permission of department required. Additional fees apply. Course previously offered as BUSI 202.
+
+BUSI 303. Business in the Middle East. 0.5-15 Credits.
+Expand your global business knowledge and gain project-based experience through an immersion in the Middle East. Coursework begins in Chapel Hill. The Middle Eastern portion will be highly experiential, where possible, working to connect students with local young people. Application and permission of department required. Additional fees apply. Course previously offered as BUSI 205.
+
+BUSI 304. Business in Latin America. 0.5-15 Credits.
+Expand your global business knowledge and gain project-based experience through an immersion in Latin America. Coursework begins in Chapel Hill. The In-country portion will be highly experiential, where possible, working to connect students with local young people. Application and permission of department required. Additional fees apply. Course previously offered as BUSI 204.
+
+BUSI 305. Business German. 3 Credits.
+
+GERM 304 recommended but not required. As a continuation of GERM 304 the course offers a more advanced treatment of the current German economic and business debates and events while further strengthening relevant German language skills. Course conducted in German.
+
+## BUSI 306. Business in Africa. 0.5-15 Credits.
+The South Africa immersion focuses on: Inclusive business and leadership. Chapel Hill classes cover the economy, political life, and regional culture. The focus on inclusive business explores topics like inclusive business models, social entrepreneurship, grassroots business, social innovation, and mobile technology. Within these topics, leadership is a recurring theme. Additionally, students visit multi-nationals, local companies, small business entrepreneurs and non-profit organizations. Application and permission required. Additional fees apply. Course previously offered as BUSI 206. Permission of the School required.
+
+BUSI 307. Business in Oceania. 0.5-15 Credits.
+Expand your global business knowledge and gain project-based experience through an immersion in Oceania. Coursework begins in Chapel Hill. The in-country portion will be highly experiential, where possible, working to connect students with local young people. Application and permission of department required. Additional fees apply. Course previously offered as BUSI 207.
+
+BUSI 308. Business in North America. 0.5-15 Credits.
+Expand your global business knowledge and gain project-based experience through an immersion in North America. Coursework begins in Chapel Hill. The in-country portion will be highly experiential, where possible, working to connect students with local young people. Application and permission of department required. Additional fees apply.
+
+BUSI 350. Symposium Core Committee. 1.5-3 Credits.
+Service on the B.S.B.A. Symposium Core Committee to plan, execute, and evaluate the annual event. Previously offered as BUSI 650. Permission of the instructor.
+
+BUSI 390. Business Topics. 1-3 Credits.
+Varied topics in business administration.
+
+BUSI 393. Business Internship Project I. 1.5-3 Credits.
+This course provides students with a format for reflection while performing a professional internship that enhances their ability to achieve career objectives. Application and permission required. Permission of the department.
+
+BUSI 401. Management and Corporate Communication. 3 Credits.
+
+Open to business majors. Writing- and speaking-intensive course that emphasizes professional communication. Provides opportunities to learn and apply the conventions and expectations for standard business documents and presentations. Features strategies for addressing informative, persuasive, and bad-news messages using a variety of media (print documents, electronic messages, and oral presentations).
+
+## BUSI 402. Applied Microeconomics for Business. 1.5 Credits.
+The course emphasizes the application of economic analysis to solve a range of practical business problems that fall into one of these broad categories. The course makes regular use of mathematics (elements of algebra, geometry, and calculus), and includes a solution of optimization problems using Excel. Students may not receive credit for both BUSI 402 and ECON 410.
+
+BUSI 403. Operations Management. 3 Credits.
+
+Analysis of the operations functions in both manufacturing and service organizations. Formulating operational policies that improve efficiency and support high-level business strategy. Developing remedies that mitigate uncertainty and variability in operational processes.
+
+## BUSI 404. Business Ethics. 1.5 Credits.
+An examination of ethical issues that affect business.
+
+BUSI 405. Leading and Managing: An Introduction to Organizational Behavior. 3 Credits.
+
+An introduction to leading and managing in organizations. Examines the impact of individual, group, and organizational factors on organizational performance and employee attitudes. Topics include leadership, perceptions, attitudes, motivation, group development, norms and cohesiveness, empowerment, conflict, negotiations, culture, structure, stress, innovation, and change.
+
+## BUSI 406. Marketing. 3 Credits.
+
+Introduction to marketing with emphasis on the social and economic aspects of distribution, consumer problems, marketing functions and institutions, marketing methods and policies.
+
+## BUSI 407. Financial Accounting. 3 Credits.
+
+Students will acquire the tools to understand and analyze information presented in corporate financial statements. Financial accounting results and projected results are utilized in virtually every segment of the business world. Knowledge of financial accounting and analysis is necessary for managers, investors, bankers, financial analysts, and professional accountants.
+
+## BUSI 408. Corporate Finance. 3 Credits.
+
+Theoretical foundations of optimal financial policy. Problems and cases provide application of theory to financial decisions involving cash flow, capital structure, and capital budgeting.
+
+## BUSI 409. Advanced Corporate Finance. 1.5 Credits.
+A follow-up course to BUSI 408 that goes more deeply into the theory and application of financial management. Emphasis is placed on investment, financing, and dividend decisions. Honors version available.
+
+BUSI 410. Business Analytics. 3 Credits.
+
+While witnessing an explosion of data, most organizations tend to be awash with data but short on information. This course exposes students to techniques that will help them impact on an organization's strategy, planning, and operations, working on applications spanning a number of fields, including operations management, finance, and marketing.
+
+## BUSI 411. Strategic Management at the Business Level. 1.5 Credits.
+Students analyze sources of competitive success in business organizations using case analysis and written reports to develop analytical reasoning skills for assessing forward looking opportunities for the company. The emphasis is on industry analysis and organizational analysis and the development and management of firm specific competencies for successful growth.
+
+BUSI 412. Strategic Management in the Modern Corporation. 1.5 Credits.
+Students study the development of alternate forms of corporate-level diversification, with an emphasis on understanding the varied paths of corporate development. There is a focus on the challenges of integrating activities across diversified corporations and the tools to manage firms through the transitions that signal a change in strategy.
+
+BUSI 463. Corporate Environmental Stewardship. 3 Credits.
+
+This course explores the intersection of business/economic growth and the major sustainability issues affecting the environment and societal well-being and raises questions about business ethics and the moral responsibility of business leaders, consumers, and citizens. Previously offered as ENEC 306.
+
+## BUSI 470. Storytelling to Influence and Inspire. 1.5 Credits.
+Whether communicating to a single person, a small team, a company, or the world, stories help you cut through information clutter to explain your brand, articulate your vision, inspire buy-in, offer hope, and sell ideas. Considering that, this course - through lecture, discussion, readings, workshops, thinking time, and practice - gives you the tools you need to be a confident storyteller in the workplace and thus influence and inspire most everyone in your professional sphere.
+
+BUSI 488. Data Science in the Business World. 3 Credits.
+
+Business and Computer Science students join forces in this course to create data-driven business insights. We transgress the data science pipeline using cloud computing, artificial intelligence, and real-world datasets. Students acquire hands-on skills in acquiring data, wrangling vast unstructured data, building advanced models, and telling compelling stories with data that managers can understand.
+
+## BUSI 490. Business Topics. 1.5 Credits.
+Varied topics in business administration. Honors version available.
+
+BUSI 493. Business Internship Project II. 1.5-3 Credits.
+This course provides students with a format for reflection while performing a professional internship that enhances their ability to achieve career objectives. Previously offered as BUSI 593. Permission of the department.
+
+BUSI 496. Independent Study in Business. 0.5-3 Credits.
+Permission of the department. Supervised individual study and research in the student's special field of interest.
+
+BUSI 500. Entrepreneurship and Business Planning. 3 Credits.
+
+Students gain an understanding of entrepreneurship and the tools and skills necessary to conceive, plan, execute, and scale a successful new venture. Students develop business ventures in teams through an experiential pedagogy. Honors version available.
+
+## BUSI 501. Professional Selling Strategies and Skills. 1.5 Credits.
+Critical concepts and skills for selling B2B products and services, and influencing others in business. Applicable to people considering sales or consulting as a career; to those thinking of starting an entrepreneurial company; or for those who want to understand how to influence peers, subordinates, and management.
+
+BUSI 502. Entrepreneurial Finance. 1.5 Credits.
+In this course students use financial tools and concepts in a real-world entrepreneurial setting. Working in assigned teams, students prepare a pitch book with financial projections for a company they wish to start or buy.
+
+BUSI 503. Family Business I: Introduction to Family Enterprise. 1.5 Credits.
+Addresses stages of a family enterprise and challenges/opportunities of each stage. Coursework synthesizes learning from core business subjects with practices common to successful family businesses. Focus is on developing management, governance, and family business leadership skills, with an emphasis on the importance of communication in the family; the creation of shared vision for the business; and alignment of family and business goals. The course includes live cases and student research on a family business.
+
+BUSI 504. Startup UNC. 1.5 Credits.
+This is a cross-campus course for exceptional students, staff, and faculty, designed to help launch UNC-Chapel Hill start-ups. Only for students serious about launching in the next nine to 12 months. Admission by online application. More information at www.launch.unc.edu.
+
+BUSI 505. Entrepreneurial Consulting. 3 Credits.
+
+Student teams engage in consulting projects to help a wide range of small business owners, early stage start-ups, and not-for-profit ventures tackle typical entrepreneurial challenges. Data is gathered through extensive fieldwork, such as client meetings, customer surveys, interviews with thought leaders, site visits, and product tests. Due to the heavy workload, students should not enroll in BUSI 505 and BUSI 554 concurrently.
+
+## BUSI 506. Entrepreneurial Strategy: How to Think Like a Venture Capitalist. 3 Credits.
+
+In this course, we tackle venture capital as a topic of strategy rather than finance. This course is complementary to entrepreneurial finance and private equity courses, as we will focus on "the story about the numbers" more than the numbers themselves. The goal of this course is to teach students how to recognize early stage startup opportunities, mitigate risk and assess feasibility. Real startup will come pitch to class, a la TV's Shark Tank.
+
+## BUSI 507. Sustainable Business and Social Enterprise. 3 Credits.
+
+This course concentrates on sustainability in existing businesses of all sizes, rather than starting new entrepreneurial ventures. Students will learn how to apply full triple bottom line sustainability in many industries/businesses and will explore how business fits into the sustainability landscape. Students develop skills using important innovation and sustainability frameworks (SASB, GRI, SDGs and more) that help identify profitable opportunities to simultaneously improve impact on society and the environment. Honors version available.
+
+## BUSI 508. Sustainable Business and Impact Entrepreneurship. 1.5 Credits.
+Students develop skills to evaluate interactions between business and today's social, environmental, and economic challenges using the full triple bottom line. This course teaches sustainability frameworks (SASB, GRI, Circular Economy, U.N. Sustainable Development Goals, etc.) and strategies to go beyond reducing negative impacts and mitigating risk to identifying market opportunities for innovative solutions with positive impact. It focuses on simultaneously improving social and environmental impact, while driving profitability. Students can explore existing entrepreneurial ventures.
+
+BUSI 509. Entrepreneurs Lab: Advanced Entrepreneurial Insight and Leadership. 3 Credits.
+
+This course explores the key issues associated with the entrepreneurial career and the lessons of success and failure with a goal to reinforce a high-performance entrepreneurial mindset. The course is designed for students who are committed and currently engaged actively in pursuing an entrepreneurial career path, either during their program, immediately after graduation, or over the course of their early career. Application required. This is a required course for Adams Apprentices. Honors version available.
+
+## BUSI 510. The Challenge of Healthcare: A System Overview. 1.5 Credits.
+This course provides an overview of health care in the US from a business perspective. Students will be introduced to the structure and component parts of the health care system and will study basic economic issues, public policies, and market developments as they impact the industry and the delivery of care/services. The course covers the P's of healthcare- providers, payers, producers, and patients. Includes a mix of cases, articles and guest speakers.
+
+BUSI 511. Regional Venture Capital Immersion. 1.5 Credits.
+Application-based course. This course gives a selected group of undergraduate students the opportunity to study venture capital by traveling to two different entrepreneurial regions of the United States, Europe, and/or Asia, with the goal of understanding how this subclass of private equity plays an integral role in the commercialization of disruptive technologies.
+
+BUSI 512. Family Business II: Governance and Ownership. 1.5 Credits.
+This course is a continuation of BUSI 503 and will delve more deeply into specific governance and ownership considerations for family-owned firms. The purpose of this course is to prepare students to be more effective in their own family enterprise as a non-family executive in a family business, or as an advisor to a family business. This course outlines the specific ownership, stewardship, tax, and transition issues that affect family enterprises.
+
+BUSI 514. STAR - Experiential Learning Project. 4.5 Credits.
+Student Teams Achieving Results (STAR) is a live management consulting project that leverages and integrates UNC Kenan-Flagler course curricula. Teams of five to seven M.B.A. and undergraduate students and one faculty member work with major corporations or not-for-profit entities to address a business challenge in strategy, marketing, operations etc. Offers deep exposure to an industry and company culture. Encourages skill development in teamwork, analysis, research, and executive presentations. Honors version available.
+
+BUSI 517. Private Equity and Debt Markets. 1.5 Credits.
+The objective of this course is to examine the changing world of private equity investments today. This is a survey course and will help prepare you to work for private equity and venture capital funds or to work for investment banks.
+
+BUSI 518. Applied Private Equity. 3 Credits.
+
+Permission of the instructor. Explores, at a very advanced level, all stages of the management of a venture capital and private equity fund, from capital formation, deal sourcing, due diligence, monitoring and adding value, and exiting of a portfolio company. Honors version available.
+
+## BUSI 520. Advanced Spreadsheet Modeling for Business. 3 Credits.
+
+Primarily online class. Students will use advanced features of Microsoft Excel to create efficient, flexible spreadsheet models of common and complex business problems. This is an extremely practical class in which skills learned can be put to immediate use in other classes, the workplace, and elsewhere. Topics: spreadsheet best practices, shortcuts and time-savers, flexible design, problem-solving, statistical analysis, charting, logic, reference functions, financial analysis, organizing data for complex analysis, what-if analysis, enhanced decision-making, and VBA.
+
+## BUSI 521. Design Thinking: The Innovation Process for Complex Problems. 3 Credits.
+
+The class teaches real world innovation -- creativity, improvisation, and design thinking -- through experiential learning and iterative project-based learning. Students will develop fluency in 21st century skills. These include storytelling, logo development, website design, video editing, audio and podcast editing, budgeting, postcard and flyer design, etc. In addition, students will discuss key innovations that will likely change their careers and lives: artificial intelligence, gene editing, autonomous vehicles, etc.
+
+## BUSI 522. Personal Branding and Professional Relationships. 1.5 Credits.
+In this course, students will develop authentic personal brands, learn how to communicate their brands in service of building professional relationships, and create sustainable plans for managing and enjoying the relationships they build. By the end of the course, students should possess a growing list of promising professional contacts and feel confident when discussing themselves and their accomplishments with others.
+
+BUSI 523. Diversity and Inclusion at Work. 1.5 Credits.
+Diversity and inclusion (D&I) is one of the most important topics of our time. Yet, increasing workplace diversity (and, most important, creating inclusion, belonging, and equity) is incredibly complex and challenging. In this class, you'll learn to: know what D&I programs work and don't; build inclusion, belonging, and equity (and not just diversity); implement D&I initiatives that make a difference; handle difficult conversations and conflict about and across difference; and generate open and honest dialogue.
+
+BUSI 524. Applied Improvisation for Business Communication. 3 Credits.
+
+Focuses on improving students' soft skills, such as presenting, expressiveness, and interviewing, by applying the principles and techniques of improvisational theater. Participants explore creativity, adaptation, awareness, self-confidence, risk taking, physicality, intuition, and teamwork. Students can stretch their abilities and discover things about themselves and others that are crucial to success.
+
+## BUSI 525. Advanced Business Presentations. 1.5 Credits.
+This course is grounded in argument, persuasion, and visual rhetoric to give students skills needed to develop winning presentations. Students learn strategies to help their messages "stick" with their audiences and to develop slide decks for the boardroom and advanced media devices. The course emphasizes efficiency in presentation preparation.
+
+BUSI 526. Leadership in Action. 3 Credits.
+
+Permission of the department. Provides student leaders with practical leadership frameworks and tools; creates opportunities to apply these on the job as leaders; and provides individualized coaching, feedback, and mentoring. This is an applied learning course taught by a seasoned practitioner designed to accelerate each student's development and growth.
+
+## BUSI 527. Gender at Work. 1.5 Credits.
+Taylor Swift's sexual assault lawsuit, the infamous Google memo, workplace harassment, paid paternity leave (Mark Zuckerberg took off 4 weeks!): Our era has been marked by a #MeToo ripple effect. Gender topics impact every employee, organization, and industry. You will explore these timely and tricky topics and understand how and why they affect you, teams, and organizations. Topics include gender facts, myths, perceptions, stereotypes, recruiting, hiring, pay gaps, current topics, problems, and solutions.
+
+BUSI 528. Leadership Communication. 1.5 Credits.
+This course provides students opportunities to practice and develop communication skills that will help them make an impact on the job and further their careers. Students will work to improve interpersonal and presentation skills related to navigating difficult interpersonal challenges, resolving conflicts, tackling difficult discussion topics, giving and receiving feedback, communicating with respect in diverse environments, listening, and networking.
+
+BUSI 529. Intercultural Communication in the Global Workplace. 1.5 Credits.
+Developing patterns of respectful intercultural communication is an increasingly important goal for the growth of business across the globe. This class will examine interesting and problematic issues surrounding cross-cultural communication, help students understand the complexity and variety of cultures, and teach communication strategies for success in conducting business across diverse cultures.
+
+BUSI 530. Corporate Communication: Social Advocacy and Activism. 1.5 Credits.
+This course examines concepts of civility, virtue signaling, and corporate legitimacy. Throughout the course, students are presented with cases, concepts, and ideas of why a corporation may choose to participate in social good as an advocate/activist for a social and/or political cause. Similarly, students learn applied strategies to become communicators of corporate change in their fields and organizations.
+
+BUSI 532. Healthcare and Service Operations Management. 3 Credits.
+
+This course will teach you how to design, manage, and improve the performance of service organizations through a structured analysis of firm operations. You will learn strategic analysis and operational decision-making for service firms. You will also learn how to effectively leverage data and analytics towards improved operating performance and customer satisfaction. This course will cover case studies from healthcare, e-commerce, hospitality, transportation, and online marketplaces. Honors version available.
+
+## BUSI 533. Supply Chain Management. 3 Credits.
+
+Analyzes the key drivers of supply chain performance including inventories, transportation, information technology, and sourcing. Studies strategies for supply chain coordination, and challenges and opportunities in global supply chains. A supply chain simulation is used. Honors version available.
+
+## BUSI 534. Business Modeling with Excel. 3 Credits.
+
+Provides a broad scope of analytic experience across corporate functions that is beneficial in consulting environments. A student may not receive credit for this course after receiving credit for STOR 305.
+
+## BUSI 536. Project Management. 1.5 Credits.
+Permission of the department. This course prepares students to take part in and lead projects effectively. The goal is to equip individuals across any career concentration rather than extend the expertise of project-management specialists. Students may not receive credit for both BUSI 536 and MBA 710.
+
+BUSI 537. Retail Operations. 1.5 Credits.
+Permission of the department. Examines developments in retailing and operations management principles applicable to these developments. Topics: consumer behavior, demand forecasting, logistics and distribution, store execution, international retailing, internet-based retailing, performance assessment, and impact on financial performance. Students may not receive credit for both BUSI 537 and MBA 708.
+
+BUSI 538. Sustainable Operations. 1.5 Credits.
+This course explores the link between sustainability and the operations function of a firm. The course focuses on the following activities: product and process design; manufacturing; transportation; logistics and distribution; closed-loop/after-sales operations such as recycling, remanufacturing, and reuse; supply chain management.
+
+BUSI 539. Health Care Operations. 1.5 Credits.
+Permission of the department. Students apply principles and tools of operations management to explore improvement opportunities in the design, delivery, and management of the health care value chain. The course examines the health care operation from the perspective of operations metrics such as cost, quality, time (access), and variety/customization.
+
+BUSI 545. Negotiations. 1.5 Credits.
+This course enables students to develop their expertise in managing negotiations. It integrates existing theory and research with personal experiences and ideas. Using hands-on exercises, readings, and lively discussions, students build and hone their ability to understand, adapt to, and evaluate the personal, social, and situational dynamics of negotiations.
+
+BUSI 546. Sport Marketing and Media. 1.5 Credits.
+This course provides an in-depth analysis of the effect of marketing and media on the sport industry. Key issues include the increasing growth of television and technological advances, changing consumer demographics and behaviors, and sponsorship relations. The course will be divided into three key areas: rights holders, media, and corporate sponsorship (brands).
+
+BUSI 547. Managerial Decision Making. 1.5 Credits.
+Behavioral economics provides an understanding of how people's decisions deviate from "optimal" choices and consequences of such deviations. This course will not only discuss when individuals make decisions that deviate from the predictions of economics, but also focus on the implications of these systematic decision biases for managers and policy makers.
+
+BUSI 548. Financing Affordable Housing. 1.5 Credits.
+Housing affordability is a pressing issue with widespread implications. This course delves into the history and dynamics of U.S. housing markets, exploring the factors behind declining affordability. Students also study the affordable housing sector's evolution, with a focus on financing rental and for-sale properties. Topics encompass financial analysis, rent and income limits, project capitalization, low-income housing tax credits (LIHTC), equity sources, gap funding, and strategies for bolstering affordable housing supply.
+
+BUSI 550. People Analytics. 1.5 Credits.
+This course introduces students to major topics in People Analytics and how using a data-driven human capital strategy can improve organizational performance (e.g., revenue, stock price, customer satisfaction, retention, etc.) and sustain competitive advantage. In this course students will exercise critical thinking skills by analyzing how managers apply human capital strategies in practice. Development of skills in problem solving, creative thinking, written and oral communication, are the main objectives of this course.
+
+BUSI 552. Strategic Innovation. 1.5 Credits.
+This course is designed for undergraduate business students interested in innovation and entrepreneurship inside established firms. It focuses on the art of bringing novel ideas and products to market while working inside a company. This course will help you understand the barriers to innovation inside existing firms, learn the tools and techniques for overcoming these, and develop an entrepreneurial mindset.
+
+BUSI 554. Consulting Skills and Frameworks. 3 Credits.
+
+Permission of the instructor. The course is dedicated to teaching the core skills for success in consulting and business in general: teamwork, analysis, and presentations. Honors version available.
+
+## BUSI 555. Groups and Teams in Organizations. 1.5 Credits.
+Examines the design, management, and leadership of teams in organizational settings. Focus is on the interpersonal processes and structural characteristics that influence the effectiveness of teams, individual behavior in face-to-face interactions, and the dynamics of interpersonal relationships.
+
+BUSI 558. Digital Marketing. 3 Credits.
+
+The main concepts of marketing are identifying market opportunity (3C analysis), setting the target strategy (STP analysis) and implementation via 4P strategies. This course will discuss online consumer behavior; internet marketing strategy; online and digital advertising; social media. It will focus on strategic perspective, rather than on technical details.
+
+## BUSI 562. Consumer Behavior. 3 Credits.
+
+A business's success relies on fulfilling its consumers' wants and needs, but how does a business effectively do this? This course blends theory with practice to explore how consumers' information processing, decision making, and purchase decisions are influenced by such factors as their values, psychological motivations, and social and cultural forces. In doing so, a deeper understanding of how to target and reach consumers, as well as how to influence their behavior is learned.
+
+## BUSI 563. Retail & E-tail Marketing. 1.5 Credits.
+E-commerce puts severe pressure on both brand manufacturers and retailers. Brick and mortar players are expanding online operations, while online retailers are going physical. In the face of this complexity, it is important to take stock of current knowledge, based on insights and experience from leading practitioners and researchers in the field. This course sheds light on the strategic and tactical issues that comprise the state of the art in retailing.
+
+BUSI 564. Design Thinking and Product Development. 3 Credits.
+
+Traditional marketing research (focus groups, surveys) is being complemented by design thinking and Web 2.0 approaches. This course will introduce several tools and techniques that are used in the design thinking process (empathy, define, ideate, prototype, test). A sampling of topics includes: creativity and brainstorming, empathy maps, personas, journey mapping, mind mapping, prototyping, storyboarding, intellectual property basics, and open innovation (crowdsourcing/crowdfunding). Key concepts will be learned via several in and out of class hands-on exercises.
+
+## BUSI 565. Market Research. 3 Credits.
+
+An introduction to research methodology with emphasis on the compilation, analysis, and interpretation of data used in the planning and control of marketing operations.
+
+## BUSI 566. Marketing Strategy: Sustainable Competitive Advantage in Dynamic Environments. 3 Credits.
+
+This course addresses all aspects of a firm's overall strategy, from market selection to prioritization to marketing tactics. The flow of the course mirrors the strategic and tactical development processes that are used in practice with companies today: Choice of Markets; Choice of Customers and Discovery of Deep-Seated Customer Needs; and, on the Ground Strategic Execution. Course material will be reinforced through a course-long group project that requires integration and application of course principles.
+
+## BUSI 567. Customer Journeys. 3 Credits.
+
+This course covers state-of-art tactics, concepts, and tools of customer lifecycle marketing, which is the business process of (1) selecting customers that a firm can most profitably serve, and (2) shaping interactions between a company and these customers. This customer journeys framework consists of the design, implementation, and analysis of strategic initiatives including identifying and undertaking profitable customer acquisition; understanding the drivers of attrition and retention; and data-driven attribution of marketing actions and product decisions.
+
+## BUSI 568. Customer Insights and Analytics. 1.5 Credits.
+Over the last 20-30 years, the way information and data have been collected and analyzed has undergone a substantial transformation. Firms have adopted marketing methods that are grounded in economic theory and utilize detailed data on customer transactions to generate insights into how customers behave. This course will provide students with a basic understanding of how to use data to understand customer behavior, and how these insights can be used to make managerially relevant decisions.
+
+BUSI 571. Strategic Cost Analysis and Performance Management. 1.5 Credits.
+The objective of the course is to develop an understanding of the powerful role of strategic cost analysis and performance measurement in supporting decision-making, performance management and incentive alignment in a timely, efficient and effective manner. The course is intended as an introduction for individuals who will make business decisions, evaluate business units, and evaluate others through the use of cost and performance measurement systems.
+
+BUSI 574. Taxes and Business Strategy. 3 Credits.
+
+This course covers high-level topics related to tax planning that are relevant to future CEOs, CFOs, investment bankers, equity analysts, and marketing consultants. In this course, students will understand how taxes interact with other fields such as finance, accounting, law, marketing, human resources and compensation, operation management, risk management, etc.
+
+## BUSI 575. Financial Statement Analysis and Valuation. 1.5 Credits.
+This course teaches students how to analyze financial statements so they will better understand firms' business decisions and strategies, sensibly forecast firms' financial statements, and sensibly value firms' equity. Using practical and interactive cases, plus mini-lectures, the goals are to teach students to: appreciate accruals and deferrals in accrual accounting vs. cash accounting; analyze earnings management, firm financial performance, revenues, expenses, assets, liabilities and equity.
+
+BUSI 580. Investments. 3 Credits.
+
+A survey of investment principles and practices. Emphasis is given to the problems of security analysis and portfolio management with special attention to the investment problems of the individual investor. Honors version available.
+
+## BUSI 581. Financial Modeling for Leveraged Buyout Transactions. 1.5 Credits.
+This course teaches students how to weave their forecasts into coherent spreadsheet-based, pro-forma financials. The main goal of this course is to illustrate how a practitioner would analyze a leveraged buyout. Students will construct their own LBO model in Excel and, by the end of the course, should feel comfortable assessing a company and determining if it is a viable LBO candidate.
+
+BUSI 582. Mergers and Acquisitions. 3 Credits.
+
+Through lectures, case studies, and guest speakers, this course will cover all aspects of mergers and acquisitions from strategy to post-merger integration with an emphasis on valuation. Related activities such as hostile takeovers, private equity deals, and international acquisitions will also be discussed. Honors version available.
+
+## BUSI 583. Applied Investment Management. 3 Credits.
+
+Permission of the department. Year-long course. A live, student-managed investment fund with real dollars and fiduciary responsibility to the UNC Foundation. Emphasis is on the decisions that must be made by and/or for the ultimate investor and the analytic tools and empirical evidence that can help inform such decisions. Honors version available.
+
+## BUSI 584. Financial Modeling. 3 Credits.
+
+Skill development in constructing financial models for analyzing problems with decisions faced by financial professionals. Analyzing historical performance, forecasting free cash flows, estimating discount rates, determining terminal value, identifying other sources of value, and interpreting results in a dynamic setting.
+
+## BUSI 585. Introduction to Real Estate. 3 Credits.
+
+An overview of residential and commercial real estate. This survey course examines 1) buying a house and constructing a portfolio of single-family rental houses, 2) commercial real estate product types, 3) amortization, cash flows, capital expenditures, cap rates, debt and equity, hurdle rates and taxes, 4) investment analysis, 5) acquisition, development, operation, and disposition, 6) real estate and contract law, and 7) the partnership negotiation process.
+
+## BUSI 586. Personal Finance. 1.5 Credits.
+Introduces and broadens the concept of personal finance and increases understanding of the process of accumulating and protecting personal wealth. Students learn to identify and analyze risk and return relationships, understand investment alternatives and how strategies develop as life situations mature, and gain understanding of retirement planning and effectively transferring wealth.
+
+BUSI 587. Investment Banking. 1.5 Credits.
+This course prepares students for investment banking positions and internships. The focus of the class is on financial modeling, general knowledge of banking, and what it takes to succeed in the industry. Permission of the instructor and confirmed offer of investment banking analyst internship or full-time job. Honors version available.
+
+BUSI 588. Introduction to Derivative Securities and Risk Management. 1.5 Credits.
+Introduction to derivative securities instruments (options and futures) and applications in investments and corporate finance. Honors version available.
+
+BUSI 589. Fixed Income. 1.5 Credits.
+The course covers traditional bonds and term structure concepts as well as fixed income derivatives and interest rate modeling. Honors version available.
+
+BUSI 590. Business Seminar. 3 Credits.
+
+Selected topics in business administration presented in seminar format with students engaged in individual and team study under the supervision of a member of the faculty. Honors version available.
+
+## BUSI 591. Behavioral Finance. 1.5 Credits.
+Completion of BUSI 409 recommended. An abundance of evidence suggests that the standard economic paradigm, "rational agents in an efficient market," does not adequately describe behavior in financial markets. This course will survey the evidence and use psychology to guide alternative theories of financial markets. Honors version available.
+
+BUSI 592. Applied Private Equity: Real Estate. 3 Credits.
+
+Permission of the instructor. This course explores, at a very advanced level, all stages of the management of a real estate private equity fund: from capital formation, deal sourcing, due diligence, monitoring and adding value, and exiting of the fund's real estate holdings.
+
+## BUSI 597. Sustainable Finance. 1.5 Credits.
+The transition toward a sustainable and inclusive economy faces multiple challenges with economic, environmental, and social implications. This introductory course explores how finance interacts with sustainability issues and its leading role in such transition. We will cover key economic and financial concepts and develop relevant knowledge and critical thinking on topics such as: Environmental, Social, and Governance (ESG) investing; the financing of sustainable projects; real and financial implications of climate risk.
+
+BUSI 598. Alternative Investments. 1.5 Credits.
+Permission of the instructor. Open to seniors only. Exposes students to the benefits, opportunities, and risks of incorporating alternative investments into managed institutional investment portfolios, including pension funds, endowments, and foundations.
+
+BUSI 600. Risk Management. 1.5 Credits.
+Develops methods for applied analysis of financial and operational risk. The course covers statistical methods of risk measurement such as value-at-risk. In addition, the course covers methods for designing and evaluating risk management procedures at both financial and non-financial companies. The course includes several guest lectures from senior managers.
+
+BUSI 601. Real Estate Finance. 1.5 Credits.
+This course will focus on the different ways to finance real property, and how different financing techniques impact the feasibility and investment benefits for equity investors. Honors version available.
+
+BUSI 602. Strategic Economics. 1.5 Credits.
+This course focuses on decision making in the presence of strategic interaction. Students will apply game theory to yield insights into business decisions. Topics covered include pricing, entry, product market competition, first-mover advantage, capital budgeting, antitrust law, corporate governance, auctions, and mergers.
+
+BUSI 603. Real Estate Development. 1.5 Credits.
+This course is designed to introduce undergraduate students to the financial and economic analysis of real estate development. The course will focus on both the physical and financial dimensions of the real estate development process. The course considers multiple asset classes, and students learn to complete financial analysis of real estate development projects.
+
+BUSI 604. Real Estate and Capital Markets. 1.5 Credits.
+Introduces students to the capital markets for financing real estate assets. Topics include an overview of real estate as an asset class in the US economy, risk and return in real estate markets, the economics of discount and capitalization rates, the market for mortgage-backed securities (with a peek into the role that these instruments played in the recent financial crisis), and the valuation/analysis of Real Estate Investment Trusts (REITs). Honors version available.
+
+BUSI 605. Real Estate Capstone. 3 Credits.
+
+Case-based course covering a broad range of real estate issues. The cases studied focus on investment decisions made by practitioners in the industry, and will include investment feasibility and valuation, financing projects, leasing, development, individual and private equity structures, etc. This course is designed to allow students to utilize all prior real estate coursework in a practical manner. Offered to seniors completing the real estate minor or BSBA area of emphasis.
+
+## BUSI 606. Buyout Structures and Deals. 1.5 Credits.
+It improves students' understanding of how private equity firms evaluate risk/reward, create value in LBO transactions, and explores the role of private equity in the financial markets and corporate boardroom. Students will develop a better understanding of the decisions private equity firms face; covering challenges in going-private and private-to-private transactions, use of leveraged finance for LBOs and dividend recapitalizations.
+
+BUSI 607. Inside the Capital Markets - Institutions, Players and Regulators. 1.5 Credits.
+This course provides a broad overview of the U.S. and global capital markets. It explores how the markets work, market participants (e.g. mutual funds, hedge funds, investment banks, and venture capital funds), and the infrastructure that supports the industry. Students will follow a "day in the life" of a trade and gain an understanding of the various systems and investment roles and responsibilities. The course will also provide an overview of investing in foreign markets.
+
+BUSI 608. Introduction to FinTech - Blockchain Technologies and Cryptocurrencies. 1.5 Credits.
+This course is an introduction to FinTech, helping students to understand recent advances in blockchain technologies and cryptocurrencies. Topics include: Bitcoin and blockchain, Ethereum and smart contracts, fork, initial coin offerings (ICOs), cryptocurrency trading, blockchain industries, issues in the cryptocurrency market (e.g. market manipulation and regulations), and decentralized finance and the future of finance. Recommended preparation, BUSI 408.
+
+BUSI 610. Global Environment of Business. 3 Credits.
+
+Issues in operating overseas, including analyses of differences in country settings, legal and economic systems, and governmental policies affecting foreign operations. Studies trade theory, country groupings, and financial issues; managing operations in foreign lands; exporting.
+
+## BUSI 611. International Development. 3 Credits.
+
+Poverty is part of life for most of the world's population, with half living on less than two dollars a day. Course focuses on understanding this from a business school perspective. Looks at institutional failures that contribute to persistent poverty and the multiple roles managers can play in reducing poverty.
+
+## BUSI 617. Global Marketing. 3 Credits.
+
+Examination of the problems involved in marketing products and services across national boundaries. Problem issues include culture, ideology, economics, technical standards, and currency movements.
+
+## BUSI 618. Global Financial Markets. 1.5 Credits.
+Develops the foundation for financial decisions in a global economic environment. Extends the analytical concepts and tools learned in introductory investment and corporate finance courses to multicountry/multicurrency settings. Covers three major areas: the economics of exchange rates, international money and capital markets, and international corporate finance.
+
+BUSI 625. Global Healthcare Management. 1.5 Credits.
+This course will provide students with an overview of numerous global healthcare topics. Students will learn about macro global healthcare issues, country-specific healthcare systems, healthcare interdependencies between regions and countries, global healthcare business strategies and solutions. The course will examine innovative global business models focused on analyzing the cost, access, and quality of healthcare around the globe.
+
+BUSI 626. Introduction to Healthcare Management. 1.5 Credits.
+An overview of the dynamics of leading/managing a modern-day hospital/health system and of the US healthcare system including its characteristics/dynamics, structure and operation, how it has evolved over time, and how it may further evolve. It engages students in examining the major economic, political, technological, and social trends driving the US healthcare system, and the implications of those trends in the strategic leadership and operational management of hospitals/health systems.
+
+BUSI 627. Healthcare Brand Plan. 1.5 Credits.
+Students interested in the business of health will learn to create brand plans in the healthcare industry. Students will learn brand plan principles and concepts as they examine best practices from pharmaceutical brands. The course concludes with the development and presentation of a brand plan for a healthcare company, affording the opportunity to interact with industry. This course is ideal for students who aspire to be brand managers and marketing directors in the healthcare industry.
+
+BUSI 653. Applied Learning: Symposium Core Committee. 1.5 Credits.
+Permission of the department. This course is by invitation only to students who previously served on the Undergraduate Business Symposium core committee. As senior advisors, students practice the leadership, organization, delegation, communication, and teamwork skills that they learn about in their other courses.
+
+BUSI 688. Applied Trading Strategies. 1.5 Credits.
+This seminar style course develops a set of financial tools useful for trading primary and derivative securities with the goal of obtaining specific exposures in equity, fixed income, and commodity markets. The course examines methods for managing financial price risk of positions and how hedge funds use derivatives in practice. Honors version available.
+
+BUSI 691H. Honors Research Proposal. 3 Credits.
+
+Permission of the department. Open to senior business administration majors with a minimum 3.5 grade point average in business courses. Students learn business research techniques and develop individual proposals for business research. Successful proposals may advance to honors thesis research and writing (BUSI 692H).
+
+## BUSI 701. Artistic Entrepreneurship. 3 Credits.
+
+This course is a study in entrepreneurship and the specific challenges faced by artistic entrepreneurs.
+
+## BUSI 702. Introduction to Social Entrepreneurship. 1-3 Credits.
+An overview of how entrepreneurship is transforming students' fields and disciplines and how the application of principles of entrepreneurship may be used to advance their professional objectives.
+
+BUSI 703. Introduction to Commercial Entrepreneurship. 1-3 Credits.
+A cross-disciplinary curriculum that brings together the core field with the wide-ranging literature in entrepreneurship to seek new approaches to traditional problems.
+
+BUSI 704. Entrepreneurship Capstone. 1-3 Credits.
+Capstone project, business plan, or paper that links the work done in the certificate to the field it is intended to complement.
+
+BUSI 705. Entrepreneurship Capstone Project. 1.5-3 Credits.
+This Graduate Certificate in Entrepreneurship capstone project is self-paced, and overseen by the faculty director of each track (life sciences, public health, and artistic).
+
+BUSI 801. Independent Study. 1-9 Credits.
+Independent study intends to extend a student's learning beyond the classroom or allows a student the opportunity to explore a topic not offered in a traditional format.
+
+BUSI 808. Applied Research Methods I. 3 Credits.
+
+Addresses fundamentals of empirical social science research. Topics include framing a research question, comparing research designs, instrumentation, reliability, validity, and exploratory and confirmatory factor analysis. Emphasizes application and analysis.
+
+## BUSI 809. Applied Research Methods II. 3 Credits.
+
+Continuation of BUSI 808. Topics include statistical control, categorical variables, interaction, curvilinear and similarity effects, longitudinal analysis, path analysis, structural equation modeling, and publication. Emphasizes application and analysis.
+
+## BUSI 810. Empirical Operations. 3 Credits.
+
+Required preparation, working knowledge of probability, statistics, and regression. The course prepares students to perform academic research, and it will be conducted in a manner that simulates an academic research conference. The course will focus on empirical research approaches used in solving many classical problems in operations management.
+
+## BUSI 830. Theory of Operations Management I. 3 Credits.
+
+Permission of the instructor. Rigorous study of traditional and modern issues, problems, and approaches in operations management.
+
+## BUSI 831. Theory of Operations Management II. 3 Credits.
+
+A continuation of BUSI 830.
+
+## BUSI 832. Theory of Operations Management III. 3 Credits.
+
+A continuation of BUSI 830.
+
+## BUSI 837. Advanced Topics in Operations Management. 3 Credits.
+
+Permission of the instructor. Intensive study of a specific area in operations management.
+
+## BUSI 838. Seminar in Operations Management. 3 Credits.
+
+Permission of the instructor. Intensive study of a specific area in operations management.
+
+## BUSI 851. Individual Behavior in Organizations. 1-3 Credits.
+Analysis of individual behavior, adjustment, and effectiveness. Examination of attitudes, stress, problem solving, decision making, motivation, and personality. Applications to management of human resources.
+
+BUSI 852. Interpersonal and Intergroup Behavior in Business Organizations. 1-3 Credits.
+Intensive critical examination of interpersonal and intergroup behavior, including decision processes, communication, conflict, and conflict resolution in large organizations.
+
+BUSI 853. Macro Organizational Behavior. 3 Credits.
+
+Graduate standing in business administration required. Intensive study of theory and research in organizational structure, coordinating and control mechanisms, design parameters, and environments.
+
+## BUSI 854. Organizational Design and Development. 3 Credits.
+
+The development of understanding and skills in changing and evolving organizational design, interpersonal relationships, and people to achieve organizational goals.
+
+## BUSI 856. Seminar in Organizational Behavior. 3 Credits.
+
+Permission of the instructor. Intensive study of important current theory and research in organizational behavior.
+
+## BUSI 857. Seminar in Human Resource Management. 3 Credits.
+
+Review the research literature on how firms are made more effective through their people. Coverage includes topics like recruitment, hiring, compensation, socialization, culture, and performance management.
+
+## BUSI 858. Special Topics in Organizational Behavior. 3 Credits.
+
+BUSI 858 is a second doctoral course in organizational behavior, meant to be taken after completing BUSI 851: Individual Behavior in Organizations. While BUSI 851 gave an overview of many important topics in organizational behavior, the field is too broad to be covered, in depth, with a single class. The goal of this course is to introduce developing scholars to the history and current status of important topics in organizational behavior. This course is intended for developing scholars who intend to pursue academic careers.
+
+## BUSI 860. Seminar in Marketing I. 3 Credits.
+
+Permission of the instructor. Overview of current paradigms and research in marketing. Topics include philosophy of science, differing views of what marketing is, strengths and weaknesses of various research approaches, and career socialization issues.
+
+## BUSI 861. Seminar in Marketing II. 3 Credits.
+
+Intensive study of the empirical and analytical literature involving problems in pricing, product development and management, advertising and promotion, distribution, and strategy.
+
+## BUSI 862. Marketing Models. 3 Credits.
+
+This class covers a range of econometric principles and models of relevance to marketing. The emphasis will be on model formulation and estimation.
+
+## BUSI 865. Seminar in Current Marketing Topics. 1 Credits.
+
+Permission of the instructor. Advanced research in marketing. A seminar to discuss current research of doctoral candidates, faculty, and invited guests.
+
+## BUSI 867. Issues in the Design and Analysis of Research in Marketing. 3 Credits.
+
+Graduate standing in business administration required. A review of major issues in marketing, including philosophy of science, measurement, and experimental and quasi-experimental design.
+
+## BUSI 868. Seminar in Marketing Research Methodology. 3 Credits.
+
+Permission of the instructor. An introduction to multivariate data analysis methods including factor analysis, cluster analysis, logic, discriminant analysis and multidimensional scaling.
+
+## BUSI 876. Seminar in Research in Accounting. 1 Credits.
+
+Permission of the instructor. An informal seminar to discuss current research in accounting.
+
+## BUSI 880. Financial Economics. 3 Credits.
+
+Permission of the instructor. Introduction to the theories of asset pricing.
+
+## BUSI 881. Corporate Finance. 1-6 Credits.
+Introduction to corporate finance theory.
+
+BUSI 882. Empirical Corporate Finance. 3 Credits.
+
+Permission of the instructor. An introduction to the empirical corporate finance literature.
+
+## BUSI 885. Seminar in Research in Finance. 1.5 Credits.
+Permission of the instructor. Advanced research in business finance and investment. An informal seminar to discuss current research of doctoral candidates, faculty, and others.
+
+BUSI 886. Introduction to Empirical Finance. 3 Credits.
+
+This course provides an introduction to the quantitative methods used in empirical asset pricing. Model specification and estimation issues are discussed at length. The course emphasizes both theoretical and practical research.
+
+## BUSI 887. Quantitative Methods in Finance. 3 Credits.
+
+Permission of the instructor. Review of information generating and optimizing models and their applicability to decision making in finance.
+
+## BUSI 888. Seminar in Financial Markets. 3 Credits.
+
+Permission of the instructor. Advanced methods in finance.
+
+## BUSI 890. Strategic Management Overview. 3 Credits.
+
+A seminar to provide a broad and current understanding of strategic management. Exposure to the entire field is emphasized.
+
+## BUSI 891. Strategic Formulation. 3 Credits.
+
+This seminar emphasizes both process and content issues to provide students with an in-depth understanding of strategy formulation topics.
+
+## BUSI 892. Strategy Implementation. 3 Credits.
+
+This seminar focuses on strategy implementation, with particular emphasis devoted to the process, systems, and structures required for effective implementation.
+
+## BUSI 899. Seminar. 1-6 Credits.
+Permission of the instructor. Individual research in a special field under direction of a member of the department
+
+BUSI 899C. Seminar. 0.5-15 Credits.
+Individual research in a special field under direction of a member of the department.
+
+BUSI 992. Master's (Non-Thesis). 3 Credits.
+
+No description available.
+
+## BUSI 994. Doctoral Research and Dissertation. 3 Credits.
+
+No description available.
+

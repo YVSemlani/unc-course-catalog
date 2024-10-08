@@ -1,117 +1,498 @@
 # ENVR Course Catalog
 
-- [ENVR 135: Environment-ECUIPP Lab: Connecting with communities through environmental research for Public Health](ENVR_135_Environment-ECUIPP_Lab:_Connecting_with_communities_through_environmental_research_for_Public_Health)
-- [ENVR 205: Engineering Tools for Environmental Problem Solving](ENVR_205_Engineering_Tools_for_Environmental_Problem_Solving)
-- [ENVR 230: Environmental Health Issues](ENVR_230_Environmental_Health_Issues)
-- [ENVR 240: Undergraduate Research Opportunities Program (UROP) Training](ENVR_240_Undergraduate_Research_Opportunities_Program_(UROP)_Training)
-- [ENVR 275: Global Climate Change: Interdisciplinary Perspectives](ENVR_275_Global_Climate_Change:_Interdisciplinary_Perspectives)
-- [ENVR 295: Undergraduate Research](ENVR_295_Undergraduate_Research)
-- [ENVR 335: Adv Environ-ECUIPP Lab: Connecting with Communities Through Environmental Research for PH Protection](ENVR_335_Adv_Environ-ECUIPP_Lab:_Connecting_with_Communities_Through_Environmental_Research_for_PH_Protection)
-- [ENVR 403: Environmental Chemistry Processes](ENVR_403_Environmental_Chemistry_Processes)
-- [ENVR 404: Life Cycle Assessment: Energy and the Environment](ENVR_404_Life_Cycle_Assessment:_Energy_and_the_Environment)
-- [ENVR 411: Laboratory Techniques and Field Measurements](ENVR_411_Laboratory_Techniques_and_Field_Measurements)
-- [ENVR 412: Ecological Microbiology](ENVR_412_Ecological_Microbiology)
-- [ENVR 413: Limnology](ENVR_413_Limnology)
-- [ENVR 416: Aerosol Physics and Chemistry](ENVR_416_Aerosol_Physics_and_Chemistry)
-- [ENVR 417: Oceanography](ENVR_417_Oceanography)
-- [ENVR 419: Chemical Equilibria in Natural Waters](ENVR_419_Chemical_Equilibria_in_Natural_Waters)
-- [ENVR 421: Environmental Health Microbiology](ENVR_421_Environmental_Health_Microbiology)
-- [ENVR 423: Industrial Toxicology](ENVR_423_Industrial_Toxicology)
-- [ENVR 425: Introduction to Health Physics: Radiation and Radiation Protection](ENVR_425_Introduction_to_Health_Physics:_Radiation_and_Radiation_Protection)
-- [ENVR 430: Health Effects of Environmental Agents](ENVR_430_Health_Effects_of_Environmental_Agents)
-- [ENVR 431: Techniques in Environmental Health Sciences](ENVR_431_Techniques_in_Environmental_Health_Sciences)
-- [ENVR 432: Occupational Safety and Ergonomics](ENVR_432_Occupational_Safety_and_Ergonomics)
-- [ENVR 433: Health Hazards of Industrial Operation](ENVR_433_Health_Hazards_of_Industrial_Operation)
-- [ENVR 451: Introduction to Environmental Modeling](ENVR_451_Introduction_to_Environmental_Modeling)
-- [ENVR 452: Fluid Dynamics](ENVR_452_Fluid_Dynamics)
-- [ENVR 453: Groundwater Hydrology](ENVR_453_Groundwater_Hydrology)
-- [ENVR 468: Temporal GIS and Space/Time Geostatistics for the Environment and Public Health](ENVR_468_Temporal_GIS_and_Space/Time_Geostatistics_for_the_Environment_and_Public_Health)
-- [ENVR 470: Environmental Risk Assessment](ENVR_470_Environmental_Risk_Assessment)
-- [ENVR 472: Quantitative Risk Assessment in Environmental Health Microbiology](ENVR_472_Quantitative_Risk_Assessment_in_Environmental_Health_Microbiology)
-- [ENVR 500: Environmental Processes, Exposure, and Risk Assessment](ENVR_500_Environmental_Processes,_Exposure,_and_Risk_Assessment)
-- [ENVR 505: Chemical Oceanography](ENVR_505_Chemical_Oceanography)
-- [ENVR 514: Measurement of NOx, O3, and Volatile Organic Compounds](ENVR_514_Measurement_of_NOx,_O3,_and_Volatile_Organic_Compounds)
-- [ENVR 520: Biological Oceanography](ENVR_520_Biological_Oceanography)
-- [ENVR 522: Environmental Change and Human Health](ENVR_522_Environmental_Change_and_Human_Health)
-- [ENVR 525: Water, Sanitation, Hygiene, and Global Health](ENVR_525_Water,_Sanitation,_Hygiene,_and_Global_Health)
-- [ENVR 548: Sustainable Energy Systems](ENVR_548_Sustainable_Energy_Systems)
-- [ENVR 570: Uncertainty, Decisions, and the Environment](ENVR_570_Uncertainty,_Decisions,_and_the_Environment)
-- [ENVR 575: Global Climate Change: Science, Impacts, Solutions](ENVR_575_Global_Climate_Change:_Science,_Impacts,_Solutions)
-- [ENVR 580: Policy Design for Environment, Climate, and Health](ENVR_580_Policy_Design_for_Environment,_Climate,_and_Health)
-- [ENVR 582: Sanitation for Development](ENVR_582_Sanitation_for_Development)
-- [ENVR 600: Environmental Health](ENVR_600_Environmental_Health)
-- [ENVR 601: Epidemiology for Environmental Scientists](ENVR_601_Epidemiology_for_Environmental_Scientists)
-- [ENVR 610: Global Perspectives on Environmental Health Inequalities](ENVR_610_Global_Perspectives_on_Environmental_Health_Inequalities)
-- [ENVR 630: Systems Biology in Environmental Health](ENVR_630_Systems_Biology_in_Environmental_Health)
-- [ENVR 635: Energy Modeling for Environment and Public Health](ENVR_635_Energy_Modeling_for_Environment_and_Public_Health)
-- [ENVR 640: Environmental Exposure Assessment](ENVR_640_Environmental_Exposure_Assessment)
-- [ENVR 650: Principles of Chemical Carcinogenesis](ENVR_650_Principles_of_Chemical_Carcinogenesis)
-- [ENVR 661: Scientific Computation I](ENVR_661_Scientific_Computation_I)
-- [ENVR 662: Scientific Computation II](ENVR_662_Scientific_Computation_II)
-- [ENVR 666: Numerical Methods](ENVR_666_Numerical_Methods)
-- [ENVR 668: Methods of Applied Mathematics I](ENVR_668_Methods_of_Applied_Mathematics_I)
-- [ENVR 669: Methods of Applied Mathematics II](ENVR_669_Methods_of_Applied_Mathematics_II)
-- [ENVR 671: Environmental Physics I](ENVR_671_Environmental_Physics_I)
-- [ENVR 672: Environmental Physics II](ENVR_672_Environmental_Physics_II)
-- [ENVR 673: Hydraulics for Environmental Engineering](ENVR_673_Hydraulics_for_Environmental_Engineering)
-- [ENVR 675: Air Pollution, Chemistry, and Physics](ENVR_675_Air_Pollution,_Chemistry,_and_Physics)
-- [ENVR 683: Water-Health Research I](ENVR_683_Water-Health_Research_I)
-- [ENVR 684: Water-Health Research II](ENVR_684_Water-Health_Research_II)
-- [ENVR 685: Water and Sanitation Planning and Policy in Less Developed Countries](ENVR_685_Water_and_Sanitation_Planning_and_Policy_in_Less_Developed_Countries)
-- [ENVR 687: Writing for Journal Publication on Water and Sanitation Hygiene, Health, and Development](ENVR_687_Writing_for_Journal_Publication_on_Water_and_Sanitation_Hygiene,_Health,_and_Development)
-- [ENVR 698: Senior Capstone Course](ENVR_698_Senior_Capstone_Course)
-- [ENVR 701: Ecology of Aquatic Plants and Wetland Ecosystems](ENVR_701_Ecology_of_Aquatic_Plants_and_Wetland_Ecosystems)
-- [ENVR 703: Proposal Writing for Environmental Research](ENVR_703_Proposal_Writing_for_Environmental_Research)
-- [ENVR 704: Critical Analysis of Environmental Research](ENVR_704_Critical_Analysis_of_Environmental_Research)
-- [ENVR 707: Advanced Toxicology](ENVR_707_Advanced_Toxicology)
-- [ENVR 710: Environmental Process Biotechnology](ENVR_710_Environmental_Process_Biotechnology)
-- [ENVR 722: Toxicology Seminar III](ENVR_722_Toxicology_Seminar_III)
-- [ENVR 724: Current Topics in Environmental Analytical Chemistry](ENVR_724_Current_Topics_in_Environmental_Analytical_Chemistry)
-- [ENVR 725: Environmental Physical-Organic Chemistry](ENVR_725_Environmental_Physical-Organic_Chemistry)
-- [ENVR 726: Instrumental Methods for the Chemical Analysis of Environmental Samples](ENVR_726_Instrumental_Methods_for_the_Chemical_Analysis_of_Environmental_Samples)
-- [ENVR 730: Computational Toxicology and Exposure Science](ENVR_730_Computational_Toxicology_and_Exposure_Science)
-- [ENVR 732: Health Effects of Outdoor and Indoor Air Pollution](ENVR_732_Health_Effects_of_Outdoor_and_Indoor_Air_Pollution)
-- [ENVR 742: Theory and Practice of Evaluating Human Health Risks of Chemicals](ENVR_742_Theory_and_Practice_of_Evaluating_Human_Health_Risks_of_Chemicals)
-- [ENVR 749: Biochemical Toxicology](ENVR_749_Biochemical_Toxicology)
-- [ENVR 753: Programming for Environmental Applications](ENVR_753_Programming_for_Environmental_Applications)
-- [ENVR 754: Air Pollution Control](ENVR_754_Air_Pollution_Control)
-- [ENVR 755: Analysis of Water Resource Systems](ENVR_755_Analysis_of_Water_Resource_Systems)
-- [ENVR 756: Physical/Chemical Treatment Processes](ENVR_756_Physical/Chemical_Treatment_Processes)
-- [ENVR 757: Water and Wastewater Treatment Plant Design](ENVR_757_Water_and_Wastewater_Treatment_Plant_Design)
-- [ENVR 758: Environmental Engineering Project](ENVR_758_Environmental_Engineering_Project)
-- [ENVR 759: Multiphase Transport Phenomena](ENVR_759_Multiphase_Transport_Phenomena)
-- [ENVR 760: Uncertainty Quantification for Environmental Systems](ENVR_760_Uncertainty_Quantification_for_Environmental_Systems)
-- [ENVR 761: Numerical ODE/PDE, I](ENVR_761_Numerical_ODE/PDE,_I)
-- [ENVR 762: Numerical ODE/PDE, II](ENVR_762_Numerical_ODE/PDE,_II)
-- [ENVR 763: Mathematical Modeling I](ENVR_763_Mathematical_Modeling_I)
-- [ENVR 764: Mathematical Modeling II](ENVR_764_Mathematical_Modeling_II)
-- [ENVR 765: Space Time Exposure Mapping and Risk Assessment](ENVR_765_Space_Time_Exposure_Mapping_and_Risk_Assessment)
-- [ENVR 766: Stochastic Environmental Health Modeling](ENVR_766_Stochastic_Environmental_Health_Modeling)
-- [ENVR 767: Modeling for Environmental Risk Analysis](ENVR_767_Modeling_for_Environmental_Risk_Analysis)
-- [ENVR 768: Microenvironmental Air Flow Modeling](ENVR_768_Microenvironmental_Air_Flow_Modeling)
-- [ENVR 769: Quantitative Methods for Exposure Science](ENVR_769_Quantitative_Methods_for_Exposure_Science)
-- [ENVR 770: Biological Monitoring](ENVR_770_Biological_Monitoring)
-- [ENVR 771: Exposure Analysis](ENVR_771_Exposure_Analysis)
-- [ENVR 773: Modeling Atmospheric Chemistry](ENVR_773_Modeling_Atmospheric_Chemistry)
-- [ENVR 775: Global Climate Change: Interdisciplinary Perspectives](ENVR_775_Global_Climate_Change:_Interdisciplinary_Perspectives)
-- [ENVR 777: Air Quality and Atmospheric Sciences Seminar](ENVR_777_Air_Quality_and_Atmospheric_Sciences_Seminar)
-- [ENVR 779: Project Management and Implementation](ENVR_779_Project_Management_and_Implementation)
-- [ENVR 780: Urban Water Services Planning and Design](ENVR_780_Urban_Water_Services_Planning_and_Design)
-- [ENVR 781: Water Resources Planning and Policy Analysis](ENVR_781_Water_Resources_Planning_and_Policy_Analysis)
-- [ENVR 782: Occupational Health Nursing II: Occupational Health Programming](ENVR_782_Occupational_Health_Nursing_II:_Occupational_Health_Programming)
-- [ENVR 783: Setting Environmental Priorities](ENVR_783_Setting_Environmental_Priorities)
-- [ENVR 784: Community-Driven Research and Environmental Justice](ENVR_784_Community-Driven_Research_and_Environmental_Justice)
-- [ENVR 785: Public Investment Theory](ENVR_785_Public_Investment_Theory)
-- [ENVR 786: Environmental Quality Management](ENVR_786_Environmental_Quality_Management)
-- [ENVR 787: Applied Environmental Finance: How to Pay for Environmental Services](ENVR_787_Applied_Environmental_Finance:_How_to_Pay_for_Environmental_Services)
-- [ENVR 788: Managing Environmental Financial Risk](ENVR_788_Managing_Environmental_Financial_Risk)
-- [ENVR 789: International Field Research](ENVR_789_International_Field_Research)
-- [ENVR 791: Occupational Health Nursing I: Occupational Health Assessment](ENVR_791_Occupational_Health_Nursing_I:_Occupational_Health_Assessment)
-- [ENVR 793: Writing Scientific Papers for WaSH Peer-Reviewed Journal Publication](ENVR_793_Writing_Scientific_Papers_for_WaSH_Peer-Reviewed_Journal_Publication)
-- [ENVR 795: Critical issues in work, worker and workplace health](ENVR_795_Critical_issues_in_work,_worker_and_workplace_health)
-- [ENVR 797: Fundamentals of Industrial Hygiene](ENVR_797_Fundamentals_of_Industrial_Hygiene)
-- [ENVR 850: Systems Analysis in Environmental Planning](ENVR_850_Systems_Analysis_in_Environmental_Planning)
-- [ENVR 989: Environmental Crisis Management](ENVR_989_Environmental_Crisis_Management)
-- [ENVR 992: Master's Technical Report](ENVR_992_Master's_Technical_Report)
-- [ENVR 993: Master's Research and Thesis](ENVR_993_Master's_Research_and_Thesis)
-- [ENVR 994: Doctoral Research and Dissertation](ENVR_994_Doctoral_Research_and_Dissertation)
+## ENVR 89. First-Year Seminar: Special Topics. 3 Credits.
+
+Special topics course. Content will vary each semester.
+
+## ENVR 135. Environment-ECUIPP Lab: Connecting with communities through environmental research for Public Health. 3 Credits.
+
+Students join the Environment-ECUIPP Lab to research pressing environmental health issues with local communities. The ECUIPP Lab (Environmentally-Engaged Communities and Undergraduate students Investigating for Public health Protection), organized by the Gillings School of Global Public Health, Department of Environmental Science and Engineering, is a creative learning community of students, faculty members, and practice partners.
+
+## ENVR 190. Selected Topics in Undergraduate Studies. 1-3 Credits.
+Permission of the instructor. Current topics of interest in environmental science and their application to understanding environmental issues are directed towards undergraduates. Topics and instructors will change. One to three lecture hours per week.
+
+ENVR 205. Engineering Tools for Environmental Problem Solving. 3 Credits.
+
+Introduction to mass, energy, and momentum transport applied to environmental problem solving. Students ask and answer policy-oriented questions (define systems, document assumptions, explain the value and limitations of quantitative answers). They will apply these tools to the design of engineered solutions and characterization of natural and perturbed systems.
+
+## ENVR 205. Course features more advanced applications of ENVR 205 course material, including both analytical and numerical approaches. Specifically, environmental applications of the principles of mass, energy and momentum transport modeling, as well as chemical properties that influence environmental fate and transport. Prior or concurrent enrollment in COMP 110/116 and MATH 233 recommended.
+
+ENVR 230. Environmental Health Issues. 3 Credits.
+
+Examines key events that have shaped our understanding of the impacts of environmental agents on human health and uses them to introduce basic concepts in environmental health.
+
+## ENVR 240. Undergraduate Research Opportunities Program (UROP) Training. 1 Credits.
+
+The purpose of this course is to provide structured research training among undergraduate students participating in the Undergraduate Research Opportunities Program (UROP). Formal acceptance into Undergraduate Research Opportunities Program (UROP) required.
+
+## ENVR 275. Global Climate Change: Interdisciplinary Perspectives. 1 Credits.
+
+This class addresses the complexity and importance of global climate change from several disciplines. A top expert from a different discipline will lecture each week, addressing several themes including the science of human influences on climate, impacts and adaptation, global energy technology, communication, and economics and policy. Pass/Fail only. Course previously offered as ENVR 475.
+
+## ENVR 295. Undergraduate Research. 3 Credits.
+
+Directed readings or laboratory study. Written reports are required. May be taken more than once for credit. Six to nine hours per week.
+
+## ENVR 296. Readings in Environmental Sciences and Engineering. 1-9 Credits.
+No description available.
+
+ENVR 335. Adv Environ-ECUIPP Lab: Connecting with Communities Through Environmental Research for PH Protection. 3 Credits.
+
+Students join the Environment-ECUIPP Lab to research pressing environmental health issues with local communities. The ECUIPP Lab (Environmentally-Engaged Communities and Undergraduate students Investigating for Public health Protection), organized by the Gillings School of Global Public Health, Department of Environmental Science and Engineering, is a creative learning community of students, faculty members and practice partners. Students in the Advanced ECUIPP lab continue to develop research skills focusing on data analysis, data visualization and risk communication.
+
+## ENVR 400. Seminar Series. 0.5-1 Credits.
+Presents results of ongoing research projects in the Department of Environmental Sciences and Engineering. Topics and presenters are selected from among departmental graduate students and faculty. Student presenters learn how to present their research to a lay audience while students taking the class for credit learn how to critique a presentation as well as forge professional collaborations across disciplines. Undergraduates may not enroll without first discussing their participation, and obtaining approval from the instructor.
+
+ENVR 403. Environmental Chemistry Processes. 3 Credits.
+
+Required preparation, a background in chemistry and mathematics, including ordinary differential equations. Chemical processes occurring in natural and engineered systems: chemical cycles; transport and transformation processes of chemicals in air, water, and multimedia environments; chemical dynamics; thermodynamics; structure/activity relationships.
+
+## ENVR 404. Life Cycle Assessment: Energy and the Environment. 3 Credits.
+
+A systems approach to dealing with environmental pollution problems is highlighted and Life Cycle Assessment (LCA) is introduced as an assessment tool. Topics include basic environmental interactions; biogeochemical cycles and environmental impacts (global, regional, and local); and application of LCA to waste management and energy conversion systems; are addressed.
+
+## ENVR 411. Laboratory Techniques and Field Measurements. 3 Credits.
+
+Students learn laboratory, field, and analytical skills. Provides a solid introduction to experimental research in environmental sciences and engineering. Students are provided with applications in limnology, aquatic chemistry, and industrial hygiene.
+
+## ENVR 412. Ecological Microbiology. 3 Credits.
+
+Required preparation, one course in general microbiology. A description of microbial populations and communities, the environmental processes they influence, and how they can be controlled to the benefit of humankind.
+
+## ENVR 413. Limnology. 3 Credits.
+
+Required preparation, introductory biology, chemistry, and physics. Basic aspects of freshwater ecosystem function. Emphasis on trophic-level interactions and integration of physical, chemical, and biological principles for a holistic view of lake ecosystem dynamics.
+
+## ENVR 416. Aerosol Physics and Chemistry. 4 Credits.
+
+Permission of the instructor for nonmajors. Physical and chemical principles underlying behavior of particles suspended in air. Topics include rectilinear and curvilinear motion of the particles in a force field, diffusion, evaporation, and condensation, electrical and optical properties, and particle coagulation. Three lecture hours a week and two laboratory sessions.
+
+## ENVR 417. Oceanography. 3 Credits.
+
+Required preparation, major in a natural science or two courses in natural sciences. Studies origin of ocean basins, seawater chemistry and dynamics, biological communities, sedimentary record, and oceanographic history. Term paper. Students lacking science background should see EMES 103. Students may not receive credit for both EMES 103 and EMES 401. Course previously offered as GEOL 403/MASC 401.
+
+## ENVR 419. Chemical Equilibria in Natural Waters. 3 Credits.
+
+Principles and applications of chemical equilibria to natural waters. Acid-base, solubility, complex formation, and redox reactions are discussed. This course uses a problem-solving approach to illustrate chemical speciation and environmental implications. Three lecture hours per week.
+
+## ENVR 421. Environmental Health Microbiology. 3 Credits.
+
+Required preparation: introductory course in microbiology or permission of the instructor. This course covers microbes of public health importance in water, wastewater, and other environmental matrices, including detection, quantification, transport, and survival in environmental media; control measures to reduce exposures; quantitative microbial risk assessment; and the epidemiology of infectious diseases transmitted via the environment.
+
+## ENVR 423. Industrial Toxicology. 3 Credits.
+
+Toxicological assessment of and a case presentation of related exposure is given. A conceptual approach is utilized to design appropriate programs to prevent worker ill health due to toxicant exposure.
+
+## ENVR 425. Introduction to Health Physics: Radiation and Radiation Protection. 3 Credits.
+
+This course concentrates on fundamentals of radiation and protection, including types of radiation, radioactive decay, interaction with matter, biological effects, detection and measurement, protection methods/techniques, external and internal dose, etc. Lectures include hazards in categories of environmental radiation, nuclear energy, medical applications, industrial uses, etc.
+
+## ENVR 430. Health Effects of Environmental Agents. 3 Credits.
+
+Required preparation, basic biology, chemistry through organic, calculus. Permission of the instructor for students lacking this preparation. Interactions of environmental agents (chemicals, infectious organisms, radiation) with biological systems including humans, with attention to routes of entry, distribution, metabolism, elimination, and mechanisms of adverse effects. Three lecture hours per week.
+
+## ENVR 431. Techniques in Environmental Health Sciences. 2 Credits.
+
+Required preparation, basic biology, chemistry through organic, math through calculus; permission of the instructor for students lacking this preparation. A practical introduction to the measurement of biological end-points, emphasizing adverse effects of environmental agents, using laboratory and field techniques. Two laboratory hours per week.
+
+## ENVR 432. Occupational Safety and Ergonomics. 3 Credits.
+
+Fundamentals of occupational safety and ergonomics with emphasis on legislation and organization of industrial safety and ergonomic programs, including hazard recognition, analysis, control, and motivational factors pertaining to industrial accident and cumulative trauma disorder prevention.
+
+## ENVR 433. Health Hazards of Industrial Operation. 3 Credits.
+
+An introduction to occupational hygiene and the health hazards associated with industrial operations. Fundamental scientific principles are used to provide the foundation for assessing and controlling the exposures found in the work environment. Topics with broad application include: noise, heat stress, and ventilation. Specific industrial operations examined include: welding, electroplating, and spray painting, among others. The concept of Total Worker Health is explored with a focus on the role of labor unions. No prerequisites.
+
+## ENVR 451. Introduction to Environmental Modeling. 3 Credits.
+
+Focuses on how to model environmental transport and chemistry of pollutants. Covers mole balances, rate laws, chemical kinetics, and reactor design. Principles are applied to any environmental system where chemical transformations must be described. Three lecture hours per week.
+
+## ENVR 452. Fluid Dynamics. 3 Credits.
+
+The physical properties of fluids, kinematics, governing equations, viscous incompressible flow, vorticity dynamics, boundary layers, irrotational incompressible flow. Course previously offered as GEOL 560/MASC 560.
+
+## ENVR 453. Groundwater Hydrology. 3 Credits.
+
+Required preparation, math through differential equations and some familiarity with fluid mechanics. Conservation principles for mass, momentum, and energy developed and applied to groundwater systems. Scope includes the movement of water, gas, and organic liquid phases, the transport and reaction of contaminants. Three lecture hours per week.
+
+## ENVR 468. Temporal GIS and Space/Time Geostatistics for the Environment and Public Health. 3 Credits.
+
+Reviews geographical information systems (GIS). Covers geostatistics theory for the interpolation of environmental and health monitoring data across space and time. Uses publicly available water and air quality monitoring data to create maps used for environmental assessment, regulatory compliance analysis, exposure science, and risk analysis.
+
+## ENVR 470. Environmental Risk Assessment. 3 Credits.
+
+Required preparation, one course in probability and statistics. Use of mathematical models and computer simulation tools to estimate the human health impacts of exposure to environmental pollutants. Three lecture hours per week.
+
+## ENVR 472. Quantitative Risk Assessment in Environmental Health Microbiology. 3 Credits.
+
+Recommended preparation, microbiology, epidemiology, and infectious diseases. Survey of alternative approaches, frameworks, and decision-making tools for quantitative risk assessment of microbial pathogens that infect humans and cause disease by the exposure routes of water, food, air, and other vehicles.
+
+## ENVR 500. Environmental Processes, Exposure, and Risk Assessment. 3 Credits.
+
+Environmental chemical and biological transport and transformation, exposure to environmental contaminants, and environmental risk assessment.
+
+## ENVR 505. Chemical Oceanography. 4 Credits.
+
+Graduate students only; undergraduates must have permission of the instructor. Overview of chemical processes in the ocean. Topics include physical chemistry of seawater, major element cycles, hydrothermal vents, geochemical tracers, air-sea gas exchange, particle transport, sedimentary processes, and marine organic geochemistry. Three lecture and two recitation hours per week. Course previously offered as GEOL 505/MASC 505.
+
+## ENVR 514. Measurement of NOx, O3, and Volatile Organic Compounds. 3 Credits.
+
+This course is intended to develop a student's ability to operate the primary instruments for measuring these important pollutants, collect and process samples where necessary, record data, and process instrument data into final air concentration data.
+
+## ENVR 520. Biological Oceanography. 4 Credits.
+
+For graduate students; undergraduates need permission of the instructor. Marine ecosystem processes pertaining to the structure, function, and ecological interactions of biological communities; management of biological resources; taxonomy and natural history of pelagic and benthic marine organisms. Three lecture and recitation hours per week. One mandatory weekend fieldtrip. Course previously offered as MASC 504.
+
+## ENVR 522. Environmental Change and Human Health. 3 Credits.
+
+The course will provide students with a multidisciplinary perspective of environmental changes to encompass both human health and ecological health.
+
+## ENVR 525. Water, Sanitation, Hygiene, and Global Health. 3 Credits.
+
+Builds on an understanding of infectious and toxic hazards, disease causation, and environmental transmission. Deals with hazard and disease classification; safety, risk, and vulnerability; interventions and their health impact; approaches in different settings; distal factors (e.g., water scarcity, climate change); and approaches to studying unsafe water, sanitation, and hygiene. Previously offered as ENVR 682.
+
+## ENVR 548. Sustainable Energy Systems. 3 Credits.
+
+This course will provide an introduction to urgent topics related to energy, sustainability, and the environment. The course material will focus on new technologies, policies, and plans in cities and different governing bodies in the energy system with a focus on developing tools to analyze energy for its sustainability, impact on people, the environment, and the economy.
+
+## ENVR 570. Uncertainty, Decisions, and the Environment. 3 Credits.
+
+Required preparation, one course in probability and statistics. Use of quantitative tools for balancing conflicting priorities (such as costs versus human health protection) and evaluating uncertainties when making environmental decisions.
+
+## ENVR 575. Global Climate Change: Science, Impacts, Solutions. 3 Credits.
+
+This class addresses the importance of climate change in its entirety. The first half of the course addresses climate science, followed by climate change impacts, energy and mitigation technologies, economics, and international politics. Improving communication and quantitative skills is emphasized through homework, in-class presentations, and a research paper.
+
+## ENVR 580. Policy Design for Environment, Climate, and Health. 3 Credits.
+
+Students will be introduced to the types of policy instruments that can be used to solve environmental health problems. The course provides a framework for understanding the tasks involved, the main institutions responsible, and an in-depth description of the policy instruments used to tackle environmental health problems.
+
+## ENVR 582. Sanitation for Development. 3 Credits.
+
+Over a million children die yearly from diarrhea, in part because 2.0 billion humans do not have access to a basic toilet. This course presents the problems and context of inadequate sanitation in the developing world, and, more importantly, the types of solutions and approaches available to reduce these problems.
+
+## ENVR 593. Undergraduate Practicum in Environmental Health Sciences. 1-3 Credits.
+A practical experience in a setting relevant to environmental health.
+
+ENVR 600. Environmental Health. 3 Credits.
+
+This course examines the relationship between environmental quality, human health and welfare, with particular attention to contamination in human environment; physical, biological, and social factors; trade-offs regarding prevention and remediation measures. Three lecture hours per week.
+
+## ENVR 601. Epidemiology for Environmental Scientists. 3 Credits.
+
+An introduction to relevant epidemiologic concepts that inform environmental science research. Learning objectives include discussing basic epidemiologic concepts and measures of disease occurrence in populations, explaining epidemiological study designs for studying associations between risk factors or exposures in populations, evaluating epidemiologic evidence, and comprehending basic ethical principles.
+
+## ENVR 610. Global Perspectives on Environmental Health Inequalities. 3 Credits.
+
+Students will learn about how social, economic, and political factors impact environmental health outcomes and will be introduced to theories and methods for incorporating social determinants frameworks into environmental health research, as well as the role of environmental justice movements.
+
+## ENVR 630. Systems Biology in Environmental Health. 3 Credits.
+
+Required preparation, one year of biology. Environmental systems biology examines how environmental stressors influence the components of a biological system, and how the interactions between these components result in changes in the function and behavior of that system.
+
+## ENVR 635. Energy Modeling for Environment and Public Health. 3 Credits.
+
+Recommended preparation, MATH 231. This course will equip students with an overview of contemporary issues in energy modeling and energy systems analysis, with a focus on environmental and public health impacts of energy systems. Students will gain exposure to a variety of research methodologies, analytical tools, and applications of energy modeling applied to environmental and public health related problems such as climate change, air pollution, and water footprints of energy systems.
+
+## ENVR 640. Environmental Exposure Assessment. 3 Credits.
+
+Permission of the instructor for nonmajors. The course material introduces the general concepts of assessing environmental exposures to chemicals in human populations. This includes the design of ecologic and personal monitoring studies, the techniques and equipment used for sampling and analysis, and interpretation of data.
+
+## ENVR 650. Principles of Chemical Carcinogenesis. 2 Credits.
+
+Required preparation, organic chemistry. Bioactivation of carcinogens, interaction of activated metabolites with DNA, and their effects on DNA structure, replication, repair, and the control of these processes during development of chemically induced carcinogenesis. Two lecture hours per week.
+
+## ENVR 661. Scientific Computation I. 3 Credits.
+
+Requires some programming experience and basic numerical analysis. Error in computation, solutions of nonlinear equations, interpolation, approximation of functions, Fourier methods, numerical integration and differentiation, introduction to numerical solution of ODEs, Gaussian elimination.
+
+## ENVR 662. Scientific Computation II. 3 Credits.
+
+Theory and practical issues arising in linear algebra problems derived from physical applications, e.g., discretization of ODEs and PDEs. Linear systems, linear least squares, eigenvalue problems, singular value decomposition.
+
+## ENVR 666. Numerical Methods. 3 Credits.
+
+Numerical methods for solving problems arising in sciences and engineering. Solution of linear equations using direct and iterative approaches, solution of nonlinear systems of algebraic equations, solution of ordinary differential equations including single and multistep methods, and methods for stiff systems of ODEs and collocation methods for linear and nonlinear PDEs.
+
+## ENVR 668. Methods of Applied Mathematics I. 3 Credits.
+
+Requires an undergraduate course in differential equations. Contour integration, asymptotic expansions, steepest descent/stationary phase methods, special functions arising in physical applications, elliptic and theta functions, elementary bifurcation theory.
+
+## ENVR 669. Methods of Applied Mathematics II. 3 Credits.
+
+Perturbation methods for ODEs and PDEs, WKBJ method, averaging and modulation theory for linear and nonlinear wave equations, long-time asymptotics of Fourier integral representations of PDEs, Green's functions, dynamical systems tools.
+
+## ENVR 671. Environmental Physics I. 3 Credits.
+
+A first graduate-level course in physical principles relevant to environmental systems. Topics include dimensional analysis, tensor calculus, conservation of mass and momentum. Applications are considered from natural and engineered systems and across all relevant media. Focus is on the development of mechanistic representation of environmental systems.
+
+## ENVR 672. Environmental Physics II. 3 Credits.
+
+Second part of a graduate-level sequence in physical principles relevant to environmental systems. Topics include turbulence, conservation of energy, multiscale methods, and thermodynamics. Applications are considered from natural and engineered systems and across all relevant media. Focus is on development of mechanistic representation of environmental systems.
+
+## ENVR 673. Hydraulics for Environmental Engineering. 3 Credits.
+
+Permission of the instructor for undergraduates. This course teaches practical basics of how to solve environmental engineering problems in the hydraulics of pipes, pumps, networks, and open channels. The course is a mix of classroom lectures, problem-solving sessions, and laboratory sessions.
+
+## ENVR 675. Air Pollution, Chemistry, and Physics. 3 Credits.
+
+This class is designed for graduate students planning for research in air pollution, emphasizing chemical kinetics and engineering approaches to problem solving in addition to atmospheric structure, meteorology, and modeling. We address problems of stratospheric and tropospheric ozone, particulate matter, and acid rain. We emphasize quantitative problem solving in homework.
+
+## ENVR 683. Water-Health Research I. 2 Credits.
+
+Permission of the instructor for undergraduates and nonmajors. Introduces students to methods for research conception, design, planning, and implementation in fields related to water and its impacts on health. Students study approaches and tools that may be applied in water-related research and are coached in developing their own research design.
+
+## ENVR 684. Water-Health Research II. 2 Credits.
+
+Permission of the instructor for undergraduates and nonmajors. Familiarizes students with the principles of scientific communication with an emphasis on scientific writing and oral presentations. Using their own water and health research, students learn how to communicate effectively in informal settings and how to prepare for interviews with the media.
+
+## ENVR 685. Water and Sanitation Planning and Policy in Less Developed Countries. 3 Credits.
+
+Permission of the instructor. Seminar on policy and planning approaches for providing improved community water and sanitation services in developed countries. Topics include the choice of appropriate technology and level of service, pricing, metering, and connection charges; cost recovery and targeting subsidies to the poor; water venting; community participation in the management and operation of water systems; and rent-seeking behavior in the provision of water supplies.
+
+## ENVR 687. Writing for Journal Publication on Water and Sanitation Hygiene, Health, and Development. 2 Credits.
+
+This course familiarizes students with scientific paper writing and coaches students towards journal manuscript submission. Students should have a data set of results. Sessions begin with student presentations and discussion, followed by a brief preparatory lecture on the next assignment. Substantive preparation is required between sessions.
+
+## ENVR 695. Undergraduate Research. 1-3 Credits.
+Directed readings or laboratory study. Written reports are required. May be taken more than once for credit. Three to nine hours per week.
+
+ENVR 698. Senior Capstone Course. 3 Credits.
+
+This capstone course covers a range of issues in public health ethics, particularly focused on environmental health. Students will work on a team-based project over the course of the semester. The projects will be focused on topics that have ethical relevance and will integrate students' knowledge in environmental health.
+
+## ENVR 701. Ecology of Aquatic Plants and Wetland Ecosystems. 3 Credits.
+
+Adaptations of aquatic plants and microorganisms of land-water interface regions of lakes and rivers, their nutrition, growth, population dynamics, competition, herbivory, productivity, physiological control measures. Wetlands functions, values to humans. Three lecture hours per week.
+
+## ENVR 703. Proposal Writing for Environmental Research. 3 Credits.
+
+This course is intended for PhD students to become familiar with the methods for writing a research proposal, grant application or response to a request for proposal/application (RFP/RFA). The course will provide orientation in conception, planning and implementation of writing a grant.
+
+## ENVR 704. Critical Analysis of Environmental Research. 1 Credits.
+
+This 1 credit course is intended for PhD students. Students will learn how to conduct formal peer reviews for environmental health, science and engineering journals. In so doing, they will develop skills needed to critically evaluate environmental research.
+
+## ENVR 705. One Health: Philosophy to Practical Integration. 1-3 Credits.
+This course explores the intersection of human, animal, and environmental health and facilitates the understanding of health as an inexorably linked system requiring multidisciplinary collaborative efforts. The One Health concept demonstrates the importance of a holistic approach to disease prevention and the maintenance of human, animal, and environmental health.
+
+ENVR 707. Advanced Toxicology. 3 Credits.
+
+Cellular and physiological basis of toxicity of environmental chemicals, with emphasis on inhalation toxicology, developmental toxicology, immunotoxicology, radiation toxicology, renal toxicology, and neurotoxicology. Three lecture hours per week.
+
+## ENVR 710. Environmental Process Biotechnology. 3 Credits.
+
+Required preparation, a previous or concurrent course in microbiology. Theory and practice of biological processes used to remove contaminants from environmental media, including water, wastewater, soil, and air.
+
+## ENVR 722. Toxicology Seminar III. 1 Credits.
+
+Presentations by outside invited speakers, local faculty, advanced graduate students, and postdoctoral trainees. Topics will cover all areas of research in toxicology. One hour per week.
+
+## ENVR 724. Current Topics in Environmental Analytical Chemistry. 1 Credits.
+
+Students will select, critically review, and discuss current research papers for content, relevance, innovation, and clarity. Papers can be from any aspect of the environmental sciences. Two lecture hours per week, every other week.
+
+## ENVR 725. Environmental Physical-Organic Chemistry. 3 Credits.
+
+The physical chemistry of the partitioning, exchange, and chemical transformation of organic contaminants in the water, air, and soil environments.
+
+## ENVR 726. Instrumental Methods for the Chemical Analysis of Environmental Samples. 3 Credits.
+
+Required preparation, basic or general chemistry. Emphasis on acquiring laboratory skills and hands-on experience with instrumentation including chromatography and mass spectrometry; sample handling and preparation; quality assurance and control. Three lecture hours or one lecture hour and four laboratory hours per week.
+
+## ENVR 730. Computational Toxicology and Exposure Science. 3 Credits.
+
+This course provides an introduction to the field of computational toxicology and exposure science. Students will be equipped to understand databases and tools that can more efficiently evaluate chemical-biological and chemical-disease relationships. Students will be expected to use excel and R/Rstudio, and run script that is provided by the instructor as a gentle 'welcome' to the coding environment. The course is designed for students in public health, toxicology, exposure science, epidemiology, and related disciplines.
+
+## ENVR 732. Health Effects of Outdoor and Indoor Air Pollution. 3 Credits.
+
+Required preparation, knowledge of basic human physiology and biochemistry helpful. Assessing health effects of air pollutants on normal and diseased human populations, including children. Physiology, cellular and molecular biology, immunology, genetics, dosimetry will be integrated. Three lecture hours per week.
+
+## ENVR 742. Theory and Practice of Evaluating Human Health Risks of Chemicals. 2 Credits.
+
+ENVR/TOXC 707 and ENVR 470 are highly recommended. This course will provide students who already have good knowledge of the basic principles of toxicology and environmental health with real-life examples of how the information is integrated for the purpose of judging what chemical exposures may pose risk to human health.
+
+## ENVR 749. Biochemical Toxicology. 3 Credits.
+
+Required preparation, one course in biochemistry. Biochemical actions of toxicants and assessment of cellular damage by biochemical measurements. Three lecture hours per week.
+
+## ENVR 753. Programming for Environmental Applications. 1 Credits.
+
+A one-credit course designed to give new graduate students the tools to apply the Python programming language to their own research and work. The course covers introductory material including the variable types and data structures and progresses to more advanced capabilities, such as regression analysis and optimization. The course is heavily focused on bi-/weekly assignments meant to reinforce the lectures and highlights basic applications in environmental science. Companion course to ENVR 755.
+
+## ENVR 754. Air Pollution Control. 3 Credits.
+
+Engineering control of air pollution control systems and discussion of air pollution regulation and standards. Spring. (Odd-numbered years.)
+
+## ENVR 755. Analysis of Water Resource Systems. 3 Credits.
+
+Permission of the instructor for nonmajors. Use of mathematical models to design and evaluate regional water supply and treatment systems. Engineering and economic methods are incorporated into quantitative analyses of regional scenarios. Social and political aspects also discussed. Three lecture hours per week.
+
+## ENVR 756. Physical/Chemical Treatment Processes. 3 Credits.
+
+Principles of disinfection, oxidation, coagulation, precipitation, sedimentation, filtration, adsorption, ion exchange, and membrane processes; applications to water and wastewater treatment. Three lecture hours per week.
+
+## ENVR 757. Water and Wastewater Treatment Plant Design. 3 Credits.
+
+The application of the theory of water and wastewater treatment to the design of municipal facilities. The course includes the principles of design and modern design practices. Design and analysis of design of specific works for water and wastewater treatment.
+
+## ENVR 758. Environmental Engineering Project. 3 Credits.
+
+Permission of the instructor. Ad hoc project designed for a student team in addressing a current problem in environmental engineering. Projects may include laboratory or pilot-scale studies, collection and analysis of data from full-scale systems, or comprehensive analysis of relevant problems in environmental engineering practice. Three lecture hours per week.
+
+## ENVR 759. Multiphase Transport Phenomena. 3 Credits.
+
+Continuum mechanical approach to formulating mass, momentum, energy, and entropy equations to describe multiphase transport phenomena. Three lecture hours per week.
+
+## ENVR 760. Uncertainty Quantification for Environmental Systems. 3 Credits.
+
+Quantitative assessment of how uncertainty in mechanistic models (subsurface, ocean, atmosphere, global climate), parameters, and auxiliary conditions of a model is manifest in uncertainty in model predictions. Topics include: model formulations, statistical tools, Monte Carlo methods, moment methods, estimation methods, statistical simulation methods, reduced order models, and data assimilation approaches.
+
+## ENVR 761. Numerical ODE/PDE, I. 3 Credits.
+
+Single, multistep methods for ODEs: stability regions, the root condition; stiff systems, backward difference formulas; two-point BVPs; stability theory; finite difference methods for linear advection diffusion equations.
+
+## ENVR 762. Numerical ODE/PDE, II. 3 Credits.
+
+Elliptic equation methods (finite differences, elements, integral equations); hyperbolic conservation law methods (Lax-Fiedrich, characteristics, entropy condition, shock tracking/capturing); spectral, pseudo-spectral methods; particle methods, fast summation, fast multipole/vortex methods.
+
+## ENVR 763. Mathematical Modeling I. 3 Credits.
+
+Nondimensionalization and identification of leading order physical effects with respect to relevant scales and phenomena; derivation of classical models of fluid mechanics (lubrication, slender filament, thin films, Stokes flow); derivation of weakly nonlinear envelope equations. Fall.
+
+## ENVR 764. Mathematical Modeling II. 3 Credits.
+
+Current models in science and technology: topics ranging from material science applications (e.g., flow of polymers and LCPs); geophysical applications (e.g., ocean circulation, quasi-geostrophic models, atmospheric vortices).
+
+## ENVR 765. Space Time Exposure Mapping and Risk Assessment. 3 Credits.
+
+Theory and MATLAB numerical implementation of linear geostatistics (simple/ordinary/universal kriging) and modern geostatistics (Bayesian Maximum Entropy) to map environmental and health processes varying across space and time. Applications in exposure assessment, environmental epidemiology, medical geography, and risk assessment.
+
+## ENVR 766. Stochastic Environmental Health Modeling. 3 Credits.
+
+Required preparation, statistics. A holistic/stochastic perspective, spatiotemporal random field modeling of environmental exposure and biological variabilities. Uncertainty in environmental exposure. Biomarkers and population damage indicators for epidemiological analysis. Cell-based stochastic differential equations. Three lecture hours per week.
+
+## ENVR 767. Modeling for Environmental Risk Analysis. 3 Credits.
+
+Mathematical methods for development of advanced models in environmental risk assessment, including exposure assessment and exposure-response assessment, are developed and applied. Three lecture hours per week.
+
+## ENVR 768. Microenvironmental Air Flow Modeling. 3 Credits.
+
+Required preparation, fluid mechanics. Permission of the instructor. Applications of finite element and vortex methods for modeling air flows of significance in industrial hygiene applications. Three lecture hours per week.
+
+## ENVR 769. Quantitative Methods for Exposure Science. 3 Credits.
+
+SAS regression and statistics, two ENVR courses (e.g. 430, 470, 707, 740, 770, 890), or permission of the instructor. Mathematical approaches for assessing environmental and/or occupational exposures to chemicals in human populations using stochastic (group) statistics, regression analysis and modeling, and pharmacokinetic modeling; focus on human biomarker data.
+
+## ENVR 770. Biological Monitoring. 3 Credits.
+
+This course provides both practical and theoretical information on biological monitoring of chemical exposures and how to evaluate and interpret exposure data. Three lecture hours per week and a term paper (three credit hours).
+
+## ENVR 771. Exposure Analysis. 3 Credits.
+
+This course is intended for students interested in research involving exposure to environmental contaminants. The course focuses on the integration of engineering principles, with statistical tools to enhance inference. Statistical models based on the Johnson system of distributions are explored for the analysis data including exposure-biomarker relationships.
+
+## ENVR 773. Modeling Atmospheric Chemistry. 3 Credits.
+
+Air pollution is formed through thousands of chemical reactions. Computer models are used to simulate this complex chemistry and used to make policy. Current computational restraints force a simplified representation of atmospheric chemistry in these models, and the focus of this course is the implications of this on predictions.
+
+## ENVR 775. Global Climate Change: Interdisciplinary Perspectives. 1 Credits.
+
+This class addresses the complexity and importance of global climate change from several disciplines. A top expert will lecture each week, addressing these themes: the science of human influences on climate; impacts and adaptation; global energy and technology; communication; and economics and international solutions.
+
+## ENVR 777. Air Quality and Atmospheric Sciences Seminar. 1 Credits.
+
+This course gives students practice organizing a scientific presentation and speaking in front of an audience and promoting interdisciplinary interaction. Students will research topics and organize presentations for faculty and other students. The topics may be any aspect of air quality and atmospheric sciences.
+
+## ENVR 779. Project Management and Implementation. 3 Credits.
+
+This course presents program/project management and implementation concepts, tools and methods applicable to global public health projects. Students will learn and practice the skills necessary to successfully plan, implement and evaluate a project including how to organize and lead successful project teams in complex environments. This course is designed to give students the skills to successfully develop, engage and support global public health projects.
+
+## ENVR 780. Urban Water Services Planning and Design. 3 Credits.
+
+This course helps students learn and apply principles of water supply sewerage and drainage planning and design, work collaboratively on real-world problems with insufficient data, and present technical findings in a clear and convincing way.
+
+## ENVR 781. Water Resources Planning and Policy Analysis. 3 Credits.
+
+Water resources planning and management. Federal and state water resources policies. Analytical skills to identify environmental problems associated with urban water resources development.
+
+## ENVR 782. Occupational Health Nursing II: Occupational Health Programming. 3 Credits.
+
+Continuation of ENVR 791. Role components of occupational health nursing with emphasis on designing, implementing, and evaluating occupational health programs. Emphasis on analysis of factors influencing the delivery of health care at the worksite.
+
+## ENVR 783. Setting Environmental Priorities. 3 Credits.
+
+This course is intended to develop a student's ability to estimate the relative merits of research and policy actions in several broad environmental areas, with attention to the associated uncertainty. Criteria to be included are both quantitative and qualitative, with an emphasis on public health, environmental, and economic metrics.
+
+## ENVR 784. Community-Driven Research and Environmental Justice. 2 Credits.
+
+In this course, students will learn from community residents who challenge public health scientists to conduct research on environmental and occupational hazards that impact their health.
+
+## ENVR 785. Public Investment Theory. 3 Credits.
+
+Basic theory, process, and techniques of public investment planning and decision making, involving synthesis of economic, political, and technologic aspects. Theory underlying benefit-cost analysis, adaptation to a descriptive and normative model for planning public projects and programs.
+
+## ENVR 786. Environmental Quality Management. 3 Credits.
+
+Planning and analysis of regional environmental system with a focus on management of mass flows that affect the quality of the regional environment.
+
+## ENVR 787. Applied Environmental Finance: How to Pay for Environmental Services. 3 Credits.
+
+How can governments, communities, organizations, and businesses fund environmental services? This applied course reviews the diverse tools and strategies that environmental service providers use to pay for programs. The course will focus on environmental services related to: drinking water, wastewater, storm-water, watershed protection, energy efficiency, renewable energy, sustainability, and wetlands.
+
+## ENVR 788. Managing Environmental Financial Risk. 3 Credits.
+
+As society's exposure to environmental risks grows, it has become increasingly important to find innovative tools for mitigating these risks. This course is designed to introduce students to the fundamentals of financial risk management within an environmental context, with an emphasis on developing coupled environmental-financial systems models.
+
+## ENVR 789. International Field Research. 2 Credits.
+
+Course offers theoretical foundations in cultural sensitivity, personal security, communication, organization and research along with guided practical exercises in conducting international field research. The result is the development of cross-cultural and applied research skills that prepare the student to conduct successful field research.
+
+## ENVR 791. Occupational Health Nursing I: Occupational Health Assessment. 3 Credits.
+
+Occupational Health Nursing I: Occupational Health Assessment.
+
+## ENVR 793. Writing Scientific Papers for WaSH Peer-Reviewed Journal Publication. 2 Credits.
+
+A two-credit, fall course open to graduate students with a complete data set with results to communicate to other scientists as a scientific paper or manuscript submission to peer-reviewed journals on an aspect of water and health. Undergraduate honors students admissible at discretion of the instructor.
+
+## ENVR 795. Critical issues in work, worker and workplace health. 3 Credits.
+
+This course prepares students to contribute as members of an interdisciplinary team to protect and promote workers' health. Students will learn that work is a social determinant of health and explore the context in which worker health protection/promotion practitioners work. Students will be able to summarize key regulations and policies that impact work and worker health.
+
+## ENVR 797. Fundamentals of Industrial Hygiene. 3 Credits.
+
+Provides broad understanding of industrial hygiene. Major emphasis is recognition of hazards in the workplace, evaluation of measurement of those hazards, and application of control strategies. The course will focus on introductory level industrial hygiene concepts associated with the anticipation, recognition, evaluation, control, and confirmation of control of occupational health hazards.
+
+## ENVR 850. Systems Analysis in Environmental Planning. 3 Credits.
+
+Required preparation, calculus. Applications of systems analysis techniques to the management of environmental quality.
+
+## ENVR 890. Problems in Environmental Sciences and Engineering. 1-21 Credits.
+For students who wish to undertake individual or special topics study of a specific problem in environmental sciences and engineering. The subject and requirements of the project are arranged with the faculty in each individual instance. One or more hours per week. Permission of the department.
+
+ENVR 981. Environmental Sciences Practicum. 1-9 Credits.
+A practical experience in public health/environmental health sciences.
+
+ENVR 989. Environmental Crisis Management. 3 Credits.
+
+This course will focus on practical solutions to public health related disasters where students extend, critique, and apply knowledge gained in the classroom. This experience-based course will have flexibility to allow for substantive contributions from students of all backgrounds enrolled in the Gillings School of Global Public Health.
+
+## ENVR 990. Environmental Engineering Brief. 1.5-3 Credits.
+Students in ENVR 990 will work in concert with their advisor to identify and define an engineering problem, describe a solution to the problem, and develop a plan for implementation. These briefs serve as a foundation for the student's master's technical report.
+
+ENVR 991. Research in Environmental Sciences and Engineering. 1-9 Credits.
+Consultation with the faculty and approval of subject and proposed program required. Permission of the instructor. May be repeated. Hours and credits to be arranged.
+
+ENVR 992. Master's Technical Report. 3 Credits.
+
+The technical report requirement for M.S.P.H., M.P.H., and M.S.E.E. candidates is satisfied by the extensive study of a problem in environmental sciences and engineering.
+
+## ENVR 993. Master's Research and Thesis. 3 Credits.
+
+No description available.
+
+## ENVR 994. Doctoral Research and Dissertation. 3 Credits.
+
+No description available.
+

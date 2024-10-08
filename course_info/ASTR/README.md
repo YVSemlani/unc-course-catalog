@@ -1,27 +1,116 @@
 # ASTR Course Catalog
 
-- [ASTR 100: Understanding the Universe](ASTR_100_Understanding_the_Universe)
-- [ASTR 101: Introduction to Astronomy: The Solar System](ASTR_101_Introduction_to_Astronomy:_The_Solar_System)
-- [ASTR 102: Introduction to Astronomy: Stars, Galaxies & Cosmology](ASTR_102_Introduction_to_Astronomy:_Stars,_Galaxies_&_Cosmology)
-- [ASTR 103: Alien Life in the Universe](ASTR_103_Alien_Life_in_the_Universe)
-- [ASTR 105: Time, Tides, and the Measurement of the Cosmos](ASTR_105_Time,_Tides,_and_the_Measurement_of_the_Cosmos)
-- [ASTR 110: Astrophotography of the Multi-Wavelength Universe](ASTR_110_Astrophotography_of_the_Multi-Wavelength_Universe)
-- [ASTR 202: Introduction to Astrophysics](ASTR_202_Introduction_to_Astrophysics)
-- [ASTR 205: The Medieval Foundations of Modern Cosmology](ASTR_205_The_Medieval_Foundations_of_Modern_Cosmology)
-- [ASTR 301: Stars, Galaxies, and Cosmology](ASTR_301_Stars,_Galaxies,_and_Cosmology)
-- [ASTR 501: Stellar Astrophysics](ASTR_501_Stellar_Astrophysics)
-- [ASTR 502: Modern Research in Astrophysics](ASTR_502_Modern_Research_in_Astrophysics)
-- [ASTR 503: Structure and Evolution of Galaxies](ASTR_503_Structure_and_Evolution_of_Galaxies)
-- [ASTR 504: Cosmology](ASTR_504_Cosmology)
-- [ASTR 505: Physics of Interstellar Gas](ASTR_505_Physics_of_Interstellar_Gas)
-- [ASTR 511: Atomic and Radiative Processes in Astrophysics](ASTR_511_Atomic_and_Radiative_Processes_in_Astrophysics)
-- [ASTR 512: Astrophysical Dynamics](ASTR_512_Astrophysical_Dynamics)
-- [ASTR 519: Observational Astronomy](ASTR_519_Observational_Astronomy)
-- [ASTR 701: Stellar Interiors, Evolution, and Populations](ASTR_701_Stellar_Interiors,_Evolution,_and_Populations)
-- [ASTR 702: High Energy Astrophysics](ASTR_702_High_Energy_Astrophysics)
-- [ASTR 703: Structure and Evolution of Galaxies](ASTR_703_Structure_and_Evolution_of_Galaxies)
-- [ASTR 704: Cosmology](ASTR_704_Cosmology)
-- [ASTR 705: Physics of Interstellar Gas](ASTR_705_Physics_of_Interstellar_Gas)
-- [ASTR 711: Atomic and Radiative Processes in Astrophysics](ASTR_711_Atomic_and_Radiative_Processes_in_Astrophysics)
-- [ASTR 712: Astrophysical Dynamics](ASTR_712_Astrophysical_Dynamics)
-- [ASTR 719: Astronomical Data](ASTR_719_Astronomical_Data)
+## ASTR 63. First-Year Seminar: Catastrophe and Chaos: Unpredictable Physics. 3 Credits.
+
+Physics is often seen as the most precise and deterministic of sciences. Determinism can break down, however. This seminar explores the rich and diverse areas of modern physics in which "unpredictability" is the norm. Honors version available.
+
+## ASTR 89. First-Year Seminar: Special Topics. 3 Credits.
+
+Special topics course content will vary each semester.
+
+## ASTR 100. Understanding the Universe. 3 Credits.
+
+Learn how astronomers study and understand the cosmos. Topics include motions of the Sun, Moon, and planets; planetary surfaces, interiors, and atmospheres; telescopes and spectroscopy; prospects for detecting and visiting life elsewhere; how stars are born, age, and die; black holes, dark matter, and gravitational radiation; the Milky Way Galaxy and galaxies beyond; the birth and fate of the expanding Universe. Optional laboratory: ASTR 100L. Optional field experience: ASTR 111.
+
+## ASTR 101. Introduction to Astronomy: The Solar System. 3 Credits.
+
+Celestial motions of the earth, sun, moon, and planets; nature of light; ground and space-based telescopes; comparative planetology; the earth and the moon; terrestrial and gas planets and their moons; dwarf planets, asteroids, and comets; planetary system formation; extrasolar planets; the search for extraterrestrial intelligence (SETI). Honors version available.
+
+## ASTR 102. Introduction to Astronomy: Stars, Galaxies & Cosmology. 3 Credits.
+
+The sun, stellar observables, star birth, evolution, and death, novae and supernovae, white dwarfs, neutron stars, black holes, the Milky Way galaxy, normal galaxies, active galaxies and quasars, dark matter, dark energy, cosmology, early universe. Honors version available.
+
+## ASTR 103. Alien Life in the Universe. 3 Credits.
+
+Humans have always wondered "are we alone?" From discovering life in extreme conditions on Earth, to finding thousands of exoplanets, we now know far more about this question than our ancestors. This class explores our recent understanding of planets, solar systems, where life might be, and how to find it. Optional laboratory: ASTR 100L. Optional field experience: ASTR 111.
+
+## ASTR 105. Time, Tides, and the Measurement of the Cosmos. 3 Credits.
+
+This course is focused on medieval foundations of modern cosmology and is designed to take advantage of the opportunities available for enriched learning in England. The course is problem-based, e.g. How did people reckon calendars, time, and tides, both for navigation and daily life, before clocks and the printed word? Honors version available.
+
+## ASTR 110. Astrophotography of the Multi-Wavelength Universe. 3 Credits.
+
+Students will use UNC's global network of Skynet telescopes to make color images of the moon, planets, star clusters, star-forming regions, star-death regions, and galaxies. They will also use Skynet's radio telescopes to explore the invisible universe, including pulsars, supernova remnants, and supermassive black holes. Astrophotography will be our entry point to deeper explorations of the solar system; star birth, evolution, and death; galaxy formation and evolution; and black holes and Einstein's theory of relativity.
+
+## ASTR 111. Educational Research in Radio Astronomy. 1-3 Credits.
+One-week field experience at Green Bank Observatory in West Virginia. Students observe the invisible universe using manually controlled and fully automated radio telescopes, and carry out a variety of observing projects. These target the sun, moon, Jupiter, star-forming regions, supernova remnants, pulsars, the Milky Way and Andromeda galaxies, and more distant, active galaxies and quasars. Students receive training in radio astronomy, attend research and specialty talks, and tour the observatory. Formerly offered as ASTR 111L. Permission of the instructor.
+
+ASTR 202. Introduction to Astrophysics. 3 Credits.
+
+This introductory astrophysics course will focus on the use of classical mechanics, gravitational physics, and the physics of radiation to interpret and explain astronomical observations. Course covers stellar structure, stellar formation and evolution, galaxies, and cosmology with an emphasis on quantitative problem solving.
+
+## ASTR 205. The Medieval Foundations of Modern Cosmology. 3 Credits.
+
+This course will examine science as it emerged and developed in the West starting in the 13th century. We will use example problems from cosmology that are relevant today.
+
+## ASTR 301. Stars, Galaxies, and Cosmology. 1 Credits.
+
+Stellar observables; galaxies; novae; cosmology; the early universe. This one-credit course can be taken with ASTR 102 for students who wish to major or minor in astrophysics.
+
+## ASTR 390. Research and Special Topics for Juniors and Seniors. 1-12 Credits.
+Permission of the instructor. To be taken by honors candidates and other qualified juniors and seniors.
+
+ASTR 501. Stellar Astrophysics. 3 Credits.
+
+An introduction to the study of stellar structure and evolution. Topics covered include observational techniques, stellar structure and energy transport, nuclear energy sources, evolution off the main-sequence, and supernovae.
+
+## ASTR 502. Modern Research in Astrophysics. 3 Credits.
+
+A capstone research experience introducing modern data-analysis techniques for large astronomical surveys. Students undertake guided research projects with a different theme each semester. The course focuses on real astrophysical discovery of new objects, events and phenomena.
+
+## ASTR 503. Structure and Evolution of Galaxies. 3 Credits.
+
+Overview of the structure and evolution of galaxies, with emphasis on learning and applying modern research methods such as scientific literature review and computational astrostatistics. Includes galaxy morphology and dynamics, star formation, active galactic nuclei, galaxy interactions, large-scale clustering, environment-dependent physical processes, and the evolution of the galaxy population over cosmic time.
+
+## ASTR 504. Cosmology. 3 Credits.
+
+An introduction to modern cosmology: the study of the contents and evolution of the universe. Covers expanding spacetime, the thermal history of the early universe, including nucleosynthesis and the cosmic microwave background, the inflationary model for the origins of cosmic structure, and the growth of that structure through time.
+
+## ASTR 505. Physics of Interstellar Gas. 3 Credits.
+
+Surveys the physical processes governing the interstellar medium (ISM), which takes up the "refuse" of old stars while providing fuel for young stars forming. Covers the processes regulating the galactic gas budget and the corresponding observational diagnostics. Topics: radiative transfer, line formation mechanisms, continuum radiation, gas dynamics, star formation.
+
+## ASTR 511. Atomic and Radiative Processes in Astrophysics. 3 Credits.
+
+This course covers key topics in electromagnetism, radiative transport, and thermal and statistical mechanics in the context of astrophysics, such as stellar and planetary interiors and atmospheres, stellar evolution (including star formation and death), stellar populations, and the early universe.
+
+## ASTR 512. Astrophysical Dynamics. 3 Credits.
+
+This course provides a broad overview of astrophysical principles underlying stellar and planetary dynamics; N-body dynamics of star clusters, galaxies, and dark matter; fluid dynamics of astrophysical plasmas; and dynamics of the Universe and spacetime.
+
+## ASTR 519. Observational Astronomy. 4 Credits.
+
+An introduction to modern techniques in observational astronomy with an emphasis on optical and near-infrared wavelengths. Topics covered include practical python for astronomy, telescopes and CCDs, spectroscopy, astrostatistics, and mining large astronomical surveys. Three lecture and three laboratory hours a week.
+
+## ASTR 701. Stellar Interiors, Evolution, and Populations. 3 Credits.
+
+Stellar structure and evolution, including equations of stellar structure, stellar models, star and planet formation, fusion and nucleosynthesis, stellar evolution, stellar remnants, and the comparison of theory to observations.
+
+## ASTR 702. High Energy Astrophysics. 3 Credits.
+
+White dwarfs and neutron stars: physical properties and observational manifestations. Extragalactic radio sources, relativistic jets, and supermassive black holes. Particle acceleration and radiative processes in hot plasmas. Accretion phenomena. X-ray and gamma-ray astrophysics.
+
+## ASTR 703. Structure and Evolution of Galaxies. 3 Credits.
+
+Overview of the structure and evolution of galaxies, with emphasis on learning and applying modern research methods such as scientific literature review and computational astrostatistics. Includes galaxy morphology and dynamics, star formation, active galactic nuclei, galaxy interactions, large-scale clustering, environment-dependent physical processes, and the evolution of the galaxy population over cosmic time.
+
+## ASTR 704. Cosmology. 3 Credits.
+
+General relativity and cosmological world models; thermal history of the early universe, nucleosynthesis, and the cosmic microwave background; growth of structure through cosmic time.
+
+## ASTR 705. Physics of Interstellar Gas. 3 Credits.
+
+Surveys the physical processes governing the interstellar medium (ISM), which takes up the "refuse" of old stars while providing fuel for young stars forming. Covers the processes regulating the galactic gas budget and the corresponding observational diagnostics. Topics: radiative transfer, line formation mechanisms, continuum radiation, gas dynamics, star formation.
+
+## ASTR 711. Atomic and Radiative Processes in Astrophysics. 3 Credits.
+
+This course covers key topics in electromagnetism, radiative transport, and thermal and statistical mechanics in the context of astrophysics, such as stellar and planetary interiors and atmospheres, stellar evolution (including star formation and death), stellar populations, and the early universe.
+
+## ASTR 712. Astrophysical Dynamics. 3 Credits.
+
+This course provides a broad overview of astrophysical principles underlying stellar and planetary dynamics; N-body dynamics of star clusters, galaxies, and dark matter; fluid dynamics of astrophysical plasmas; and dynamics of the Universe and spacetime.
+
+## ASTR 719. Astronomical Data. 4 Credits.
+
+Required preparation, physics-based cosmology course or permission of the instructor. A course designed to familiarize the student with observational techniques in optical and radio astronomy, including application of photography, spectroscopy, photometry, and radio methods. Three lecture and three laboratory hours a week.
+
