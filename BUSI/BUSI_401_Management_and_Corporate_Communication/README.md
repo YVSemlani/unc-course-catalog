@@ -1,0 +1,3 @@
+# BUSI 401: Management and Corporate Communication
+
+Open to business majors. Writing- and speaking-intensive course that emphasizes professional communication. Provides opportunities to learn and apply the conventions and expectations for standard business documents and presentations. Features strategies for addressing informative, persuasive, and bad-news messages using a variety of media (print documents, electronic messages, and oral presentations).

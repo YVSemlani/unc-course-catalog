@@ -1,0 +1,3 @@
+# BUSI 120: Exploring the Intersection of Business and Society
+
+This is a professional, academic, and personal development course for undergraduate Luther Hodges Scholars in their first semester of the program. The main purpose is to support incoming scholars' transition by providing a roadmap to their active participation in the program, including: grounding scholars in the program's three core competencies (leadership, research, and cross-sector collaboration), connecting them to Kenan Institute resources, enhancing networking skills opportunities, and building community among fellow scholars. Luther Hodges Scholars only.

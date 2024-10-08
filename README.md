@@ -30,14 +30,14 @@ COMP/
 ```
 COMP/
 └── COMP_590/
-    ├── COMP_590-177/
+    ├── COMP_590-170/
     │   └── Professor_Gedas_Bertasius/
     │       └── 2023/
     │           └── syllabus
     │           └── lecture_notes
     │           └── assignments
     │           └── etc.
-    └── COMP_590-170/
+    └── COMP_590-177/
         └── Professor_Roni_Sengupta/
             └── 2023/
                 └── syllabus

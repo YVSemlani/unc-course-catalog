@@ -71,7 +71,7 @@ COMP 380. Technology, Ethics, & Culture. 3 Credits.
 This discussion-based, participatory course explores the personal, sociocultural, and ethical effects and implications of the development and use of computing technologies and the Internet. Honors version available.
 
 COMP 388. Advanced Cyberculture Studies. 3 Credits.
-Explores Internet history and cyberphilosophy; online identity construction, community, communication, creativity; bodies/cyborgs; intelligence and AI. Students perform independent research into and analyze virtual worlds, social media, anonymous bulletin boards, mobile media, and more, and create digital art and literature. Seminar-style; students collaborate on designing and leading class.
+Explores Internet history and cyberphilosophy; online identify construction, community, communication, creativity; bodies/cyborgs; intelligence and AI. Students perform independent research into and analyze virtual worlds, social media, anonymous bulletin boards, mobile media, and more, and create digital art and literature. Seminar-style; students collaborate on designing and leading class.
 
 COMP 390. Computer Science Elective Topics. 3 Credits.
 Elective topics in computer science for computer science majors. May not be used to satisfy any degree requirements for a computer science major. This course has variable content and may be taken multiple times for credit.
@@ -231,3 +231,175 @@ For computer science majors only and by permission of the department. Individual
 
 COMP 692H. Honors Thesis in Computer Science. 3 Credits.
 Permission of the department. Required of all students in the honors program in computer science. The construction of a written honors thesis and an oral public presentation of the thesis are required.
+
+COMP 715. Visualization in the Sciences. 3 Credits.
+Computational visualization applied in the natural sciences. For both computer science and natural science students. Available techniques and their characteristics, based on human perception, using software visualization toolkits. Project course.
+
+COMP 720. Compilers. 3 Credits.
+Tools and techniques of compiler construction. Lexical, syntactic, and semantic analysis. Emphasis on code generation and optimization.
+
+COMP 721. Database Management Systems. 3 Credits.
+Database management systems, implementation, and theory. Query languages, query optimization, security, advanced physical storage methods and their analysis.
+
+COMP 722. Data Mining. 3 Credits.
+Data mining is the process of automatic discovery of patterns, changes, associations, and anomalies in massive databases. This course provides a survey of the main topics (including and not limited to classification, regression, clustering, association rules, feature selection, data cleaning, privacy, and security issues) and a wide spectrum of applications.
+
+COMP 723. Software Design and Implementation. 3 Credits.
+Principles and practices of software engineering. Object-oriented and functional approaches. Formal specification, implementation, verification, and testing. Software design patterns. Practicum.
+
+COMP 724. Programming Languages. 3 Credits.
+Selected topics in the design and implementation of modern programming languages. Formal semantics. Type theory. Inheritance. Design of virtual machines. Garbage collection. Principles of restructuring compilers.
+
+COMP 730. Operating Systems. 3 Credits.
+Theory, structuring, and design of operating systems. Sequential and cooperating processes. Single processor, multiprocessor, and distributed operating systems.
+
+COMP 734. Distributed Systems. 3 Credits.
+Design and implementation of distributed computing systems and services. Inter-process communication and protocols, naming and name resolution, security and authentication, scalability, high availability, replication, transactions, group communications, distributed storage systems.
+
+COMP 735. Distributed and Concurrent Algorithms. 3 Credits.
+Verification of concurrent systems. Synchronization; mutual exclusion and related problems, barriers, rendezvous, nonblocking algorithms. Fault tolerance: consensus, Byzantine agreement, self-stabilization. Broadcast algorithms. Termination and deadlock detection. Clock synchronization.
+
+COMP 737. Real-Time Systems. 3 Credits.
+Taxonomy and evolution of real-time systems. Timing constraints. Design, implementation, and analysis of real-time systems. Theory of deterministic scheduling and resource allocation. Case studies and project.
+
+COMP 740. Computer Architecture and Implementation. 3 Credits.
+Architecture and implementation of modern single-processor computer systems. Performance measurement. Instruction set design. Pipelining. Instruction-level parallelism. Memory hierarchy. I/O system. Floating-point arithmetic. Case studies. Practicum.
+
+COMP 741. Elements of Hardware Systems. 3 Credits.
+Issues and practice of information processing hardware systems for computer scientists with little or no previous hardware background. System thinking, evaluating technology alternatives, basics of electronics, signals, sensors, noise, and measurements.
+
+COMP 744. VLSI Systems Design. 3 Credits.
+Required preparation, knowledge of digital logic techniques. Introduction to the design, implementation, and realization of very large-scale integrated systems. Each student designs a complete digital circuit that will be fabricated and returned for testing and use.
+
+COMP 750. Algorithm Analysis. 3 Credits.
+Algorithm complexity. Lower bounds. The classes P, NP, PSPACE, and co-NP; hard and complete problems. Pseudo-polynomial time algorithms. Advanced data structures. Graph-theoretic, number-theoretic, probabilistic, and approximation algorithms.
+
+COMP 752. Mechanized Mathematical Inference. 3 Credits.
+Propositional calculus. Semantic tableaux. Davis-Putnam algorithm. Natural deduction. First-order logic. Completeness. Resolution. Problem representation. Abstraction. Equational systems and term rewriting. Specialized decision procedures. Nonresolution methods.
+
+COMP 755. Machine Learning. 3 Credits.
+Machine Learning methods are aimed at developing systems that learn from data. The course covers data representations suitable for learning, mathematical underpinnings of the learning methods and practical considerations in their implementations.
+
+COMP 761. Introductory Computer Graphics. 1 Credits.
+A computer graphics module course with one credit hour of specific COMP 665 content.
+
+COMP 763. Semantics and Program Correctness. 3 Credits.
+Formal characterization of programs. Denotational semantics and fixed-point theories. Proof of program correctness and termination. Algebraic theories of abstract data types. Selected topics in the formalization of concurrent computation.
+
+COMP 764. Monte Carlo Method. 3 Credits.
+Relevant probability and statistics. General history. Variance reduction for sums and integrals. Solving linear and nonlinear equations. Random, pseudorandom generators; random trees. Sequential methods. Applications.
+
+COMP 766. Visual Solid Shape. 3 Credits.
+3D differential geometry; local and global shape properties; visual aspects of surface shape. Taught largely through models and figures. Applicable to graphics, computer vision, human vision, and biology.
+
+COMP 767. Geometric and Solid Modeling. 3 Credits.
+Curve and surface representations. Solid models. Constructive solid geometry and boundary representations. Robust and error-free geometric computations. Modeling with algebraic constraints. Applications to graphics, vision, and robotics.
+
+COMP 768. Physically Based Modeling and Simulation. 3 Credits.
+Geometric algorithms, computational methods, simulation techniques for modeling based on mechanics and its applications.
+
+COMP 770. Computer Graphics. 3 Credits.
+Study of graphics hardware, software, and applications. Data structures, graphics, languages, curve surface and solid representations, mapping, ray tracing and radiosity.
+
+COMP 775. Image Processing and Analysis. 3 Credits.
+Approaches to analysis of digital images. Scale geometry, statistical pattern recognition, optimization. Segmentation, registration, shape analysis. Applications, software tools.
+
+COMP 776. Computer Vision in our 3D World. 3 Credits.
+Fundamental problems of computer vision. Projective geometry. Camera models, camera calibration. Shape from stereo, epipolar geometry. Photometric stereo. Optical flow, tracking, motion. Range finders, structured light. Object recognition.
+
+COMP 777. Optimal Estimation in Image Analysis. 3 Credits.
+Formulation and numerical solution of optimization problems in image analysis.
+
+COMP 781. Robotics. 3 Credits.
+Introduction to the design, programming, and control of robotic systems. Topics include kinematics, dynamics, sensing, actuation, control, robot learning, tele-operation, and motion planning. Applications will be discussed including industrial, mobile, assistive, personal, and medical robots.
+
+COMP 782. Motion Planning in Physical and Virtual Worlds. 3 Credits.
+Topics include path planning for autonomous agents, sensor-based planning, localization and mapping, navigation, learning from demonstration, motion planning with dynamic constraints, and planning motion of deformable bodies. Applications to robots and characters in physical and virtual worlds will be discussed.
+
+COMP 786. Natural Language Processing. 3 Credits.
+Artificial intelligence and machine learning field to build automatic models that can analyze, understand, and generate text. Topics include syntactic parsing, co-reference resolution, semantic parsing, question answering, document summarization, machine translation, dialogue models, and multi-modality.
+
+COMP 787. Visual Perception. 3 Credits.
+Surveys form, motion, depth, scale, color, brightness, texture and shape perception. Includes computational modeling of vision, experimental methods in visual psychophysics and neurobiology, recent research and open questions.
+
+COMP 788. Expert Systems. 3 Credits.
+Languages for knowledge engineering. Rules, semantic nets, and frames. Knowledge acquisition. Default logics. Uncertainties. Neural networks.
+
+COMP 790. Topics in Computer Science. 1-21 Credits.
+Permission of the instructor. This course has variable content and may be taken multiple times for credit.
+
+COMP 822. Topics in Discrete Optimization. 3 Credits.
+Topics may include polynomial algorithms, computational complexity, matching and matroid problems, and the traveling salesman problem.
+
+COMP 824. Functional Programming. 3 Credits.
+Programming with functional or applicative languages. Lambda calculus; combinators; higher-order functions; infinite objects. Least fixed points, semantics, evaluation orders. Sequential and parallel execution models.
+
+COMP 825. Logic Programming. 3 Credits.
+Propositional calculus, Horn clauses, first-order logic, resolution. Prolog: operational semantics, relationship to resolution, denotational semantics, and non-logical features. Programming and applications. Selected advanced topics.
+
+COMP 831. Internet Architecture and Performance. 3 Credits.
+Internet structure and architecture; traffic characterization and analysis; errors and error recovery; congestion and congestion control; services and their implementations; unicast and multicast routing.
+
+COMP 832. Multimedia Networking. 3 Credits.
+Audio/video coding and compression techniques and standards. Media streaming and adaptation. Multicast routing, congestion, and error control. Internet protocols RSVP, RTP/RTCP. Integrated and differentiated services architecture for the Internet.
+
+COMP 841. Advanced Computer Architecture. 3 Credits.
+Concepts and evolution of computer architecture, machine language syntax and semantics; data representation; naming and addressing; arithmetic; control structures; concurrency; input-output systems and devices. Milestone architectures.
+
+COMP 842. Advanced Computer Implementation. 3 Credits.
+Required preparation, knowledge of digital logic techniques. The application of digital logic to the design of computer hardware. Storage and switching technologies. Mechanisms for addressing, arithmetic, logic, input/output and storage. Microprogrammed and hardwired control.
+
+COMP 844. Advanced Design of VLSI Systems. 3 Credits.
+Advanced topics in the design of digital MOS systems. Students design, implement, and test a large custom integrated circuit. Projects emphasize the use of advanced computer-aided design tools.
+
+COMP 850. Advanced Analysis of Algorithms. 3 Credits.
+Design and analysis of computer algorithms. Time and space complexity; absolute and asymptotic optimality. Algorithms for searching, sorting, sets, graphs, and pattern-matching. NP-complete problems and provably intractable problems.
+
+COMP 870. Advanced Image Synthesis. 3 Credits.
+Advanced topics in rendering, including global illumination, surface models, shadings, graphics hardware, image-based rendering, and antialiasing techniques. Topics from the current research literature.
+
+COMP 872. Exploring Virtual Worlds. 3 Credits.
+Project course, lecture, and seminar on real-time interactive 3D graphics systems in which the user is 'immersed' in and interacts with a simulated 3D environment. Hardware, modeling, applications, multi-user systems.
+
+COMP 875. Recent Advances in Image Analysis. 3 Credits.
+Lecture and seminar on recent advances in image segmentation, registration, pattern recognition, display, restoration, and enhancement.
+
+COMP 892. Practicum. 0.5 Credits.
+Permission of the instructor. Work experience in an area of computer science relevant to the student's research interests and pre-approved by the instructor. The grade, pass or fail only, will depend on a written report by the student and on a written evaluation by the employer.
+
+COMP 910. Computer Science Module. 0.5-21 Credits.
+A variable-credit module course that can be used to configure a registration for a portion of a class.
+
+COMP 911. Professional Writing in Computer Science. 3 Credits.
+Graduate computer science majors only. Analysis of good and bad writing. Exercises in organization and composition. Each student also writes a thesis-quality short technical report on a previously approved project.
+
+COMP 915. Technical Communication in Computer Science. 1 Credits.
+Graduate computer science majors or permission of the instructor. Seminar on teaching, short oral presentations, and writing in computer science.
+
+COMP 916. Seminar in Professional Practice. 1 Credits.
+Required preparation, satisfaction of M.S. computer science program product requirement. The role and responsibilities of the computer scientist in a corporate environment, as an entrepreneur, and as a consultant. Professional ethics.
+
+COMP 917. Seminar in Research. 1 Credits.
+Graduate computer science majors only. The purposes, strategies, and techniques for conducting research in computer science and related disciplines.
+
+COMP 918. Research Administration for Scientists. 3 Credits.
+Graduate standing required. Introduction to grantsmanship, research grants and contracts, intellectual property, technology transfer, conflict of interest policies. Course project: grant application in NSF FastLane.
+
+COMP 980. Computers and Society. 1 Credits.
+Graduate computer science majors only. Seminar on social and economic effects of computers on such matters as privacy, employment, power shifts, rigidity, dehumanization, dependence, quality of life.
+
+COMP 990. Research Seminar in Computer Science. 1-21 Credits.
+Permission of the instructor. Seminars in various topics offered by members of the faculty.
+
+COMP 991. Reading and Research. 1-21 Credits.
+Permission of the instructor. Directed reading and research in selected advanced topics.
+
+COMP 992. Master's (Non-Thesis). 3 Credits.
+Permission of the department.
+
+COMP 993. Master's Research and Thesis. 3 Credits.
+Permission of the department.
+
+COMP 994. Doctoral Research and Dissertation. 3 Credits.
+Permission of the department.
+

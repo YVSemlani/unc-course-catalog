@@ -1,0 +1,3 @@
+# BUSI 488: Data Science in the Business World
+
+Business and Computer Science students join forces in this course to create data-driven business insights. We transgress the data science pipeline using cloud computing, artificial intelligence, and real-world datasets. Students acquire hands-on skills in acquiring data, wrangling vast unstructured data, building advanced models, and telling compelling stories with data that managers can understand.

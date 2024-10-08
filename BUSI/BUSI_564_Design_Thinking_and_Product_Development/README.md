@@ -1,0 +1,3 @@
+# BUSI 564: Design Thinking and Product Development
+
+Traditional marketing research (focus groups, surveys) is being complemented by design thinking and Web 2.0 approaches. This course will introduce several tools and techniques that are used in the design thinking process (empathy, define, ideate, prototype, test). A sampling of topics includes: creativity and brainstorming, empathy maps, personas, journey mapping, mind mapping, prototyping, storyboarding, intellectual property basics, and open innovation (crowdsourcing/crowdfunding). Key concepts will be learned via several in and out of class hands-on exercises.

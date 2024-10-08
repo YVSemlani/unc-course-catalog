@@ -1,0 +1,3 @@
+# BUSI 293: Affordable Housing Practicum
+
+In this experiential class, junior and senior students, guided by the professor, serve as consultants for affordable housing organizations and developers. They collaborate with Housing Partners, including developers, financing institutions, government agencies, and not-for-profit organizations, to address business challenges tied to affordable housing initiatives. Students gain expertise in creating and delivering professional work while grasping the intricacies and significance of affordable housing.

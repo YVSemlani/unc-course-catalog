@@ -1,0 +1,3 @@
+# BUSI 562: Consumer Behavior
+
+A business's success relies on fulfilling its consumers' wants and needs, but how does a business effectively do this? This course blends theory with practice to explore how consumers' information processing, decision making, and purchase decisions are influenced by such factors as their values, psychological motivations, and social and cultural forces. In doing so, a deeper understanding of how to target and reach consumers, as well as how to influence their behavior is learned.

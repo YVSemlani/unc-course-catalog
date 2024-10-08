@@ -1,0 +1,3 @@
+# BUSI 509: Entrepreneurs Lab: Advanced Entrepreneurial Insight and Leadership
+
+This course explores the key issues associated with the entrepreneurial career and the lessons of success and failure with a goal to reinforce a high-performance entrepreneurial mindset. The course is designed for students who are committed and currently engaged actively in pursuing an entrepreneurial career path, either during their program, immediately after graduation, or over the course of their early career. Application required. This is a required course for Adams Apprentices. Honors version available.

@@ -1,0 +1,3 @@
+# BUSI 585: Introduction to Real Estate
+
+An overview of residential and commercial real estate. This survey course examines 1) buying a house and constructing a portfolio of single-family rental houses, 2) commercial real estate product types, 3) amortization, cash flows, capital expenditures, cap rates, debt and equity, hurdle rates and taxes, 4) investment analysis, 5) acquisition, development, operation, and disposition, 6) real estate and contract law, and 7) the partnership negotiation process.

@@ -36,6 +36,8 @@ def create_course_folders(catalog_file, department_code, base_dir):
         folder_name = f"{department_code}_{course_number}_{course_name_clean}"
         folder_path = os.path.join(base_dir, folder_name)
 
+        print(folder_path)
+        
         # Create the course folder
         os.makedirs(folder_path, exist_ok=True)
 
