@@ -1,3 +1,0 @@
-# ANTH 450: Ethnographic Research Methods
-
-Students learn about methodologies of ethnographic research and put these into practice through a semester-long field research project. We explore the theoretical, ethical, and practical promises and challenges of ethnography, from problem definition and research design to data analysis and writing. Students collect and analyze ethnographic data using participant observation, fieldnotes, interviewing, visual methods, focus groups, archival and ethnographic survey research, and learn various strategies for organizing, coding, and presenting findings.

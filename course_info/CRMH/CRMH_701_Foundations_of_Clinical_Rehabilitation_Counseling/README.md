@@ -1,3 +1,0 @@
-# CRMH 701: Foundations of Clinical Rehabilitation Counseling
-
-The purpose of this course is to introduce the field of professional counseling, with a concentration on clinical rehabilitation counseling. The course focuses on clinical rehabilitation counseling history, philosophy, values, legislation, policy, and practice (models and methods of service delivery). The course also provides students with foundational knowledge on the counseling profession, the professional identity of the counselor, ethical and legal standards, competencies and functions, and counseling practice in various settings.

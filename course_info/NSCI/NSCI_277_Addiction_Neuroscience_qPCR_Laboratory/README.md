@@ -1,3 +1,0 @@
-# NSCI 277: Addiction Neuroscience qPCR Laboratory
-
-Addiction Neuroscience qPCR Laboratory is a laboratory and research-based course that will expose students to the fundamental and emerging approaches used in RT-qPCR addiction neuroscience research. In this course students will learn to handle rodent brains, perform cryostat sectioning, conduct reverse transcription, create a cDNA library, and utilize R programming to analyze qPCR results by studying genes of interest in the context of a drug exposed rodent. Majors only.

@@ -1,3 +1,0 @@
-# MEJO 711: Multi-platform Storytelling
-
-How are messages communicated through multiple platforms? How do media professionals balance and navigate their blurring roles as producers/consumers, writers/readers, and message senders/message receivers? Students will create flexible and strategic stories that can be disseminated through a variety of channels, including social media platforms, podcasts, video, and text. They will emerge with skills for content marketing, social media, or journalistic storytelling. Restricted to students in the M.A. in Digital Communication program.

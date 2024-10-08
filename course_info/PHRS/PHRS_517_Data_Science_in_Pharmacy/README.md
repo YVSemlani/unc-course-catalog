@@ -1,3 +1,0 @@
-# PHRS 517: Data Science in Pharmacy
-
-This data science elective course is intended to provide students with baseline knowledge of core competencies in data science and its applications across the health sciences landscape and prepares students to become successful in their profession. Pharmacists will encounter data science in different contexts throughout their careers. ASHP describes such ''informatics'' projects as including creation of clinical decision support; ensuring accuracy of medication order intent; and guiding clinicians to appropriate medication use.

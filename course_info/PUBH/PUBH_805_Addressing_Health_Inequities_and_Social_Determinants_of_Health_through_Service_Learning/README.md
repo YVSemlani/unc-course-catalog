@@ -1,3 +1,0 @@
-# PUBH 805: Addressing Health Inequities and Social Determinants of Health through Service Learning
-
-This course bridges coursework and knowledge gained in health inequities with applied practice. Each semester, a specific health inequity and/or social determinant of health will be chosen based on current events. Students will hear from practitioners about how this issue affects public health on-the-ground as well as: participate in related service-learning projects with community/practitioner partners during Spring Break, incorporate reflection-in-action into activities and reflection-on-action to identify how they will incorporate lessons learned into future work.

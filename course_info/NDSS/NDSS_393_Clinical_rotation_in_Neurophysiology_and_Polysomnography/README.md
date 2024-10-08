@@ -1,3 +1,0 @@
-# NDSS 393: Clinical rotation in Neurophysiology and Polysomnography
-
-Students will be exposed to real life clinical neurophysiology and sleep laboratory practice and develop competence in the performance of these studies in the clinical setting. Students should apply the knowledge and skills necessary to perform basic neurophysiological and sleep studies, including recording and interpreting basic studies. Upon completion, students should be able to demonstrate competence performing these studies. Students will discuss the cases, review waveforms, and identify events with clinical mentors.

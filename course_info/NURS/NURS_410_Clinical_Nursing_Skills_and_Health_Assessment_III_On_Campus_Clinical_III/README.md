@@ -1,3 +1,0 @@
-# NURS 410: Clinical Nursing Skills and Health Assessment III: On Campus Clinical III
-
-The third in a series of four on campus clinical courses with application of advanced clinical nursing skills and comprehensive health assessment to specialized populations. This course emphasizes application of leadership, pediatric and community health concepts. The clinical environment is simulated to provide the application of nursing principles and skills. Majors Only.

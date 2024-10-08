@@ -1,3 +1,0 @@
-# ANTH 411: Laboratory Methods in Archaeology
-
-ANTH 411 will be all about curating things, specifically the curation and care of archaeological collections. Students will learn about collections management through readings, discussion, lectures, and hands-on work at the Research Laboratories of Archaeology's curation facility. The RLA curates collections mainly from the American South. Through the lens of the RLA collections, we'll explore basic principles of curation and data management as well as issues that affect curation nation-wide and internationally. Honors version available.

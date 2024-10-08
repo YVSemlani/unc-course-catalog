@@ -1,3 +1,0 @@
-# ANTH 345: Alternatives to Capitalism
-
-An investigation of economic systems that are sustainable alternatives to the globally dominant political and economic order. Topics include markets, the Commons, cooperatives, local trading systems, participatory budgeting, and social movements seeking to bring these alternatives about. Throughout, the course asks: what can anthropology tell us about the potentials and limits of social transformation? Previously offered as ANTH 466.

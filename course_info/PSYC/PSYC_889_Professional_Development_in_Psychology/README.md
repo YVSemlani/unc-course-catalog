@@ -1,3 +1,0 @@
-# PSYC 889: Professional Development in Psychology
-
-This course offers training and discussion in a wide array of skills rarely covered within formal academic curricula, including: how to select a career path, financial planning, media training, balancing personal/professional lives, applying for postdocs, writing research statements, getting tenure, multiculturalism, applying for grants, consulting, etc.

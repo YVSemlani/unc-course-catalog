@@ -1,3 +1,0 @@
-# PLCY 720: Economic Analysis and Public Policy
-
-This course explores the application of economic analysis in public policy, with an emphasis on public finance. The first part of the course develops the concepts, techniques, and framework of analysis, including externalities, public goods, and social welfare analysis. The second part applies the framework and techniques to public policy and public finance questions. Examples include social insurance, social security, health insurance, unemployment insurance, and taxation.

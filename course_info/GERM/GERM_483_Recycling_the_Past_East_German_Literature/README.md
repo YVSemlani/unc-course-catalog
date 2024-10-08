@@ -1,3 +1,0 @@
-# GERM 483: Recycling the Past: East German Literature
-
-Explores the practice in East Germany of adapting earlier literatures and setting contemporary narratives in distant times. East German authors used cultural heritage as a screen for utopian sentiments and for pursuing the relationships between everyday life, historical conditions, and political circumstances. Readings and discussions in English.

@@ -1,3 +1,0 @@
-# PUBA 201: Making and Unmaking a Criminal: Criminal Law and Justice
-
-This course examines the operation of the criminal justice system, the traditional ways it has dealt with people charged with crimes, and potential reforms, particularly greater access to and coordination of health services. The course takes a comparative approach. Students will explore differences in the criminal justice systems in the US and UK with the aim of identifying ways to improve outcomes for justice-involved and potentially justice-involved people and communities. Burch Fellows only. Honors version available.

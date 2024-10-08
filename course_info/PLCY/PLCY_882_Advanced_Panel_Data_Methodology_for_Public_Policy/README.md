@@ -1,3 +1,0 @@
-# PLCY 882: Advanced Panel Data Methodology for Public Policy
-
-Students will apply models and statistical techniques to original PLCY research; understand major techniques used to estimate causal relationships in quasi-experimental designs, including panel data and simultaneous equations models; and gain intuition and skills about the art of econometrics, including techniques for using complex survey data and handling missing data.

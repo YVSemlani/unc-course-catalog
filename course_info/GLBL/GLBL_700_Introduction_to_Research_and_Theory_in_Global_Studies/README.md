@@ -1,3 +1,0 @@
-# GLBL 700: Introduction to Research and Theory in Global Studies
-
-Global studies examines world systems, transnational processes, and global-local interactions from a multi-disciplinary perspective. This course will introduce students to current interdisciplinary theoretical approaches to global studies and examine the primary topics of contemporary research relating to the rise of a complex but increasingly integrated world society.

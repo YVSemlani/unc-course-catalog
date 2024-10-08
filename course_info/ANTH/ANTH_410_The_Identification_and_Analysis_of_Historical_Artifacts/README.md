@@ -1,3 +1,0 @@
-# ANTH 410: The Identification and Analysis of Historical Artifacts
-
-This is a hands-on lab class on the identification and analysis of ceramics, tobacco pipes, glassware, small finds, and personal objects produced or traded in Northern Europe and Eastern North America. Students will be instructed on how to identify, date, and analyze artifacts from the 17th century through the middle of the 20th century. In addition, topics such as function, technology, and socioeconomic status will be discussed.

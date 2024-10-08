@@ -1,3 +1,0 @@
-# AMST 775: Graduate Seminar in Food Studies: Interdisciplinary Research
-
-This class exposes graduate students to interdisciplinary food studies research in the humanities. We use farm records, cookbooks, novels, poetry, photographs, songs, documentaries, and oral histories to investigate American food communities. We are not aiming to define food studies, but are looking at its questions, problems, theories, and methods.

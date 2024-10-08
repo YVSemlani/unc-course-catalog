@@ -1,3 +1,0 @@
-# PLCY 210: Policy Innovation and Analysis
-
-There is a need to define innovative solutions to public policy problems, to provide analysis of different alternatives, and to create a plan that would benefit the largest number of stakeholders. This course focuses on the process of constructing, evaluating, and deciding among alternatives based on their ability to satisfy society's goals. Honors version available.

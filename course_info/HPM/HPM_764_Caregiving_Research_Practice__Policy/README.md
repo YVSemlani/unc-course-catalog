@@ -1,3 +1,0 @@
-# HPM 764: Caregiving: Research, Practice, & Policy
-
-Informal or family caregivers support a family member or friend with a serious health problem, disability, or illness. Caregiving is an essential part of our society and infrastructure worldwide. Understanding informal care within the context of both healthcare delivery and the community is critical for future professionals in healthcare, social services, and health policy. This course will provide an overview of caregiving in the U.S. and globally, models of caregiving, research methods, and caregiving policies.

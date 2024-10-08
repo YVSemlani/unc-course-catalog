@@ -1,3 +1,0 @@
-# PWAD 675: War, Crimes against Humanity, and Justice
-
-This course examines the devastation of war and conflict throughout the 19th and 20th centuries; war crimes, genocide, and other atrocities; the creation of the term "Crimes against Humanity" in international law; and the various attempts to use legal trials to bring about peace and justice in a chaotic world. We will explore the challenges of international institutions and international laws in maintaining peace in a world of nation-states and national sovereignty.

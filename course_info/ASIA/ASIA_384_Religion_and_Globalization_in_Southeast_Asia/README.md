@@ -1,3 +1,0 @@
-# ASIA 384: Religion and Globalization in Southeast Asia
-
-How does globalization affect religious life? How do historical, cultural, and religious traditions mediate the experience of globalization in particular locales? This course analyzes the forces and practices associated with political-economic and cultural globalization in Southeast Asia and explores the religious transformations and innovations that these processes have inspired.

@@ -1,3 +1,0 @@
-# SOCI 826: Health and Developmental Trajectories From Adolescence into Adulthood
-
-Graduate seminar that integrates theory and research on health and developmental trajectories across the early life course using the design and data from the National Longitudinal Study of Adolescent to Adult Health (Add Health). Within the social and epidemiology life course frameworks, this course facilitates student research using Add Health.

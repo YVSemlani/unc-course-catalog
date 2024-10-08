@@ -1,3 +1,0 @@
-# ANTH 471: Biocultural Perspectives on Maternal and Child Health
-
-This course explores maternal and child health from an evolutionary, biocultural, and global health perspective. It focuses on the physiological, ecological, and cultural factors shaping health and takes a life course perspective to examine childhood development, reproductive processes such as pregnancy, birth and lactation, and menopause and aging.

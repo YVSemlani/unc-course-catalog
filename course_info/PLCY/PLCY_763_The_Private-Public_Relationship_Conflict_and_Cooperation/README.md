@@ -1,3 +1,0 @@
-# PLCY 763: The Private-Public Relationship: Conflict and Cooperation
-
-This course examines the relationships between enterprises and governments that have so often perverted the public interest and yet have generated such economic bounty. We will consider the government's role in structuring, regulating, and making markets as well as the conflicts that arise from power struggles between firms and the state. While the U.S. context is the focus for the course, we will also consider trends in other nations as well as global business governance.

@@ -1,3 +1,0 @@
-# MEJO 669: Health Marketing Capstone
-
-This is a capstone course and the final course in the Health Communication and Marketing Certificate program -- Students will be placed into teams to work with a client from the health communication and marketing sector to conduct formative research, develop a marketing communication strategy, create and test campaign materials, and present a final plan of action to the client. Restricted to students in the Health Communication and Marketing Certificate program. Honors version available.

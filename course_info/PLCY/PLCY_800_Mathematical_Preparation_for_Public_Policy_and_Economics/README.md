@@ -1,3 +1,0 @@
-# PLCY 800: Mathematical Preparation for Public Policy and Economics
-
-An intensive preparation course in mathematical and statistical analysis for public policy and economics. Reviews and introduces topics in linear algebra, calculus, optimization and mathematical statistics, and prepares students for PLCY 788 and PLCY 789. Also serves as a prerequisite for HPM 881, which satisfies one methods requirement in the Ph.D. program.

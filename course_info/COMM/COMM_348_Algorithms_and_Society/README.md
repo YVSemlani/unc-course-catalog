@@ -1,3 +1,0 @@
-# COMM 348: Algorithms and Society
-
-Society, we're told, is increasingly subject to automated decisions rendered by algorithm. What effects do algorithmic classifications have on social, cultural, and economic life? When, how, and why do institutions use algorithms? Are they really more "objective" than human decisions? How are the costs and benefits of algorithmic systems distributed? What does it mean to say we now live in an "algorithmic society"?

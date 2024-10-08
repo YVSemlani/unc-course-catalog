@@ -1,3 +1,0 @@
-# MEJO 569: Behavioral Science in Health Communication
-
-In this course, students are provided with an in-depth understanding of how people make health decisions and what motivates them to act. Then, through discussions, hands-on exercises, and case studies of health campaigns, students learn how to apply behavioral science to identify, dissect, and determine the best communication solutions for some of the most important challenges facing healthcare today.

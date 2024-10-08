@@ -1,3 +1,0 @@
-# PSYC 535: Programming for Psychologists: Computational Tools for Psychological Research
-
-In this course, we will cover fundamental coding practices and computational tools used frequently in psychology research. We will go over the basics of coding, how to present computer-based experiments, how to keep a digital lab notebook, univariate data analyses, and visualization through programming. Through this process, students will have the opportunity to develop and run a simple experiment from start to finish.

@@ -1,3 +1,0 @@
-# HIST 163: Modern Central Asia
-
-This course offers an introduction to the political, religious, cultural, and social history of ''Russia'' Central Asia (which you may have heard of as ''the five 'stans'') from the eighteenth century to the present day. We will conceptualize the Eurasian space across modern political boundaries by charting the evolution of several themes in different parts of the region. These themes include Islam, the state, ideology, gender, and the environment. Honors version available.

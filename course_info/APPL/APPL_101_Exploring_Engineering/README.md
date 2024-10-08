@@ -1,3 +1,0 @@
-# APPL 101: Exploring Engineering
-
-Engineers help to design and build solutions to the world's problems. This course will explore some of the fundamental skills and tools in engineering. You will write software to develop computational models and measure data from low fidelity prototypes of real world systems. You will interpret these results to improve system designs. You will also explore topics in biomimicry and sustainable engineering. Throughout the class, you will develop strong professional and communication skills.

@@ -1,3 +1,0 @@
-# GLBL 450: Social Change in Times of Crisis: Knowledge, Action, and Ontology
-
-Examines dominant, alternative, and emergent narratives of change and the future from around the world. Takes as a premise that we live in a period of multidimensional crises characterized by uncertainty and conflict about how to pursue sustainable economic, ecological, political, social, and cultural projects. Honors version available.

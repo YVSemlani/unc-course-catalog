@@ -1,3 +1,0 @@
-# HPM 600: Introduction to Health Policy and Management
-
-This course provides an overview of the United States health care system. Students will explore the system's organization, financing, management, resources, and performance. For each topic, they will analyze relevant legislation and discuss current issues. Students will develop skills in policy research and analysis, health care system evaluation, and basic financial literacy.

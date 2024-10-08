@@ -1,3 +1,0 @@
-# RELI 724: Ethnographic Research Methods: Ethnography of Religion and Religious Formations
-
-This course engages the practices, politics, ethics, and epistemology of ethnography as a technique of data production, analysis, and representation. While we will privilege issues and themes related to the study of religion, the course offers a broad, multidisciplinary approach to the construction and execution of ethnographic research.

@@ -1,3 +1,0 @@
-# IDST 197: Research with the American South
-
-A seminar designed to introduce Southern Futures Fellows to research and creative discovery with the American South, with a focus on the arts and humanities. Course includes guest lectures, site visits, and assignments that will help Fellows develop their summer research, creative discovery, or service project. Priority enrollment for Southern Futures Fellows. Students interested in pursuing undergraduate research with the American South, particularly in the Arts and Humanities, are encouraged to take course, space permitting.

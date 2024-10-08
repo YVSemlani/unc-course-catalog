@@ -1,3 +1,0 @@
-# RUSS 410: Intermediate-to-Advanced Russian Communication, Conversation, and Composition in Context II
-
-Hones skills necessary for advanced communication, conversation, and composition. Presents phonetics and grammar in contemporary cultural context. Learners expand their practical knowledge of contemporary standard Russian in the context of present-day culture, while developing applied skills pertaining to comprehension, production of, and communication in Russian actively using authentic cultural materials.

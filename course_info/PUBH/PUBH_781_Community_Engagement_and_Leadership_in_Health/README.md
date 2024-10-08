@@ -1,3 +1,0 @@
-# PUBH 781: Community Engagement and Leadership in Health
-
-PUBH 791 could be a co-requisite with another required concentration course, only with instructor permission. Students will gain a basic understanding of how to be leaders in applying principles of community engagement in public health programs and organizational settings by engaging different stakeholder sectors, promoting multi-level cohesion among different audiences, communicating strategies, and collaboratively designing community engagement and implementation plans.

@@ -1,3 +1,0 @@
-# DHYG 352: Community Dental Health
-
-This course is designed to aid dental hygiene students in realizing their potential as dynamic members of the community. Instruction, activities and assignments will strengthen the students' understanding of and ability to work effectively with a variety of people and organizations within a community. Emphasis will be placed on community assessment and diagnosis, program planning, implementation and evaluation, school screening and existing dental health programs.

@@ -1,3 +1,0 @@
-# PORT 520: Climate Change and the Cultural Imagination: Lusophone Interpretations
-
-In this course we will explore how contemporary Lusophone culture broaches the challenges and global dynamics of climate change. How do the arts imagine solutions for the problems of contemporary environments? How might they subvert traditional configurations of knowledge and of power, and how can they impact human behavior? How might they help us envision a different future for our planet? Conducted in Portuguese.

@@ -1,3 +1,0 @@
-# HBEH 411: Pathways to Effective Community Engagement
-
-This course is designed to provide a framework for students to reflect on their existing public service and community engagement experiences, critically examine important issue areas, build skills and consider how what they are learning may inform their career paths. Students will participate in weekly group lecture and recitation sessions as well as completing at least 30 hours of work in partnership with a community organization.

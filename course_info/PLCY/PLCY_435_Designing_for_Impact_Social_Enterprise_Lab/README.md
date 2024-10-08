@@ -1,3 +1,0 @@
-# PLCY 435: Designing for Impact: Social Enterprise Lab
-
-Focuses on the entrepreneurial process to solve social or environmental issues. Using modern methods and tools, students engage in experiments to test hypotheses around problem definition, opportunity recognition and solutions. Experience gained in this course enable students to launch their own social enterprise or join social enterprises in progress.

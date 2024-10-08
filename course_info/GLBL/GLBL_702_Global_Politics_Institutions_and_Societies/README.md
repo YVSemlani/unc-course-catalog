@@ -1,3 +1,0 @@
-# GLBL 702: Global Politics, Institutions, and Societies
-
-This course will address global governance and global public policy; interactions among states, international organizations, businesses, social movements, and NGOs. It addresses the diffusion and promotion of democracy and other norms and the interactions between political institutions and social cleavages. Students with this concentration must take one appropriate methodology class.

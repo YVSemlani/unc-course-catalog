@@ -1,3 +1,0 @@
-# PSYC 795: Functional Magnetic Resonance Imaging
-
-This course provides a comprehensive and rigorous introduction to the technique of functional magnetic resonance imaging (fMRI). Students will learn the basic physics underlying MRI; the biological principles of fMRI, the principles of experimental design, data analysis, the use of available software packages, and special considerations for patient research.

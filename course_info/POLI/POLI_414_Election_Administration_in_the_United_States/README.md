@@ -1,3 +1,0 @@
-# POLI 414: Election Administration in the United States
-
-This is a course about how we administer elections in the United States. The people, processes, and rules by which we administer elections in the United States are critically important to the exercise of free and fair elections that is a cornerstone of a democratic form of governance. A major component of this course is your work as an elections official in the Fall 2024 election. Must be a registered voter in Orange County, NC.

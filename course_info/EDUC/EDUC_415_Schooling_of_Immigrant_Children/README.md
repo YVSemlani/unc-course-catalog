@@ -1,3 +1,0 @@
-# EDUC 415: Schooling of Immigrant Children
-
-This course introduces students to immigration-related schooling issues in the United States and North Carolina. Students will use scholarly writings by both theorists and practitioners as well as narratives from immigrant students and their parents to study the impacts of migration on education as a transnational, transcultural, and translingual process. The course includes an overview of immigration-related education policies and practices; issues of assimilation, acculturation, and identity; and other relevant topics.

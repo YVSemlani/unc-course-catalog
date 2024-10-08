@@ -1,3 +1,0 @@
-# BMME 398: Biomedical Engineering Design and Manufacturing II
-
-In this course, you will learn the validation and verification stages of the design process as applied to the development of new medical devices. This course is the second part of a 3 year sequence in which you will learn the process of biomedical engineering design along with technical skills that will allow you to develop new devices to solve unmet medical needs. Previously offered as BMME 310. Majors only. Honors version available.

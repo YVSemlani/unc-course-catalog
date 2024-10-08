@@ -1,3 +1,0 @@
-# PUBH 810: Population Health: Interprofessional Management in a Changing Healthcare System
-
-Admission to SPH graduate program required for course enrollment. Course experience will involve medicine, nursing, pharmacy, and social work students engaging together to learn skills and knowledge to apply population health principles. Key themes include inter-professional collaboration and teamwork, identification and stratification of populations-at-risk, and discussion of evidence-based care planning/coordination.

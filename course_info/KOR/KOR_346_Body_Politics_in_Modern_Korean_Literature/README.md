@@ -1,3 +1,0 @@
-# KOR 346: Body Politics in Modern Korean Literature
-
-This course surveys twentieth- and early twenty-first-century Korean literature through the lens of representations of the body. Bringing together works of fiction, poetry, drama, and secondary scholarship, it explores how modern Korean literature has imagined the body, defined its multiple natures and identities, and delineated its shifting boundaries. Honors version available.

@@ -1,3 +1,0 @@
-# MEJO 432: Cause Communications
-
-This course provides a comprehensive understanding of the role of public relations in the nonprofit realm and a service-learning experience. Students will be introduced to the essential skills and core responsibilities of practicing public relations for the public good. Lectures, case studies, and discussions will be integrated with service-learning experiences in which students apply course concepts to address real concerns and issues of community partners.

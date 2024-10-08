@@ -1,3 +1,0 @@
-# PHYA 235: Beginning-Level Swimming
-
-The course consists of swimming skills for students with limited water experience. These skills include water adjustment, floating, kicking, front crawl stroke, rhythmic breathing, and elementary backstroke. Emphasis is on efficient movement through the water. Foundation skills taught enable students to enjoy swimming and other aquatic activities as a lifetime sport. Basic water safety and first aid procedures are included.

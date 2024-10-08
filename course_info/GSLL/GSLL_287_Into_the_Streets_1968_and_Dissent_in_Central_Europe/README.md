@@ -1,3 +1,0 @@
-# GSLL 287: Into the Streets: 1968 and Dissent in Central Europe
-
-Protest movements of 1968 are often remembered as one "planetary event." In Western Europe, protesters demanded revolution, while in Eastern Europe, protesters living under communism demanded reform. In this course, we will explore dissent and counterculture in Central Europe through the lens of 1968. Through film and fiction from Poland, Yugoslavia, Czechoslovakia, and Hungary, we will investigate the impact of the Central European '68(s) worldwide. Films with English subtitles; readings and discussions in English.

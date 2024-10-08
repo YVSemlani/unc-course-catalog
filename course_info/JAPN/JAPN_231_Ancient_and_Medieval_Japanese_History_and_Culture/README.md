@@ -1,3 +1,0 @@
-# JAPN 231: Ancient and Medieval Japanese History and Culture
-
-This course surveys Japanese history and cultural development from the prehistoric period, rich with archaeological evidence, to the reunification of Japan in the late sixteenth century. One major topic is the mythology or and historical evidence for early state formation, including the role that Japan's long "unbroken" history plays in modern debates about national identity, xenophobia, and relations with regional neighbors. Another focus is the emergence of women's literature.

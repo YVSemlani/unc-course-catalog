@@ -1,3 +1,0 @@
-# AMST 340: American Indian Art and Material Culture through Interdisciplinary Perspectives
-
-Analyzes material culture created by Native artists throughout the United States and portions of Canada. Examines the role of art and artists and how material culture is studied and displayed. Students study objects, texts, and images, exploring mediums such as painting, sculpture, basket making, beadwork, and photography.

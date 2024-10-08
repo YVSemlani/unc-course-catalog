@@ -1,3 +1,0 @@
-# HIST 263: Gender and Religion in Premodern Europe
-
-This course examines gender in the religious lives of premodern Europeans from 500-1700, both in daily life (marriage, sexuality, devotions) and among the religious elite (clergy, monks and nuns, mystics). Feminist history, masculinity studies, and sexuality studies will all be taught as historical methods, paired with primary source documents from medieval Christians. Honors version available.

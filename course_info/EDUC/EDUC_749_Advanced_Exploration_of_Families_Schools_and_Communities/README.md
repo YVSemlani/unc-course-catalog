@@ -1,3 +1,0 @@
-# EDUC 749: Advanced Exploration of Families, Schools and Communities
-
-Admission into the M.A.T. program required. This advanced course examines strategies for effective communication and collaboration with families, professional team members, and school resources. Topics will include a return to contextual issues and reflection on initial preparation experiences. This course is one-half of the capstone module of the MAT program of study.

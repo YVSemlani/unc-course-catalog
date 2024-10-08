@@ -1,3 +1,0 @@
-# EDUC 230: Thriving After the First Year: Accessing High Impact Opportunities
-
-The course is designed primarily to help students identify and access meaningful HIPs aligned with their individual values, needs, and goals. Students will be guided to ask critical and reflexive questions that will help them describe and link their unique purpose at the university with their potential contributions to the world. The course includes substantive content on student belonging and student engagement. Not open to first-year students.

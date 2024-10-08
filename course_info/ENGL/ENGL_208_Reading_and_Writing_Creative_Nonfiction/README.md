@@ -1,3 +1,0 @@
-# ENGL 208: Reading and Writing Creative Nonfiction
-
-An intermediate-level workshop in creative nonfiction that focuses on a particular sub-genre, such as memoir, travel writing, food writing, or nature writing. Students will workshop and revise their own original compositions as well. This course can be repeated under a different professor or sub-genre. This course serves as a prerequisite for other courses in the nonfiction sequence of the creative writing concentration and minor.

@@ -1,3 +1,0 @@
-# BMME 524: Biomolecular Sensing Technologies
-
-This course introduces the science and technology of biomolecular sensing technologies, the essence of biosensors, and biochemical and immunological in vitro/in vivo diagnostic devices. The focus of the class is biomolecules (enzymes, antibodies, binding proteins, receptors, aptamers, molecularly imprinted polymers, etc.), bioelectronics and biochemical principles employed in biosensor development. Majors only.

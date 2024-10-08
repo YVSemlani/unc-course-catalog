@@ -1,3 +1,0 @@
-# IDST 180: First-Generation College Students in Higher Education
-
-First-generation college students will have the opportunity to explore their first-generation identity and start to define what it means for them to be a scholar and citizen leader. The course will introduce scholars to educational research on the first-generation college student experience and allow scholars the opportunity to reflect on their own experience and salient identities in the college environment. Education equity and diversity in higher education will be addressed through course readings and activities.

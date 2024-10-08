@@ -1,3 +1,0 @@
-# HPM 830: Translational Health Disparities: Research, Practice & Policy
-
-This course will focus on the concepts, principles, methods, and applications of health disparities science, practice, and policy. It will integrate principles and practice of community engagement. Experts from diverse disciplines will give lectures on health disparities research, practice, and policy. Student teams will work on real life case studies.

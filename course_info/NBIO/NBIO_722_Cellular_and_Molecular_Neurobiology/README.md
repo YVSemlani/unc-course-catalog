@@ -1,3 +1,0 @@
-# NBIO 722: Cellular and Molecular Neurobiology
-
-Introduces topics including brain cell biology, molecular biology applied to neurons, membrane potentials and imaging methods. The second block introduces such topics as resistance, capacitance, passive membranes, classes of ion channels, potassium and calcium channels, and action potential initiation. Final blocks, focus on neurotransmitter release and signaling through distinct receptor subclasses. Topics include G-protein coupled receptors and associated signaling, receptor binding/ligand theory, ionotropic and metabotropic glutamate and GABA receptors, receptor trafficking and localization. Permission of the department.

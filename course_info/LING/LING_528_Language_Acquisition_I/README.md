@@ -1,3 +1,0 @@
-# LING 528: Language Acquisition I
-
-Permission of the instructor for undergraduates. One course in phonology or syntax recommended. Child language from a theoretical perspective. Topics include segmentation problems, acquisition of phonology, morphology and syntax, lexical acquisition, and language development in blind and deaf children and in bilinguals. Students may not receive credit for both LING 203 and LING 528.

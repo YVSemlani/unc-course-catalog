@@ -1,3 +1,0 @@
-# SWAH 112: Intensive Kiswahili 1-2
-
-SWAH 112 covers two elementary courses: SWAH 401 - Elementary Kiswahili I and SWAH 402 - Elementary Kiswahili II. Whereas the course has a special place for structural aspects of the language, emphasis is particularly placed on the four language skills namely, speaking, writing, reading, and listening. Students cover a wide range of social, economic and political issues in East Africa.

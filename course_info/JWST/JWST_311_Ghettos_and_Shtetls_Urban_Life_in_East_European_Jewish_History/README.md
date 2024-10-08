@@ -1,3 +1,0 @@
-# JWST 311: Ghettos and Shtetls? Urban Life in East European Jewish History
-
-The migration of Jewish populations from small towns to large cities in Eastern Europe altered notions of Jewish community, space, cultures, and identities. This course will explore the roles of ghetto and shtetl in both history and memory of the Jewish past, drawing on memoirs, literature, film, and photography. Honors version available.

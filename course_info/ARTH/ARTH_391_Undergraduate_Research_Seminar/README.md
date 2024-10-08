@@ -1,3 +1,0 @@
-# ARTH 391: Undergraduate Research Seminar
-
-This is the capstone course for art history majors. Required preparation, art history major and junior standing or permission of the instructor. The field and theme of the course change according to the instructor's area of expertise. The seminar introduces students to research in art history and involves an original research project culminating in a substantial research paper.

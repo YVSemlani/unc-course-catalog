@@ -1,3 +1,0 @@
-# AAAD 391: Human Development and Sustainability in Africa and the African Diaspora
-
-A critical introduction to the study of development and sustainability as interlinked approaches to understanding contemporary challenges in Africa and the African diaspora. Development is a concept with multiple meanings and contextual incarnations. The course emphasizes thinking of development as a field of expertise and intervention and as a modality of change, that goes beyond economistic understandings of development as simply economic growth.

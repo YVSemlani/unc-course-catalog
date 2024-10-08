@@ -1,3 +1,0 @@
-# EDUC 418: Ethics of Care for the Hospitalized Child and Family
-
-The course introduces learners to issues related to pediatric care during hospitalization and illness in childhood and adolescence. It provides an overview of the multiple roles that health professionals, families, and child life specialists play in providing support for recovery and bereavement. Additionally, it explores the developmental and psychological needs of hospitalized children, their families, and those who provide services to children. The course will also examine the ethics of care for child life specialists.

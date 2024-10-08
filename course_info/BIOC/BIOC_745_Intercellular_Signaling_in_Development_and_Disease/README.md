@@ -1,3 +1,0 @@
-# BIOC 745: Intercellular Signaling in Development and Disease
-
-This graduate-level course concentrates on up-to-date views of intercellular signal processing, with emphasis on signal transduction mechanisms as they relate to cellular/physiological responses in both normal development and disease. Signaling mechanisms that will be discussed include autocrine, paracrine, juxtacrine signaling and cell-matrix interactions.

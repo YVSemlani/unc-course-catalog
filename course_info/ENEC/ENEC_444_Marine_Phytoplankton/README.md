@@ -1,3 +1,0 @@
-# ENEC 444: Marine Phytoplankton
-
-For junior and senior science majors or graduate students. Biology of marine photosynthetic protists and cyanobacteria. Phytoplankton evolution, biodiversity, structure, function, biogeochemical cycles and genomics. Harmful algal blooms, commercial products, and climate change. Three lecture/practical session hours per week. Course previously offered as MASC 444. Permission of the instructor.

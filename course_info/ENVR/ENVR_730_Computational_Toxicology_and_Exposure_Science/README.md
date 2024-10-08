@@ -1,3 +1,0 @@
-# ENVR 730: Computational Toxicology and Exposure Science
-
-This course provides an introduction to the field of computational toxicology and exposure science. Students will be equipped to understand databases and tools that can more efficiently evaluate chemical-biological and chemical-disease relationships. Students will be expected to use excel and R/Rstudio, and run script that is provided by the instructor as a gentle 'welcome' to the coding environment. The course is designed for students in public health, toxicology, exposure science, epidemiology, and related disciplines.

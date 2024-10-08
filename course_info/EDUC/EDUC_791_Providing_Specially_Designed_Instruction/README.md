@@ -1,3 +1,0 @@
-# EDUC 791: Providing Specially Designed Instruction
-
-This course includes instruction in developing and implementing Tier 3 interventions and providing specially designed instruction to meet the needs of students with Individualized Education Programs (IEPs). The course builds on information presented in methods classes. In this course, students further learn to plan for and provide more intensive interventions based on data provided through multiple forms of assessment. Admission to the MAT sequence for special education required.

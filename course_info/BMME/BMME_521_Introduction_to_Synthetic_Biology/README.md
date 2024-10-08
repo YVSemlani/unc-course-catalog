@@ -1,3 +1,0 @@
-# BMME 521: Introduction to Synthetic Biology
-
-This course provides an introduction to the ideas and methodologies in the field of synthetic biology. Lectures focus on fundamental concepts in molecular biology and engineering as applied to biological system design. The laboratory portion of the course provides hands-on application of fundamental techniques in synthetic biology research. Previously offered as BMME 420. Majors only.

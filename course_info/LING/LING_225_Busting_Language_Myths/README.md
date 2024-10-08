@@ -1,3 +1,0 @@
-# LING 225: Busting Language Myths
-
-"Women talk more than men! Texting means the end of literacy! The language you speak limits the thoughts you can think!" We often hear claims like these, but are they true? And what kind of information would show us the answer? This course examines current debates about language while developing skills in reading and interpreting research results, media reports, basic statistics, and data graphics.

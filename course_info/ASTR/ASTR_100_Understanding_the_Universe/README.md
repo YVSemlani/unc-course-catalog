@@ -1,3 +1,0 @@
-# ASTR 100: Understanding the Universe
-
-Learn how astronomers study and understand the cosmos. Topics include motions of the Sun, Moon, and planets; planetary surfaces, interiors, and atmospheres; telescopes and spectroscopy; prospects for detecting and visiting life elsewhere; how stars are born, age, and die; black holes, dark matter, and gravitational radiation; the Milky Way Galaxy and galaxies beyond; the birth and fate of the expanding Universe. Optional laboratory: ASTR 100L. Optional field experience: ASTR 111.

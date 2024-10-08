@@ -1,3 +1,0 @@
-# ENVR 635: Energy Modeling for Environment and Public Health
-
-Recommended preparation, MATH 231. This course will equip students with an overview of contemporary issues in energy modeling and energy systems analysis, with a focus on environmental and public health impacts of energy systems. Students will gain exposure to a variety of research methodologies, analytical tools, and applications of energy modeling applied to environmental and public health related problems such as climate change, air pollution, and water footprints of energy systems.

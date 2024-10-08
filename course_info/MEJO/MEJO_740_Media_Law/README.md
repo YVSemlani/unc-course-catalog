@@ -1,3 +1,0 @@
-# MEJO 740: Media Law
-
-Survey media law areas: First Amendment, libel, privacy, intellectual property, corporate and commercial speech, media and judiciary, confidential sources, freedom of information, electronic and new media regulation, international issues. Semester topics may vary with class interests. Conduct legal research, identify/analyze secondary and primary legal resources, produce original graduate-level legal research.

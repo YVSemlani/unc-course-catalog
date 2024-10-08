@@ -1,3 +1,0 @@
-# IDST 118: Triple-I: Fake News, Real Science
-
-How can you distinguish "good" science and "bad" science in the world around you? This course focuses on scientific literacy, the defining characteristics of "good" science, and how to identify logical fallacies and heuristic shortcuts that make legitimate science difficult to discern. We will discuss best practices for science educators and journalists to effectively communicate accurate scientific knowledge. Each semester we will focus on two relevant science issues, e.g COVID-19 and climate change.

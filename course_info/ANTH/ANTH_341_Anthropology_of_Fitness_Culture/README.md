@@ -1,3 +1,0 @@
-# ANTH 341: Anthropology of Fitness Culture
-
-This course examines the global rise of fitness culture and its relationship to health, social change, inequalities, gender, and globalization through a selection of anthropological and sociological texts. This course also has a methods component: students will acquire qualitative research skills including participant observation and interviewing through designing and carrying out their own ethnographic study in a local fitness space.

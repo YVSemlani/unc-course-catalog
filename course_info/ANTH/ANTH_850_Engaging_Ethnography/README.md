@@ -1,3 +1,0 @@
-# ANTH 850: Engaging Ethnography
-
-What is engaged ethnography? We often speak of engaged research, but what does it look like on the ground? How is it represented through textual narrative? And what difference does it make in the "real" world? In this seminar students "engage" these questions in an examination of ethnographies produced by politically- and community-engaged researchers, exploring how methodologies, epistemologies, and the products of research are transformed by various forms of engagement.

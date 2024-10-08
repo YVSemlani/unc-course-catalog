@@ -1,3 +1,0 @@
-# COMM 600: Screenwriting: The Re-Write
-
-This course is designed to take the completed feature screenplay written in COMM 537 and prepare the re-written final draft for production companies and agencies. It will begin with a complete structural review, character analysis, and dialog polish. A logline, synopsis and one sheet shall be developed. Critical analysis will be given, received, and addressed, resulting in a final screenplay package that is prepared to be submitted to professionals. Students must be in WSS program.

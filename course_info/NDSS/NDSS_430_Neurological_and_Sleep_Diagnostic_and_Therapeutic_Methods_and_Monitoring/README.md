@@ -1,3 +1,0 @@
-# NDSS 430: Neurological and Sleep Diagnostic and Therapeutic Methods, and Monitoring
-
-Students will learn about services available at sleep and neurophysiology laboratories and interpretation of diagnostic findings. Topics include sleep procedures, electroencephalography, and long-term epilepsy monitoring. Students participate in laboratory practice sessions. Restricted to NDSS Majors, Advanced undergraduates (instructor permission required).

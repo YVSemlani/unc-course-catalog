@@ -1,3 +1,0 @@
-# GLBL 221: The Migratory Experience
-
-The course will critically analyze the migrant experience in both North America and Europe. Migration is a calculated decision that individuals, families, and groups make in an effort to improve their living conditions. We will adopt an interdisciplinary approach to understanding the motivation of migrants, the nature of the migrant journey to their destination states, and their integration into their new societies.

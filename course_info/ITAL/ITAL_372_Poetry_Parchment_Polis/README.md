@@ -1,3 +1,0 @@
-# ITAL 372: Poetry, Parchment, Polis
-
-Explores the 13th c. origins of Italian-language literature from linguistic, historical, cultural, and material perspectives. Topics include courtly love, poetic rivalries, Sicilian and Tuscan lyric, religious and political poetry, comedy and satire, multiethnic Sicily, the legendary rulers Federico II and Genghis Khan, paleography, and manuscript culture. In Italian.

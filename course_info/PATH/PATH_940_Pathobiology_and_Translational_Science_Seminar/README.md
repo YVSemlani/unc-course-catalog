@@ -1,3 +1,0 @@
-# PATH 940: Pathobiology and Translational Science Seminar
-
-A series of scientific seminars by graduate students, Post-doctoral Fellows, research faculty, and others in the Department of Pathology and Laboratory Medicine. Students will develop the skills necessary to deliver an effective and engaging oral scientific presentation of their research. They will become proficient in understanding the pathogenesis of the wide range of diseases being studied in the department, and the methodologies employed to determine the pathogenesis of those diseases.

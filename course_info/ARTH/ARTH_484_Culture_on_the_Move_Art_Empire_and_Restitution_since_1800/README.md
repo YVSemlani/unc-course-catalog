@@ -1,3 +1,0 @@
-# ARTH 484: Culture on the Move: Art, Empire, and Restitution since 1800
-
-This discussion-based course examines the systems of value that confer special status on the broad category of cultural property, then explores a number of case studies of art theft and restitution since the early 19th century, with an emphasis on art theft during World War II and that undertaken under the aegis of European colonialism.

@@ -1,3 +1,0 @@
-# FREN 356: Littérature et philosophie
-
-What is the philosophical novel? Fiction written by a philosopher? A philosophical book in disguise? A fun story that explores serious ideas? From eighteenth-century radical philosophy, the great social changes of the nineteenth century, to the existentialist and feminist literature of the twentieth century, we will read texts by Denis Diderot, Madame de Staël, Jean-Paul Sartre, and others.

@@ -1,3 +1,0 @@
-# ENVR 205: Engineering Tools for Environmental Problem Solving
-
-Introduction to mass, energy, and momentum transport applied to environmental problem solving. Students ask and answer policy-oriented questions (define systems, document assumptions, explain the value and limitations of quantitative answers). They will apply these tools to the design of engineered solutions and characterization of natural and perturbed systems.

@@ -1,3 +1,0 @@
-# DHYG 393: Dental Hygiene Specialty Practicum
-
-This course is a culmination of in-depth study in dental hygiene. Through lectures and a series of specialized laboratory, clinical, pediatric dentistry, geriatric dentistry, hospital and/or community dental experiences at selected on and off-campus training sites, the expanding role of the dental hygienist in health care delivery systems is emphasized.

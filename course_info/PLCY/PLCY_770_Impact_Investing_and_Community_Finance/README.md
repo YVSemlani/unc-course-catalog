@@ -1,3 +1,0 @@
-# PLCY 770: Impact Investing and Community Finance
-
-Provides a detailed introduction to impact investing, which is a high potential approach to long-term social and financial value creation and a tool for communities to leverage previous public resources to acquire private and philanthropic investments. Addresses the complex dynamics between investors and social ventures, challenges around defining and measuring social impact, and the conflict between financial and social return. Students will learn how philanthropy and private investment can augment public investment.

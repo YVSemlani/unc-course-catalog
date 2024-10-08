@@ -1,3 +1,0 @@
-# EXSS 479: Performance Enhancement Specialization for Health Professionals
-
-This course is designed for certified athletic trainers (ATC) and gives them advanced rehab and performance skills that can be used during an athlete's return to sport progression. Students will learn to assess movement quality and performance, lead an individual through common strength and conditioning exercises, and write a basic performance plan based on NASM strategies. This class, in-part, prepares students for the NASM performance enhancement specialist (PES) certification.

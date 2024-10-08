@@ -1,3 +1,0 @@
-# ENGL 117: Arguing on the Internet: Rhetoric in the Age of Social Media
-
-In this course, students will draw on classical rhetoric--the ancient art of persuasion--to analyze how people argue today, in online contexts. We will use rhetoric to examine the strategies internet trolls use, what makes a post go viral, and whether online arguments can actually change people's minds. We will also develop our own arguments in oral, written and digital formats.

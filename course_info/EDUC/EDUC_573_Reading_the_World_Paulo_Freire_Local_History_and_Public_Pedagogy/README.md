@@ -1,3 +1,0 @@
-# EDUC 573: Reading the World: Paulo Freire, Local History, and Public Pedagogy
-
-This course is a thought experiment examining current and historical controversies in the areas within which we live. Using the lens of Public Pedagogy defined as the pedagogy in which all humans are immersed in which is not without politics and message. The world as constructed as created by humans is charged with messages subtle and overt that shape our experience and point of view.

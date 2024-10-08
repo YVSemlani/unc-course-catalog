@@ -1,3 +1,0 @@
-# PLAN 727: COMMUNITY ENGAGEMENT
-
-This course covers the conceptual foundation of public participation and community engagement, the processes and institutions involved in urban planning and design decision- making, and professional skills necessary to conceptualize and implement high-quality community engagement activities. It is a hands-on, skill-building course with a focus on project design and inclusive presentation.

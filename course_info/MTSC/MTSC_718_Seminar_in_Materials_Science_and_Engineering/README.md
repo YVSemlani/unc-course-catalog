@@ -1,3 +1,0 @@
-# MTSC 718: Seminar in Materials Science and Engineering
-
-The Seminar in Materials Science and Engineering is a required 1-credit course for all Materials Science students in fall and spring semesters of years 2-5 of their doctoral program. The course tracks attendance at the required APS departmental seminars. Attending departmental seminars is an important component of training for MTSC doctoral students. Engaging in the seminars will help students gain a working knowledge of a variety of research areas important to their doctoral research.

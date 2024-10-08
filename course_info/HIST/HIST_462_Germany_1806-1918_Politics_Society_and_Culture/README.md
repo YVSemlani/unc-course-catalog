@@ -1,3 +1,0 @@
-# HIST 462: Germany, 1806-1918: Politics, Society, and Culture
-
-This course examines the changes in German politics, culture, and society during the long 19th century, with a focus on the Anti-Napoleonic Wars and the following era of restoration, the Vormärz and the Democratic Revolution of 1848 to 1849, the German Unification of 1871 and the Wilhelmine Empire, and finally World War I. Honors version available.

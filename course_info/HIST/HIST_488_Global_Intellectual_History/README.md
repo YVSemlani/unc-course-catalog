@@ -1,3 +1,0 @@
-# HIST 488: Global Intellectual History
-
-This seminar studies the circulation, exchange, translation, reception, and adaptation of political, social, and cultural ideas across time and space. After considering systems of knowledge in Asia, Africa, and the Americas, the seminar explores reactions to European empire. Themes include (de)coloniality, modernity, development, conceptions of nationality, race, and civilizations. Honors version available.

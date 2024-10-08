@@ -1,3 +1,0 @@
-# INLS 751: Data Governance and Curation
-
-This course explores best practices, standards, new tools, and workflows for the full range of data lifecycle activities including: FAIR data; the ethics of data collection, analysis, and storage; data sharing and reuse for the academic, government, and business sectors; key data curation standards; data quality; document and content management; data maturity models; and organizational change management. The second half of the class focuses on data governance.

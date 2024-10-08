@@ -1,3 +1,0 @@
-# CLAR 210: The Archaeology of Warfare in the Ancient World
-
-This course will examine the methods used by archaeologists to study the material and visual sources for the context, meaning, and representation of violence and warfare in ancient Greece, Rome, Egypt and Western Asia. We will consider the material traces of the human history of violence and conflict by examining cultural practices associated with warfare, political and religious violence, and commemoration of conflict in the ancient past.

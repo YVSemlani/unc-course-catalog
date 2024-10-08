@@ -1,3 +1,0 @@
-# PLAN 647: Coastal Management Policy
-
-This course is an introduction to coastal management with a particular focus on managing the risks from natural hazards and climate change. It is designed for undergraduate juniors and seniors and graduate students. The focus of this class is on understanding the challenges that coastal communities face, how coasts are currently managed, and different strategies for responding in a rapidly changing world. Previously offered as PLAN 747. Juniors, Seniors, and Graduate students only.

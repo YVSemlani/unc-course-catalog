@@ -1,3 +1,0 @@
-# MHCH 785: Decolonizing MCH: Theory and Qualitative Methods
-
-This graduate seminar provides Maternal and Child Health (MCH) students with an opportunity to examine key theories and qualitative methodologies that advance anti-racist, abolitionist, intersectional feminist, and emancipatory scholarship for health equity and reproductive justice. Students gain a deeper understanding of the intellectual foundations of research justice. And learn to design research questions, data collection strategies, and analytic techniques that decolonize knowledge production. Preference given to students enrolled in the MCH department or MCFH concentration.

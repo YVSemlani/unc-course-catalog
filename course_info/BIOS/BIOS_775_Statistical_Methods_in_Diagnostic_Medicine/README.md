@@ -1,3 +1,0 @@
-# BIOS 775: Statistical Methods in Diagnostic Medicine
-
-Statistical concepts and techniques for evaluating medical diagnostic tests and biomarkers for detecting disease. Measures for quantifying test accuracy. Statistical procedures for estimating and comparing these quantities, including regression modeling. Real data will be used to illustrate the methods. Developments in recent literature will be covered.

@@ -1,3 +1,0 @@
-# ITAL 734: Petrarch's Many Tongues
-
-Petrarch's vernacular lyric has famously been called "monolinguistic" for its unity of style and lexicon, yet his Latin works show surprising aesthetic experimentation in mordant satire and classically-inspired invective. This course examines works in both tongues as essential to his authorial persona. Based on the wealth of manuscript evidence documenting Petrarch's reading and writing processes, we will observe and analyze his literary self-fashioning.

@@ -1,3 +1,0 @@
-# INLS 778: Research Methods and Proposal Development
-
-During this course each student will prepare a proposal for the work to be completed during the following semester for their masters paper/project (INLS 992). Students will also receive an introduction to research methods used in information and library science, exploring the design, interpretation, analysis and application of published research.

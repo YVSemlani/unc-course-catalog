@@ -1,3 +1,0 @@
-# HIST 349: Comparative Empires in the Modern World
-
-This course will examine the history of how empires uses grand claims of civilizational, moral, and religious claims in their foreign policy and grand strategy with a focus on the British, Ottoman, and Japanese imperial strategies. The course will also discuss contemporary legacies of British-Ottoman confrontation in WWI and British-Japanese conflict in WWII.

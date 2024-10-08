@@ -1,3 +1,0 @@
-# MEJO 487: Intermediate Interactive Media
-
-Web programming, graphic design, and storytelling for the Web. Students will use HTML5 CSS3, JavaScript, and other Web publishing languages while learning how to design, storyboard, and script an interactive storytelling project. Students will collect and incorporate photos, text, video, graphics, and database information into interactive multimedia presentations. Previously offered as MEJO 586.

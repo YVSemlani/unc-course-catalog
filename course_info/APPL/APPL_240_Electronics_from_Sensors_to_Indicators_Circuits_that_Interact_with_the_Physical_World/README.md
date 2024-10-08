@@ -1,3 +1,0 @@
-# APPL 240: Electronics from Sensors to Indicators: Circuits that Interact with the Physical World
-
-Engineers develop systems that interact with the physical world by taking measurements from sensors and activating indicators. To interface with these sensors and indicators, you need electrical circuits! In this class, you will learn the basics of circuit design and analysis to make measurements, such force, temperature, pH and heart rate, and acquire these signals to a computer. You will complete your measurement system by developing circuits to activate LEDs, motors, and other indicators.

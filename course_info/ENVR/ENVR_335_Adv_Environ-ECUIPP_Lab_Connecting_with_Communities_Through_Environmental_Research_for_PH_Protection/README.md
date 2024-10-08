@@ -1,3 +1,0 @@
-# ENVR 335: Adv Environ-ECUIPP Lab: Connecting with Communities Through Environmental Research for PH Protection
-
-Students join the Environment-ECUIPP Lab to research pressing environmental health issues with local communities. The ECUIPP Lab (Environmentally-Engaged Communities and Undergraduate students Investigating for Public health Protection), organized by the Gillings School of Global Public Health, Department of Environmental Science and Engineering, is a creative learning community of students, faculty members and practice partners. Students in the Advanced ECUIPP lab continue to develop research skills focusing on data analysis, data visualization and risk communication.

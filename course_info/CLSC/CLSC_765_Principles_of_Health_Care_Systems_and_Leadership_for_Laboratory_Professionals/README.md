@@ -1,3 +1,0 @@
-# CLSC 765: Principles of Health Care Systems and Leadership for Laboratory Professionals
-
-This course provides a foundation in the health care system, public health, and leadership aspects for clinical laboratory professionals. Major topic areas addressed include: the history of the healthcare system and its organization, the financing of the healthcare system and its costs, the healthcare workforce, the core functions of public health, social determinants of health, and leadership within the healthcare arena. Majors only.

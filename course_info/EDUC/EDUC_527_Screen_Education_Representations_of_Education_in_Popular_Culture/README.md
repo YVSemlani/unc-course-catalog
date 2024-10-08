@@ -1,3 +1,0 @@
-# EDUC 527: Screen Education: Representations of Education in Popular Culture
-
-Explore and analyze how education has been represented in popular culture. "Education" refers to teachers, students, principals, other educators, and the everyday processes of schooling, and "popular culture" refers to school films (fictional films), school documentaries, television shows, music videos and song lyrics, animation, and other media forms.

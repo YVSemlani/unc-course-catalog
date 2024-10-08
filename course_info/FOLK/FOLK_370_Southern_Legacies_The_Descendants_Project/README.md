@@ -1,3 +1,0 @@
-# FOLK 370: Southern Legacies: The Descendants Project
-
-In this Course-based Undergraduate Research Experience (CURE) class, students will explore the legacy of racial terrorism in North Carolina. Students will search archival sources to discover the family histories of lynching victims, tracing those families to the present, interviewing their descendants, and working with communities to build public awareness of - and perhaps public memorials to - the victims of racial violence.

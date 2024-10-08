@@ -1,3 +1,0 @@
-# RELI 620: Feminism and Religion
-
-This course introduces students to the rich and multi-faceted debates within and about feminism and religion. Through the cultivation of careful and critical reading practice of primary texts by religious feminists and their secular critics, the course enables students to recognize the patterns and arguments of historical and contemporary debates within and across religious traditions and communities, while continuously tracing the ethical commitments and underlying values of feminist scholars and activists.

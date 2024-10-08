@@ -1,3 +1,0 @@
-# NUTR 880: Elements of Being a Scientist
-
-Permission of the instructor. For doctoral students prepared with Ph.D. aims/focus. Focuses on key elements that contribute to a successful career as a scientific researcher. These include scientific presentations, NIH proposal grant writing, evaluating published manuscripts, sources of funding, peer review, use of animals and humans in research, and scientific ethics.

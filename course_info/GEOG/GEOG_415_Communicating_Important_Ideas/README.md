@@ -1,3 +1,0 @@
-# GEOG 415: Communicating Important Ideas
-
-This hands-on course will set you on a path towards making a positive difference in the world through effective communication of ideas that are important to you. Emphasis will be on practical skills in listening, clarifying your message, having a narrative focus, creating effective graphics, giving engaging oral and poster presentations, social media use, communication with journalists, operating in the judicial and political arenas, and community outreach and public talks.

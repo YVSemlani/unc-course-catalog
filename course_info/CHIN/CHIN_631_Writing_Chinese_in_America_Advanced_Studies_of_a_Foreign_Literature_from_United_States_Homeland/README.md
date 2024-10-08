@@ -1,3 +1,0 @@
-# CHIN 631: Writing Chinese (in) America: Advanced Studies of a Foreign Literature from United States Homeland
-
-Recommended preparation, at least one advanced Chinese language course above the CHIN 408 or CHIN 313 level. Encompasses a century of literary writings on the experiences of Chinese in the United States. The select works are written for Chinese communities worldwide, hence "writing Chinese in America," while they reflect upon the formation of Chinese American identity, therefore "writing Chinese America."

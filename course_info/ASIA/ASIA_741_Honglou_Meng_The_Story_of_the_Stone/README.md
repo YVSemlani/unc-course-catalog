@@ -1,3 +1,0 @@
-# ASIA 741: Honglou Meng: The Story of the Stone
-
-This course focuses on the most celebrated novel titled Honglou Meng or The Story of the Stone by Cao Xueqin (1715-1763). This 120-chapter-long novel tells the downfall of a great aristocratic family that is presented as a microcosm of traditional Chinese societies. The novel features all aspects of traditional Chinese cultures including architecture and garden, education, families and interfamilial connections, generational relationships, genders, history, marriages, mythology, philosophies, poetry, etc.

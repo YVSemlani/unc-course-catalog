@@ -1,3 +1,0 @@
-# ARTS 306: Loving Your Local Art Scene
-
-This course takes students on a tour of Chapel Hill, Carrboro, Durham, and Raleigh's grassroots visual arts scenes, exploring everything from commercial galleries to artist-run non-profits to craft fairs to artists' studios. We will use our local arts scene as a case study to map out how art worlds function. Students' final assignment is to contribute to an ongoing digital web-based - an interactive local arts map. This class is especially beneficial for student artists.

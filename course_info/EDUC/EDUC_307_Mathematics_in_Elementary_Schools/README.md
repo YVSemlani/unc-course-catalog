@@ -1,3 +1,0 @@
-# EDUC 307: Mathematics in Elementary Schools
-
-The course will focus on learning of selected topics in number and algebra via problem solving with attention to the quality of mathematical knowledge needed for teaching these topics in elementary and middle schools. Will discuss how students develop these ideas over time and the alignment to the sequencing of ideas in this course. Some of the kinds of knowledge that we expect you to develop include: Knowledge of the integrity of the discipline.

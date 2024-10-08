@@ -1,3 +1,0 @@
-# WGST 388: The International Politics of Sexual and Reproductive Health
-
-Permission of the instructor. Takes a feminist political economy perspective on debates over current health issues of international concern, including abortion, population control, and sexually transmitted infections. Focuses on the United States, Mexico, and Kenya, as well as on international organizations and social movements.

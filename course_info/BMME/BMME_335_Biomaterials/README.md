@@ -1,3 +1,0 @@
-# BMME 335: Biomaterials
-
-Focus on the mechanical, chemical, and biocompatibility considerations of any material (e.g., metal, ceramic, or polymer) designed to interface with the body. Various applications of biomaterials are presented and analyzed, including femoral implants and vascular grafts, in order to guide students in a semester-long design project. Previously offered as BMME 510. Majors only.

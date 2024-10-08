@@ -1,3 +1,0 @@
-# GERM 286: (Un)Welcomed Guests? German Reflections on Exile and Immigration
-
-This course introduces students to philosophical, literary, and film texts engaging with the ethics of migration. How might the writings by and depictions of refugees throughout German history resonate with the current crisis? The course includes a service learning component, so that students gain experience working with local refugees and are able to use their practical experience to reflect on the theoretical discussions in class. Readings and discussions in English.

@@ -1,3 +1,0 @@
-# GLBL 415: Dealing with Difference: Criminal Justice, Race, and Social Movements in Globalization
-
-Recommended preparation, GLBL 210. This course is dedicated to understanding how sameness and difference are used and contested globally, in particular through the criminal justice system and its intersection with race and capitalism. The course pays particular attention to popular social movement responses, and what they say to theories of difference, globalization, and social change.

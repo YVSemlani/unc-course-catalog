@@ -1,3 +1,0 @@
-# ARAB 434: Modern Arabic Literature in Translation
-
-We will study fiction from several countries in the Arab world with a particular emphasis on recent works. This literature has arisen out of the lived experiences of people in the Arab world, but each work creates a world of its own. What strategies do writers use for this world-making? What relationships might exist between these fictional worlds and their writing contexts? Who is addressed by these works? Previously offered as ARAB 334.

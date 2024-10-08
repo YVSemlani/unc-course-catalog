@@ -1,3 +1,0 @@
-# IDST 130: Triple-I: The Future of Food
-
-This course combines perspectives from science fiction studies, anthropology, public policy, and marine ecology to study the food we eat now and the food we might eat in the future. We will explore how our love of and need for food influences our social and political structures, trade and conflict among cultures, and our relationship with our planet. Using fiction, films, and research we will examine (future) food technologies, policies, sustainability, and eating practices.

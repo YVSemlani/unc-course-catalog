@@ -1,3 +1,0 @@
-# HPM 769: Cancer Outcomes Research Seminar
-
-The Cancer Outcomes Research Program (CORP) offers a weekly seminar for faculty, students, and fellows/trainees interested in multidisciplinary cancer outcomes research. Guest speakers' topics include Quality of Care, Patient-reported Outcomes (PROs), Comparative Effectiveness, Health Informatics, Cancer Disparities, Decision Making, Dissemination/Implementation, and Health Economics, as related to cancer outcomes.

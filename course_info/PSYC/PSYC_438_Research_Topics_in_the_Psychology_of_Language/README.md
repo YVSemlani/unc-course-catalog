@@ -1,3 +1,0 @@
-# PSYC 438: Research Topics in the Psychology of Language
-
-Examines the cognitive mechanisms behind language comprehension, focusing on how we make predictions about the speaker's meaning, based on context, background, gestures, and other cues. In this course-based undergraduate research experience (CURE), groups of students generate novel research questions, perform their own research experiments, and present the results in spoken and written format.

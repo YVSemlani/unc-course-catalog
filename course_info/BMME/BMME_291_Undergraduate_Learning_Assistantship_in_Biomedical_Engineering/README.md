@@ -1,3 +1,0 @@
-# BMME 291: Undergraduate Learning Assistantship in Biomedical Engineering
-
-Permission required. Experience includes preparations, demonstrations, assistance, and attendance at weekly meetings. This course will enable ULAs to deepen their understanding of topics in Biomedical Engineering through assisting less-experienced students. This course also offers opportunities for ULAs to engage in oral and written communication on Biomedical Engineering topics. Does not count toward the Biomedical Engineering Major. Majors only.

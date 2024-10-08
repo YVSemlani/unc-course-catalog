@@ -1,3 +1,0 @@
-# EDUC 470: Therapeutic Value of Play
-
-This course examines various theoretical models of play and development in clinical, health, and school settings. Students are taught basic skills to create therapeutic play environments and to respond to the intellectual, emotional, and social needs of children in schools, hospitals, and other therapeutic settings. HDFS majors or permission from the program coordinator.

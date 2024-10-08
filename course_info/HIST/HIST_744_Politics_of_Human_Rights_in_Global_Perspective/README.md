@@ -1,3 +1,0 @@
-# HIST 744: Politics of Human Rights in Global Perspective
-
-This seminar explores the politics of human rights by examining practices of rights-claiming since the early modern period. Taking a global perspective, it examines varying and contested modalities of agency in articulating rights in the name imagined group identities (nation, religion, or civilization), sex, the individual, and the human.

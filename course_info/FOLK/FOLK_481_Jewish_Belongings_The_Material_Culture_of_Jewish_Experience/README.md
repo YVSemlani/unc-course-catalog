@@ -1,3 +1,0 @@
-# FOLK 481: Jewish Belonging/s: The Material Culture of Jewish Experience
-
-What makes an object "Jewish"? This seminar examines how we think about, animate, repurpose, and display "Jewish" objects in the public realm, cultural institutions, religious spaces, and the home. We consider how makers and users negotiate objects' various meanings within the domains of prayer, performance, entertainment, and exhibition. The class curates a final group exhibition of Jewish material culture based on original fieldwork.

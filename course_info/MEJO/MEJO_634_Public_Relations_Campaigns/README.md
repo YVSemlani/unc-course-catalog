@@ -1,3 +1,0 @@
-# MEJO 634: Public Relations Campaigns
-
-In this capstone experience, students apply concepts and skills from earlier classes to develop a campaign plan for a client organization. Activities include conducting background and audience research; developing realistic objectives, strategies, tactics, and evaluation plans; producing a portfolio of supporting materials; and pitching the campaign to the client. Previously offered as MEJO 434. Honors version available.

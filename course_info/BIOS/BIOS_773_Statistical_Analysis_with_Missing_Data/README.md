@@ -1,3 +1,0 @@
-# BIOS 773: Statistical Analysis with Missing Data
-
-Fundamental concepts, including classifications of missing data, missing covariate and/or response data in linear models, generalized linear models, longitudinal data models, and survival models. Maximum likelihood methods, multiple imputation, fully Bayesian methods, and weighted estimating equations. Focus on biomedical sciences case studies. Software packages include WinBUGS, SAS, and R.

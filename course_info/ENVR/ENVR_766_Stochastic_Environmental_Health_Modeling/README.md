@@ -1,3 +1,0 @@
-# ENVR 766: Stochastic Environmental Health Modeling
-
-Required preparation, statistics. A holistic/stochastic perspective, spatiotemporal random field modeling of environmental exposure and biological variabilities. Uncertainty in environmental exposure. Biomarkers and population damage indicators for epidemiological analysis. Cell-based stochastic differential equations. Three lecture hours per week.

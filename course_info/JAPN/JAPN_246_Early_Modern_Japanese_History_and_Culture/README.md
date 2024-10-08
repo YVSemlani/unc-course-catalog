@@ -1,3 +1,0 @@
-# JAPN 246: Early Modern Japanese History and Culture
-
-From the 1603 establishment of the Tokugawa Shogunate to the Meiji Restoration of 1868, Japan was ruled by the Tokugawa family in an unusual early modern federation, with a balance of power between the warrior government in Edo and the domanial governments spread across the archipelago. This resemblance of this system to the U.S. balance between federal and state power frames our examination of the early modern period.

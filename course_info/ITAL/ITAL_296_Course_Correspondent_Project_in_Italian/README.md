@@ -1,3 +1,0 @@
-# ITAL 296: Course Correspondent Project in Italian
-
-Learning contract required. Students participating in UNC-led study abroad programs develop activities to supplement instruction in on-campus courses. Supervised by the on-campus instructor, students file reports on the sites, language, and culture of the country in which they are studying. Pass/Fail only. Permission of the instructor and the instructor's department.

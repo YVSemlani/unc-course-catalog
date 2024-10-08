@@ -1,3 +1,0 @@
-# NSCI 278: Molecular Brain Imaging Lab
-
-Students will design novel experiments to examine and visualize sex differences in the nervous system. Students will learn how to handle brain slices, neuroanatomy, microscopy, immunohistochemistry and imaging analysis techniques by studying neuronal diversity in the norepinephrine system of mice. Students will have the opportunity to develop and test hypotheses, write a research proposal, and present their work in poster form. Students may only receive credit for one: NSCI 274, 276, 277, 278 and 279. Majors only.

@@ -1,3 +1,0 @@
-# HBEH 763: Scale Development Methods
-
-The purpose of this course is to provide students with a foundational theoretical knowledge of psychological assessment and a skills-oriented understanding of common qualitative and quantitative analytical techniques for scale construction. A secondary course objective is to expose students to structural latent variable models and related advanced latent variable modeling techniques relevant to scale development. This course is intended for doctoral students. Previously offered as HBEH 852.

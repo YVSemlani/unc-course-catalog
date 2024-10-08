@@ -1,3 +1,0 @@
-# EPID 718: Analytic Methods in Observational Epidemiology
-
-This course provides an in-depth treatment of the analysis of data from observational epidemiologic studies, including both tabular and regression modeling approaches, and with an emphasis on the importance of study design in developing and executing an analysis plan. A major focus of the course is the semester-long, independent data analysis project in which students apply and integrate the concepts covered in class to a dataset and research question of their choosing.

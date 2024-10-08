@@ -1,3 +1,0 @@
-# MEJO 730: Management and Case Studies
-
-Introduction to strategic communication used by corporations, government agencies, and nonprofits to build and grow relationships with stakeholders. Students explore communication leadership skills by assessing goal-based research and critiquing strategic effectiveness of campaigns. Competency class for MA students; PhD students must have instructor permission. Students will also examine issues of client and audience management. Restricted to students in the Master of Arts in Media and Communication program.

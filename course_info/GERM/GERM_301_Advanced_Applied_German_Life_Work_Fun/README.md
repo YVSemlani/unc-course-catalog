@@ -1,3 +1,0 @@
-# GERM 301: Advanced Applied German: Life, Work, Fun
-
-Introduction to present-day German-speaking societies with an emphasis on practical contexts of everyday life (business, media, culture). The course initiates a sustained reflection on class, gender, race, and political economy and prepares students for studying and interning in German-speaking Europe. Further goals include improvement of pronunciation and the mastery of grammar.

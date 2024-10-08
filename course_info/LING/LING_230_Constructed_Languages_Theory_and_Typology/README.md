@@ -1,3 +1,0 @@
-# LING 230: Constructed Languages: Theory and Typology
-
-This course explores linguistic properties of constructed languages (conlangs). The course examines philosophical and creative motivations behind existing conlangs, and how their grammatical properties relate to those of natural languages. Students will explore and apply creative and analytical procedures used to create constructed language grammars.

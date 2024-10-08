@@ -1,3 +1,0 @@
-# EDUC 913: Language, Identity, and Power
-
-Language is involved in the construction of social identity and power structures. Students examine how individuals construct their identities and language interacts with other social groupings (class, ethnicity, and gender) and examines how language creates and maintains power for certain groups. Special attention to marginalized groups in the United States.

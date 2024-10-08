@@ -1,3 +1,0 @@
-# EMES 530: Tectonic Geomorphology
-
-Topography in actively deforming mountain ranges represents an interplay between tectonic processes that build and sustain elevation gradients, surface processes that are modulated by climate, and earth materials. This course provides an introduction to how these processes sculpt the topography of Earth's mountain ranges. Students will learn to read signatures of tectonic activity in the sediment efflux from active orogens, in the isotopic proxies of erosional denudation, and in the topography of actively deforming mountains.

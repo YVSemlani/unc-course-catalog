@@ -1,3 +1,0 @@
-# HBEH 730: Theoretical Foundations of Health Behavior
-
-This course will provide an overview of social and behavioral science theories and frameworks that are currently used to: 1) understand health related behaviors; and 2) guide development of interventions and policies designed to prevent, reduce or eliminate major public health problems. We will use an ecological framework to examine theories at multiple levels of the social ecology, focusing on applications that will impact health at the population level.

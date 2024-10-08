@@ -1,3 +1,0 @@
-# RUSS 280: Russian Villains, Western Screens: Ethno-Cultural Stereotypes on Page and Stage, in Movies and Minds
-
-A survey of fascinating history of Hollywood stereotypes of Russian villainy from Elizabethan England to Boris Badenov, Natasha Fatale, Ivan Drago, and Xenia Onnatop. What do these theatrical buffoons, cartoon-movie monsters, and cinematic seductresses tell us about Russia -- and about ourselves as consumers of stereotypes? Readings and discussions in English.

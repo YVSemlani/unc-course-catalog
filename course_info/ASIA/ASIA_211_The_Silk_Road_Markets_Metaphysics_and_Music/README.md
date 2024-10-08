@@ -1,3 +1,0 @@
-# ASIA 211: The Silk Road: Markets, Metaphysics, and Music
-
-This course examines interactions across the Eurasian continent between Russians, Chinese, Mongolian nomads, Arabs, and Europeans during the last millennium and a half as empires rose and religions, trade, and cultures flowed across this vast space. While we will treat the Silk Road as one entity, there were actually three distinct Silk Roads.

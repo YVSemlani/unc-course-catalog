@@ -1,3 +1,0 @@
-# ARTH 253: Art History in Motion: Looking, Hearing, Sensing
-
-This class investigates bringing awareness to the way we move and our sensorial experiences as vital complements to other methodological approaches to art historical interpretation. It does so through an examination of a variety of artworks in their historical contexts, different movement explorations, and analysis of interpretative methods. Attending both to art and ourselves in this way, we can question, challenge, and expand the ways in which we know the world. Honors version available.

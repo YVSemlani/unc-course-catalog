@@ -1,3 +1,0 @@
-# POLI 792: Research Seminar in Political Communication
-
-Participants consider the scientific literature and conduct innovative research. Topics focus on different media institutions' structure, political actors' communication strategies, and the ways that citizens engage with social, print, and electronic media. The aim is to better understand political news, public opinion, and the character of electoral democracy.

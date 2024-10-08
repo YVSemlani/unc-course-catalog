@@ -1,3 +1,0 @@
-# APPL 430: Optoelectronics from Materials to Devices
-
-At the intersection between electrical engineering, optics, and computer science, this course explores how optoelectronic materials can be turned into optoelectronic devices to build high performance optical instruments. The course features many hands-on activities that include electronics, with the study of sensors operating under low light and high noise conditions, custom optical system design, imaging and holography systems, as well as computational imaging techniques using MATLAB (basic programming experience in any language is sufficient).

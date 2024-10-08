@@ -1,3 +1,0 @@
-# COMM 340: The Social Life of Things
-
-This seminar-style class invites students to learn about the world through objects. What stories can "things" tell us about the culture, economy, and politics of the societies that produce and consume them? What can we learn about ourselves by studying objects and their histories? Through a range of case studies, students will learn about how the production, distribution, consumption, and disposal of things structures and animates the worlds we build and occupy.

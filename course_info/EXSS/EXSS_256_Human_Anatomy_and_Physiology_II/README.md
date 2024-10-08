@@ -1,3 +1,0 @@
-# EXSS 256: Human Anatomy and Physiology II
-
-This course is targeted to students enrolled in Department of Exercise and Sport Science majors as well as other students with interest in medical professions. This course involves a systematic approach to human anatomy and physiology with an emphasis on the metabolic, endocrine, digestive, cardiovascular, respiratory, renal, integumentary and immune systems.

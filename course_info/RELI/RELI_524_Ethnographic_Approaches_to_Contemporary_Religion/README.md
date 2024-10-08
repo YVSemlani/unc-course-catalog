@@ -1,3 +1,0 @@
-# RELI 524: Ethnographic Approaches to Contemporary Religion
-
-Critical exploration of exemplary contemporary ethnographies of religion focusing on the ways that ethnographic methods and writing styles shape knowledge of religious and cultural life in various traditions and parts of the world. Topics considered include field work, culture, ethics, and the challenges of interpreting and representing religious experience.

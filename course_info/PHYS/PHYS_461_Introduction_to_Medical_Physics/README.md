@@ -1,3 +1,0 @@
-# PHYS 461: Introduction to Medical Physics
-
-This class will introduce how physics principles and techniques have been applied to medical imaging and radiation therapy. Topics will include ionizing radiation and radiation safety, x-ray and computed tomography, ultrasound, magnetic resonance imaging, positron emission tomography, and radiation therapy. Topics such as the career path to become a medical physicist will also be discussed. The class will have lectures given by the instructor and guest lectures by experts and practitioners in this field.

@@ -1,3 +1,0 @@
-# MEJO 374: Communications Consulting
-
-This seminar is a rigorous, case-study approach designed to prepare juniors and seniors for a successful entry into the world of communications and public relations. This course has three areas of focus: 1) the agency as a professional services firm, 2) the client, and 3) the art of the win. Upon completion, students will be better positioned to succeed in an agency environment.

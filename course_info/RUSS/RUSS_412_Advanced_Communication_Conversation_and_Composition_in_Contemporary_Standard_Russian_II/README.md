@@ -1,3 +1,0 @@
-# RUSS 412: Advanced Communication, Conversation, and Composition in Contemporary Standard Russian II
-
-Prepares advanced learners of contemporary standard Russian for communication with educated native speakers of the language in the area of their professional competence. Furthers interactive skills for speaking, writing, listening, and reading in a variety of communicative situations pertaining to the learners' professional expertise.

@@ -1,3 +1,0 @@
-# ANTH 392: Professional Development and Career Exploration
-
-Someone will eventually ask you "What are you going to do with that?" when they find out what you're studying in college. This class is designed to help you figure out the answer to that question, not to satisfy their curiosity, but to develop a vision for your future that draws on your training. In this course, we'll explore your options and develop additional tools to make the most of your degree in anthropology.

@@ -1,3 +1,0 @@
-# PUBH 730: Leading Continuous Quality Improvement (CQI) in Public Health Locally And Globally
-
-Overview of continuous quality improvement (CQI) applications in public health in local and global settings including its important relationship to leadership and equity. Focus on practical skills and tools with sufficient theory to understand the origins of the philosophy and describe/analyze processes encompassed by CQI. For working public health practitioners with current or future management/leadership responsibilities driven by equity within their organizations and for individuals interested in applied CQI in their personal lives worldwide.

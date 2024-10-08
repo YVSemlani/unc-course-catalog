@@ -1,3 +1,0 @@
-# POLI 451: Race, Ethnicity, and Political Change in Comparative Perspective
-
-The course examines the interplay of race, ethnicity, political institutions, and political mobilization in modern state and nation-building. Through the use of broadly drawn international case studies, the politics of ethnicity and race is analyzed from the perspective of global processes of state building, colonialism and decolonization, and capitalist development as well from local development of ideology and political organizations.

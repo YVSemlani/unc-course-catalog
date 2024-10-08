@@ -1,3 +1,0 @@
-# POLI 885: Behavioral Economics and Experiments
-
-The purpose of this course is to provide students with an introduction to behavioral decision research and its applications. Behavioral decision research is intensely interdisciplinary, employing concepts and tools from economics, statistics, and other disciplines, as well as the core discipline of psychology. BDR has had an impact on the fields of medicine, law, military science, environmental sciences, and public policy.

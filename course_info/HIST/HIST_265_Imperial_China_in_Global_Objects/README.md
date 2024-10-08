@@ -1,3 +1,0 @@
-# HIST 265: Imperial China in Global Objects
-
-This course explores the culture and society of imperial China (pre-1912) through objects. Six kinds of objects - silk, wooden beams and brackets, precious stones, ships and stirrups, silver, and tea - will each form a module that introduces students first to key historical activities associated with the object and then to the diverse sociocultural, economic, and political spheres that they played important roles in.

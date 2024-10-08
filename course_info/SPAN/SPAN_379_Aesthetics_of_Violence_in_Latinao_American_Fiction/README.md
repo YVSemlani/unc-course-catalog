@@ -1,3 +1,0 @@
-# SPAN 379: Aesthetics of Violence in Latina/o American Fiction
-
-The course explores the aesthetics of violence in contemporary Latina/o American fiction, paying attention to historical memory, rewritings of history, and the formation of otherness and marginality. Selections from Junot Díaz, Graciela Limón, Daniel Alarcón, Santiago Roncagliolo, Horacio Castellanos Moya, Roberto Bolaño, and Orfa Alarcón, among others.

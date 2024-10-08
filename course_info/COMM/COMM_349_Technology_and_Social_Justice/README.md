@@ -1,3 +1,0 @@
-# COMM 349: Technology and Social Justice
-
-Technological systems permeate our lives. They facilitate communication, transportation, commerce, and governance. In order to actualize a more fair, just, and equitable society, it is essential that we hone an awareness of the "political" dimensions of technological systems and work toward the design of better ones. The goal of this course is to foster just such a critical technological literacy.

@@ -1,3 +1,0 @@
-# ARTH 380: Life and Art in Ancient Pompeii
-
-In this course we will explore the history and archaeology of Pompeii with the goal of better understanding daily life in the early Roman empire. The course proceeds topically, moving from an exploration of the city's public spaces to an analysis of more private domains--houses, gardens, and tombs. We will also consider evidence from ancient literature and epigraphy. Students may not receive credit for both CLAR 380 and CLAS 73.

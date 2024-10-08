@@ -1,3 +1,0 @@
-# ENEC 202: Introduction to the Environmental Sciences
-
-Examines fundamental processes governing the movement and transformation of material and energy in environmental systems. Focuses on the role of these processes in environmental phenomena and how society perturbs these processes. Integrates methods from a range of scientific disciplines. Three lecture hours and three computer laboratory hours a week.

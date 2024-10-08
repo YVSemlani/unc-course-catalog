@@ -1,3 +1,0 @@
-# CMPL 460: Transnational Romanticism: Romantic Movements in Europe and the Americas
-
-Research-intensive course that explores how the Romantic movement beginning in 18th-century Europe has shaped the world we experience now. Topics vary and include revolutionary republicanism; slavery and abolition; quests for originality, expressiveness, and spiritual renovation; critiques of progress and modern urban culture; and revaluations of the natural world.

@@ -1,3 +1,0 @@
-# CBPH 851: Modern Concepts in Cell Biology II
-
-Literature based discussion course on experimental approaches in Cell Biology. Emphasis is on small group discussion and dissection of primary literature including methods, scientific logic, and critical thinking. Each session typically includes both a discussion of key background by a faculty member and student led discussions of selected papers from the primary literature.

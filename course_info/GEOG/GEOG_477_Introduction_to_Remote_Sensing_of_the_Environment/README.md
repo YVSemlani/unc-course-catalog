@@ -1,3 +1,0 @@
-# GEOG 477: Introduction to Remote Sensing of the Environment
-
-Covers fundamental theory and mechanics of remote sensing, related theoretical aspects of radiation and the environment, and remote-sensing applications relating to terrestrial, atmospheric, and marine environments. Hands-on experience for application and information extraction from satellite-based imagery through biweekly laboratory assignments. Prepares students for GEOG 577. (GISc)

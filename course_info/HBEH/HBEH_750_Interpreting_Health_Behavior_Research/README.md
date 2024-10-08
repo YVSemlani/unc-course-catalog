@@ -1,3 +1,0 @@
-# HBEH 750: Interpreting Health Behavior Research
-
-This course reviews quantitative methods in health behavior research, focusing on validity of conclusions drawn from observational and evaluation studies. The goal is to help public health practitioners be savvy consumers of published research studies and to identify the strengths and weaknesses of planned programs. Permission of the instructor required for non-majors.

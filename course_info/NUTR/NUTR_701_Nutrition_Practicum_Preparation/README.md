@@ -1,3 +1,0 @@
-# NUTR 701: Nutrition Practicum Preparation
-
-This course provides support for the practicum process and trains students on how to ethically, meaningfully, and professionally engage and prepare for practicum placements. Students will learn how to work within their organization and their stakeholders through building skills in leadership and interprofessional practice. Additionally, students will sharpen their clinical skills in preparation for their hospital-based experience and include mandatory on-boarding requirements.

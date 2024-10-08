@@ -1,3 +1,0 @@
-# GERM 572: The Fourth Dimension: The German Netflix Series "Dark" and the Mystery of Time
-
-In this course we will follow the narrative of one of the most recent cinematic explorations of the topic of time - the German Netflix series "Dark" (2017-2020) - into the great depths of theories and imaginations of time. The discussion of the series will be accompanied and supported by an introduction to the philosophy of time.

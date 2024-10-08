@@ -1,3 +1,0 @@
-# APPL 435: Nanophotonics
-
-This course introduces the principles of nanophotonics - an emerging frontier at the nexus of nanotechnology and photonics that deals with light-matter interactions at the nanometer scale. The course will cover the theoretical foundations of nanoscale materials and optics, fabrication and characterization of optical nanostructures, plasmonics, nanomanipulation by optical tweezers, electrodynamic simulations, nanoscale light emitters, and applications of nanophotonics.

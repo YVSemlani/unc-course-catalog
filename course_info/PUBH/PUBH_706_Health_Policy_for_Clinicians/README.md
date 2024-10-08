@@ -1,3 +1,0 @@
-# PUBH 706: Health Policy for Clinicians
-
-This course provides a foundational understanding of the policy process and how evidence-based policy can be used to address major US health system problems, particularly at the nexus of public health and clinical care. There is additional focus on the role of law, politics and public health ethics in addressing public health issues, and the role of clinical professionals in advocating to advance public health policy priorities including equity.

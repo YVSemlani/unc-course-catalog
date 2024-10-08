@@ -1,3 +1,0 @@
-# BMME 547: Neural Basis of Rehabilitation Engineering
-
-The course will 1) introduce basic neuroscience topics underlying sensorimotor control, and 2) introduce different types of childhood and adult neuromuscular disorders with both central and peripheral origins. The main focus of the class will be on the different techniques used for diagnosis, assessment, and rehabilitation interventions. Previously offered at BMME 447.

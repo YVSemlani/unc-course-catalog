@@ -1,3 +1,0 @@
-# PORT 420: Portuguese Language and Culture for the Professions
-
-Training for effective oral and written communication in the professional world. Builds upon linguistic and sociolinguistic concepts, refining language and enhancing cultural proficiency through extensive writing and speaking practice. Vocabulary, readings, and activities relate to social issues, business professions, and the workplace.

@@ -1,3 +1,0 @@
-# RELI 415: Teaching the Bible in Public Education
-
-This course explores the challenges, ethical questions, and opportunities inherent in teaching biblical literature within public educational settings--both secondary and higher-ed. It also equips students to make informed decisions on how to communicate critical academic ideas about the Bible in ways sensitive to students of different positionalities.

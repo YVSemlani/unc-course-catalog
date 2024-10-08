@@ -1,3 +1,0 @@
-# ROML 501: Introduction to Digital Humanities for Romance Languages, Cultures and Heritage Studies
-
-Introduction to the digital humanities, its methods, theories, and applications in humanistic research as it pertains to the Romance languages, their cultures and heritage. Covers a variety of digital tools and approaches to explore, understand, organize, present, and tell stories with data from the Romance worlds. In English and open to graduate students and advanced undergraduates of all programs.

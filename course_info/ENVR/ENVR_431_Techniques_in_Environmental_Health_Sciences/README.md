@@ -1,3 +1,0 @@
-# ENVR 431: Techniques in Environmental Health Sciences
-
-Required preparation, basic biology, chemistry through organic, math through calculus; permission of the instructor for students lacking this preparation. A practical introduction to the measurement of biological end-points, emphasizing adverse effects of environmental agents, using laboratory and field techniques. Two laboratory hours per week.

@@ -1,3 +1,0 @@
-# GEOG 268: Geography of Africa
-
-Africa is a vast continent with extraordinary biodiversity, cultural diversity, and history. But despite its many historic and contemporary contributions to the modern world, Africa is often represented as needing civilization, development, economic growth, charity, and education. This course investigates Africa's place in the global geopolitical imagination. With an emphasis on human geography, we analyze various forms of media (including maps, films, songs) to investigate the relationship between representation and the sociopolitical construction of place.

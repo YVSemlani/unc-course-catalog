@@ -1,3 +1,0 @@
-# FREN 501: French for the Health Professions
-
-Aimed at health care professionals in a variety of fields, this class is designed to help them practice, consolidate, and improve their language skills, while encouraging students to develop a fuller understanding of health care systems in French-speaking regions of the world and to compare conditions with those in the United States. This course does not fulfill the FL requirement and does not count for the French major. Previously offered as FREN 405.

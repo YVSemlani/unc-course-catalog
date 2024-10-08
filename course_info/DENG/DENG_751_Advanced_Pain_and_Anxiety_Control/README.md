@@ -1,3 +1,0 @@
-# DENG 751: Advanced Pain and Anxiety Control
-
-Introduction to: operating room and recovery room protocol; patient cardiovascular and pulmonary evaluation; adjunct and inhalant agents; nitrous oxide; pharmacology of IV anesthetic agents; EKG interpretation; arterial blood gases; anesthesia equipment monitoring; anesthetic complications and emergencies; fluid and electrolyte and blood therapy; airway management; venipuncture; pediatric anesthesia; and pre-op evaluation, orders, and rounds.

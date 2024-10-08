@@ -1,3 +1,0 @@
-# PHRS 597: Pharmaceutical Sciences Seminar in Pharmacotherapy and Experimental Therapeutics
-
-This course, which offered in both the Fall and Spring semesters, provides a deep look at contemporary research in Pharmacotherapy and Experimental Therapeutics as a pharmaceutical sciences discipline. The class format consists of seminar presentations by experts in the field, including invited outside scientists, faculty members, or doctoral candidates. Students are expected to actively engage in seminar activities and participate in impromptu discussions.

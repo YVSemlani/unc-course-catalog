@@ -1,3 +1,0 @@
-# EDUC 150: The Science of Learning (Intensive)
-
-This course is an abbreviated and intensive version of EDUC 330: The Science of Learning. It is designed to optimize the beliefs and techniques critical for thriving at a rigorous university. Students will be exposed to research, particularly from cognitive psychology and behavioral neuroscience, which identifies the most effective methods of learning. Participants will also be given opportunities to implement such methods. Students may not receive credit for both EDUC 150 and EDUC 330.

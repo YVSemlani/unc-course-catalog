@@ -1,3 +1,0 @@
-# PSYC 769: Development of the Social Brain
-
-The goal of this course is to understand the neural systems that support development from childhood to adulthood by drawing on theories and methods from developmental and social psychology as well as cognitive neuroscience. We will draw upon research examining the brain bases underlying the development of various social behaviors including social relationships, social stress, antisocial behavior, self-perception, and social influence.

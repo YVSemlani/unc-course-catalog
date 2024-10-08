@@ -1,3 +1,0 @@
-# PSYC 573: Psychology of Women and Gender
-
-This course will discuss theories, methods, and empirical research findings on the physical, cognitive, emotional, and social aspects of the psychology of women, as well as topics such as feminist psychology, intersectionality, bias in psychological research, sexual orientation, sexuality, lifespan development, work, and health. Men and masculinity, the psychology of transgender persons, and a critique of the gender binary are also discussed.

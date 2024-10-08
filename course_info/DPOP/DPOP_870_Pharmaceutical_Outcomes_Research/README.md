@@ -1,3 +1,0 @@
-# DPOP 870: Pharmaceutical Outcomes Research
-
-Required preparation, introductory statistics and research methods coursework. Permission of the instructor for students lacking the required preparation. This is an intermediate-to-advanced-level applied and contemporary research methods class for students to build methodological and analytical knowledge to conduct high quality studies in evaluating pharmaceutical treatment utilization and outcomes.

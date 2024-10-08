@@ -1,3 +1,0 @@
-# ANTH 464: Life and Violence
-
-Violence in human societies has been studied by social scientists for decades. Yet, how violence is defined and written about varies from discipline to discipline. In this course, we study violence in its many forms (e.g., political, ethnic, bodily, and religious), from an anthropological perspective. We will critically assess how the past and present violence affect everyday life and inform our perspectives about places and people that might be unfamiliar to us.

@@ -1,3 +1,0 @@
-# HIST 348: History of Migration
-
-This course places the act of human migration at the center of modern history. Through case studies of various migrant groups, students will explore important questions at the center of migration history: why some people move and some stay; how the movements of people shape political, economic, social, and cultural life; and how ideas about migration, immigration, nation, and place have developed historically.

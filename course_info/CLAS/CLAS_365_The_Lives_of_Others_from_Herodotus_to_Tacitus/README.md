@@ -1,3 +1,0 @@
-# CLAS 365: The Lives of Others from Herodotus to Tacitus
-
-Explores ethnographic writing in the Ancient Mediterranean. How did the Greeks and Romans write about Persians, Egyptians, Scythians, Gauls, Germans, Britons, Hyperboreans, Spartans, and other peoples across time? In what ways did they understand their own identities and explain the distinctions they perceived between other peoples? The course will include some comparison of modern conceptions of ethnicity and depictions of group identities (in film, literature, and other media).

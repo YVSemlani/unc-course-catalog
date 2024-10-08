@@ -1,3 +1,0 @@
-# EMES 108: Climate and Energy Transitions: Understanding the Forecasts
-
-This course examines uncertainties in projecting future fossil fuel consumption and impact on global climate by quantifying how effectively alternative power-generation and energy-storage technologies can scale to meet needs in developing and developed nations, and by understanding past and present climates. Course previously offered as GEOL 108/MASC 108.

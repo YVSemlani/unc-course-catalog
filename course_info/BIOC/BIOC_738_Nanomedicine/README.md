@@ -1,3 +1,0 @@
-# BIOC 738: Nanomedicine
-
-This course offers an introduction to the interdisciplinary field of nanomedicine for students with a physical, chemical, or biological sciences background. This course will emphasize emerging nanotechnologies and biomedical applications including nanomaterials, nanoengineering, nanotechnology-based drug delivery systems, nano-based imaging and diagnostic systems, nanotoxicology, and translating nanomedicines into clinical investigation.

@@ -1,3 +1,0 @@
-# RUSS 515: Advanced Russian Communication, Composition and Grammar in the Professions I
-
-RUSS 515 provides advanced learners with opportunities to develop linguo-cultural skills necessary to practice their profession in Russian. While engaged in academic discourse in contemporary standard Russian, learners research topics in their academic majors, prepare and give presentations and lead discussions focusing on their areas of professional competence. In addition to student-centered segments, the course comprises instructor-led discussions of current affairs and academic subjects. Readings, viewing materials, and discussions in Russian.

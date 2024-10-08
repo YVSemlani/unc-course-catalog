@@ -1,3 +1,0 @@
-# SPAN 302: Literary and Cultural Analysis for Heritage Learners
-
-Designed for heritage learners, prepares students to formulate and communicate critical analyses of literary works in at least three genres chosen from theater, poetry, essay, narrative, and film while situating the readings within a cultural context. Students will gain appreciation of different world views through literature and culture. Previously offered as SPAN 262; students may not receive credit for SPAN 302 and 260 or 301.

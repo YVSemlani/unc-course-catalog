@@ -1,3 +1,0 @@
-# GSLL 481: Grand Hotels and Empty Fields: Inventing Central Europe through Culture
-
-Does Central Europe exist? It is a region with shifting borders, diverse languages, and a complex history. In this course, we will explore stories that invent fictional countries in Central Europe from the mist-shrouded mountains of Wes Anderson's Zubrowka to Ursula Le Guin's invented realm of Orsinia. We will also read work by writers from within the region who mythologized their home environments. Films with English subtitles; readings and discussions in English.

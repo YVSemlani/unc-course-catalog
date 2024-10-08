@@ -1,3 +1,0 @@
-# IDST 114: Triple-I: Science Fiction, the Environment, and Vulnerable Communities
-
-This course focuses on the question of how the genre of science fiction has been used to address the world's environmental concerns and how these concerns affect communities differently depending on their gender, race, and class. The course investigates global environmental challenges including resources, overpopulation, consumption, and climate change. Emphasis will be placed on texts and characters created by women and ethnic minorities. Students will be introduced to comparative, global, intersectional, and interdisciplinary approaches.

@@ -1,3 +1,0 @@
-# AMST 315: Privacy and Surveillance in America
-
-This course explores crucial challenges to privacy by changing technological, governmental, and corporate practices of surveillance. We will explore how technological and biometric tools are employed to capitalize upon and control populations. We will examine constitutional rights and privacy laws as well as practices and protections that can enable us to become more ethical citizens in the digital age.

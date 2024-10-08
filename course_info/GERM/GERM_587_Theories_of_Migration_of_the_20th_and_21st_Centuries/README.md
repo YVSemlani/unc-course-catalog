@@ -1,3 +1,0 @@
-# GERM 587: Theories of Migration of the 20th and 21st Centuries
-
-In this course we will engage with different theories around how migration affects societies by taking the Federal Republic of Germany (FRG) as a case study. Since its founding in 1945, the FRG has seen several waves of migration. In this class we will read several theoretical texts and two novels to consider how Germany has been shaped by migration.

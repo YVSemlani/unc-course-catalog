@@ -1,3 +1,0 @@
-# PHRS 705: Postmarketing Topics
-
-This foundational pharmaceutical science course will cover postmarketing aspects of pharmaceutical product development and how they contribute to maintaining regulatory approval. Students will learn about activities that help to further evaluate and exploit the full potential of a marketed pharmaceutical product including supply chain, sales and marketing, pharmacovigilance, risk management, and postmarketing research. This graduate-level didactic course will be taught asynchronously but will include regular touch points with course instructors and other students.

@@ -1,3 +1,0 @@
-# NBIO 750: Neuroanalytics: Introduction to Big Data Science for Neuroscientists
-
-The purpose of this course is to provide both practical and theoretical training in advanced data analysis approaches commonly used in neuroscience research. Making biological insights into complex neuroscience data requires familiarity with computer programming, distributed computing, visualization, and statistics. This course aims to provide an introduction to these analysis techniques to make the aspiring neuroscientist comfortable with data science.

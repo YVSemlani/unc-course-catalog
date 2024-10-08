@@ -1,3 +1,0 @@
-# ANTH 294: Anthropological Perspectives on Society and Culture
-
-Examines major theoretical perspectives that anthropologists have used to explain cultural diversity, social organization, and relations among societies. The class will offer a historical look at how anthropology developed its commitment to holism and ethnography and how contemporary debates have reshaped the field. Restricted to anthropology majors.

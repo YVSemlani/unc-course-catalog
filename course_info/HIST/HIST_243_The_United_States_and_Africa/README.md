@@ -1,3 +1,0 @@
-# HIST 243: The United States and Africa
-
-This course traces changing relationships between the United States and sub-Saharan Africa from the 17th century to the present. Topics include the trans-Atlantic slave trade, back-to-Africa movements and the colonization of Liberia by African Americans, United States policies toward decolonizing and postcolonial African countries, and contemporary links between Africa and America. Honors version available.

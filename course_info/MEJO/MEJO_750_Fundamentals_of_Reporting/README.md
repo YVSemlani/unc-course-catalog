@@ -1,3 +1,0 @@
-# MEJO 750: Fundamentals of Reporting
-
-This bootcamp course is designed to quickly prepare you to write and report on news stories, cover beats, issues, and feature stories, and to pick up the fundamentals of reporting and writing. It is a compressed crash course in becoming a budding journalist and storyteller. The camp is designed to teach you the fundamentals of news values, elements, writing styles, and reporting techniques. Restricted to students in the Master of Arts in Media and Communication program.

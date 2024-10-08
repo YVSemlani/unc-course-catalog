@@ -1,3 +1,0 @@
-# POLI 759: Research in Cooperation and Conflict Processes
-
-Advanced doctoral-level course. Builds off POLI 750 to explore current lines of research on conflict and cooperation. Each student will develop potential research projects and one expanded research project. The project should be suitable for subsequent development into a thesis and/or publication. Course focuses on research and the research process.

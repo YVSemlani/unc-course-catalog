@@ -1,3 +1,0 @@
-# RELI 127: The Claims of Science and Religion
-
-This course explores the sometimes competing, sometimes compatible claims of science and religion, including conflicting views about creation, miracles, rituals, revelation, and human nature. Global and historical case studies will enable students to consider claims to authority (religious, philosophical, medical, and scientific), types of proof, and ethical implications.

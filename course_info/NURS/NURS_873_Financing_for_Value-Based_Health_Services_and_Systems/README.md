@@ -1,3 +1,0 @@
-# NURS 873: Financing for Value-Based Health Services and Systems
-
-This course focuses on fundamental financial management concepts in health services organizations. Emphasis is placed on the financial environment and application of financial and managerial accounting and budgeting principles and methods to prepare nurse leaders and entrepreneurs for decision-making in simple to complex health services organizations. Nursing majors only.

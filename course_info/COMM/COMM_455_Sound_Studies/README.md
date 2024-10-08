@@ -1,3 +1,0 @@
-# COMM 455: Sound Studies
-
-This course is about sound and the auditory dimension. In a society dominated by images and spectacle, sound and listening have been remarkably under-appreciated. Sound is physical-the vibration of molecules according to frequencies, pitches, and intensities-and biological-our ability to hear is an evolutionary trait. But sound is also cultural (what qualifies as signal or noise?), technological (how is sound recorded and reproduced?), and historical (how has the soundscape changed and how have we listened differently).

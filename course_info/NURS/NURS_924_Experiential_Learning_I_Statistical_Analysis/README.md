@@ -1,3 +1,0 @@
-# NURS 924: Experiential Learning I: Statistical Analysis
-
-This course will introduce and prepare students for biostatistical computing of quantitative data using mainly SAS statistical software. It builds on the knowledge obtained in NURS 916: Design Measurement and Analysis: Descriptive & Associational Research by reinforcing the material and focusing on application within the SAS framework. Course prepares students for future SAS programming and analysis needs in NURS 917: Design Measurement and Analysis: Explanatory and Predictive Research and NURS 918: Intermediate Statistics: Regression Analysis.

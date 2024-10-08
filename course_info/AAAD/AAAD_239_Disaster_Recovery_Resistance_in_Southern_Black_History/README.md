@@ -1,3 +1,0 @@
-# AAAD 239: Disaster, Recovery, Resistance in Southern Black History
-
-Since the 1920s environmental, health, industrial and other disasters have shaped southern African American culture, communities, and politics. The mass dislocation and despair brought by disasters and the manners in which African Americans resisted and struggled to overcome them have significantly changed the country's geographic, cultural, and political landscape. This course examines such epic disasters as floods, hurricanes, disease, and work-related tragedies and their long-term consequences and meanings.

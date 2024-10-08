@@ -1,3 +1,0 @@
-# WGST 167: Gender, Sexuality, and Social Justice in South Asia
-
-This course explores questions of ethics, justice, and inequality with respect to gender in modern South Asia. Each unit will probe a different aspect of social justice in order to understand the histories, politics, and expressive cultures of various disempowered communities. Intersections between gender and ethics, politics, sexuality, caste, class, and the environment will be studied in depth.

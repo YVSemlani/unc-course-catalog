@@ -1,3 +1,0 @@
-# HPM 751: Dental Public Health and Access to Oral Health
-
-Students will evaluate systems of care that impact oral health and will understand the health policy process and engage in policy analysis. Issues to be explored will include: dental care policy and the health policy process; policy analysis; the legislative process; access to care for high risk populations; integrating dental services into public health programs; trends in the demand for dental care; trends expenditures for dental services; and managed dental care. Permission of the instructor.

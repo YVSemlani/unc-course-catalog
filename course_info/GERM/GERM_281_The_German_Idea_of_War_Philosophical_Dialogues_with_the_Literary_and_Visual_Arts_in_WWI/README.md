@@ -1,3 +1,0 @@
-# GERM 281: The German Idea of War: Philosophical Dialogues with the Literary and Visual Arts in WWI
-
-This course brings into dialogue key ideas from seminal German philosophers who anticipated, experienced, or survived the Great War, with contemporary works of German literature, film, and painting. Of concern are the ways philosophy's concepts and art's themes shaped both one another and the idea of war. Readings and discussions in English.

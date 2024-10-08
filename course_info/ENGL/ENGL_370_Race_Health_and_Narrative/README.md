@@ -1,3 +1,0 @@
-# ENGL 370: Race, Health, and Narrative
-
-This interdisciplinary course explores how issues of health, medicine, and illness are impacted by questions of race in 20th-century American literature and popular culture. Specific areas covered include pain, death, the family and society, reproduction, mental illness, aging, human subject experimentation, the doctor-patient relationship, pesticides, and bioethics. Honors version available.

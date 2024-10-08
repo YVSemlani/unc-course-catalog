@@ -1,3 +1,0 @@
-# LING 458: Writing Systems: Past, Present, Future, Fictional
-
-This course provides an introduction to the linguistic structure and historical development of the world's writing systems (e.g. Sumerian, Egyptian, Chinese, Greek, Semitic scripts, Indian abugidas, Olmec, Mayan, Incan), the methods for their decipherment and analysis, the cross-script generalizations that can be proposed through their comparative study, and the techniques for developing a new writing system for a previously unwritten language, as well as for inventing a language and writing system from scratch.

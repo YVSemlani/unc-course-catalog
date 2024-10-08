@@ -1,3 +1,0 @@
-# NURS 860: Biopsychosocial Care 1: Psychiatric Mental Health Interventions Across the Lifespan
-
-This course is the first of four in the sequence of intervention and case management courses. It builds on the skills of psychiatric mental health diagnostic formulation and provides a foundation for management of common behavioral health problems, psychiatric illness, and substance use disorders across the lifespan within a biopsychosocial framework.

@@ -1,3 +1,0 @@
-# PSYC 430: Human Memory
-
-This course explores classic and current issues in the study of human memory. Topics include working memory, encoding and retrieval processes, implicit memory, reconstructive processes in memory, eyewitness memory, developmental changes in memory, neuropsychology and neuroscience of memory and memory disorders, memory improvement, and the repressed/recovered memory controversy.

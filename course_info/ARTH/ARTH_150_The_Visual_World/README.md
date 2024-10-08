@@ -1,3 +1,0 @@
-# ARTH 150: The Visual World
-
-The visual world surrounds us in print and moving images, in virtual realities and in physical space. This course gives students the tools to analyze, research, and historicize images and objects. How does the visual domain inform our understanding of the world around us? How do they shape culture, knowledge, and identity? Each week, key concerns of the present from technology to climate change are explored through art and artifacts of the past. Honors version available.

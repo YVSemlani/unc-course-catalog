@@ -1,3 +1,0 @@
-# PHRS 502: Making Medicines: Drug Discovery, Development, and Approval
-
-This course introduces the pharmaceutical sciences as a scientific discipline by facilitating student exploration of how new drugs are developed from the initial concept to the patient. Students gain an understanding of each stage through self-paced, asynchronous interaction with online videos highlighting the fundamental processes and rigor drug manufacturers undertake to research, develop, and deliver new medicines to patients. In class, students will engage in case-based discussions with experienced drug development professionals.

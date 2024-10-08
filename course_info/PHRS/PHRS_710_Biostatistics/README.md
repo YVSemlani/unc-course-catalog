@@ -1,3 +1,0 @@
-# PHRS 710: Biostatistics
-
-This foundational pharmaceutical science course will teach basic statistical concepts used frequently during pharmaceutical product development. Students will learn the statistical terminology and approaches that are used to initiate a research investigation, plan a clinical trial, and analyze data. Students will also learn about the role of the statistician in pharmaceutical product development. This graduate-level didactic course will be taught asynchronously but will include regular touch points with course instructors and other students.

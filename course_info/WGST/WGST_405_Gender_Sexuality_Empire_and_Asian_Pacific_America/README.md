@@ -1,3 +1,0 @@
-# WGST 405: Gender, Sexuality, Empire and Asian Pacific America
-
-This advanced undergraduate course examines the diverse terms by which empire and sexuality have produced and reflected gender in Asian Pacific America. This seminar brings together two strains of politicized critical analysis: queer/feminist studies and postcolonial studies through the interdisciplinary standpoint of Asian American studies. Close readings are drawn from the social sciences, humanities, and arts.

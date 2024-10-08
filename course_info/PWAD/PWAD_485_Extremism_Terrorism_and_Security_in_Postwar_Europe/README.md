@@ -1,3 +1,0 @@
-# PWAD 485: Extremism, Terrorism, and Security in Postwar Europe
-
-In the debate on how to efficiently combat terrorism without abandoning the rule-of-law, it is often neglected that this is not a new problem. This course will examine European states' reactions to national and international terrorism since the 1960s. Case studies will include Germany, Italy, and the United Kingdom. Honors version available.

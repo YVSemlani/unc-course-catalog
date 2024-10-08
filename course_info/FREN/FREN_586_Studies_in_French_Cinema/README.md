@@ -1,3 +1,0 @@
-# FREN 586: Studies in French Cinema
-
-Recommended preparation for French majors and minors, FREN 300 and one of FREN 255, 260, or 262; for all other students, CMPL 143. Themes, periods, and movements in the history of French cinema. The course may cover early cinema, silent film, poetic realism of the 1930s, postwar cinema, the French New Wave, or late twentieth- and early twenty-first century cinema. Taught in English or French. See department announcements for current topic and language of instruction.

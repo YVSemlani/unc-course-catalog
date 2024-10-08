@@ -1,3 +1,0 @@
-# EXSS 181: Sport and Exercise Psychology
-
-This course exposes students to psychological aspects contributing to sport/physical activity participation and psychological outcomes of participation. It explores psychological theories and research and their application to the affective, behavioral, and cognitive outcomes of sport/physical activity participants when considering key environmental factors.

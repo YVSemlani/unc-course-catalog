@@ -1,3 +1,0 @@
-# ENEC 421: Textiles: Environmental Impacts, Issues, and Innovations
-
-Textiles are pervasive in our lives, from clothing to upholstery, yet have major impacts on our environment and health, from the products' cradle to grave. This course examines the environmental and social costs of producing our clothing, carpet, and other textiles in daily life. We will also consider possible solutions currently offered by industry and entrepreneurs.

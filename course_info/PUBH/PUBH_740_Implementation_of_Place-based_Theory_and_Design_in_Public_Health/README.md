@@ -1,3 +1,0 @@
-# PUBH 740: Implementation of Place-based Theory and Design in Public Health
-
-In response to Western North Carolina organizations' requests, students use place-based principles to understand public health issues and design community-based, multi-level interventions. Student teams and interested parties explore community priorities and perceptions, and then student teams develop sustainable plans for host organizations to implement.

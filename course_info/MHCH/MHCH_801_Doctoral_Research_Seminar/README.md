@@ -1,3 +1,0 @@
-# MHCH 801: Doctoral Research Seminar
-
-The MCH Doctoral Seminar provides a forum for first year MCH doctoral students to hone their skills in developing research questions, searching scientific literature, and preparing comprehensive literature reviews for publication. It introduces students to several types of literature reviews used to inform health practices, programs and policies. MCH doctoral students only.

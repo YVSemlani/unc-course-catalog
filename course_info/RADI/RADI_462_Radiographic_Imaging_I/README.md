@@ -1,3 +1,0 @@
-# RADI 462: Radiographic Imaging I
-
-An overview of radio-graphic imaging methods examining the imaging process as a sequence of events from X-ray production through hard copy processing. The imaging equipment is discussed in terms of function, influence on the image, the impact of alteration on image characteristics, and compensation techniques for changes in the sequence. Three lecture hours and two laboratory hours.

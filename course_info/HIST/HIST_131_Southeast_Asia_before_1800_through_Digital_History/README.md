@@ -1,3 +1,0 @@
-# HIST 131: Southeast Asia before 1800 through Digital History
-
-This course will cover the history of the territories and peoples of Southeast Asia (comprising the modern-day countries of Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Thailand, Timor-Leste, Singapore and Vietnam), from earliest times to 1800. The course will also delve into debates about the past, who is engaged in such debates, and how to navigate these debates to find reliable historical sources and communicate analysis of those sources for a wide audience.

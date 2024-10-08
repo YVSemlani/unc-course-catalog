@@ -1,3 +1,0 @@
-# PHIL 294: Philosophy across the Lifespan
-
-This is a high-impact service-learning course that aims to promote experiential learning in philosophy by combining traditional elements of classroom study with service in the community (HI-SERVICE). Students will have the unique opportunity to teach and learn philosophy alongside older adults in the Triangle area, thereby integrating the academic study of philosophy with community engagement.

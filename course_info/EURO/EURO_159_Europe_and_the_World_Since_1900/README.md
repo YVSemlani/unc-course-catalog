@@ -1,3 +1,0 @@
-# EURO 159: Europe and the World Since 1900
-
-An overview of modern European history from the First World War to the present, covering major themes such as imperialism and decolonization; competing political ideologies; "hot" and "cold" wars; the Holocaust and Holocaust memory; gender and sexuality; migration and labor; race and religion; the European Union; local community-building; and efforts to redefine Europe and its place in the wider world.

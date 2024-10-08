@@ -1,3 +1,0 @@
-# GERM 706: Theories and Methods in German Studies
-
-This seminar introduces students to methods of academic work in German Studies. As a discipline with deep historical and interdisciplinary roots, German Studies shares a wide array of theoretical approaches to its subject matter with other fields in the Humanities. We will examine a variety of these approaches including rhetoric, genre theory, hermeneutics, aesthetics, deconstruction, linguistics and speech act theory, psychoanalysis, structuralism and semiotics, critical theory, new historicism, gender theory, and media theory.

@@ -1,3 +1,0 @@
-# NUTR 245: Sustainable Local Food Systems: Intersection of Local Foods and Public Health
-
-Examines the intersection of local foods and public health with respect to nutrition and environmental, economic, and community issues. Students explore impacts and potential solutions of the increasingly industrialized and centralized food system, while assisting community partners to increase opportunities for farmers, local food marketers, distributors, and entrepreneurs.

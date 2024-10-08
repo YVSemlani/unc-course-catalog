@@ -1,3 +1,0 @@
-# NBIO 751: Neurodevelopmental Basis of Brain Disorders
-
-The basic principles guiding in the formation and maintenance of human nervous system and how do distinct genetic/ epigenetic disruptions during development cause different types of human neurodevelopmental disorders. The intent of this course is to present latest advances in developmental neuroscience in the context of this theme. Topics covered IMII include neural patterning, neurogenesis, neural cell ate specification, neuronal migration, axon/dendritic growth and connectivity.

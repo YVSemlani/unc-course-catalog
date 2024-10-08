@@ -1,3 +1,0 @@
-# ARAB 255: Arab World Photography
-
-Introduces students to the practice of photography in the Arab world, beginning with Orientalist photography by European travelers and early Arab portraiture, and then addressing photography in relation to self expression and recent social and political circumstances. What types of images do people in the region make for themselves and to what purpose? Students will read extensively about photography and the Arab world, view and discuss images, complete short photo assignments, and write papers.

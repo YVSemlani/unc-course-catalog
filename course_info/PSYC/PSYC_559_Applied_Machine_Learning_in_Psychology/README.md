@@ -1,3 +1,0 @@
-# PSYC 559: Applied Machine Learning in Psychology
-
-As opposed to hypothesis-driven data analysis, machine learning takes an exploratory and predictive approach to data analysis. This course introduces machine learning approaches in psychology to identify important variables for prediction and uncover complex patterns in datasets, such as nonlinearity, interactions, or clusters. Classes include theoretical lectures and hands-on examples.

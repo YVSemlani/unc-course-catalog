@@ -1,3 +1,0 @@
-# ASIA 442: Postcolonial Literature of the Middle East
-
-This course introduces students to postcolonial literature and theory. The main focus in the course is on literary texts and literary analysis. However, we will use postcolonial theory to engage critically with the primary texts within a postcolonial framework. We will explore language, identity, physical and mental colonization, and decolonization.

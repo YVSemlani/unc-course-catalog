@@ -1,3 +1,0 @@
-# ENGL 149: Digital Composition
-
-In this class students will practice composing in contemporary digital writing spaces. Students will study theories of electronic networks and mediation, and their connections to literacy, creativity, and collaboration. Students will also develop their own multimedia projects using images, audio, video, and words. Topics include the rhetoric of the Internet, online communities, and digital composition.

@@ -1,3 +1,0 @@
-# AMST 256: Anti-'50s: Voices of a Counter Decade
-
-We remember the 1950s as a period of relative tranquility, happiness, optimism, and contentment. This course will consider a handful of countertexts: voices from literature, politics, and mass culture of the 1950s that for one or another reason found life in the postwar world repressive, empty, frightening, or insane and predicted the social and cultural revolutions that marked the decade that followed.

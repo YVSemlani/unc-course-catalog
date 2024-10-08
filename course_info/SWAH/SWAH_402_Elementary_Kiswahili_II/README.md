@@ -1,3 +1,0 @@
-# SWAH 402: Elementary Kiswahili II
-
-This course is a continuation of Elementary Swahili I. It introduces more advanced grammar, emphasizes more fluency in speaking, reading, and writing in standard Swahili. The course develops students understanding of the Swahili culture and the East African people who use Swahili as the language of wider communication. Students develop an understanding and appreciation of languages and cultures other than their own.

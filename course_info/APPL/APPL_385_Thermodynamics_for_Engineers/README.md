@@ -1,3 +1,0 @@
-# APPL 385: Thermodynamics for Engineers
-
-Thermodynamics can be thought of as the study of energy. Virtually every application has some connection to thermodynamics, underscoring the significance of learning its basic principles in engineering education. The course will cover the basic concepts of thermodynamics, including the first and second laws of thermodynamics. These principles will be introduced and explored in a way that focuses on understanding the basic concepts through exploring different natural and industrial applications.

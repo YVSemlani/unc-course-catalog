@@ -1,3 +1,0 @@
-# HPM 697: Health Policy and Management BSPH Capstone
-
-The capstone course serves as a culminating experience for students in the BSPH program in Health Policy and Management. Students integrate and apply the knowledge and skills they have learned across the program. Students work in teams to complete a major project with a local organization -- such as a hospital, health system, governmental health department, non-profit, or global health organization. Restricted to HPM B.S.P.H. students.

@@ -1,3 +1,0 @@
-# PUBH 737: Place-based Research & Evaluation Methods
-
-This course is an applied research workshop that engages students in foundational skill-building, from interrogating history and foundations of public health research, to developing a research question, describing methods and approaches, and sharing research findings, informed by place and practice. The course focuses on a range of research methods and how to appropriately apply them to study and improve health. Students develop a research study proposal in this course.

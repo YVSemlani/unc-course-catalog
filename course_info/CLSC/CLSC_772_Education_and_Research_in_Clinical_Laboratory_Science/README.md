@@ -1,3 +1,0 @@
-# CLSC 772: Education and Research in Clinical Laboratory Science
-
-This is a required course in the Master's of Clinical Laboratory Science for students who have graduated from the UNC-CLS program in the past 10 years. This course builds on the content of the UNC CLS undergraduate courses in education and research and prepares students for future roles as educators and researchers in the clinical laboratory profession. Majors only.

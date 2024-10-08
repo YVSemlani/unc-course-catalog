@@ -1,3 +1,0 @@
-# EDUC 845: Instructional Strategies for Teaching and Learning in Digital Contexts
-
-Will prepare students to enact evidence-based strategies that integrate digital tools and resources for delivering instruction in blended, hybrid, and fully online contexts. Students will design an aligned unit of instruction that includes objectives, assessments, and instructional activities that adhere to instructional design standards and utilize an array of contemporary digital tools. Will consider design approaches that enable the gathering and visualization of data that reflect student activity and performances.

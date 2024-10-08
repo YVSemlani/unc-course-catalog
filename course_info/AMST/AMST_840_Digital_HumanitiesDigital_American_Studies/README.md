@@ -1,3 +1,0 @@
-# AMST 840: Digital Humanities/Digital American Studies
-
-This course, explores the application of digital technologies to the materials, questions, and practices of humanities scholarship, particularly as related to enduring topics in American Studies scholarship and community engagement. Students will work on group digital history projects in collaboration with local cultural heritage organizations.

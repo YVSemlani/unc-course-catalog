@@ -1,3 +1,0 @@
-# CLAS 231: The Theater in the Greek and Roman World
-
-An investigation of the history, aesthetics, politics, and influence of theater in the ancient Greek and Roman world, with attention to themes of power, passion, rhetoric, resistance, gender, and identity. The course also includes a substantial practical component, with students taking on a number of the dramaturgical roles involved in the production of ancient drama.

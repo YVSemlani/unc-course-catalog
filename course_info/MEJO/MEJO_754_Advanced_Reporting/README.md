@@ -1,3 +1,0 @@
-# MEJO 754: Advanced Reporting
-
-Advanced Reporting helps students learn sophisticated reporting skills required to cover in depth a beat of their choice in consultation with their instructor. Students will learn how to build sources and collect data to complete a series of stories culminating in a long-form report. That report will form the springboard for a thesis project proposal. Restricted to students in the Master of Arts in Media and Communication program.

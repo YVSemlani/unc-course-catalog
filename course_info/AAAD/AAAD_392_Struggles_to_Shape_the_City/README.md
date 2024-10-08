@@ -1,3 +1,0 @@
-# AAAD 392: Struggles to Shape the City
-
-Examines approaches to studying the politicization and foreclosure of urban space. Focus in particular on race and socioeconomic class as key lenses through which to interpret and understand urban spatial struggles. Examines relations of inequality in the global North and the global South and analyzes struggles to remain in the city that are central to the politics of place.

@@ -1,3 +1,0 @@
-# MEJO 782: Digital Content Creation
-
-Digital content creation is one of the cornerstones of modern strategic communication. This course provides students with a foundation in all the major platforms for digital storytelling. The core competencies include video production (cameras, lighting, audio, composition, sequencing, and editing), graphic design principles, data visualization, and interactive media (HTML, CSS, content management systems, and web hosting protocol). Restricted to students in the Master of Arts in Media and Communication program.

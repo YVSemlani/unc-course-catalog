@@ -1,3 +1,0 @@
-# ITAL 343: Italian Culture Today: Modern Italy as a Nation 1860 to Present
-
-Provides an overview of modern Italian history from unification through the present, exploring institutions of politics, culture, family, religion, and media, and addressing themes of multiculturalism, racism, gender, and populism among many others. By learning how historical events, symbols, ideologies and narratives overlay contemporary debates over the proper relationship between state and society, students learn to question their assumptions about such relationships in their own country as well.

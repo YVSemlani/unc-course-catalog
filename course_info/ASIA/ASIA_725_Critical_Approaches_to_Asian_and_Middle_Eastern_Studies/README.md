@@ -1,3 +1,0 @@
-# ASIA 725: Critical Approaches to Asian and Middle Eastern Studies
-
-This interdisciplinary graduate seminar is a foundational course for the M.A. in Asian and Middle Eastern Studies. The seminar introduces critical theories and disciplinary and interdisciplinary methodologies in studying South Asia, East Asia, and the Middle East. It studies the regions in part and as a whole by applying regional, transnational and global lenses, taking seriously relevant languages, cultural formations, histories, and philosophies. The seminar employs theoretical, ontological and epistemological terrains to critically analyze texts/media.

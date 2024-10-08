@@ -1,3 +1,0 @@
-# ITAL 731: Infernal Vernaculars
-
-An exploration of the literary, visual, and religious representations of Hell shaping late medieval Italian culture, culminating in a close reading of Dante's Inferno as a lucid indictment of the political hellscape. Additional consideration of Dante's evolving poetic response to political fragmentation from the De vulgari eloquentia to the Comedy. Permission of the instructor for undergraduates.

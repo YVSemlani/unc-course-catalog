@@ -1,3 +1,0 @@
-# ENGL 341: Tabletop Games: Narrative, History, and Design
-
-This course introduces students to developments in modern tabletop gaming. Students will analyze the mechanics and thematics that tabletop games use to create narratives. Particular attention will be paid to the values and stories that emerge from the decisions made by designers. This course culminates in a capstone project in which students create their own tabletop game. No prior experience with tabletop gaming is required.

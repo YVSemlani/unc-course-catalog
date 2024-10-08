@@ -1,3 +1,0 @@
-# RELI 104: Introduction to the New Testament
-
-This course studies the New Testament from both a literary and a historical perspective, focusing on its origins in the land of Israel and moving into the eastern Mediterranean. In it students learn to wrestle with the nature of historical evidence, develop their skills for making argumentation, and learn how to analyze the philosophical and ethical claims of the ancient Christian texts, and participate in class debates on contemporary ethical issues. Honors version available.

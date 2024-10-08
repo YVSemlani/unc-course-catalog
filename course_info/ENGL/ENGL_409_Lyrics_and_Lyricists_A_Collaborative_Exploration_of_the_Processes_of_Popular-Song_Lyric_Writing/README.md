@@ -1,3 +1,0 @@
-# ENGL 409: Lyrics and Lyricists: A Collaborative Exploration of the Processes of Popular-Song Lyric Writing
-
-This course is a collaborative exploration of popular-song lyric writing, requiring numerous drafts written to varied existing musical models - narrative ballads; hymns; folk, theater, jazz, art, R&B, R&R, and worldbeat songs, etcetera - to be tried out and worked on in class, as well as in conference.

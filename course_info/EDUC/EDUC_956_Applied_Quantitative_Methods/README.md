@@ -1,3 +1,0 @@
-# EDUC 956: Applied Quantitative Methods
-
-In this course, students learn how to analyze quantitative data from various sources (e.g., administrative, survey) to answer pragmatic questions. The course focuses on generating and interpreting graphical descriptive summaries and the associations between multiple continuous or categorical variables. You will also be introduced to the inferential statistics concepts of hypothesis testing and confidence intervals to characterize the uncertainty of conclusions based on the data. Students will use data visualization software. This course is a required methods course in the curriculum for the EdD concentration in Organizational Learning and Leadership .

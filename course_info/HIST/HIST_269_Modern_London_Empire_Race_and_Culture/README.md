@@ -1,3 +1,0 @@
-# HIST 269: Modern London: Empire, Race, and Culture
-
-Explores the history, culture, and politics of London from the decade before the First World War, through the "Swinging" 1960s, to the recent Olympics fever. Surveys the architecture, cultural institutions and the arts, against the background of the city's changing racial, ethnic, religious, and socio-economic composition. Honors version available.

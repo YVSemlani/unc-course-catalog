@@ -1,3 +1,0 @@
-# APPL 462: Engineering Materials: Properties, Selection and Design
-
-This course will cover both fundamental and applied aspects of modern materials science. We will discuss how to select materials based on their properties and how they can be processed into products that you encounter in everyday life. A strong focus will be on the relationship between processing, structure (development), and properties of solid materials, such as metals, ceramics, and polymers.

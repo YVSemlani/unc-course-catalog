@@ -1,3 +1,0 @@
-# EDUC 301: Junior Transfer Seminar - Thriving in Transition
-
-Course challenges students to think critically about educational issues as they transition to a research university. Through readings, videos and activities, students explore the value of higher education, the development of intelligence, and the role of habit and happiness in college success. Students also conduct and present original qualitative research.

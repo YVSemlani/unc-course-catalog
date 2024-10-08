@@ -1,3 +1,0 @@
-# ENGL 212: Writing Crime and Mystery Fiction
-
-An intermediate-level creative writing workshop intended for students who have already taken ENGL 130 or ENGL 132H. This course focuses on the art and craft of fiction that features crime or mystery. Students will use the tools of literary fiction, while also learning the conventions of the genre and apply them to their fiction. Close study of crime and mystery novels and short stories. Composition, discussion, and revision of original student stories.

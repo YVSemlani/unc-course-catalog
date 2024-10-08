@@ -1,3 +1,0 @@
-# DHYG 257: Introduction to Dental Hygiene
-
-This course will provide the student with the basic concepts and theories related to the performance of clinical dental hygiene. The course will provide an introduction to the UNC School of Dentistry patient care system. Opportunities will be provided for the student to identify his/her role as a dental hygienist with an emphasis on personal and professional development.

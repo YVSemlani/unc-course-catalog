@@ -1,3 +1,0 @@
-# INLS 789: Big Data, Algorithms and Society
-
-This course examines the effect of big data on politics and the public sphere, how social media affects social movements, and the privacy and security vulnerabilities exposed by the coming Internet of Things. There can be potential negative societal consequences of social media and big data; this course studies the realities of the intersection of big data, algorithmic manipulation of data, and societal understanding of them.

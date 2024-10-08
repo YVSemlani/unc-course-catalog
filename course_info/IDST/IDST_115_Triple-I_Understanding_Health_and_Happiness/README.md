@@ -1,3 +1,0 @@
-# IDST 115: Triple-I: Understanding Health and Happiness
-
-This course exposes students to diverse scientific approaches to understanding happiness and subjective and physical well-being. The three professors offer perspectives from three disciplines: physiology, psychology, and sociology. The course teaches students research skills as well as evidence-based life skills, such as teamwork, developing social connections including "belongingness" at UNC, being physically active, and becoming confident that they can deploy these skills to increase their happiness and health.

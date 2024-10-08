@@ -1,3 +1,0 @@
-# EMES 414: Flood Hydrology: Models and Data Analysis
-
-River floods are critically important in the global hydrologic cycle. While seasonal floods can be environmentally restorative, they can also have devastating socio-economic and public health consequences. Beginning with the hydrologic cycle, this course will cover concepts related to rainfall runoff and hydrologic response, flood frequency analysis, the mechanics of open channel flow, and overland and channel routing. Students will also gain experience working with real-world data and engineering software. Previously offered as GEOL 514.

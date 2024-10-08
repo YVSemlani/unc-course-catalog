@@ -1,3 +1,0 @@
-# HIST 474: Britain in World Affairs: British Foreign Policy since World War II
-
-The course provides a historical, political, and socio-economic framework for understanding British history and politics in the 20th and 21st centuries. We will assess important turning points in domestic British politics, the main focus will be on Britain's foreign relations during both the Cold War and the post-Cold War years.

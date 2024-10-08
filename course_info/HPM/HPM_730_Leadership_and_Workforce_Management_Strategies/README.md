@@ -1,3 +1,0 @@
-# HPM 730: Leadership and Workforce Management Strategies
-
-This course provides an introduction and overview of leadership, management, workforce challenges, and organizational behavior. The course emphasizes the importance of aligning management practices with the organization's mission and goals. The course integrates theory with practice through readings, lectures, written assignments, experiential exercises, and guest presentations. Assessment, practice and development of leadership, managerial and organizational skills are accomplished through team exercises, self and peer assessments, and small group work.

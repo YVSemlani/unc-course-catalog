@@ -1,3 +1,0 @@
-# MHCH 723: Introduction to Monitoring and Evaluation
-
-This course provides students with the basic concepts and methodologies needed to monitor and evaluate global health programs. The course covers M&E systems, conceptual frameworks/logic models, indicators, information sources, evaluation designs, and other related topics for health programs in global settings. This course is a requirement for the MCFH and GH concentrations. The course format consists of a seminar-style class that meets weekly.

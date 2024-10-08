@@ -1,3 +1,0 @@
-# PLAN 685: Water and Sanitation Planning and Policy in Less Developed Countries
-
-Permission of the instructor. Seminar on policy and planning approaches for providing improved community water and sanitation services in developed countries. Topics include the choice of appropriate technology and level of service, pricing, metering, and connection charges; cost recovery and targeting subsidies to the poor; water venting; community participation in the management and operation of water systems; and rent-seeking behavior in the provision of water supplies.

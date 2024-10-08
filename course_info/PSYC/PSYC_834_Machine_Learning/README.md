@@ -1,3 +1,0 @@
-# PSYC 834: Machine Learning
-
-This course is an introductory seminar on the theory and application of machine learning to data analysis. A lot of research in psychology has focused on hypothesis-driven, explanatory approaches to data analysis. Machine learning could supplement a researcher's analytic toolbox to explore patterns and assess the predictive value of various combinations of variables on an outcome.

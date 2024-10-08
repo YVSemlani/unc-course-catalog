@@ -1,3 +1,0 @@
-# EMES 700: Emerging Topics in Earth, Marine, and Environmental Sciences
-
-Explore pioneering research in the Department of Earth, Marine, and Environmental Sciences (EMES) by reading peer-reviewed literature, meeting with department faculty, and attending seminars from outside speakers. Gain insights into the diverse research projects conducted by EMES' faculty and students, while embarking on immersive field trips across North Carolina from the mountains to the sea. Intended for first-year graduate students.

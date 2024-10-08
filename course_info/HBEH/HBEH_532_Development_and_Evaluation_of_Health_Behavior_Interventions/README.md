@@ -1,3 +1,0 @@
-# HBEH 532: Development and Evaluation of Health Behavior Interventions
-
-This course will provide exposure to interventions designed to address determinants of health issues across all levels of the social ecological framework. Students will think critically about the purpose, design, and success of public health interventions. Throughout the course, students will learn the relevant terminology, frameworks, and processes to design, adapt, implement, and evaluate interventions in health behavior.

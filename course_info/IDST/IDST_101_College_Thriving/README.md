@@ -1,3 +1,0 @@
-# IDST 101: College Thriving
-
-College Thriving empowers all students to participate fully in the opportunities of a research university and find resources to support them in their educational pursuits at Carolina. The course enhances and provides new tools to support students' ability to study systematically, learn deeply, and monitor and foster their own well-being. First-year students only. Members of Honors Carolina will fulfill this requirement with HNRS 101 instead.

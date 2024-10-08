@@ -1,3 +1,0 @@
-# CHIN 356: Chinese Environmental Literature
-
-Introduces students to Chinese and Taiwanese cultural understandings of human relations to the natural environment. Analyzes classical and modern environmental literature (poetry, essays, fiction, and philosophy) and evaluates how contemporary building practices, governmental policies, and green technologies may be influenced by diverse Chinese philosophical traditions.

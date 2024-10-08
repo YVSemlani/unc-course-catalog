@@ -1,3 +1,0 @@
-# BIOS 762: Theory and Applications of Linear and Generalized Linear Models
-
-Linear algebra, matrix decompositions, estimability, multivariate normal distributions, quadratic forms, Gauss-Markov theorem, hypothesis testing, experimental design, general likelihood theory and asymptotics, delta method, exponential families, generalized linear models for continuous and discrete data, categorical data, nuisance parameters, over-dispersion, multivariate linear model, generalized estimating equations, and regression diagnostics.

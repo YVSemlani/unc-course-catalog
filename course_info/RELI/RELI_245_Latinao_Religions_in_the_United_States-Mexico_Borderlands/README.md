@@ -1,3 +1,0 @@
-# RELI 245: Latina/o Religions in the United States-Mexico Borderlands
-
-The goal of this course is to orient students in the great diversity of Latina and Latino religious formations in the United States today. Focusing on Indigenous, African, and Catholic Creole "inspirations," this course will focus students to the emergence of a distinctly U.S. Latina/o religious experience. Honors version available.

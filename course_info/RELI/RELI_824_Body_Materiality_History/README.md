@@ -1,3 +1,0 @@
-# RELI 824: Body, Materiality, History
-
-This course addresses theories of the body in the study of history. It expands standard notions of "the body" by considering developments in scientific and medical approaches, then turning to the fields of gender and sexuality studies, disability studies, critical race theory, and postcolonial theory, and ending with consideration of the body's expression through material culture. Extensive historical case studies will be taken from scholarship on Western, Eastern, and indigenous religions.

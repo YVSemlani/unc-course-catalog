@@ -1,3 +1,0 @@
-# MHCH 775: Introduction to Qualitative Methods in Public Health Research
-
-This introductory qualitative research methods course focuses on understanding the meaning, purpose, and basic concepts of qualitative research for public health practice. Through applied work, students will learn how to formulate qualitative research questions, develop interview guides, collect data, analyze data, and report findings.

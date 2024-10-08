@@ -1,3 +1,0 @@
-# PUBH 701: Cost-Effectiveness in Health and Medicine
-
-Overview of economic evaluations of public health and health care interventions, understanding basic methods of cost-effectiveness analyses (CEA) and use of CEA to inform resource allocation decisions. Critically appraise CEA for internal validity and applicability. Explore controversial CEA issues, including methodological controversies and ethical issues for the prioritization of resources.

@@ -1,3 +1,0 @@
-# RELI 586: Women and Gender in Japanese Religions
-
-This seminar explores the roles of women in the religions of Japan (including Buddhism, Shinto, folk religions, pilgrimage, new religions movements, and new spirituality culture) from goddesses, shamans, nuns, and pilgrims to demons, temptresses, and lesser human beings. The course traces these themes across Japanese socioeconomic and religious history.

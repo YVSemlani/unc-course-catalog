@@ -1,3 +1,0 @@
-# ARMY 201: Leadership and Decision Making
-
-This course explores the dimensions of creative and innovative tactical leadership strategies and styles by examining team dynamics and two historical leadership theories that form the basis of the Army leadership framework. Aspects of personal motivation and team building are practiced by planning, executing, and assessing team exercises. Required for cadets.

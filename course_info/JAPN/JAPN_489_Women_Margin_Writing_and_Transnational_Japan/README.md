@@ -1,3 +1,0 @@
-# JAPN 489: Women, Margin, Writing, and Transnational Japan
-
-This course explores literary and media art produced by women from various political and social margins of Japan, voiced from their transnational subjectivities. The transnational situations include: immigration, colonialism, diaspora, and international coalition as well as globalizing feminist alliance. By focusing on literature, film, and performance, this course takes an interdisciplinary approach to women's creative political statements.

@@ -1,3 +1,0 @@
-# GSLL 282: Afropessimism in American and European Film
-
-Scholars of Afropessimism argue that we are not living in the age of post-slavery, but in the "afterlife of slavery" and that Blacks exist outside of the world, because the social world is held together by anti-Blackness. This argumentation has had important effects within Black German and Black European Studies. This course seeks to explore these philosophical claims, by comparing American films with European films that deal with anti-Black racism.

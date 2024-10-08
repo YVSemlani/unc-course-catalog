@@ -1,3 +1,0 @@
-# MTSC 745: Chemistry of Biomaterials
-
-Focuses on the chemistry and chemical structure-function relationships of soft synthetic biological materials. Topics include chemistry of proteins, peptides, nucleic acids, polysaccharides and lipids, and their incorporation into biomaterials and biosensors; enzymatic reactions; chemical modification of organic and inorganic surfaces using self-assembled monolayer chemistries, bioconjugation chemistries, synthesis of nanoparticles and their application as sensors, application of biological materials for logic operations, fundamentals of supramolecular chemistry.

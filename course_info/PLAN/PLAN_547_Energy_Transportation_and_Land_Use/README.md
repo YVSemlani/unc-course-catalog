@@ -1,3 +1,0 @@
-# PLAN 547: Energy, Transportation, and Land Use
-
-This course explores the reciprocal connections between energy (production/conversion, distribution, and use), land use, environment, and transportation. Evaluation of federal, state, and local policies on energy conservation and alternative energy sources are emphasized. Students gain skills to analyze impacts, interdependencies, and uncertainties of various energy conservation measures and production technologies.

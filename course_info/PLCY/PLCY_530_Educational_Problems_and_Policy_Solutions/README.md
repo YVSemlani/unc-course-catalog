@@ -1,3 +1,0 @@
-# PLCY 530: Educational Problems and Policy Solutions
-
-Reviews current debates and policy solutions in education. Topics analyzed through three of the most commonly used evaluative criteria: equity, efficiency, and effectiveness. Topics: equality of educational opportunity, racial segregation, the black-white test score gap, school choice, and the use of incentives to promote increased performance. Lecture, case studies, discussion. Honors version available.

@@ -1,3 +1,0 @@
-# ANTH 389: Special Topics in Medical Anthropology - Research Methods and Experiences
-
-This course exposes medical anthropology students to a wide range of social science methods used to conduct research and analyze data. This course highlights approaches used primarily in medical anthropology but also draws on those used by other anthropologists. The focus will be on conducting fieldwork using participant-observation and interview techniques. Analytical techniques will focus on writing, organizing and analyzing fieldnotes. Students will engage in orginal fieldwork exercises and produce fieldnotes.

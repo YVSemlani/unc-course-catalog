@@ -1,3 +1,0 @@
-# APPL 121: 3D Printing Technology and Practice
-
-3D Printing, or additive manufacturing (AM), is used broadly from manufacturing to medical research. AM will play an increasingly large role in virtually all areas of research, industry, and commerce with new technologies and significant improvements occurring continually. The course will delve into major existing and developing technologies. We will explore design elements for AM, motion control and imaging technologies, materials performance and selection, and the physics of parts production. Previously offered as APPL 418.

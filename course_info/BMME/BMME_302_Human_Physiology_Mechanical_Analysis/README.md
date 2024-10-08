@@ -1,3 +1,0 @@
-# BMME 302: Human Physiology: Mechanical Analysis
-
-Explores a quantitative approach to human physiology from the biomedical engineering perspective with an emphasis on systems physiology described using mechanical properties. Topics include the physiological and mechanical behavior of the blood vessels, lungs, kidney, and muscles. In lab exercises, students investigate mechanical properties of fluids, electrolyte exchange in dialysis, spirometry, and blood pressure measurement among other topics. Culminates with the design of a novel laboratory experiment.

@@ -1,3 +1,0 @@
-# POLI 459: Trans-Atlantic Security
-
-The course explores the development of Euro-Atlantic security institutions (NATO, EU) and compares security policy in the United States and Europe. Cases include policy toward the Balkans, Afghanistan, Russia, and Ukraine. Includes review of concepts of security and selected international relations approaches to international organizations. Honors version available.

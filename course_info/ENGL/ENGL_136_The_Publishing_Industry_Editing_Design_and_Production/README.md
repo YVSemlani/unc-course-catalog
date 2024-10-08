@@ -1,3 +1,0 @@
-# ENGL 136: The Publishing Industry: Editing, Design, and Production
-
-Students explore the many areas of the publishing industry and practice basic skills widely used in publishing, including submissions management, copy editing, proofreading, and book and ebook design. Through hands-on practice and meetings with experts in the field, students develop a solid foundation in publication design and the editorial process. Students may not receive credit for both ENGL 136 and ENGL 351.

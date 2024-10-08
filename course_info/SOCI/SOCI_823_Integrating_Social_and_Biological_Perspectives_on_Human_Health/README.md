@@ -1,3 +1,0 @@
-# SOCI 823: Integrating Social and Biological Perspectives on Human Health
-
-Student will learn key theories and methodological approaches for how social processes, socio-spatial organization, and social inequality are associated with health patterns, changes, and disparities; theories/approaches for studying human health from a biological perspective; and strategies using integrated social and biological research perspectives and address advantages and challenges.

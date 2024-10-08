@@ -1,3 +1,0 @@
-# IDST 111: Triple-I: Ethics, Economics, and Public Policy
-
-This interdisciplinary course provides an overview of core tools used to analyze issues at the intersection of ethics, economics and public policy. It introduces students to the tools of economic analysis, including markets, prices, and market failures; discusses the ethical dimensions of markets and public policy, including socio-economic justice, the nature of well-being, and individual liberty; and describes challenges in political organization and action that confront policy makers motivated by economic or ethical objectives.

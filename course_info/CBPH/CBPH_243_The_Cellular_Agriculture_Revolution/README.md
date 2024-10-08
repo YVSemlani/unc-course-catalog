@@ -1,3 +1,0 @@
-# CBPH 243: The Cellular Agriculture Revolution
-
-Learn the foundational biological and chemical processes used to produce cultivated meat. Lectures will cover state-of-the-art techniques for cultivated meat production and will allow you to think critically about the future of food. Weekly guest speakers will expose students to innovative startups and academic researchers establishing a new paradigm for manufacturing sustainable commodity meat products. The course will also introduce the environmental, ethical, and economic drivers behind the mission of alternative protein science and technology.

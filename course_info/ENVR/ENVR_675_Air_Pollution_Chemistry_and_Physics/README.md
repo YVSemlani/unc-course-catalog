@@ -1,3 +1,0 @@
-# ENVR 675: Air Pollution, Chemistry, and Physics
-
-This class is designed for graduate students planning for research in air pollution, emphasizing chemical kinetics and engineering approaches to problem solving in addition to atmospheric structure, meteorology, and modeling. We address problems of stratospheric and tropospheric ozone, particulate matter, and acid rain. We emphasize quantitative problem solving in homework.

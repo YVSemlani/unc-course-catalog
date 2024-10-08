@@ -1,3 +1,0 @@
-# PUBH 750: Strategies of Prevention for Clinicians
-
-This course for students in the PHC concentration establishes a framework for examining prevention strategies delivered in healthcare and public health settings and considers several important health problems and the evidence for applying prevention strategies to these health problems. Students learn and apply skills related to identifying public health problems and appropriate prevention strategies, and communicating about risk to diverse audiences. Encourages active student participation and involves a multidisciplinary faculty.

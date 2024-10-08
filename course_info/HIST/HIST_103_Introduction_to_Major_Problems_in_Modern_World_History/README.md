@@ -1,3 +1,0 @@
-# HIST 103: Introduction to Major Problems in Modern World History
-
-This survey course explores major events and trends in global history from 1200 to the present. We will examine societies across six continents while focusing on several key themes and developments, including social and economic diversity and transformation; exchange, conflict, and evolution within and between societies; the rise and fall of imperial projects; and the parameters and consequences of global interconnectedness across time.

@@ -1,3 +1,0 @@
-# MEJO 458: Southern Politics: Critical Thinking and Writing
-
-Interpretive-contextual journalism focused on the trends, issues, and politics that influence democracy in North Carolina, the American South, and the nation. Through readings and the practice of analytical journalism, the course explores government policy making, election campaigns, social and economic trends, ethics, and citizen-leader relationships.

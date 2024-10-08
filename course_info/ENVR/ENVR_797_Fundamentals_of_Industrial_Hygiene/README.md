@@ -1,3 +1,0 @@
-# ENVR 797: Fundamentals of Industrial Hygiene
-
-Provides broad understanding of industrial hygiene. Major emphasis is recognition of hazards in the workplace, evaluation of measurement of those hazards, and application of control strategies. The course will focus on introductory level industrial hygiene concepts associated with the anticipation, recognition, evaluation, control, and confirmation of control of occupational health hazards.

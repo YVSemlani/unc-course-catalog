@@ -1,3 +1,0 @@
-# HBEH 706: Effective Training for Global Health
-
-Students are introduced to adult learning principles, effective training methods, course design and evaluation for international audiences and settings, and characteristics of culturally-competent trainers. Students work in teams to: design a course and activity; facilitate the activity; and provide and incorporate feedback to foster peer sharing and learning.

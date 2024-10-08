@@ -1,3 +1,0 @@
-# BIOC 742: Contemporary Topics in Cell Signaling: Cell Cycle Control
-
-Permission of the instructor. Required preparation, coursework in biochemistry and/or cell & molecular biology. This graduate-level course conveys principles of eukaryotic cell proliferation control emphasizing in-depth discussion of current literature and unanswered questions. This class is one of the Contemporary Topics in Cell Signaling modules.

@@ -1,3 +1,0 @@
-# PSYC 210: Statistical Principles of Psychological Research
-
-Consideration of the methodological principles underlying psychological research, descriptive and inferential techniques, and the manner by which they may be employed to design psychological experiments and analyze behavioral data. Three lecture hours. Students may not receive credit for both PSYC 210/PSYC 210H and PSYC 215/PSYC 215H. Honors version available.

@@ -1,3 +1,0 @@
-# HPM 746: Introduction to Financial and Managerial Accounting for Healthcare Organizations
-
-Focuses on learning and applying key financial and managerial accounting tools and concepts to healthcare problems. Provides a broad introduction to key concepts, issues, tools, and vocabulary useful for policymakers and administrators. Topics include: reading and analyzing healthcare financial statements, recording transactions, budgeting, full costing, incremental costing, and responsibility accounting.

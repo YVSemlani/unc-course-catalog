@@ -1,3 +1,0 @@
-# PHYS 872: Solid State Physics II
-
-Topics considered include quantum and thermal fluctuations, and thermodynamics of phase transitions in a broad variety of condensed matter systems, their kinetic theory and hydrodynamics, novel materials (two-dimensional electron gas, graphene, topological insulators and superconductors, Dirac/Weyl/nodal line semimetals), condensed matter applications of modern field-theoretical methods (path integral, renormalization group, holography).

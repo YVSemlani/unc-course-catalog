@@ -1,3 +1,0 @@
-# MEJO 430: Personal Finance
-
-Learn the concepts of personal finance including mortgages, credit card management, checking accounts, credit ratings and scores, privacy, retirement planning, and stock market investing to help you successfully navigate your finances after graduation. We will explore the concepts of personal finance and also at looking behind the numbers to spot how the consumer might be taken advantage of financially by banking and other institutions.

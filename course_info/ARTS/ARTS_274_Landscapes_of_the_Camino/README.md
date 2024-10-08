@@ -1,3 +1,0 @@
-# ARTS 274: Landscapes of the Camino
-
-This course engages students in an artistic investigation of the landscapes along the Camino de Santiago pilgrimage route. Using the path as a metaphor, the class will explore journaling as a way to document, while traversing the diverse topographical terrain of this ancient path. The journey envelops many ancient and medieval histories and perceptions of the path, documenting our experiences and experimenting with various artistic strategies. Study abroad only.

@@ -1,3 +1,0 @@
-# MTSC 710: Materials Science First Year Seminar: Resources for success in your PhD program
-
-The Materials Science graduate student seminar series is a 1-credit course required for first year MTSC students. It is designed to expose students to APS research and key resources and skills outside of course work that they will need to be successful in the PhD program and beyond. Sessions will include research talks by APS faculty, workshops by invited speakers internal and external to UNC, and presentations by second year PhD students.

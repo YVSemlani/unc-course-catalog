@@ -1,3 +1,0 @@
-# ANTH 623: Human Disease Ecology
-
-This seminar considers cultural ecologies of disease by examining how social, cultural, and historical factors shape disease patterns. We examine how ecosystems are shaped by disease, how disease shapes ecosystems, and how cultural processes (e.g., population movements, transportation, economic shifts, landscape modifications, and built environments) contribute to emerging infectious disease.

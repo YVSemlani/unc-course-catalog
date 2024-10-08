@@ -1,3 +1,0 @@
-# FOLK 472: Traditions in Transition: Jewish Folklore and Ethnography
-
-This seminar examines Jewish stories, humor, ritual, custom, belief, architecture, dress, and food as forms of creative expression that have complex relationships to Jewish experience, representation, identity, memory, and tradition. What makes these forms of folklore Jewish, how do source communities interpret them, and how do ethnographers document them? Previously offered as FOLK 380/FOLK 505/JWST 380/JWST 505.

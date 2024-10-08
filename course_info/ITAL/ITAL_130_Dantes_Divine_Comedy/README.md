@@ -1,3 +1,0 @@
-# ITAL 130: Dante's Divine Comedy
-
-Florence, 1300. Decades of political violence and the Church's moral bankruptcy spark Dante's poetic vendetta: a tour of Hell, Purgatory, and Paradise to see souls getting their just deserts. Dante re-invents comedy to include horror and hallucination, philosophy and gossip, ethics and eros. Students engage analytically and creatively with literary and visual culture of the Italian middle ages.

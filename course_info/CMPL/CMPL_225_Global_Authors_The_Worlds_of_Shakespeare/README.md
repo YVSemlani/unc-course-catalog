@@ -1,3 +1,0 @@
-# CMPL 225: Global Authors: The Worlds of Shakespeare
-
-Fulfills a major core requirement. Recommended preparation, ENGL 225 or familiarity with at least four Shakespeare plays. Explores the afterlife of Shakespeare's plays from a transnational and multidisciplinary perspective, paying attention to the ways in which several of his plays have been dislocated and reconstituted for different audiences and different artistic and political aims.

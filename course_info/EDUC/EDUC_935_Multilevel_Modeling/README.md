@@ -1,3 +1,0 @@
-# EDUC 935: Multilevel Modeling
-
-The primary goal for the course is to assist the students in investigating research problems in social sciences, particularly when data is meaningfully organized into multiple layers as a hierarchy, or contextual levels. Multilevel models (MLM) are also known as hierarchical linear models (HLM), random coefficient models, or random effects models. MLM can be used to analyze a variety of questions with either categorical or continuous dependent variables, and explained by many independent variables.

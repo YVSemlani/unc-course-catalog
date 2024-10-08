@@ -1,3 +1,0 @@
-# IDST 129: Triple-I: Countering Hate
-
-Many of our cultural endeavors are aimed at overcoming the fears, suspicions, and misunderstandings that manifest as racism, misogyny, antisemitism, Islamophobia, homophobia, etc. In this class, we examine the cognitive and political roots of hatred as well as cultural efforts to overcome it through performance, literature, film, photography, and faith. We ask: How have artists and faith leaders addressed such animosity, and how can our practices of reading, viewing, listening, and scholarship counter hate?

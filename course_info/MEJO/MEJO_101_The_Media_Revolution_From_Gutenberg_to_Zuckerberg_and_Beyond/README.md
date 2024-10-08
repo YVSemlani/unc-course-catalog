@@ -1,3 +1,0 @@
-# MEJO 101: The Media Revolution: From Gutenberg to Zuckerberg and Beyond
-
-An introduction to the various facets of communication from the objective world of news media to the persuasive worlds of advertising, public relations, and social media. Developing skills and strengthening knowledge concerning media and communication industries, their content, and their effects on society as well as on individuals.

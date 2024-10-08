@@ -1,3 +1,0 @@
-# HBEH 609: Leadership for Alternative Breaks
-
-This experiential service-learning course will focus on interpersonal leadership theories, skill development, and application, with an in-depth emphasis on leadership as a behavior (i.e., self in relation to others). Students in this course serve as alternative break leaders through the APPLES Service-Learning Program. Leadership practices learned in this course will be directly applied to their experience as a break leader and to long-term leadership growth and development.

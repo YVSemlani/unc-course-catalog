@@ -1,3 +1,0 @@
-# GEOG 456: Geovisualizing Change
-
-This course investigates the challenges, tools and techniques, and important applications of visualizing and analyzing geographic data that is temporally dynamic. We tackle technical challenges in obtaining, analyzing, and visualizing dynamic processes in space though maps, and discuss the consequences of our choices in how to re/present these processes. Students will produce original geovisualizations of dynamic data related to their field. Recommended preparation: experience with GIS software (GEOG 370 or GEOG 491).

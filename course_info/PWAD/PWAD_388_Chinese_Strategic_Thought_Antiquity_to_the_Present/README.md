@@ -1,3 +1,0 @@
-# PWAD 388: Chinese Strategic Thought: Antiquity to the Present
-
-This course will introduce undergraduates to Chinese strategic and military thought through the translated writings of some of China's most significant philosophers, intellectuals, and political leaders, from antiquity to the present. Students will explore historical characteristics of Chinese strategy and consider the influence of these ideas in current international relations.

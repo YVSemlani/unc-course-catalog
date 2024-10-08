@@ -1,3 +1,0 @@
-# PUBH 782: The Public Health Impact of Criminalizing the Marginalized
-
-This course will define criminalization and describe how this phenomenon disproportionately impacts the health of marginalized populations. Students will analyze the social construction of illicit behavior and subsequent criminal involvement and use the principles of life course theory and social ecological framework to explore associations between what is criminalized and health outcomes. The course will also describe the impact of criminalization on emerging health policy and introduce public health tools needed to address these challenges.

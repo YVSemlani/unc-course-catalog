@@ -1,3 +1,0 @@
-# PLAN 363: Personal Finance, Wealth Building, and Public Policy
-
-This course examines the skills to make important financial decisions such as buying a car, a house, paying for college, and managing credit and debt. Students will also learn about the fundamentals of investment and retirement planning to prepare them for a lifetime of wealth building. Finally, students will learn about public policy initiatives aimed at increasing the wealth building opportunities of low-income and minority households and communities.

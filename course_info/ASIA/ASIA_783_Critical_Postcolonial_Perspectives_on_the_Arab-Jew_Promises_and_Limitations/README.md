@@ -1,3 +1,0 @@
-# ASIA 783: Critical Postcolonial Perspectives on the Arab-Jew: Promises and Limitations
-
-This seminar investigates the rise of the radical discourse and literature on the Arab-Jew / Mizrahi in the late 1980s and explores its connection to Israel's "new historians," post-Zionism, and post-nationalism and to Third-worldism. With the increasing presence of the Arab-Jew / Mizrahi in academic discourse and, to an extent, in Israeli (and Arab) media and culture, the original discourse has witnessed various permutations and increasing diversification from its inception to the present.

@@ -1,3 +1,0 @@
-# ENVR 430: Health Effects of Environmental Agents
-
-Required preparation, basic biology, chemistry through organic, calculus. Permission of the instructor for students lacking this preparation. Interactions of environmental agents (chemicals, infectious organisms, radiation) with biological systems including humans, with attention to routes of entry, distribution, metabolism, elimination, and mechanisms of adverse effects. Three lecture hours per week.

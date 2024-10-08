@@ -1,3 +1,0 @@
-# EDUC 672: UNC Teaching Fellows: Community of Learners
-
-This course is required during both fall and spring semesters for all UNC students currently receiving funding through the North Carolina Teaching Fellows Program. The course will focus on addressing NC Teaching Fellows Commission-mandated enhancements in areas of leadership, diverse learners, classroom management, and assessment. Fellows will reflect on experiences and knowledge gained through readings, discussions, and community engagement. Previously offered as EDUC 872.

@@ -1,3 +1,0 @@
-# MEJO 731: Campaigns and Clients
-
-This is a comprehensive course designed to equip students with advanced knowledge and practical skills required to excel in strategic communication. This course provides a deep dive into the strategies, tactics and best practices necessary to successfully manage campaigns and clients in this ever-evolving industry. We will conduct a real-world, contemporary and forward-looking evaluation of the industry with an emphasis on providing insight by and access to practitioners currently working in the field. Restricted to students in the Master of Arts in Media and Communication program.

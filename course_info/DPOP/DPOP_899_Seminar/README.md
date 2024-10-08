@@ -1,3 +1,0 @@
-# DPOP 899: Seminar
-
-Forum for scholarly discussion of policy issues, research ideas and methods, campus and industry research resources, and the presentation of ongoing research. In addition to presentations by DPOP faculty and students, seminar will include presentations from invited researchers from industry, managed care, foundations, health care organizations, clinicians, and other departments.

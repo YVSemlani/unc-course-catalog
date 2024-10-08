@@ -1,3 +1,0 @@
-# MEJO 439: Producing for Advertising
-
-This class is designed to enhance your understanding and appreciation for the producers' role in the advertising process. Students will be introduced to terminology, roles, shooting fundamentals, and interpreting the written word as they explore the three stages of filmmaking: preproduction, production, and post-production. Students will also learn what goes into bidding, scheduling, and delivering a completed campaign while also delving into client interfacing, legal, and union/nonunion rules.

@@ -1,3 +1,0 @@
-# HPM 791: Value Based Payment Policy
-
-This course will cover value based models in health care, including accountable care organizations, bundled payments, patient centered medical home models, risk-based contracts, and other related programs. We will cover the goals of these models, what we mean by "value" in health care, how payment arrangements work practically, evidence on the effectiveness of these models for improving quality and efficiency in health care, and the policies addressing value-based payment.

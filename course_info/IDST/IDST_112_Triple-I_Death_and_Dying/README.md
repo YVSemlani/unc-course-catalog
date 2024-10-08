@@ -1,3 +1,0 @@
-# IDST 112: Triple-I: Death and Dying
-
-Death and dying are universal human experiences. Yet there are cultural and historical variations in how we define and experience death and dying. This course explores the concepts of death and dying from three different disciplines (examples may include, but are not limited to, Anthropology, English and Comparative Literature, and Psychology and Neuroscience). This course will consider similarities and differences between the discipline research methodologies and introduce students to data literacy and principles of evidence.

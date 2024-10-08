@@ -1,3 +1,0 @@
-# ENGL 318: Multimedia Composition
-
-This class studies composing in a variety of modes, including visuals, moving images, gestures, sounds, and words. Students develop projects using image, audio, and video editors, examining how multimedia fits within the history of rhetoric and writing and relates with concerns such as purposes, audiences, contexts, arguments, genres, and mediums. Honors version available.

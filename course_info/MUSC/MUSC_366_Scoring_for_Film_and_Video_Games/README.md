@@ -1,3 +1,0 @@
-# MUSC 366: Scoring for Film and Video Games
-
-Practical, hands-on training in the art of composing music for film and video games. In addition to analyzing and discussing influential film/game music, the course develops skills such as orchestration, underscoring, musical narrative, and thematic development. Students enrolled in the course are expected to have some prior experience composing and notating music for a variety of instruments and ensembles.

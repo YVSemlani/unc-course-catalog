@@ -1,3 +1,0 @@
-# HIST 332: Identity and Community in Modern Jewish History: The Case of Durham
-
-This course explores diverse experiences of modernity among Jewish populations from the mid-18th century to the present under the influence of political, cultural, and socioeconomic changes. Diaries, memoirs, literature, and film challenge students to develop their own analyses while becoming familiar with arguments among scholars of Jewish life.

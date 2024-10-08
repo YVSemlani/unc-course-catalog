@@ -1,3 +1,0 @@
-# PWAD 356: Strategic Intelligence and International Security
-
-Course investigates policies, issues, key problems, and potential solutions in strategic intelligence and international security. In addition to readings and class simulations, the students will write an issue paper similar to those prepared within the national security community assessing the future environment and suggesting policies and strategies.

@@ -1,3 +1,0 @@
-# FREN 402: Intermediate Accelerated French
-
-A continuation of FREN 401. Covers levels three and four in one semester. Develops all skills, with increasing emphasis on reading, writing, and cultural analysis. Designed for highly motivated undergraduate/graduate language learners, especially those who have experienced success with learning another language. Prepares students for advanced courses. Students may not receive credit for both FREN 402 and any of the following: FREN 203 and 204.

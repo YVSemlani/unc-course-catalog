@@ -1,3 +1,0 @@
-# ANTH 808: Researching and Writing Lives
-
-The course focuses on developing students' qualitative and analytic research skill through a project that culminates in writing a life story. Students will design a research plan, develop a research relationship with an interlocutor, hone methodological techniques, discuss ethical concerns, strengthen analytic interpretation, and produce a polished life narrative.

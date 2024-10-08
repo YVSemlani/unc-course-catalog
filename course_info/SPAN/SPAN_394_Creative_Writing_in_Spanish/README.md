@@ -1,3 +1,0 @@
-# SPAN 394: Creative Writing in Spanish
-
-This fiction workshop allows students to engage in individual and collaborative creative expression, exploration, and production. Throughout the semester, students analyze literary works to acquire the necessary tools to create their own short stories in Spanish, while mastering certain techniques and methods related to fiction. The course also integrates cultural events outside of the classroom such as guest lectures, book presentations, or literary workshops as part of class participation.

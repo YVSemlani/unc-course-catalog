@@ -1,3 +1,0 @@
-# FOLK 424: Ritual, Festival, and Public Culture
-
-This course explores rituals, festivals, and public cultural performances as forms of complex, collective, embodied creative expression. As sites of popular celebration, conflict resolution, identity definition, and social exchange, they provide rich texts for folkloristic study. We consider how local and global forces both sustain and challenge these forms.

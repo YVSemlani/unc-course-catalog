@@ -1,3 +1,0 @@
-# POLI 241: Comparative Political Behavior
-
-Political behavior is the study of attitudes, ideology, and engagement with the government. Why are some individuals more likely than others to support specific policies? How do we understand the connection between voters and political parties? What makes an individual more likely to vote? When and where are broad social movements, wars, rebellions and revolutions most likely to occur? Comparative political behavior studies how these phenomena operate across different institutional and cultural environments. Honors version available.

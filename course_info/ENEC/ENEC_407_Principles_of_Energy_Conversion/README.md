@@ -1,3 +1,0 @@
-# ENEC 407: Principles of Energy Conversion
-
-Recommended preparation, ENEC 201, and MATH 152 or 231. This course will get students familiar with the principles governing the conversion of a variety of non-renewable and renewable resources to energy services. Physical, chemical, and biological principles involved in the design and analysis of these systems will be reviewed. The basics of project economics applied to the design of energy conversion systems will also be introduced.

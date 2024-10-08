@@ -1,3 +1,0 @@
-# NURS 935: Leading Organizational and Systems Change
-
-This course provides a foundation for the application of core leadership principles to lead organizational change within complex and dynamic healthcare systems. Students will gain competencies in the application of macro-level leadership tools (e.g., organizational assessment, systems thinking, strategic planning, workforce management, and organizational policy development and analysis) to address service delivery challenges and drive organizational change, with a particular focus on quality improvement and patient safety initiatives. Nursing majors only.

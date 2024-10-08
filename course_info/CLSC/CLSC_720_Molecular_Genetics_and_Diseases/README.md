@@ -1,3 +1,0 @@
-# CLSC 720: Molecular Genetics and Diseases
-
-This course offers an overview of molecular genetics in relation to human variation and disease. Basics of disease are discussed, and diagnosis and treatment explored. Molecular techniques are addressed in context of different areas of the laboratory that use molecular technology: inherited disease, oncology, infectious disease, and identity testing. By the end of the course, students will better understand molecular causes of many diseases and disorders that are investigated using molecular diagnostics. MCLS majors only.

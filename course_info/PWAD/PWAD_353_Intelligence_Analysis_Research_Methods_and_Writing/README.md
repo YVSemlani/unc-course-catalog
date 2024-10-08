@@ -1,3 +1,0 @@
-# PWAD 353: Intelligence Analysis: Research Methods and Writing
-
-Examines intelligence analysis methodology and products from a variety of settings and customer-types. An overview of the intelligence process and of collection strategies will also be conducted. The primary emphasis will be on conducting actual analysis of raw information to produce an intelligence estimate as a capstone to the course.

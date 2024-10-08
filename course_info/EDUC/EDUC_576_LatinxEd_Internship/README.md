@@ -1,3 +1,0 @@
-# EDUC 576: LatinxEd Internship
-
-This course is primarily built upon weekly service learning, as students receive hands-on and behind-the-scenes experience in serving LatinxEd and its youth-serving initiatives and programs. Service-learning is coupled with weekly university course where students will collectively reflect on their experience in educational settings in and out of the classroom and receive mentorship from LatinxEd staff/partners. Students will demonstrate skills learned in EDUC 575.

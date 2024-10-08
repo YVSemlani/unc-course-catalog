@@ -1,3 +1,0 @@
-# MEJO 373: Account Planning
-
-A study of the principles and tools of strategists and account planners all in the pursuit of connecting people with brands in new and interesting ways, with a focus on three areas. First, how to uncover compelling customer, competition, and brand insights through research. Second, how to spark creativity using those insights. Finally, how to persuade, provoke and inspire others through creative briefs, presentations and more.

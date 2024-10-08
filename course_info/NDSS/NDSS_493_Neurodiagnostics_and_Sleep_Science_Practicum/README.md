@@ -1,3 +1,0 @@
-# NDSS 493: Neurodiagnostics and Sleep Science Practicum
-
-Sleep disorders center and clinical neurophysiology laboratory clinical experience. Students participate in direct working experience in clinical neurophysiology and sleep laboratories (note that students may not be substituted as staff). Students may participate in practicum rotations in private practices and acute care centers accredited by the American Academy of Sleep Medicine and/or The American Board of Registration of Electroencephalographic and Evoked Potential Technologists, or other accreditation as deemed appropriate by the instructor. Majors only.

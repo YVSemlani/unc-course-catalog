@@ -1,3 +1,0 @@
-# PATH 730: Cancer Immunology
-
-The goal of this graduate-level course is to learn about recent advances in the field, acquire specialized knowledge and to develop a foundation of critical thinking skills in cancer immunology. The course format will combine lectures and in-class discussion of assigned readings, with particular emphasis on state-of-the art research methods. Students should be familiar with modern concepts of immunology and should consult with the course director before enrolling. The course meets for half a semester.

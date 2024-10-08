@@ -1,3 +1,0 @@
-# GRAD 720: Team-based Consulting for Technology Commercialization
-
-Permission of PSM Program Director is required. Course matches student teams with a small business that has received a phase 1 SBIR. Students will be guided through development of a commercialization plan. Topics include: conducting market research and analysis of findings, intellectual property protection, team selection, and business model alternatives.

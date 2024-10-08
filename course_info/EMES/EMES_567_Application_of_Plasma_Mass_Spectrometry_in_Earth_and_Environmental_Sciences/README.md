@@ -1,3 +1,0 @@
-# EMES 567: Application of Plasma Mass Spectrometry in Earth and Environmental Sciences
-
-This class is an introduction to one of the state-of-the-art analytical techniques in geological and environmental research - the ICP-MS (Inductively Coupled Plasma - Mass Spectrometry). Students will have hands-on experiences with ICP-MS sample preparation and analysis, and they will design their own hypothesis-driven research projects to analyze major and trace elements in geological and environmental samples including water, rock, and soil. Course previously offered as GEOL 567.

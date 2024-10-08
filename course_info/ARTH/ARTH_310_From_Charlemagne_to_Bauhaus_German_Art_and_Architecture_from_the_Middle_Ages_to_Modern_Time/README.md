@@ -1,3 +1,0 @@
-# ARTH 310: From Charlemagne to Bauhaus: German Art and Architecture from the Middle Ages to Modern Time
-
-The course focuses on art and architecture in the German-speaking countries (Germany, Switzerland, Austria and in regions formerly belonging to the historical Holy Roman Empire) from Charlemagne in the eighth century to the Bauhaus in the 1920s and beyond. It studies the artistic developments and exchanges with neighboring countries (such as France, Italy, etc.) over the centuries and discusses them in the relevant historical and political contexts.

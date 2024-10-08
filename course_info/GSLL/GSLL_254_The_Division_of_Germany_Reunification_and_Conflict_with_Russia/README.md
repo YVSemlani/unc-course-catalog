@@ -1,3 +1,0 @@
-# GSLL 254: The Division of Germany, Reunification, and Conflict with Russia
-
-Why was occupied Germany divided into two states after World War II? Were the Cold War and division inevitable? We explore these questions in two chronological contexts: 1945-1949 and 1989-present, with emphasis on the reemergence of Western conflict with Putin's Russia. Readings and discussions in English. Previously offered as GERM 254. Honors version available.

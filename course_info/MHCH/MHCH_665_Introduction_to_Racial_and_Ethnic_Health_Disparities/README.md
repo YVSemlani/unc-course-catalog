@@ -1,3 +1,0 @@
-# MHCH 665: Introduction to Racial and Ethnic Health Disparities
-
-Eliminating health disparities is a national goal for improving the health of Americans. Little to no progress has been made on eliminating disparities among racial/ethnic subpopulations compared to the population of the United States. This course treats basic concepts about the origins of and contributing factors for health disparities.

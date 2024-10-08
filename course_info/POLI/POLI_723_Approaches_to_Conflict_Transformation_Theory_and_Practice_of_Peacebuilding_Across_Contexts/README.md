@@ -1,3 +1,0 @@
-# POLI 723: Approaches to Conflict Transformation: Theory and Practice of Peacebuilding Across Contexts
-
-In this course, students will learn about a variety of mechanisms for resolving or transforming conflict on interpersonal, community, state, and international levels. The pedagogy of this course will be both theoretical and practical. Through readings, assignments, and class discussion, we will wrestle with questions about the efficacy, significance, and ethical implications of various methods of conflict transformation; and we will learn some techniques of conflict resolution from experienced practitioners.

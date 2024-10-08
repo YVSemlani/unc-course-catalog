@@ -1,3 +1,0 @@
-# HBEH 772: Planning, Implementing, and Evaluating Health Behavior Interventions
-
-Designed to provide practical tools that can be used in real world settings, this course will examine methods to plan health behavior interventions and determine if and how a particular health-related program works. Several major types of evaluation will be covered, with emphasis on process and impact evaluation. Restricted to Health Behavior MPH Concentration Students.

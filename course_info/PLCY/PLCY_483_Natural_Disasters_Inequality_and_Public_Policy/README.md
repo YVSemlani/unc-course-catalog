@@ -1,3 +1,0 @@
-# PLCY 483: Natural Disasters, Inequality, and Public Policy
-
-Growing research shows that socially marginalized communities are disproportionally more at risk from environmental hazards and thus unable to recover fully. This course is designed to introduce students to natural disasters, their impact on marginalized populations, and the policies that help or hurt communities from recovering. We will also address topics of systemic racism, equity, and think critically about terms such as vulnerability and resiliency to determine their applicability in the 21st century.

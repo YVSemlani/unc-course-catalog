@@ -1,3 +1,0 @@
-# MUSC 120: Foundations in Music
-
-An introduction to concepts and methods fundamental to the study, practice, and performance of music. The course provides a foundation for undergraduate students interested in the study of music. Students will gain an appreciation for music's significance across repertories and develop the aptitude to think about music in different ways. Intended for music majors and minors.

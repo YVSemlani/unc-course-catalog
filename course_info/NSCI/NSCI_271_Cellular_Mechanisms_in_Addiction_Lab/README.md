@@ -1,3 +1,0 @@
-# NSCI 271: Cellular Mechanisms in Addiction Lab
-
-Cellular Mechanisms in Addiction is a laboratory and research-based course aimed at investigating the cellular underpinnings of drug addiction. Students will gain hands-on experience in cutting-edge approaches utilized in addiction research. Utilizing rodent brain tissue and immunohistochemistry techniques, students will delve into the cellular and molecular changes associated with addiction. Majors only.

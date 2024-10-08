@@ -1,3 +1,0 @@
-# ARTH 968: Tudor and Jacobean Portraits: A Theoretical and Practical Investigation
-
-This course involves close and critical examination of a select body of extant portraits from the Tudor and Jacobean periods in English history (1485-1625) in the collection of the North Carolina Museum of Art. Students taking this unit will play an active role in researching these relatively unstudied works of art.

@@ -1,3 +1,0 @@
-# NUTR 250: Global Sustainable Food Systems
-
-This course will provide an overview of global food systems drivers, elements, and activities; key players; key problems, and potential solutions. Students will learn about challenges facing food systems across the globe, and learn to critically evaluate the design, measurement, and impact of programs, policies, and interventions addressing these challenges. Students will also learn about methods to assess food systems activities and impacts.

@@ -1,3 +1,0 @@
-# ENGL 394: Misbehaving Bodies: Dis/ease, Dis/order, & Dys/topia in Latinx Fiction and Film
-
-This course explores how Latinx fiction and film portray diasporic ''misbehaving'' bodies. We will explore how bodies not conforming to desired ''norms'' are treated both within global society and within their own multi-ethno-racial diasporic communities. The ''norms'' Latinx individuals and communities navigate are often invisible but clearly defined through language, policy/policing, social structure, and cultural production. The Latinx diaspora includes the United States, the Caribbean Basin, and other sites beyond the North Atlantic region.

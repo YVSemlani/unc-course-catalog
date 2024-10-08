@@ -1,3 +1,0 @@
-# EDUC 512: Critical Examination of Racism and Education: African American Case Example
-
-This course examines previous and present eras in American education from a critical race perspective. Critiques will feature dominant or majoritarian narratives (widely adopted accounts often taught as part of an institution's curriculum) and counter narratives in regards to racism with the education of Blacks in America serving as a case example.

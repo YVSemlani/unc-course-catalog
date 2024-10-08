@@ -1,3 +1,0 @@
-# PHIL 392: Ethics Research Seminar for Undergraduates
-
-This is a capstone course in ethics designed for Parr Center Ethics Scholars completing the Mentored Research capstone project. The seminar will provide a collaborative learning space that will facilitate each student's independent research and writing. This course will begin with survey of major themes in practical ethics before transitioning to a thematically focused study of topics based on the research interests of the students in the course.

@@ -1,3 +1,0 @@
-# DENG 720: Applied Pharmacology
-
-This course is designed for dental practitioners with sufficient general and specific clinical pharmacology knowledge to appropriately and safely utilize drugs in treatment. The course will be concentrated in three areas: general clinical pharmacology principles, general clinical pharmacology of medications, specific clinical pharmacology of drugs utilized by dental practitioners.

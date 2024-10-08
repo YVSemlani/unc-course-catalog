@@ -1,3 +1,0 @@
-# ENVR 687: Writing for Journal Publication on Water and Sanitation Hygiene, Health, and Development
-
-This course familiarizes students with scientific paper writing and coaches students towards journal manuscript submission. Students should have a data set of results. Sessions begin with student presentations and discussion, followed by a brief preparatory lecture on the next assignment. Substantive preparation is required between sessions.

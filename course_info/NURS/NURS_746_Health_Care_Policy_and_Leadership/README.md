@@ -1,3 +1,0 @@
-# NURS 746: Health Care Policy and Leadership
-
-This course examines the role of nursing in health care leadership and policy. Students will gain competencies in the application of micro and meso level leadership tools. Students will apply these skills to the health policy development and advocacy as a means of impacting the health of populations at the local, state, and national and/or international level. Nursing majors only.

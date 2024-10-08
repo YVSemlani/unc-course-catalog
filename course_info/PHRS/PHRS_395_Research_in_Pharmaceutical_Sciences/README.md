@@ -1,3 +1,0 @@
-# PHRS 395: Research in Pharmaceutical Sciences
-
-Permission must be granted by the course instructor prior to enrollment. This course is a supervised experiential research experience in a pharmaceutical sciences laboratory. Students engage in a mentored, in-depth, scholarly project wherein they frame an answerable question with a faculty course instructor, generate and interpret relevant data, and communicate their findings in written form.

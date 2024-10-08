@@ -1,3 +1,0 @@
-# APPL 285: Engineering Fundamentals of Force, Motion, and Energy
-
-We will go beyond the basics of introductory physics and learn the principles and methods that engineers use to understand, predict, and control the behavior of force, motion, and energy in the physical world. Topics covered will include engineering statics, dynamics, and fundamental fluid mechanics. As engineers, we must analyze and design processes that interact with and transform the physical world. This requires us to apply fundamental concepts to achieve predictable and safe results.

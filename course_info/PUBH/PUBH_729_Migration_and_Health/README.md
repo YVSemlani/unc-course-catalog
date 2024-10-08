@@ -1,3 +1,0 @@
-# PUBH 729: Migration and Health
-
-This course explores the linkage between migration and health by taking into account existing models and frameworks that assess the dynamics of an increasingly mobile society. The course evaluates trends in health outcomes among migrants, social determinants of health that affect new migrants and migrant health across the life course. Other elements: labor migration and occupational health; place-based health; access to health coverage; health service provision to migrants.

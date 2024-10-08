@@ -1,3 +1,0 @@
-# WGST 272: Masculinities
-
-This class is an interdisciplinary study of masculinities as theorized by feminists and shaped by race, class, sexuality, gender identity, age, ability, and nationality. Meanings of masculinities will be addressed at multiple levels - historical, structural, cultural, and interpersonal - and in multiple sites - childhood, adolescence, the body, education, work, sports, popular culture, immigration, gender violence, and mass incarceration.

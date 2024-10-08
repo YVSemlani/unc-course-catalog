@@ -1,3 +1,0 @@
-# IDST 117: Triple-I: Experiencing Latin America: Bodies, Belonging, Nature
-
-This course examines linguistic, geopolitical, and socio-environmental boundaries to foster an inter-sectional understanding of identity and belonging in the Americas. Course topics (e.g., migration, justice, environmental well being) are examined through Spanish language-based films and artwork. Students will expand their understanding of the Spanish language, context art, and global issues. Students will have assignments that involve performance, creative design, and fabrication.

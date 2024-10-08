@@ -1,3 +1,0 @@
-# ENGL 312: Oral Presentations in the Professional World
-
-Students will focus on learning skills and strategies to deliver effective oral presentations. The course will be organized around an individual research project that will culminate in a major presentation following the "best practices" of that discipline. During the semester, students will deliver presentations of various lengths and genres and will learn effective use of media support. Course standards will emphasize professional-level expectations and current "best practices" in the field.

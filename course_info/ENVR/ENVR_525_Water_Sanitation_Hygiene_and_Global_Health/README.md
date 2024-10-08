@@ -1,3 +1,0 @@
-# ENVR 525: Water, Sanitation, Hygiene, and Global Health
-
-Builds on an understanding of infectious and toxic hazards, disease causation, and environmental transmission. Deals with hazard and disease classification; safety, risk, and vulnerability; interventions and their health impact; approaches in different settings; distal factors (e.g., water scarcity, climate change); and approaches to studying unsafe water, sanitation, and hygiene. Previously offered as ENVR 682.

@@ -1,3 +1,0 @@
-# SWAH 405: Advanced Kiswahili V
-
-Advanced Swahili aims at developing fluency and proficiency in Swahili language and students' understanding of the social, economic, and political situation and activities of the East African people. Further, the course is designed to develop the students' ability to describe events, express opinions, and compare what they learn in class with personal experience and knowledge in their respective fields of specialization using structured arguments.

@@ -1,3 +1,0 @@
-# SOCI 273: Social and Economic Justice, Experiential Education
-
-Covers theory and practice of social and economic justice, including analyses of racial, gender, sexual, class, national, and other forms of justice, the history of influential movements for justice, and strategies of contemporary struggles. This course has a 30-hour service-learning component. Students may not receive credit for both SOCI 273 and SOCI 274.

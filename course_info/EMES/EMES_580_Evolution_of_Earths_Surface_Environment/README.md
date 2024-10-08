@@ -1,3 +1,0 @@
-# EMES 580: Evolution of Earth's Surface Environment
-
-The course combines geology, climatology, hydrology, and soil science to explore the evolution of the surface environment of the earth from the Archean to the present, including the great oxidation event and modern ocean anoxia. Students will read research papers and will be encouraged to question and debate course topics. Course previously offered as GEOL 580.

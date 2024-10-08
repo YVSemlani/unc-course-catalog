@@ -1,3 +1,0 @@
-# NSCI 418: Glial Neuroscience
-
-The purpose of this course is to provide an in-depth investigation into glia cells in the brain, and their roles in health and disease. We will focus particularly on astrocytes, microglia, and oligodendrocytes, but we will also cover and discuss other glial cell types as well. A general overview will be provided for each topic, followed by study and discussion of primary literature.

@@ -1,3 +1,0 @@
-# NURS 620: Mindfulness and Self-Compassion for Caring Professionals
-
-This course is designed to introduce students to rationale, research, and practices of mindfulness and self-compassion. Upon course completion, students will exhibit knowledge and skills related to mindfulness/contemplative practice/training, research evidence on mindfulness for enhancing provider self-care, patient/client engagement, and wellness (e.g., reducing stress, burnout, and fatigue; increasing resilience). Majors only; permission of the instructor for non-majors.

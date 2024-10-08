@@ -1,3 +1,0 @@
-# EPID 757: Problem Solving Seminar in Advanced Infectious Disease Epidemiology
-
-In this seminar, we will explore how a combination of the biological understanding of disease processes and advanced methods in infectious disease analytics are essential to understanding critical problems in infectious disease, including the interpretation of surveillance data, the design of control measures and projecting the course of epidemics. We will take a ''problem based'' approach to learning about these issues, with a focus on a rotating set of disease systems. Restricted to Epidemiology PhD students, though others may be admitted with permission of the instructors.

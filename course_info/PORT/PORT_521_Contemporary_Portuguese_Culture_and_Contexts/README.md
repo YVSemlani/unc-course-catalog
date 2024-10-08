@@ -1,3 +1,0 @@
-# PORT 521: Contemporary Portuguese Culture and Contexts
-
-This course examines contemporary Portuguese culture and national identity--contrasting it with European culture in general--and examining the historical events (primarily from the 20th century) that have had the greatest impact on national identity. The Estado Novo dictatorship, the 1974 Carnation Revolution, loss of the Portuguese African colonies, integration into the European Union, and the changing social perceptions of the role of women are all examined.

@@ -1,3 +1,0 @@
-# RUSS 477: Wicked Desire: Vladimir Nabokov, Lolita, on Page and Screen
-
-Vladimir Nabokov's novel Lolita (1955) became a global phenomenon due to its unflinching portrayal of pedophilia. This course will delve deeper into the novel's moral complexity, its international context, and its reflection in mass culture, including movies by Stanley Kubrick (1962) and Adrian Lyne (1997). Taught in English; some readings in Russian for qualified students.

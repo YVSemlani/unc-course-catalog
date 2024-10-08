@@ -1,3 +1,0 @@
-# SOCI 121: Population Problems
-
-This course examines the relationship between population and society from a global perspective. As an introductory course in the field of population studies and demography, it emphasizes three key aspects of 'doing' demography: developing a demographic perspective that connects social phenomena to population factors; learning a range of quantitative measures and techniques that describe population and its changes; and acquiring a working knowledge of population trends, including their socioeconomic determinants and policy implications.

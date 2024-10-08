@@ -1,3 +1,0 @@
-# CMPL 247: Indigenous Spiritualities in Literatures of China and Taiwan
-
-This course examines spiritual motifs in Asian literature by Indigenous writers in China and Taiwan. Works by Tibetan, Mongol, Uyghur, Kazakh, Bunun, Tao, Hui, Yi, and Wa writers express spiritual principles from a wide variety of beliefs and cosmologies, including Tibetan and Mongolian Buddhism, Islam, Shamanism, Animism, and Christianity. As forced assimilation threatens native languages and cultural heritage, Indigenous writers function as "priests of culture," providing spiritual inspiration by lyrically evoking powers beyond the human. Honors version available.

@@ -1,3 +1,0 @@
-# GEOG 294: Beyond Sustainability
-
-This course explores critical questions of sustenance, which are often overlooked in ''sustainability'' discourse: How do people sustain themselves in North America? Against what pressures? How does the geography and history of the land shape cultural, social, political, and economic practices of sustenance? And, in contexts of oppression, dispossession, and discrimination, how do acts of sustenance intersect or conflict with larger cultural, social, economic, and political debates about ''sustainability''?

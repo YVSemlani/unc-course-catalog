@@ -1,3 +1,0 @@
-# DRAM 230: Theatre of the Word
-
-This course, with a theatre and social justice theme, is structured to give students an understanding of the role of the speaker before the public, the logical and sequential development of an idea, and the methodology for organizing and presenting materials and information. The course will cover information gathering, speech outlining, small group discussion, and provide extemporaneous, informative, and persuasive speaking opportunities.

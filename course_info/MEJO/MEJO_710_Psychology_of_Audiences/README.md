@@ -1,3 +1,0 @@
-# MEJO 710: Psychology of Audiences
-
-Why do audiences do what they do? How can data be harnessed and interpreted to help drive communication strategy? With the fields of social psychology, consumer behavior, and market research as guides, students will identify an audience's motivations, values, and attitudes to more effectively analyze the what, why, and how of audience behavior. They will explore existing and emerging applied research techniques such as focus groups, eye-tracking, surveys, and facial mapping. Restricted to students in the M.A. in Digital Communication program.

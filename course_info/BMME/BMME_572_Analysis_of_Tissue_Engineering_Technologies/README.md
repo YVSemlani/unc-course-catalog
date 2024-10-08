@@ -1,3 +1,0 @@
-# BMME 572: Analysis of Tissue Engineering Technologies
-
-Lectures in this course address how to quantitatively evaluate functional engineered tissues. The course provides an overview of the field, with emphasis on detailed evaluation of scientific and commercial progress over time, and design principles that must be met to develop a process or fabricate a functional tissue-engineered part. Previously offered as BMME 470 and BMME 570.

@@ -1,3 +1,0 @@
-# GERM 278: Performance, Drama, Translation, Adaptation and Ethnographic Exchange
-
-German drama has been fundamental to shaping the country's identity. Thus, what better way to learn about a culture and history than to engage with its dramatic texts and performance? Nevertheless, there are always nuances that can potentially get lost in translation when adapting a text from one language to another. What does a reader of the translation need to know in order to properly understand the play? Readings and discussions in English.

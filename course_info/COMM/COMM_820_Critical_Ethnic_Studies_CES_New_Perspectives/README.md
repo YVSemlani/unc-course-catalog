@@ -1,3 +1,0 @@
-# COMM 820: Critical Ethnic Studies (CES): New Perspectives
-
-This course is devised to provide graduate students interested in theoretical interdisciplinary work with a sense of prevailing questions and critiques important to CES. CES takes on the more difficult questions of intersectional work, as it thinks through sovereignty and emancipation, identity and ontology, place, space and temporality. Each iteration of the course works itself through new perspectives in the field, challenging students to create new methodologies for their own work.

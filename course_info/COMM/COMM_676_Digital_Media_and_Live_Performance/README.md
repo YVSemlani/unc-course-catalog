@@ -1,3 +1,0 @@
-# COMM 676: Digital Media and Live Performance
-
-Permission of the instructor for undergraduates. Intended for students from various majors, this course provides a foundation in the history, theory, and practice of developing live, technologically-intensive, multimedia performance works. The course analyzes new media masterworks, addresses techniques of interdisciplinary collaboration, and offers workshops in specific software/technology applications.

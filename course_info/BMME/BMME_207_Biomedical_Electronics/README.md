@@ -1,3 +1,0 @@
-# BMME 207: Biomedical Electronics
-
-Fundamentals of analog and digital circuit analysis and design as applied to biomedical instrumentation and measurement of biological potentials. Passive circuit components, node and mesh analysis, transient behavior, operational amplifiers, frequency response, analog filter design, diode, transistors, biological signal acquisition, binary math and logical operators, digital circuit design, circuit simulation tools and techniques. Laboratory exercises supplement the topics presented in class lectures. Previously offered as BMME 350. Majors only.

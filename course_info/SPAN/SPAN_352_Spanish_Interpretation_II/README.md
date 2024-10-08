@@ -1,3 +1,0 @@
-# SPAN 352: Spanish Interpretation II
-
-Refines interpretation skills through continued study of theory and best practices in varied professional contexts. Focuses on enhancing linguistic competence, sight-translation, and mnemonic strategies. Increases cultural sensitivity to issues interpreters face in business, conference interpretation, education, health care, the hospitality industry, law, and social services.

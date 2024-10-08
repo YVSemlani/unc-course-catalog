@@ -1,3 +1,0 @@
-# PHCO 669: Macromolecular Crystallographic Methods II
-
-BIOC 667 is recommended for crystallography students. Permission of the instructor for students lacking the prerequisite. A combined lecture/laboratory workshop for serious students of protein crystallography or cryo-electron microscopy, addressing experimental model building, refinement, and analysis. Course intended primarily for graduate students.

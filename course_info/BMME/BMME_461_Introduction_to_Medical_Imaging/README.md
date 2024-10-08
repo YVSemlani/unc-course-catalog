@@ -1,3 +1,0 @@
-# BMME 461: Introduction to Medical Imaging
-
-This class covers the underlying concepts and instrumentation of modern medical imaging modalities. Review of applicable linear systems theory and relevant principles of physics. Modalities covered include X-ray radiography (conventional film-screen imaging and modern electronic imaging), computerized tomography (including the theory of reconstruction), magnetic resonance imaging, SPECT/PET, and ultrasound imaging.

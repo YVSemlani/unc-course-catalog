@@ -1,3 +1,0 @@
-# PLCY 394: The Intersector
-
-Permission of the instructor. This course aims to empower undergraduates to explore ways that local public, private, and non-profit sectors collaborate to address problems that cannot be solved by one sector alone. Students will utilize the Intersector toolkit to gain an understanding of how to diagnose, design, implement, and assess successful cross sector collaborations.

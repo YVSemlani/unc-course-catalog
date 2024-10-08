@@ -1,3 +1,0 @@
-# ENGL 118: Storytelling and Game Development
-
-This course examines video games as narrative texts through game play and game design. By the end of the semester, students will develop and create an original interactive narrative video game using the open-source software Twine. Through this making-centered course, students will study existing non-linear narratives to explore the basic principles of writing and examine the needs and expectations of the audience/viewer/player for immersive/interactive media and that of established media.

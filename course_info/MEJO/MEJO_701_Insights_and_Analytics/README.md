@@ -1,3 +1,0 @@
-# MEJO 701: Insights and Analytics
-
-Students learn how to analyze, interpret, and evaluate applied research data gathered using multiple contemporary research methodologies common in strategic communication. There is a particular focus on discovering insights into audiences, brands, markets, media, and culture, which can then be used to drive decisions. The course will also explore methods of effectively communicating analytics and insights to audiences. Students will create and execute a research plan and identify appropriate insight(s) for a client organization. Restricted to students in the Master of Arts in Media and Communication program.

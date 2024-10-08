@@ -1,3 +1,0 @@
-# CHIN 475: Confucianism: Origin, History, and Contemporary Relevance
-
-Confucianism is a millennia-long tradition of global reach. By reading and analyzing key ancient Confucian scriptures students will engage directly with philosophical questions of such as the origin of normative values and how to invoke them to solve ethical problems. They will also trace the history of the spread of the cultural and political influence of Confucianism in East Asia and its various receptions and (re-)interpretations in the West.

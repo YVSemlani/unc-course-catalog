@@ -1,3 +1,0 @@
-# NSCI 427: Neurobiology of Aging
-
-This course will survey clinical and experimental literature regarding the neurobiology of aging, considering different theories of aging, how aging is studied in the laboratory, and recent findings. Biochemical, molecular, physiological, and behavioral changes associated with both "normal" and pathological aging will be considered. Previously offered as PSYC 427.

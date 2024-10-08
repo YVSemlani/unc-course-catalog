@@ -1,3 +1,0 @@
-# GEOG 293: Freedom Farming
-
-The objective of Freedom Farming is to understand--in theory and in practice--the relationship between farming, health, and social justice among Black communities throughout the African diaspora. To this end we will investigate the history of agriculture's place in Black liberation movements; engage theories that orient these movements. Students also contribute to a local freedom farm. APPLES service-learning.

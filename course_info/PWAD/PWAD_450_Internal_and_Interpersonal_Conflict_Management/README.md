@@ -1,3 +1,0 @@
-# PWAD 450: Internal and Interpersonal Conflict Management
-
-This course aims to provide students with the tools necessary to most effectively engage in interpersonal conflicts. Students engage with diverse conflict management practitioners--from formally incarcerated individuals to public policy negotiation to international conflict mediators and role-play cross-cultural communication, inter-governmental negotiations, human rights, and workplace negotiations. Students will learn new negotiation and mediation skills, build upon existing ones, and learn to cope with stress, discomfort, and emotions when in conflict. Previously offered as PLCY/PWAD 330.

@@ -1,3 +1,0 @@
-# AAAD 388: Black Feminist Thought & the Speculative Imagination
-
-This class places transnational Black feminist thought in conversation with Black speculative fiction from across the diaspora, particularly emphasizing sci-fi and fantasy narratives set in dystopic or post-apocalyptic worlds. By reading these two traditions of writing together, we study how both genres theorize the potential sources of, responses to, and preventative measures against forms of political, social, and environmental catastrophe.

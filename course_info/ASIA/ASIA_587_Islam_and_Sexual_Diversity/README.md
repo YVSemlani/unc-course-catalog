@@ -1,3 +1,0 @@
-# ASIA 587: Islam and Sexual Diversity
-
-This course explores sexual norms and practices in Muslim contexts in the premodern and modern periods. It considers theories from sexuality, gender, and queer studies, and focuses on the contextual production of sexual norms, going beyond the sex and gender binary, and reflecting on a diverse range of sexual practices in Muslim communities and societies, analyzing concepts such as power, pleasure, control, as they are mapped onto and lived in diverse Muslim bodies.

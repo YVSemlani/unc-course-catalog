@@ -1,3 +1,0 @@
-# MEJO 142: Cultural Competency in Journalism and Strategic Communication
-
-This course, recommended to be taken with MEJO 153 or 121, provides foundational concepts and techniques for effective media communication. It uses a critical media literacy approach to foster awareness of how media as structure, practice, and product intersect with diversity, equity, and inclusion issues. Applying course concepts, students will recognize the importance of communicating proficiently with and about various constituencies, and will gain the ability to reflect, remark upon, and shape the public conversation.

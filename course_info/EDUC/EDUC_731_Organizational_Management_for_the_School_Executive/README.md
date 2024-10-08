@@ -1,3 +1,0 @@
-# EDUC 731: Organizational Management for the School Executive
-
-This course provides pre-service school executives with a skill set and practical experiences that address effective organizational management behaviors. Topics include time management, budget and resource allocation, use of data to assess decisions and initiatives, implementation of appropriate rules and procedures, and open communication with all stakeholders.

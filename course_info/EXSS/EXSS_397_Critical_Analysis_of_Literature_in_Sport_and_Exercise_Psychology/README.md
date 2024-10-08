@@ -1,3 +1,0 @@
-# EXSS 397: Critical Analysis of Literature in Sport and Exercise Psychology
-
-This course will expose students to research in sport and exercise psychology using the C.R.E.A.T.E. (Consider, Read, Elucidate the hypotheses, Analyze and interpret the data, and Think of the next Experiment) framework. Students will follow the historical publications of one sport and exercise psychology research group to better understand the research process. Each research paper will be digested/critiqued in phases. Student will also formulate their own novel research questions and present them to the class.

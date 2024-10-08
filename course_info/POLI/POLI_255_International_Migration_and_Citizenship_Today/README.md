@@ -1,3 +1,0 @@
-# POLI 255: International Migration and Citizenship Today
-
-This class explores the moral, economic, political, and cultural dimensions of international migration. It is discussion-based and tackles such thorny questions as: Do we have an obligation to let poor people into our rich country? What constitutes persecution? How do foreigners affect national identity? How should citizenship be allocated? Honors version available.

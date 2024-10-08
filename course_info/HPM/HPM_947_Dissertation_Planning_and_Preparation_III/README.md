@@ -1,3 +1,0 @@
-# HPM 947: Dissertation Planning and Preparation III
-
-The purpose of this course is to build on students' progress on work initiated in HPM 946 and continue to guide students through the steps necessary to complete a dissertation proposal. In collaboration with faculty, learners will assess the current state of their proposals and complete revisions and additional refinements, culminating in dissertations that are ready to be defended by fall of the third year in the program.

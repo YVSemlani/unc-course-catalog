@@ -1,3 +1,0 @@
-# LING 493: Internship in Linguistics
-
-Permission of instructor. This course allows students to integrate theoretical knowledge with practice through an internship experience in the field of linguistics. Students may work with businesses or organizations in the areas of computational linguistics, language documentation, education, publishing, or other related fields. Activities must be approved by faculty and supervised by a mentor.

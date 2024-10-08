@@ -1,3 +1,0 @@
-# ANTH 303: Native Languages of the Americas
-
-This course is an introduction to languages indigenous to the Americas. The course touches on the linguistic structure and classification of Native American languages as well as on social issues. This version requires that the student learn intensively about the structure of a specific language, as well as its social and cultural context. Students may not receive credit for LING 561 after completing LING 303.

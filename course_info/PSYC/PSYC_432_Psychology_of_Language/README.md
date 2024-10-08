@@ -1,3 +1,0 @@
-# PSYC 432: Psychology of Language
-
-Recommended preparation, PSYC 230 or LING 101 or LING 400. This course examines the mental representations and cognitive processes that underlie the human ability to use language. Covers what people know about language, how they process it, and how people make inferences about the speaker's meaning based on context. Recent work in experimental psycholinguistics is discussed.

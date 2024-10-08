@@ -1,3 +1,0 @@
-# HPM 728: Leadership and Workforce Management Strategies
-
-This course provides an introduction and overview to leadership, management, human resources and organizational behavior, with the goal of aligning these with the organization's strategy and mission. The course integrates theory with practice through readings, lectures, written assignments, and guest presentations from different organizational perspectives. Assessment, practice and development of leadership, managerial and organizational skills will be accomplished through team exercises and small group work.

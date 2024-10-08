@@ -1,3 +1,0 @@
-# HIST 101: A History of Lies, Conspiracies, and Misinformation
-
-This course, geared towards undergraduate students at the beginning of their college careers, will give students the tools needed to critically evaluate information. Texts from different historical periods, newsreels and propaganda movies, and a variety of different websites will be examined and deconstructed to understand how content can be presented or manipulated.

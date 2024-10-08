@@ -1,3 +1,0 @@
-# WGST 232: Identity in Transit: Performing the Self through Photography
-
-This course asks how gendered identity is shaped over time in relation to different cultural, social, and historical circumstances. Examines the practices of photographers who present themselves and others in assumed identities to comment on shifting social roles and challenge stereotypes. Students use photography to document performance and create self-portraits.

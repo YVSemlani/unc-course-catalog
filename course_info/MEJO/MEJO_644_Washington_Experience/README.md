@@ -1,3 +1,0 @@
-# MEJO 644: Washington Experience
-
-The Washington Experience is an intensive, semester long course that introduces students to careers in journalism and political communication and D.C.-based organizations and people. The hallmark of the course is a 12-week campaign simulation, where the class breaks into groups to either run candidates for office or cover those campaigns as journalists. Previously offered as MEJO 537. Enrollment preference will be given to students who have taken MEJO 144 and MEJO 244. Honors version available.

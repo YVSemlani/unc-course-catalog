@@ -1,3 +1,0 @@
-# RELI 314: Memory and the Historical Jesus
-
-Who was Jesus? What did he teach? Can we interpret Jesus apart from religious frames or is our conception of Jesus always shaped by the religious texts preserving his memory? What modes of analysis and interpretation do contemporary historians apply to these texts, and what assumptions or biases can color their work? Comparing ancient and modern constructions of Jesus, this course probes the differences between cultural memory and historical writing as practices of knowing. Honors version available.

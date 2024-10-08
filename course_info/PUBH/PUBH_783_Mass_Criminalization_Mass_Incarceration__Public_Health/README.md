@@ -1,3 +1,0 @@
-# PUBH 783: Mass Criminalization, Mass Incarceration & Public Health
-
-This course examines the public health impact of mass criminalization and mass incarceration in the US. Using a public health prevention framework, students will investigate the intersection of the criminal legal system with health outcomes. Students will identify alternative strategies grounded in public health, social justice and human rights principles to create healthier communities.

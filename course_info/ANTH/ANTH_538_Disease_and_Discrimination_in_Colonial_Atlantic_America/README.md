@@ -1,3 +1,0 @@
-# ANTH 538: Disease and Discrimination in Colonial Atlantic America
-
-Colonization of Atlantic America between 1500 and 1900, through landscape change, agriculture, poverty, labor discrimination, and slavery differentially placed subsets of the general population at risk for infectious disease and other insults to their health. Lecture and discussion using archaeological and bioarchaeological studies, modern disease studies, and historic documents.

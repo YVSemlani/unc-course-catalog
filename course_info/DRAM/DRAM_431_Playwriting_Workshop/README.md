@@ -1,3 +1,0 @@
-# DRAM 431: Playwriting Workshop
-
-As image makers, the work we do has a powerful and lasting impact on perception. When writing beyond ourselves and our experience, special care must be given the development of characters and exploration of the world of the play. This class explores the impact of social identity on playwriting and how we can use the power of storytelling to reflect a greater vision for humanity.

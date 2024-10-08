@@ -1,3 +1,0 @@
-# RUSS 102: Basic Russian Communication II
-
-Further basics of Russian for everyday conversations. Continues to lay the foundation for development of four language skills (speaking, writing, listening, and reading) indispensable for communication on everyday topics in a variety of situational contexts. Fosters further interaction through acquisition of essential communicative and conversational strategies active in contemporary standard Russian through culturally relevant materials.

@@ -1,3 +1,0 @@
-# MEJO 541: Reporting & Writing About the Economy
-
-This course is designed to build on your basic knowledge of various aspects of the economy and give you the tools and skills you need to synthesize sometimes complex information, understand how people are impacted by this information, and communicate both the information and the impact clearly and accurately to an audience. Previously offered as MEJO 451.

@@ -1,3 +1,0 @@
-# NURS 938: Public Policy and Advocacy in Health Care
-
-This course examines the intersection of health policy development, advocacy and nursing as a means of impacting the health of populations at the local, state, national and/or international level. Emerging issues in health policy will be explored with an emphasis placed on transformational leadership principles as a means of influencing change. Nursing majors only.

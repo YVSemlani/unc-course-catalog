@@ -1,3 +1,0 @@
-# CMPL 238: From Martial Arts to Street Dance: Rebellion with Chinese Characteristics
-
-This course leverages the trope of martial arts to examine forms of resistance and counterculture in the Chinese-speaking world. Contextualizing visual representations of martial arts within moments of profound sociopolitical transformations in China and beyond, we will explore the many complexities and dilemmas of political action, in particular the tension between justice and violence, emotion and motion, self-assertion and self-sacrifice, traditional chivalry and radical commitment, as well as between local allegiance and transnational alliance.

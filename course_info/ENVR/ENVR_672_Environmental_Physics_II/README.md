@@ -1,3 +1,0 @@
-# ENVR 672: Environmental Physics II
-
-Second part of a graduate-level sequence in physical principles relevant to environmental systems. Topics include turbulence, conservation of energy, multiscale methods, and thermodynamics. Applications are considered from natural and engineered systems and across all relevant media. Focus is on development of mechanistic representation of environmental systems.

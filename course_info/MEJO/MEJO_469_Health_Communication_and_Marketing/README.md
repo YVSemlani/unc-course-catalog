@@ -1,3 +1,0 @@
-# MEJO 469: Health Communication and Marketing
-
-Forbes magazine projects a crest of increasing employment in healthcare over the next decade. This means the strategic communication skill set is in high demand by hospitals, pharmaceutical companies, healthcare advertising or PR agencies, insurance companies, non-profit organizations, and more. In this course, students will learn about the healthcare sector, explore the patient journey, map stakeholders and influencers, and get hands-on experience with marketing and communications that can help people lead healthier lives.

@@ -1,3 +1,0 @@
-# BIOS 511: Introduction to Statistical Computing and Data Management
-
-Required preparation, previous or concurrent course in applied statistics. Permission of instructor for nonmajors. Introduction to use of computers to process and analyze data, concepts and techniques of research data management, and use of statistical programming packages and interpretation. Focus is on use of SAS for data management and reporting.

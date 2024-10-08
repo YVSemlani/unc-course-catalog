@@ -1,3 +1,0 @@
-# BMME 581: Microcontroller Applications II
-
-Advanced topics in microcontroller systems used for biomedical instruments. Problems of interfacing computers with biomedical systems are studied. Students collaborate to develop a new biomedical instrument. Platforms could include the use of digital signal processing (DSP) microcontrollers or field programmable gate arrays (FPGAs), and topics could include applications such as digital signal processing and high speed data acquisition to computers.

@@ -1,3 +1,0 @@
-# SOCI 125: Sociology of Sexualities
-
-This class takes a sociological approach to the study of sexuality and gender, including an exploration of sexuality and gender as social constructions, the emergence of sexual and gender identities, intersectionality (gender/sexuality/race/class), historical and current inequalities and discrimination faced by sexual and gender minorities, heterosexual privilege, activism/mobilization to challenge discrimination against sexual minorities, and the ways sexuality operates in and through various institutions: media, schools, sport, family, religion, and the workplace.

@@ -1,3 +1,0 @@
-# ENEC 586: Water Quality Policies and Planning
-
-Introduction to the management of water quality at the local and basinwide scales. Topics include theory and management frameworks; state and federal statutes and programs; water contaminants, their fate and transport; alternatives for improving and protecting water quality; and the technologies and management practices of selected basinwide comprehensive strategies.

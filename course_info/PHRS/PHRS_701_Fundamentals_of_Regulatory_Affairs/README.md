@@ -1,3 +1,0 @@
-# PHRS 701: Fundamentals of Regulatory Affairs
-
-This foundational regulatory science course will provide an overview of regulatory affairs with a focus on global pharmaceutical product development. Students will learn about pharmaceutical product regulation in the US and other key international markets. Students will also learn about the process for obtaining and maintaining marketing approval along with tools and approaches used by regulatory professionals. This graduate-level didactic course will be taught asynchronously but will include regular touch points.

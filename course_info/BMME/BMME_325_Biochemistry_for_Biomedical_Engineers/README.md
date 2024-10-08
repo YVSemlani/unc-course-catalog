@@ -1,3 +1,0 @@
-# BMME 325: Biochemistry for Biomedical Engineers
-
-An overview of how alterations in bioenergetics, enzyme catalysis, protein and membrane structure, carbohydrate, lipid and nucleic acid metabolism affect human health. Topics include: biological thermodynamics, energy of macromolecular structure and binding, structure/function of proteins, enzymes and nucleic acids, kinetics, enzyme catalysis and biochemical network analysis, generation of chemical and electrical potential in membranes, carbohydrate/lipid/protein metabolism and energy production, DNA synthesis, transcription, and the technologies used to monitor/detect biochemical processes.

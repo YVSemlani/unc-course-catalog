@@ -1,3 +1,0 @@
-# HPM 780: Pharmaceutical Health Policy
-
-Overview of the pharmaceutical industry including organization, financing, major regulations, drug development, and ethical considerations. Topics will give a real-world perspective from professionals in the pharmaceutical industry. Students will debate and discuss some controversial topics related to pharmaceuticals and public health including patient safety, data integrity, financial conflicts of interest, and pricing. These topics will introduce students to careers in the pharmaceutical industry and provide a relevant background for careers in public policy or research.

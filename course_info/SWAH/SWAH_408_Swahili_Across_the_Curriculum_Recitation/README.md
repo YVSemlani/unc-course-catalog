@@ -1,3 +1,0 @@
-# SWAH 408: Swahili Across the Curriculum Recitation
-
-SWAH 408 explores contemporary health issues and other current affairs in Africa. The course is designed to help students understand the basic health issues in Africa as well as develop their language skills in reading, listening, comprehension and writing of Swahili language. Further, students will examine how language and culture impact beliefs and behaviors, and how together, these impact health interventions.

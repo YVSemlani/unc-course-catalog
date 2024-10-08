@@ -1,3 +1,0 @@
-# PLAN 270: Urban Inequality and Inclusion
-
-American cities are creative, vibrant, dynamic and diverse places. Yet the prosperity, opportunity and creativity that we so often celebrate and associate with urban life is not evenly shared or universally experienced. This class is designed to help us think through the factors that contribute to urban inequality and also consider the potential (but also the limits) of solutions that are designed with those inequities in mind.

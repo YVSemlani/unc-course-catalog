@@ -1,3 +1,0 @@
-# AAAD 316: Sustainable Development: Emergence, Debates, and Dynamics in Africa
-
-This is a discussion-based seminar that examines the emergence and evolution of the concept of sustainable development, including processes enacted by the United Nations' members states, such their 2015 adoption of 17 global Sustainable Development Goals. Further, it explores dynamics of sustainable development with a focus on selected cases studies drawn from various parts of the Africa continent.

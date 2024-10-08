@@ -1,3 +1,0 @@
-# BCB 725: Introduction to Statistical Genetics
-
-Covers statistical methods for the analysis of family and population-based genetic data. Topics include classical linkage analysis, population-based and family-based association analysis, haplotype analysis, genome-wide association studies, basic principles in population genetics, imputation-based analysis, pathway-based analysis, admixture mapping, analysis of copy number variations, and analysis of massively parallel sequencing data.

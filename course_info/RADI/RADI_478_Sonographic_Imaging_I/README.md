@@ -1,3 +1,0 @@
-# RADI 478: Sonographic Imaging I
-
-This course presents topics of advanced sonographic imaging techniques including advanced abdomen and obstetric concepts, superficial structures, pediatrics, introduction to vascular, and interventional procedures. This course presents the normal and abnormal sonographic findings, along with the relationship of these findings to patient clinical history, clinical exam, and laboratory findings. Skills related to scanning protocols, technical factors, and image quality are developed in the lab. Majors only.

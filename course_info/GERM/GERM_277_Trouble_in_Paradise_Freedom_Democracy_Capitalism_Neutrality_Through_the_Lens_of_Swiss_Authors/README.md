@@ -1,3 +1,0 @@
-# GERM 277: Trouble in Paradise: Freedom, Democracy, Capitalism, Neutrality Through the Lens of Swiss Authors
-
-In this course we will read a selection of texts and watch movies that cast a vigilant eye on the role the ideas of freedom, democracy, civil rights, neutrality, the humanitarian tradition, justice, capitalism as well as the notion of authenticity, acceptance, morality, or the alpine idyll have played in Switzerland's self-understanding and in its relationship with Europe and the world.

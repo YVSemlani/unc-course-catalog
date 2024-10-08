@@ -1,3 +1,0 @@
-# BIOS 645: Principles of Experimental Analysis
-
-Required preparation, basic familiarity with statistical software (preferably SAS able to do multiple linear regression) and introductory biostatistics, such as BIOS 600. Continuation of BIOS 600. Analysis of experimental and observational data, including multiple regression and analysis of variance and covariance. Previously offered as BIOS 545. Permission of the instructor for nonmajors.

@@ -1,3 +1,0 @@
-# CMPL 841: History of Literary Criticism I: The Origins of Theory and Criticism
-
-Traces major strains in literary criticism and theory from classical antiquity to the 18th century, pairing primary critical texts with contemporary literary examples and modern day theoretical responses. Authors read include: Plato, Aristotle, Aristophanes, Horace, Augustine, and Burke; Homer, Ovid, Virgil, Dante, and Pope; and Auerbach, Derrida, Ricoeur, and Benjamin.

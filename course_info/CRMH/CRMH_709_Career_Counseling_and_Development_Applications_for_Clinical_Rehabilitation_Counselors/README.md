@@ -1,3 +1,0 @@
-# CRMH 709: Career Counseling and Development: Applications for Clinical Rehabilitation Counselors
-
-This course will cover career development and counseling with emphasis on community integration in employment and leisure pursuits. This course will examine the world of work, life career development, career decision- making theories, the process and techniques of career counseling and the interrelationship between career and life balance issues and mental health.

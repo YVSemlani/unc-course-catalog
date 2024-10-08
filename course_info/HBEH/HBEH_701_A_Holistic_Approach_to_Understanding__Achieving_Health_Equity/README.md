@@ -1,3 +1,0 @@
-# HBEH 701: A Holistic Approach to Understanding & Achieving Health Equity
-
-This course will take a holistic approach to understanding and achieving health equities. We will explore how inequities appear in different populations; examine historical and relevant events to unpack how these inequities came to be; and identify strategies to intervene to reduce or eliminate these inequities. We will identify and develop a model to be utilized as a tool when addressing public health related issues.

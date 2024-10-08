@@ -1,3 +1,0 @@
-# EDUC 795: Learning Analytics
-
-Students will receive an introduction to learning and learning analytics. Through assignments involving learning by teaching, product evaluations, research reporting, and proposal/design projects, students will learn about various theoretical frameworks, digital learning platforms, and research and evaluation approaches, relevant to the study and production of learning analytics solutions. This is an interdisciplinary course; learning analytics rests at the intersection of learning theory, educational technology, computer and information sciences, and artificial intelligence.

@@ -1,3 +1,0 @@
-# HPM 756: Conceptualizing & Measuring Access to Healthcare
-
-This course addresses theoretical and applied approaches to measuring health care access in public health and health services research. Drawing principally from health and medical geography, linking foundational concepts and methods addressing access with health economics and health services research more broadly. Students explore spatial approaches to health and healthcare in place. This course will include reading responses, GIS lab exercises, and a research project addressing health care access. Prior exposure to statistical methods preferred.

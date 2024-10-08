@@ -1,3 +1,0 @@
-# ENEC 565: Environmental Storytelling
-
-An interdisciplinary course for students interested in environmental issues or journalism to produce stories about environmental issues that matter to North Carolinians. Students learn to identify credible sources, manage substantial amounts of information, and find story focus as they report on technical and often controversial subjects in a variety of media.

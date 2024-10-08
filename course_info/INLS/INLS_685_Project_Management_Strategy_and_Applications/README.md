@@ -1,3 +1,0 @@
-# INLS 685: Project Management: Strategy and Applications
-
-This course is a broad introduction to project management principles, tools, and strategies intended for use in a variety of applications. Key topics include project planning tools, project process groups, risk assessment, budgeting/cost estimation, and team management. Through the use of readings, videos, assignments, and forum discussions, students will have the opportunity to demonstrate knowledge and understanding of the strategy behind successful project management and problem resolution.

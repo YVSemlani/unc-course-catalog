@@ -1,3 +1,0 @@
-# AMST 354: Asian American Graphic Form
-
-This course will survey Asian American graphic form: written and/or drawn works from the late 1900s to present. We will begin by considering orientalism in both American popular culture and modernist aesthetics. We will then examine works by Asian American writers and artists in a range of mediums including graphic memoir and novels, comics, animation, manga and anime, illustrated books, zines, textual art, and visual poetry.

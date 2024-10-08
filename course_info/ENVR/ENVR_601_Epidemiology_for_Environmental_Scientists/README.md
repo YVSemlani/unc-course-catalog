@@ -1,3 +1,0 @@
-# ENVR 601: Epidemiology for Environmental Scientists
-
-An introduction to relevant epidemiologic concepts that inform environmental science research. Learning objectives include discussing basic epidemiologic concepts and measures of disease occurrence in populations, explaining epidemiological study designs for studying associations between risk factors or exposures in populations, evaluating epidemiologic evidence, and comprehending basic ethical principles.

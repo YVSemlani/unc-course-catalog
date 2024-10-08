@@ -1,3 +1,0 @@
-# GLBL 710: Monitoring and Evaluation for Peacebuilding Interventions
-
-This introductory course offers a review of the core concepts, skills and practical steps in monitoring and evaluation of coexistence and peacebuilding interventions. The course will stress participatory methods in monitoring and evaluation, in which multiple stakeholders are involved in the process of planning, collecting, interpreting, synthesizing, and using information. The course will feature case studies, proposals, and organizational evaluation plans and reports.

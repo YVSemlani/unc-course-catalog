@@ -1,3 +1,0 @@
-# ENEC 482: Energy and the Environment: A Coastal Perspective
-
-Explores coastal and offshore energy issues, including energy demand, present-day and innovative sources of energy to meet that demand, economics, policy, and environmental and human health outcomes of different energy sources. Summer session only; online and field trip hybrid course, with a mandatory 8-day field site component on the Outer Banks. Housing and field activities arranged by the instructor, which will carry a fee. Taught at off-campus field station.

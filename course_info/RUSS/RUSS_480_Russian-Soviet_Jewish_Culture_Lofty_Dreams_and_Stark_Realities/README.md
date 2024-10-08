@@ -1,3 +1,0 @@
-# RUSS 480: Russian-Soviet Jewish Culture: Lofty Dreams and Stark Realities
-
-This course delves into the scintillating literary, visual, musical, and cinematic culture created by Jewish universalists seeking to build their new secular identity under the aegis of the Soviet Communist experiment in the aftermath of the 1917 Bolshevik coup. Surveys the works of Isaac Babel, Eduard Bagritsky, Marc Chagall, Sergey Eisenstein, Ilya Ehrenburg, Masha Gessen, Vasily Grossman, Osip Mandelshtam, and others. Taught in English; some readings in Russian for qualified students; films with English subtitles. Honors version available.

@@ -1,3 +1,0 @@
-# PORT 385: Verbal Art, Identities, and Nation in Portuguese-Speaking Africa
-
-Study of representative works of literature, oral tradition, popular music, and film from Lusophone Africa from the Age of Exploration through independence to the present. Focus on literary analysis, sociohistorical context, and cultures. Taught in English. Available for major/minor credit in Portuguese if readings and written work are done in Portuguese.

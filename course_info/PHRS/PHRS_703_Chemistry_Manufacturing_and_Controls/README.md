@@ -1,3 +1,0 @@
-# PHRS 703: Chemistry, Manufacturing, and Controls
-
-This foundational pharmaceutical science course will provide an overview of chemistry, manufacturing, and controls in pharmaceutical product development and how they differ by product type. Students will learn about the processes of assay development, manufacturing, and quality control for small molecules, biologics, and gene and cell therapies. Students will also learn about regulatory submissions and inspections. This graduate-level didactic course will be taught asynchronously but will include regular touch points.

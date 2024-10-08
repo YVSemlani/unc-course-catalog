@@ -1,3 +1,0 @@
-# PSYC 819: Foundations of Clinical Neuroscience
-
-This course will survey contemporary neuroscience approaches to understanding mental illness, including mood, anxiety, and personality disorders, as well as addiction. We will also discuss the role of neurodevelopment and stress in the etiology of psychopathology. Students will become familiar with empirical studies encompassing animal models, computational models, and systems and molecular neuroscience. Finally, we will consider the tensions and synergies between psychological and neurobiological approaches to mental illness.

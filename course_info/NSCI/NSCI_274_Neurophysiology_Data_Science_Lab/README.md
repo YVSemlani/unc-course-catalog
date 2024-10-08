@@ -1,3 +1,0 @@
-# NSCI 274: Neurophysiology Data Science Lab
-
-In this research-based course, students will design novel experiments to examine sex differences in large neurophysiology datasets. Students will use Python to access and analyze data. Students will also learn research literature analysis, experimental design, data analysis, collaboration, and presentation skills by developing a research proposal, paper, and poster. Students may only receive credit for one of: NSCI 274, 276, 277, 278 and 279. Restricted to Neuroscience Majors only.

@@ -1,3 +1,0 @@
-# DHYG 267: Dental Hygiene Theory I
-
-This course will provide the student with expanded concepts and theories related to practice of clinical dental hygiene. Emphasis is placed on clinical terminology, caries, non-surgical periodontal therapy, medical/dental emergencies, ultrasonic/sonic instrumentation, air polishing, orthodontic patient care and communication, pediatric patient management, local and topical anesthesia, tooth sensitivity and desensitizing agents, dental assisting techniques, product reviews/evaluations, fluorides, and nitrous oxide sedation. Restricted to Dental Hygiene students only.

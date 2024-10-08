@@ -1,3 +1,0 @@
-# SOCI 422: Sociology of Mental Health and Illness
-
-Examines the uniqueness of the sociological perspective in understanding mental health and illness. Draws upon various theoretical perspectives to best understand patterns, trends, and definitions of mental health and illness in social context. Focuses on how social factors influence definitions, perceptions, patterns, and trends of mental health and illness.

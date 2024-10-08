@@ -1,3 +1,0 @@
-# ANTH 348: Gender, Sexuality, and Health
-
-This course will a) introduce students to gender and sexuality as theoretical concepts and b) explore the persistence of gender inequality as it pertains to health. How do gender and sexuality impact people's institutional, intimate, and everyday lives? Topics covered include intersectional feminism, reproductive politics, masculinity, HIV, and gender bias in biomedicine.

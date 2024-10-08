@@ -1,3 +1,0 @@
-# RELI 247: Uncertain Truths: Conspiracy Theories, Aliens, and Secret Societies in America
-
-This course examines the social dynamics of power, secrecy, paranoia, and suspicion, in order to explore the multiple relations between conspiracism, religious/magical thinking, and the social construction of truth. In addition to investigating the social and historical contexts that give rise to conspiracy thinking and the various shapes conspiracism takes in the modern world, students will consider conspiratorial lore as an important mode of political participation and contestation.

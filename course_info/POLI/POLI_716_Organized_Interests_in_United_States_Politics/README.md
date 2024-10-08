@@ -1,3 +1,0 @@
-# POLI 716: Organized Interests in United States Politics
-
-The course examines the major theories and empirical research on how organized interests mobilize and maintain themselves, interact within populations, exercise influence through lobbying, and impact public policy. It includes the full range of interest organizations operating in American politics at any level and in all institutional venues.

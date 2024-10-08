@@ -1,3 +1,0 @@
-# PHRS 175: Principles of Pharmacy and Pharmaceutical Sciences
-
-This course introduces the profession of pharmacy and the pharmaceutical sciences. An examination of the fundamental principles underlying both fields promotes an understanding that includes historical developments, issues and controversies, contemporary challenges and opportunities for innovation, and career opportunities. Importantly, students explore strategies for pharmaceutical research and care in the contexts of FDA-regulated drug development and the roles of pharmaceuticals in healthcare.

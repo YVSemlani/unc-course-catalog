@@ -1,3 +1,0 @@
-# EDUC 893: Foundations of Leadership
-
-The course aims to provide a systematic examination of leadership in practice and how these examples result in successful leadership practices relative to theories of leadership, ethical frameworks, and your personal strengths and abilities. From these reflections you will develop an intellectually rigorous, personal statement of leadership. For students enrolled in the online Ed.D. in Organizational Learning and Leadership program cohort

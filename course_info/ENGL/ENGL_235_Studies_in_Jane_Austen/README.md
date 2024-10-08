@@ -1,3 +1,0 @@
-# ENGL 235: Studies in Jane Austen
-
-Fulfills a major core requirement. This course focuses on both the novels of Jane Austen and their fate since publication in the early 19th century. They have inspired countless imitations, over 150 sequels and continuations, and more than 30 full-length films. We will trace the transmission and transformation of the original texts across time and cultures. Previously offered as ENGL 340.

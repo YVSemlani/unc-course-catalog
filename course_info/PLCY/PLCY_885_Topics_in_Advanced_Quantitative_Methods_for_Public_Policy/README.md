@@ -1,3 +1,0 @@
-# PLCY 885: Topics in Advanced Quantitative Methods for Public Policy
-
-This course introduces PhD students to selected topics in advanced quantitative analysis. Topics will vary from year to year depending on the interests of the instructor. Topics include limited dependent variables and issues of truncation and censoring, survival and event study methods, estimation of time-series panel data models with low T and large N, and machine learning approaches for prediction problems in public policy.

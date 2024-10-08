@@ -1,3 +1,0 @@
-# MUSC 137: Patterns in Music
-
-This course provides an introduction to music theory--defined as an examination of the underlying patterns deployed by composers, performers, and listeners in creating and comprehending music within a style--for students whose background is primarily aural and/or outside of the notational practices of Western art music or who want to undertake a study of music theory from that perspective.

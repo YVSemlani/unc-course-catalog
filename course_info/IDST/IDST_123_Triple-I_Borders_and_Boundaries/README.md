@@ -1,3 +1,0 @@
-# IDST 123: Triple-I: Borders and Boundaries
-
-What are borders and boundaries? How have they changed over time? How do people experience borders and what can they do when they impinge on their lives? We will address these and other questions through case studies anchored in the ancient and modern Middle East and Mediterranean. We will study the cultural and political effects of borders and boundaries, especially the experience of bordering practices by refugees and migrant communities across time.

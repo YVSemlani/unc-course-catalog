@@ -1,3 +1,0 @@
-# RADI 466: Abdominal Sonography
-
-Diagnostic Medical Sonography track. The course includes intra-abdominal organs, abdominal vessels, peritoneal spaces, and retroperitoneal structures and introduces normal/abnormal sonographic findings. Integration of findings with clinical history, exam, and laboratory findings are included along with skills with scanning protocols, technical factors, and image quality developed in the lab. Majors only.

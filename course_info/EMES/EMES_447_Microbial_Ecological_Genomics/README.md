@@ -1,3 +1,0 @@
-# EMES 447: Microbial Ecological Genomics
-
-For junior and senior science majors and graduate students. Active learning class focused on sequencing and bioinformatic analysis of microbial genomes to identify their ecological function. Topics include sequencing technologies, genome assembly and analysis, command line, bioinformatic tools, and genes mediating microbial physiology and metabolism in natural ecosystems. Course previously offered as MASC 447. Permission of the instructor.

@@ -1,3 +1,0 @@
-# EDUC 793: High-Leveraged Practices in Special Education with a Focus on Literacy Instruction
-
-The course examines characteristics of students with mild-to-moderate disabilities in the area of literacy. The primary focus is on determining instructional literacy needs for students with disabilities as well as those receiving Tier 2 and 3 interventions through a multi-tiered system of support (MTSS) framework. The course covers how to target literacy instruction to meet individual needs based on formative assessments paired to high-leveraged and evidence-based practices. Admission to the MAT sequence required to enroll.

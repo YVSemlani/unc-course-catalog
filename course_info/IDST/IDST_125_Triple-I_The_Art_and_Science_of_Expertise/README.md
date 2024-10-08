@@ -1,3 +1,0 @@
-# IDST 125: Triple-I: The Art and Science of Expertise
-
-In this course, students will learn a framework of expertise development and self-regulation to pursue mastery. Through course materials, collaborative discussions, and interdisciplinary instructor perspectives, students will develop an understanding of their goals, what it takes to become extraordinary in these areas while maintaining their psychological well-being, and a personalized plan to maximize their potential. Topics covered include psychology of motivation and positive functioning, deliberate practice, accountability, competitiveness, leadership, resilience, happiness, flow, and performance measurement.

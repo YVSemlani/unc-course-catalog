@@ -1,3 +1,0 @@
-# CMPL 263: European Exile Cinema
-
-This course examines the work of one or several film directors who went into exile during the Third Reich to discuss: How does the experience of exile influence film style? What are theories and histories of exile and exile cinema, and how do they relate to other approaches to film, via national film histories, genre, style, etc.? How does a biography of exile relate to so-called auteur theory? Readings and Discussions in English.

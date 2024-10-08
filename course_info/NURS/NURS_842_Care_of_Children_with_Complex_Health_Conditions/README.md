@@ -1,3 +1,0 @@
-# NURS 842: Care of Children with Complex Health Conditions
-
-This course prepares the advanced practice nurse to design, implement, and evaluate a coordinated system of interventions that aim to promote optimal health and development for infants, children and adolescents with complex conditions. Students will develop skills to assist with the successful transition into the role of a Pediatric Nurse Practitioner into health care systems.

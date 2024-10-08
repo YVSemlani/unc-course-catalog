@@ -1,3 +1,0 @@
-# ENGL 358: Contemporary US Poetry
-
-This course will focus on important poets and poetic movements in the United States in the long twentieth century. Special attention paid to writings by poets about what poetry is and does: critiquing social injustice, expressing alternative identities, exploring disordered mental states, communicating otherwise unintelligible experiences, etc. Movements may include: the Harlem Renaissance, Modernism, Confessionalism, the Black Arts Movement. We will also read poets who don't belong to any movement and poets writing today.

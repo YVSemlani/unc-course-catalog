@@ -1,3 +1,0 @@
-# BIOS 611: Introduction to Data Science
-
-Topics will include gaining proficiency with R and Python, data wrangling, data quality control and cleaning, data visualization, exploratory data analysis, and introductory applied optimization, with an overall emphasis on the principles of good data science, particularly reproducible research. Some emphasis will be given to large data settings such as genomics or claims data. The course will also develop familiarity with software tools for data science best practices, such as Git, Docker, Jupyter, and Nextflow.

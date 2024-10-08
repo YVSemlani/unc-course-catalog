@@ -1,3 +1,0 @@
-# EMES 417: Surface Processes and Landscape Evolution
-
-The interplay among the fluxes of water, energy, and sediment through geologic time sculpt landscapes and drive environmental change. In both lectures and laboratory exercises, students will learn how simple physical principles applied to rivers and hillslopes allow us to understand the evolution of topography and mountain belts, predict hazards arising from floods, landslides and debris flows, and lead to sustainable management of natural resources such as soil. Previously offered as GEOL 417.

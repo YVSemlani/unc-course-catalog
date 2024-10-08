@@ -1,3 +1,0 @@
-# HBEH 784: Implementation Science in Global Health
-
-Implementation science aims to improve health through the translation of evidence-based intervention into routine care. This course will provide an overview of the foundational skills of implementation science in global health including tailoring to the local context, systematic approaches to identifying implementation barriers and selecting appropriate implementation strategies, and using rigorous study designs to evaluate implementation outcomes. Restricted to students enrolled in the Global Health MPH Concentration.

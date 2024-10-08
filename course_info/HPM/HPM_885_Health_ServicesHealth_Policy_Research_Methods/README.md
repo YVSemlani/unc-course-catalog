@@ -1,3 +1,0 @@
-# HPM 885: Health Services/Health Policy Research Methods
-
-This course explores how to develop answerable, policy-relevant, ethical research questions; operationalize questions with actionable specific aims' and identify optimal research design for answering a particular question. It introduces primary data collection methods (e.g., interviews, focus groups, surveys) and secondary data sources (e.g., administrative claims, medical, records).

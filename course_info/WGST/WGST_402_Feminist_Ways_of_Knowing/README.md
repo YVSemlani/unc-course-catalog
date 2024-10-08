@@ -1,3 +1,0 @@
-# WGST 402: Feminist Ways of Knowing
-
-This course has two main purposes. First, it will build on the work students have done in WGST 202; students will explore more deeply significant trends, key theoretical texts, and epistemological and methodological debates in feminist thought. Second, by emphasizing connections among theory, method, evidence, and analysis, it will prepare students for the senior capstone course in which they develop and carry out a major research project.

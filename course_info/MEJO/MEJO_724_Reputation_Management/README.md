@@ -1,3 +1,0 @@
-# MEJO 724: Reputation Management
-
-How do communicators strategically measure, monitor, and manage the organizational assets of brand image and reputation? What is the impact of reputation in business practice? Through a comparative case study approach, students will learn how to assign value to and manage reputation, regardless of their professional role and whether they work in the government, corporate, or non-profit sector. They will examine how crisis communication and corporate social responsibility influence reputation.

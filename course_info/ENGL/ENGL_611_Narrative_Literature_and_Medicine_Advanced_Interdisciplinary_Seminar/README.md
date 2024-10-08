@@ -1,3 +1,0 @@
-# ENGL 611: Narrative, Literature, and Medicine: Advanced Interdisciplinary Seminar
-
-Sociologist Arthur Frank asserts that "whether ill people want to tell stories or not, illness calls for stories." This seminar explores narrative approaches to suffering, healing, and medicine's roles in these processes. Students learn literary and anthropological approaches to examine medically themed works from a range of genres.

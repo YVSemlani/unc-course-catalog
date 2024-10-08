@@ -1,3 +1,0 @@
-# NBIO 850: Improving Presentation & Communication of Scientific Results
-
-Learning modern day techniques and approaches to convey scientific results effectively as a public speaker. Teaching how to implement the key aspects of effective presentation of scientific findings in public settings. Understanding the key components of an effective public talk including scientific content, body language, and voice. Learning how to captivate the target audience and yet still convey data driven scientific findings.

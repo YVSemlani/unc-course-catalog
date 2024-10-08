@@ -1,3 +1,0 @@
-# NBIO 801: Clinical Syndromes and Neurodevelopmental Disorders
-
-This seminar will review the epidemiology, pathogenesis, diagnosis and treatment of neurodevelopmental syndromes and disorders. Topics will range from single gene (e.g. fragile X syndrome and tuberous sclerosis) to complex genetic (e.g., autism, schizophrenia), to environmental disorders with varied phenotypes, pathogenetic mechanisms, and treatments.

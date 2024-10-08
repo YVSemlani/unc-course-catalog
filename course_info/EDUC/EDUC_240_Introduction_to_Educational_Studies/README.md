@@ -1,3 +1,0 @@
-# EDUC 240: Introduction to Educational Studies
-
-This course provides a comprehensive overview of educational studies through an exploration of education's foundational questions. In exploring these questions, the course adopts a multi-disciplinary approach, carefully considering and comparing how scholars from diverse viewpoints and disciplinary backgrounds--including history, philosophy, sociology, economics, and psychology--have considered the purpose and aims of education for individuals, communities, and societies.

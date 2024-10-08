@@ -1,3 +1,0 @@
-# JWST 251: The Jewish American Experience
-
-A survey of the Jewish experience in the United States from colonial times to the present, that examines connections and disjunctures with the experiences of Jews in the Americas more broadly. Topics include the social patterns and communal constructs of the various Jewish immigrations; modes of political engagement; and the diverse cultural practices through which American Jews have shaped their identities.

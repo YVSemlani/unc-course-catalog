@@ -1,3 +1,0 @@
-# PSYC 839: Quantitative Research Methods
-
-Quantitative Research Methods explores the many dimensions of experimental and quasi-experimental design in the psychological sciences with a specific focus on topics that commonly arise in quantitative research. Exemplar topics include true- and quasi- experimental design, causal inference, sampling, randomization, self-selection, Monte Carlo computer simulation design, internal and external validity, and ethics.

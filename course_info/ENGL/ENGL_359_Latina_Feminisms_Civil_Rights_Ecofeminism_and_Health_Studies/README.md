@@ -1,3 +1,0 @@
-# ENGL 359: Latina Feminisms: Civil Rights, Ecofeminism, and Health Studies
-
-This course will offer a theoretical grounding on Latina feminism and the historical moments and movements that inspired and/or influenced such Latina feminist thought and productions. In this course, we will gain a foundation for how Latina feminists theorize about gender, race, sex, culture, history, and aesthetics. We will analyze a variety of literary forms and genres (e.g., poems, essays, novels, plays, testimonios) and mediums (literature, film, documentaries, visual art).

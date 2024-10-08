@@ -1,3 +1,0 @@
-# ENGL 676: Digital Editing and Curation
-
-Students will investigate theories and practices of editing in multimedia, digital environments. Students will explore histories of textual editing, research major humanities projects, examine trends and toolsets related to developing scholarly digital materials, and collaborate with one another and with campus entities to develop an online digital humanities project.

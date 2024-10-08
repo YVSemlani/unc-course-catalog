@@ -1,3 +1,0 @@
-# ENEC 373: Confronting Climate Change in the Anthropocene
-
-Climate change-perhaps the defining issue of the 21st century-is a highly complex problem that requires interdisciplinary collaboration to develop policy responses. This course explores the science of climate change and uses theories from multiple disciplines, including law, political science, economics, and earth and atmospheric sciences, to frame solutions to this global challenge. Students will apply quantitative and qualitative tools to understand causes and impacts of climate change, as well as policy responses.

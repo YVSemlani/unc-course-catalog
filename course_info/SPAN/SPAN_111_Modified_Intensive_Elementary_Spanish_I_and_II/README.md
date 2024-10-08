@@ -1,3 +1,0 @@
-# SPAN 111: Modified Intensive Elementary Spanish I and II
-
-Students must meet eligibility criteria. Class meets five days per week (MTWRF) for a total of six hours of instruction. Alternative teaching and learning strategies used to provide in-depth coverage of the material of the SPAN 101 and 102 sequence in a single semester. Students may not receive credit for both SPAN 111 and SPAN 100, 101, 102, 105, or 401. Permission of the instructor required.

@@ -1,3 +1,0 @@
-# FREN 342: The Art and Power of Conversation: The Enlightenment Salon
-
-The Enlightenment has been called the "age of conversation" on account of its salons- sociable gatherings where men and women of different backgrounds assembled to debate issues of the day with wit and elegance and to discuss how to change society. This course offers a deep dive into salon culture, its development of the arts of spoken language and sociability, its impact on Enlightenment thought on key issues such as inequality, and its historical legacies.

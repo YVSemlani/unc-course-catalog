@@ -1,3 +1,0 @@
-# APPL 215: Design and Fabrication of Fluids Monitoring Devices
-
-Review of fluid mechanics including the fundamentals of pressure/flow relationships, fluid properties, and flow regimes. Students will design and create physical prototypes that demonstrate specific concepts and measure defined parameters. Students will use the BeAM makerspace network to make things that illustrate fluid device design. Class time includes exercises to reinforce concepts and a guided design activity to create a physical device. Required preparation: BeAM orientation, laser training, 3D-printer training. Previously offered as APPL 475.

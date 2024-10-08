@@ -1,3 +1,0 @@
-# MHCH 713: Research Methods in Maternal and Child Health
-
-The art and science of MCH research, with an emphasis on the critical evaluation of research design and findings. Focuses on the principles of strong quantitative and qualitative study designs, analytic approaches, and secondary data analysis. A practice-based course. Three lecture hours per week. Permission of the instructor for nonmajors.

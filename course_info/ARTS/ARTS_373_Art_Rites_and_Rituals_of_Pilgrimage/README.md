@@ -1,3 +1,0 @@
-# ARTS 373: Art, Rites and Rituals of Pilgrimage
-
-This course is an introduction to the culture, history and contemporary context of pilgrimage and the Camino de Santiago through the lens of performance art and other embodied aesthetic experiences. Several performative projects form the core of the coursework with the Camino de Santiago-specifically, the Camino Francés, becomes the site and our studio for both cultural and artistic purposes.

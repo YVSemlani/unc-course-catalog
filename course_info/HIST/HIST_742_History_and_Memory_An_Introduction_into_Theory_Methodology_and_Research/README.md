@@ -1,3 +1,0 @@
-# HIST 742: History and Memory: An Introduction into Theory, Methodology, and Research
-
-This graduate seminar explores the theory, methodology, and scholarship on history and memory, and examines some broad questions about the importance of studying collective memory. We will seek to understand both, different theoretical and methodological approaches, and their practical use in historical research and writing.

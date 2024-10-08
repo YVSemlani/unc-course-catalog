@@ -1,3 +1,0 @@
-# NURS 882: Clinical Teaching and Evaluation in Nursing Education
-
-Prepares students for clinical teaching in diverse nursing education settings. Emphasis will be placed on the development of evidence-based clinical teaching skills designed to facilitate student learning and evaluation as well as safe, ethical, relationship-centered clinical practice of students. Must be a professional nurse enrolled in a graduate program at UNC-CH.

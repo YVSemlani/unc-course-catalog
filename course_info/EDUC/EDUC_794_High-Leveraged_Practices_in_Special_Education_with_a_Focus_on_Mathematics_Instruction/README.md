@@ -1,3 +1,0 @@
-# EDUC 794: High-Leveraged Practices in Special Education with a Focus on Mathematics Instruction
-
-The course examines specific characteristics of students with mild-to-moderate disabilities in the area of mathematics. The primary focus is on determining instructional mathematics needs for students with disabilities as well as those receiving Tier 2 and 3 interventions through a multi-tiered system of support (MTSS). The course covers how to target mathematics instruction to meet individual needs based on formative assessments paired to high-leveraged and evidence-based practices. Admission to the MAT sequence required.

@@ -1,3 +1,0 @@
-# PUBH 755: Translating Evidence into Practice for Population Health
-
-The course provides an engaging, intellectual environment for students to discuss conceptual frameworks, study designs, and population outcome measures for closing the gap between evidence and daily practice across important population subgroups and in diverse clinical settings. Students complete a series of assignments, including a final paper and presentation.

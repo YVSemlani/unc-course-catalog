@@ -1,3 +1,0 @@
-# FREN 563: Studies in the Anglo-French Renaissance
-
-Recommended preparation, FREN 370 (for students taking the course for French credit), or one course from ENGL 225 to ENGL 229, or one course from CMPL 120 to CMPL 124. Study of French-English literary relations in the Renaissance, focusing on literary adaptation and appropriation, poetics, political writing, and related areas. Conducted in English; students may do written work in French for major or minor credit.

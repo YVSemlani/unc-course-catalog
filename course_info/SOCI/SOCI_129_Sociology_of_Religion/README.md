@@ -1,3 +1,0 @@
-# SOCI 129: Sociology of Religion
-
-This course provides an introduction to the sociology of religion, an important field in the discipline of sociology. Religion is one of the most powerful sources of social cohesion, order, meaning, disruption, protest, and change in human societies, both historically and today in the modern world. Sociology provides a particular disciplinary perspective and analytical tools and theories for describing, understanding, and explaining the nature and influence of religion.

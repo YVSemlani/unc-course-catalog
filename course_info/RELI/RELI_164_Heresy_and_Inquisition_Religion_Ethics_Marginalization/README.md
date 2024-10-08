@@ -1,3 +1,0 @@
-# RELI 164: Heresy and Inquisition: Religion, Ethics, Marginalization
-
-During the Middle Ages and the early modern era, various inquisitions used legal inquiry and torture to determine the boundaries of heresy. This course surveys the influence of these regimes on the doctrine, practices, and morality of heretics, mystics, witches, Jews, and Muslims, in the interest of delimiting "orthodox" Catholicism.

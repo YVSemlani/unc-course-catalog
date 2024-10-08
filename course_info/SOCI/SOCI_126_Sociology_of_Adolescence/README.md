@@ -1,3 +1,0 @@
-# SOCI 126: Sociology of Adolescence
-
-This course examines adolescence from a sociological perspective, or how the social, economic, and cultural contexts in which adolescents live shape their experiences. Students will learn from 1) dynamic engagement with sociological theory and research on adolescence, 2) active participation in an adolescent-serving community organization - Movement of Youth, and 3) thoughtful reflection on how well existing theory and research match with observations made during service work.

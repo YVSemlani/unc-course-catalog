@@ -1,3 +1,0 @@
-# PSYC 564: Interpersonal Relationships
-
-PSYC 270 Recommended. This advanced course will comprehensively cover the social psychological literature on normally-developing interpersonal relationships, with implications for relationships with family, friends, co-workers, and romantic partners. This is a research-intensive course with a major aspect involving an independent research project to facilitate learning by doing.

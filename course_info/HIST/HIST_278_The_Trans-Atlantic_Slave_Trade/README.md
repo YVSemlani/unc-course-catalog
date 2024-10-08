@@ -1,3 +1,0 @@
-# HIST 278: The Trans-Atlantic Slave Trade
-
-Focused on one of the most tragic and horrifying phenomena in world history, this course examines the Atlantic slave trade and its demographic, economic, political, and cultural impact on four continents over three centuries. Through interactive lectures, discussions, and a variety of written assignments, students will learn about this monumental and far-reaching system while sharpening critical thinking and communication skills. Honors version available.

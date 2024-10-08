@@ -1,3 +1,0 @@
-# ANTH 138: Linguistic Anthropology
-
-An introduction to linguistic anthropology and anthropological linguistics. The course approaches the complex interconnections between language, culture, and cognition; theoretical approaches employed during the past century (structuralism, functionalism, ethnoscience, universalism, linguistic relativity); common case studies (spatial language, colors, classifiers, deixis); verbal art (orality, literacy), linguistic ideology; and ethnolinguistic vitality.

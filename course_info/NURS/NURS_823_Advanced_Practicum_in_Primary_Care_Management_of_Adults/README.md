@@ -1,3 +1,0 @@
-# NURS 823: Advanced Practicum in Primary Care Management of Adults
-
-This clinical capstone course prepares Adult Gerontology primary care nurse practitioner students to synthesize and apply concepts and knowledge critical for professional primary care advanced practice nursing with individuals, families and communities. Students' independent practice skills are refined in precepted clinical experiences.

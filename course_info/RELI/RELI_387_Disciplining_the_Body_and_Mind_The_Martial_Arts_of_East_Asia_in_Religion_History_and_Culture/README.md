@@ -1,3 +1,0 @@
-# RELI 387: Disciplining the Body and Mind: The Martial Arts of East Asia in Religion, History, and Culture
-
-This course offers an introduction to the history and practice of East Asian martial arts. We will explore the social, political, and cultural contexts of the martial arts, from the classical period to the present. Integral to this course is a practical component involving embodied experience with martial arts training.

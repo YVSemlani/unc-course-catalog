@@ -1,3 +1,0 @@
-# DHYG 237: Medical Emergencies in the Dental Office
-
-This course provides a study of the management of dental office emergencies. Topics include methods of prevention, necessary equipment/drugs, medicolegal considerations, recognition and effective initial management of a variety of emergencies. Upon completion, the student should be able to recognize, assess and manage various dental office emergencies and activate advanced medical support when indicated. Majors only (DH students enrolled in program).

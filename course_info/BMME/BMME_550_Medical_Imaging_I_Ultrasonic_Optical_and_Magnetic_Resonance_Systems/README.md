@@ -1,3 +1,0 @@
-# BMME 550: Medical Imaging I: Ultrasonic, Optical, and Magnetic Resonance Systems
-
-Physical and mathematical foundations of ultrasonic, optical, and magnetic resonance imaging systems in application to medical diagnostics. Each imaging modality is examined, highlighting critical system characteristics: underlying physics of the imaging system, including mechanisms of data generation and acquisition; image creation; and relevant image processing methods, such as noise reduction.

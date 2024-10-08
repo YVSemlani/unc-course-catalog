@@ -1,3 +1,0 @@
-# NURS 514: Pediatric Emergency and Critical Care Fundamentals
-
-This course, offered in collaboration with UNC Hospitals, focuses on the collaborative care of pediatric patients in the emergency department and in critical care units (NICU, PICU). Students will be introduced to advanced assessments and interventions utilized in these environments. Students will also discuss interdisciplinary challenges specific to pediatric emergency and critical care and investigate evidence-based solutions to some of these challenges. Majors only.

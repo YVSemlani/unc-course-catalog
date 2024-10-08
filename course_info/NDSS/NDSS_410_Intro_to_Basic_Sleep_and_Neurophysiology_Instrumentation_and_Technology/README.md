@@ -1,3 +1,0 @@
-# NDSS 410: Intro to Basic Sleep and Neurophysiology Instrumentation and Technology
-
-This course introduces fundamental concepts of NDSS equipment and recording of bio-electric potentials. Topics include concepts of basic electronics and instrumentation, key features of recording bio-electric potentials, function and application of neurodiagnostic equipment, construction of montages, display mechanisms, limitations of the recordings and essential clinical settings for the recording. Upon completion, students should be able to demonstrate basic competence in understanding neurodiagnostics and polysomnography and bio potentials.

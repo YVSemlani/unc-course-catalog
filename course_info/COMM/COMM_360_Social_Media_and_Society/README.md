@@ -1,3 +1,0 @@
-# COMM 360: Social Media and Society
-
-This class examines the relationship between society and computer-mediated communication technologies known as "social media," including Facebook, Snapchat, Instagram, Twitter, YouTube, and more. It aims to break down the mythologies of social media and develop methods of analysis and critical understanding. Drawing from communication, sociology, anthropology, and cultural studies, students will understand social media's role within a larger social context.

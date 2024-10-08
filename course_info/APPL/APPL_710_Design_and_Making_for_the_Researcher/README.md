@@ -1,3 +1,0 @@
-# APPL 710: Design and Making for the Researcher
-
-In this course intended for graduate student researchers, we will parallel the discovery process taught in APPL 110: human-centered design, needs identification, and the iterative design and prototyping process. You will learn technical areas common to research laboratories -hardware selection, gas and liquid management, material compatibilities, electronics and data acquisition. In addition to the BeAM makerspace focused skills development activities, students will work on a personal project related to their laboratory work or research topic.

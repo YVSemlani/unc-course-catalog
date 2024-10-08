@@ -1,3 +1,0 @@
-# APPL 350: Data Science for Applied Science and Engineering
-
-This course brings together mathematical, statistical, and computational methods for representing data and machine learning that are of particular interest for studying different systems across applied science and engineering. Topics will include dimensionality reduction, transforms, clustering, classification, and neural networks. Course activities will emphasize both the underlying mathematical framework and the ability to perform these data analyses in different computational environments. This class will require you to participate actively in class computations and discussion.

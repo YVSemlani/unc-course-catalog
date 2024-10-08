@@ -1,3 +1,0 @@
-# CLAS 720: Methods, Resources, and Perspectives in Classical Scholarship for Graduate Students
-
-This course is a requirement for the M.A. in Classics. The goal of the course is to provide pre-M.A. students with an overview of the field and of its development; and to provide them with resources and methods that will help them to conduct their own research in an informed fashion. Graduate students only.

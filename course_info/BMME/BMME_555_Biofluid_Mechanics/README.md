@@ -1,3 +1,0 @@
-# BMME 555: Biofluid Mechanics
-
-This course introduces students to basics of fluid mechanics (steady and pulsatile flows, laminar and turbulent flows, and Newtonian and non-Newtonian flows). Students learn the fundamental relationships and governing equations describing these types of flows and the basic physiology of certain systems that are highly associated with fluid flows. Previously offered as BMME 455.

@@ -1,3 +1,0 @@
-# ARTS 102: Two-Dimensional Design
-
-Studio course investigates concepts and strategies of two-dimensional image making. Introduces design elements of visual language (line, shape, value, texture, color). Considers the cultural codes that accompany visual information and how they combine with organizational structures to determine a variety of effects, influence responses, and inform meaning. Foundation requirement for studio majors.

@@ -1,3 +1,0 @@
-# HIST 215: Peoples, Cultures, and Landscapes of Latin America
-
-Peoples, Cultures, and Landscapes of Latin America explores the peopling of the Americas by Amerindian, African and Afro descendant peoples, and Europeans. It will consider the inequalities of power, wealth, and autonomy across gender, ethnicity, and class in Latin America to understand more fully their deep historical roots and their persistence into our own time. We will learn how Latin America takes on greater meaning, when we consider this subcontinent in different phases of globalization.

@@ -1,3 +1,0 @@
-# ANTH 349: Histories of Violence
-
-This course explores the role of violence in the creation of the ''modern world'' over the past 500 years, the legacies of this violence for the 21st century, and the debates over how to memorialize these histories of violence. This is an archaeology course, which means the content and case studies will be approached from a material perspective by focusing on the landscapes, buildings, homes, and artifacts that structured our violent pasts.

@@ -1,3 +1,0 @@
-# EDUC 715: Girlhood, Culture, and Curriculum
-
-Who is a girl? How do the intersections of race, class, gender, sexuality, disability, citizenship status, and other such markers of difference influence what is known and knowable about girl(hood)s? What are the temporal spaces of girlhood? How does the idea of girlhood travel across times and geographies (i.e., places and spaces)? How does school function as an apparatus for the socialization, acculturation, and disciplining of girl(hood)s? What are the cultural and curricular constructions.

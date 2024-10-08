@@ -1,3 +1,0 @@
-# FREN 401: Beginning Accelerated French
-
-Covers levels one and two of the basic language sequence in one semester. Designed for highly motivated undergraduate/graduate language learners, especially those who have experienced success with learning another language. Intensive approach to developing all skills but with an emphasis on speaking. Students may not receive credit for both FREN 401 and any of the following: FREN 101, 102, 105.

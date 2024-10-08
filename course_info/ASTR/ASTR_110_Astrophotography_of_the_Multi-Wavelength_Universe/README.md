@@ -1,3 +1,0 @@
-# ASTR 110: Astrophotography of the Multi-Wavelength Universe
-
-Students will use UNC's global network of Skynet telescopes to make color images of the moon, planets, star clusters, star-forming regions, star-death regions, and galaxies. They will also use Skynet's radio telescopes to explore the invisible universe, including pulsars, supernova remnants, and supermassive black holes. Astrophotography will be our entry point to deeper explorations of the solar system; star birth, evolution, and death; galaxy formation and evolution; and black holes and Einstein's theory of relativity.

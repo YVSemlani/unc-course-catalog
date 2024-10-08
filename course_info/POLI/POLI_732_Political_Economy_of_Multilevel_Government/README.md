@@ -1,3 +1,0 @@
-# POLI 732: Political Economy of Multilevel Government
-
-The vertical distribution of governmental authority is changing around the world. Decision making, resources, and power are shifting downward (to state and local governments) and upward (to supra-national bodies like the European Union, other regional or international organizations). This course examines theories and empirical studies that explore the causes and consequences of these trends.

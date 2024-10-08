@@ -1,3 +1,0 @@
-# RADI 440: Gross Anatomy for Health Sciences
-
-This course includes lecture and lab sessions to strengthen knowledge of human anatomy and to guide the application of this material for medical imaging. Students will participate in laboratory activities to better understand the spatial relationships between anatomic regions and specific structures. The emphasis of the course is on thoracic, abdominal, pelvic, and musculoskeletal anatomy. Course previously offered as AHSC 440. Radiologic Science majors only.

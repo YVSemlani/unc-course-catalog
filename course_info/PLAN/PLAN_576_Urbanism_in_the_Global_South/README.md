@@ -1,3 +1,0 @@
-# PLAN 576: Urbanism in the Global South
-
-This course introduces concepts and themes on the development of urbanism in the "Global South". Students engage with current debates over urbanism in the Global South, including looking at urban inequalities in contemporary cities. Through the course, students will be able to compare and critically analyze formations of contemporary urbanism in selected cities in the Global South from a comparative perspective.

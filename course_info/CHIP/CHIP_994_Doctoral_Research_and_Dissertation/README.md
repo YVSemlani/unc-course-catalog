@@ -1,3 +1,0 @@
-# CHIP 994: Doctoral Research and Dissertation
-
-Individual work on the doctoral dissertation under the guidance of the student's dissertation advisor. Graduate students must have completed their pillar and elective coursework requirements. A doctoral degree check with program coordinator must be completed before a student can be enrolled in CHIP 994. Doctoral student standing and permission of instructor required.

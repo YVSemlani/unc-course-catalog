@@ -1,3 +1,0 @@
-# EDUC 325: Introduction to Counseling and Coaching
-
-This course provides students with an overview of the major counseling and group work theories, an introduction to individual and group work counseling techniques, the conditions that facilitate an effective working relationship with clients across the lifespan applying cultural awareness and sensitivity, the general stages in group and individual counseling processes, and professional ethics. The course also provides an overview of coaching as a method of helping families thrive. Course restricted to majors.

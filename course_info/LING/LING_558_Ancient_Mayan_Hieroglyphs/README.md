@@ -1,3 +1,0 @@
-# LING 558: Ancient Mayan Hieroglyphs
-
-This course is an introduction to the ancient scripts of pre-Columbian Mexico and Central America. It focuses on ancient Mayan hieroglyphs, describing their orthographic and linguistic structure, and highlighting methods for investigating the script using the Maya Hieroglyphic Database (5,000 inscriptions comprising 85,565 records). Students will write a research paper consisting of a linguistic and quantitative (descriptive, inferential statistical) analysis of a particular phenomenon of the script.

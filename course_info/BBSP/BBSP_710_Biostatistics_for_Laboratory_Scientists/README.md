@@ -1,3 +1,0 @@
-# BBSP 710: Biostatistics for Laboratory Scientists
-
-BBSP 710 introduces basic concepts of statistics in the experimental biological sciences to 2nd year+ graduate students. Focus is on mastery of common statistical skills and familiarity with advanced analytical skills, with an emphasis on graphing and statistical analysis using GraphPad Prism. Sample topics include experimental design, hypothesis testing, inferential statistics, power, correlation and regression. No previous background in statistics is required, but access to multiple devices and a stable internet connection is needed.

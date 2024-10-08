@@ -1,3 +1,0 @@
-# PLAN 672: Urban Data Analytics
-
-This is a survey course about different techniques used in assembling, managing, analyzing, and predicting using heterogeneous data sets in urban environments. These include point, polygon, raster, vector, text, image, and network data; data sets with high cadence and high spatial resolution; and data sets that are inherently messy and incomplete. The emphasis is on practical urban analytics.

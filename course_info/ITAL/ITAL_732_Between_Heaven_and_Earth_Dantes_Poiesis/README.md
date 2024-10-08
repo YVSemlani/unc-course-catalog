@@ -1,3 +1,0 @@
-# ITAL 732: Between Heaven and Earth: Dante's Poiesis
-
-Focusing on Dante's lyric poetry, Vita nova, and Purgatorio, this course tracks various issues related to the generation of poetry in Dante's works and in medieval culture. Topics include medieval psychology, dream theory, conversion, inspiration, devotion, and eros, in addition to manuscript culture, authorship, tradition, and canonicity. Permission of the instructor for undergraduates.

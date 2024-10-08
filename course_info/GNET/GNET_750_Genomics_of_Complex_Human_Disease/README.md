@@ -1,3 +1,0 @@
-# GNET 750: Genomics of Complex Human Disease
-
-Human complex diseases are major focus in human genomics. They have important genetic components, but inheritance is probabilistic and not deterministic. This graduate seminar will cover the main approaches (genome-wide association, next-generation sequencing, and structural variation in case-control and pedigree studies) and current knowledge in the main disease areas.

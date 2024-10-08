@@ -1,3 +1,0 @@
-# PHIL 111: Philosopher Queens: World Philosophies through Women's Texts
-
-This course provides an introduction to world philosophies through close readings of philosophical texts attributed to or written by women in different time-periods from across the globe. We will practice the art of reading, understanding, and philosophically engaging with great historical works of philosophy while also examining the political inequalities, social structures, and contemporary practices from within which these women philosophers wrote and were trying to make their voices heard.

@@ -1,3 +1,0 @@
-# HBEH 775: Introduction to Public Health Policy and The Policy-Making Process
-
-This course introduces skills needed to effectively assess and influence a four phase policy process: 1) Defining the problem toward structural solutions; 2) Developing a policy or structural solution by using systems thinking and policy agenda windows and applying policy analysis tools to optimize the solution; 3) Using advocacy strategies to influence the solution toward enactment; and 4) Clarifying the implementation components that need to be in place and the political games that ensue.

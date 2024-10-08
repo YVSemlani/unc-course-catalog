@@ -1,3 +1,0 @@
-# IDST 133: Triple-I: How to Not Be Fooled - Or Fool Yourself
-
-How do you avoid being fooled by bogus claims? In this class, we examine climate change and the age of Earth and the universe - two topics where our underlying beliefs push us toward conclusions that conflict with the evidence. In addition to learning the science underlying these topics, we will learn the psychology of belief systems, why our brains reject some information, and how to deal with uncertainty, recognize logical fallacies, and examine claims.

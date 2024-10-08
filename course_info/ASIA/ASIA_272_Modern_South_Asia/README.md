@@ -1,3 +1,0 @@
-# ASIA 272: Modern South Asia
-
-Provides students with a critical understanding of the political, economic, and social dynamics of contemporary South Asia. Themes explored include the development (or lack of) democratic structures, continuing relevance of caste and religion, emergence of right wing movements, contesting representations of the past, and the prospects and challenges confronting the region.

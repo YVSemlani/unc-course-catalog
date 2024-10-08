@@ -1,3 +1,0 @@
-# LATN 774: Vergil
-
-We will read the AENEID in Latin, with special attention to the War in Italy. We'll concern ourselves with a variety of topics: style and language; allusion, intertextuality, and the poem's relationship to various texts or traditions; the blending or clash or voices and genres, and possible ways of responding to perceived inconsistencies; and critical debates about the poem's attitude toward the strengths & weaknesses of the Roman people.

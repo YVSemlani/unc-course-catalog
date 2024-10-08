@@ -1,3 +1,0 @@
-# IDST 121: Triple-I: Performing and Imagining the American South
-
-The Mason-Dixon line marks a physical boundary of the US South, but Southern identity arises from more than a line on a map. This course will examine the South through its music, film, literature, and public rhetoric, to consider how those elements intersect with economic, technological, and political factors. In short, how can the South be simultaneously the birthplace of rock and roll and the origin of the "Southern Strategy", American authenticity and Coca Cola?

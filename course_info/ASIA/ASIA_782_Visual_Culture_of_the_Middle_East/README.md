@@ -1,3 +1,0 @@
-# ASIA 782: Visual Culture of the Middle East
-
-Examines the role of images in the modern ME & how these images shape transnational relationships and conceptions of the region within the global imaginary. How do images "speak"? What role do they play in constructing subjectivities and identities of belonging? What is their relationship to power locally and globally? We will analyze a variety of texts and media (film, photography, video, television, modern art, street art, graphic novels, social media, etc) from the ME.

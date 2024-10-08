@@ -1,3 +1,0 @@
-# PHRS 500: Innovations and Transformations in Pharmaceutical Sciences
-
-Students will learn about and develop skills in topics related to the drug development pipeline (from discover, delivery, clinical pharmacology, and outcomes), pharmacy practice, and professional development. Programming consists of classroom sessions, guest speakers, panels, simulations, and site visits to hospitals, community pharmacies, and different pharmaceutical industries. Classroom sessions will be led by graduate students, post-doctoral fellows, and faculty. The classroom experience will be active learning to immerse students in scientific discourse. Restricted to learners participating in the UNC Eshelman School of Pharmacy ITPS Program.

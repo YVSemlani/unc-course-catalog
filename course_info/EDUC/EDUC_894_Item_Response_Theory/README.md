@@ -1,3 +1,0 @@
-# EDUC 894: Item Response Theory
-
-A first course in test theory (e.g., EDUC 829, PSYC 842) is recommended but not required. Please ask the course instructor if you are unsure about prerequisites. This course covers basic and advanced topics in item response theory (IRT). Examples are taken from educational testing, psychological assessment, and patient-reported health outcomes. Students produce a term project applying IRT to assessment data, and / or addressing mathematical or computational aspects of IRT.

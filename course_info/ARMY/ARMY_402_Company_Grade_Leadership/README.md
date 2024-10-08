@@ -1,3 +1,0 @@
-# ARMY 402: Company Grade Leadership
-
-In this final semester of a four-year developmental leadership experience, cadets are undergoing preparation for the duties and responsibilities of a commissioned officer along with their integration into the Army. Emphasis is on critical knowledge, skills, abilities, and competencies new officers will need to succeed in their first unit of assignment. Required for cadets.

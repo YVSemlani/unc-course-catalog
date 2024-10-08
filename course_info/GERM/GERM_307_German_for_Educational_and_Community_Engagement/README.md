@@ -1,3 +1,0 @@
-# GERM 307: German for Educational and Community Engagement
-
-The goal of this course is to enrich students' knowledge of German by giving them the opportunity to teach elementary German classes to high school students at a local partner school. In preparation for teaching, students will learn about current best practices in foreign language pedagogy by engaging with foundational texts from the discipline as well as from invited guest speakers. Students will also gain first-hand experience designing teaching materials and learning about curricular design.

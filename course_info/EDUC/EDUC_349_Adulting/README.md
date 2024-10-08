@@ -1,3 +1,0 @@
-# EDUC 349: Adulting
-
-The course critically analyzes the contemporary and cultural application of emerging adulthood theory. Themes center on identity, competence, managing emotions, purpose, intimacy, civic engagement, and more. Practical learning and skills surrounding financial literacy are included. Students co-create core adulting skills through research and skill demonstrations. Sophomores, juniors, and seniors only.

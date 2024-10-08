@@ -1,3 +1,0 @@
-# PATH 850: Scientific Writing in Pathobiology and Translational Science
-
-The students will develop a research plan based on their thesis project and write a 6-page grant in the style of a NRSA F31 application. Students will learn to edit and critique their fellow student's proposals which will help prepare the students for writing and editing their preliminary exam and future grant applications. Restricted to students currently earning a degree in a Biological & Biomedical Sciences Program (BBSP) with preference given to students in the Pathobiology and Translational Science Graduate Program.

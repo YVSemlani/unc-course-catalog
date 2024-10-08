@@ -1,3 +1,0 @@
-# PSYC 574: Science of Moral Understanding
-
-Each of us is committed to our moral values and often struggle to understand those who with different beliefs. This course will focus on difficult moral disagreements (e.g., abortion, euthanasia), using social psychology and related disciplines to reveal the basis of our moral judgments, the drivers of moral divides, and how best to bridge them. We will cover both theory and application, and practice having constructive dialogue and civil disagreement to forge moral understanding.

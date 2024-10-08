@@ -1,3 +1,0 @@
-# SPAN 321: Spanish for the Medical Professions (First Semester)
-
-All-skills course with review of grammar, extensive writing and speaking practice. Vocabulary, readings, and activities geared toward the language of health care professions in the context of the United States Hispanic community. Students may receive credit for only one of SPAN 320, 321, or 323. Open only to students in the minor in Spanish for the professions.

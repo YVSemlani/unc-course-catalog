@@ -1,3 +1,0 @@
-# PLAN 652: Site Planning and Urban Design
-
-This course examines site planning as a means of addressing concerns related to urban development including hydrology, vegetation, land use, urban form, access, regulation, and community priorities. Students conduct an analysis of a site and propose a plan for a hypothetical mixed-use development. Students learn the basics of the 3D modeling software, SketchUp.

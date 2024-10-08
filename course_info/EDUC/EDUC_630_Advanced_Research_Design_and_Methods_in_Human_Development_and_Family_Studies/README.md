@@ -1,3 +1,0 @@
-# EDUC 630: Advanced Research Design and Methods in Human Development and Family Studies
-
-This course covers advanced research designs and methodologies that are common in contemporary research on human development and family studies. It is designed to follow the introductory course in research methods and provides a more immersive learning experience into research design and methods. As such, it is appropriate for advanced undergraduate students as well as graduate students with limited exposure to advanced research.

@@ -1,3 +1,0 @@
-# HBEH 790: Racialization and Health
-
-Racialization, or the process of race making in time and place, is a concept that is foundational to public health practice and research. This course will use historical and sociological perspectives to learn about the construction of ethnoracial groups across the Americas, how racialization is defined in law, manifested in geography, medicine, and occupation. We will also apply the racialization framework to the critique racialized data in public health.

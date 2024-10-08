@@ -1,3 +1,0 @@
-# COMM 658: Surveillance Cultures
-
-We live in surveillance societies. Just about every element of our lives is affected by surveillance: workplaces and schools, social media sites and mobile phone use, police encounters and security screening. Surveillance practices shape how institutions operate and how people see themselves and others. The goal of this course is to develop a critical awareness of surveillance and its implications for society.

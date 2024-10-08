@@ -1,3 +1,0 @@
-# ITAL 401: Beginning Accelerated Italian
-
-Covers levels one and two of the basic language sequence in one semester. Designed for highly motivated undergraduate/graduate language learners, especially those who have experienced success with learning another language. Intensive approach to developing all skills but with an emphasis on speaking. Students may not receive credit for both ITAL 401 and ITAL 101 or 102.

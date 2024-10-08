@@ -1,3 +1,0 @@
-# MEJO 755: Narrative Writing
-
-This course is designed to guide students to primarily write non-fiction narrative long-form stories, but also to examine narrative storytelling for other mediums. All stories written in class are non-fiction, reported, and researched and told with a narrative arc to draw audiences into the storytelling as well as the reporting. Material for the course will include reading long-form stories, book excerpts, podcasts, and documentary films. Restricted to students in the Master of Arts in Media and Communication program.

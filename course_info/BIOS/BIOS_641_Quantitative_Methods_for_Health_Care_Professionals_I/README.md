@@ -1,3 +1,0 @@
-# BIOS 641: Quantitative Methods for Health Care Professionals I
-
-Course is designed to meet the needs of health care professionals to appraise the design and analysis of medical and health care studies and who intend to pursue academic research careers. Covers basics of statistical inference, analysis of variance, multiple regression, categorical data analysis. Previously offered as PUBH 741. Permission of instructor.

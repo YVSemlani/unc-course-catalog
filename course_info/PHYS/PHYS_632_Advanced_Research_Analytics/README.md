@@ -1,3 +1,0 @@
-# PHYS 632: Advanced Research Analytics
-
-Required preparation, ability to program in a high-level computer language. Permission of the instructor for students lacking the required preparation. Methods required for the analysis, interpretation, and evaluation of physics measurements and theory. Error analysis, statistical tests, model fitting, parameter estimation, Monte Carlo methods, Bayesian inference, noise mitigation, experimental design, big data, selected numerical techniques including differential equations and Fourier techniques.

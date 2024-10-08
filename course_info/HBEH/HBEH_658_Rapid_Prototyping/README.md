@@ -1,3 +1,0 @@
-# HBEH 658: Rapid Prototyping
-
-This interprofessional service-learning course prepares students to work in teams alongside community members to quickly, efficiently, and effectively develop and test innovative prototypes (i.e. preliminary versions of a solution) to help solve pressing and complex challenges. Using a participatory rapid prototyping approach, this course will make the innovation and problem-solving processes more accessible by equipping students with the skills to frame testable ideas, define measures, build prototypes, and execute experiments. Permission of instructor required to enroll.

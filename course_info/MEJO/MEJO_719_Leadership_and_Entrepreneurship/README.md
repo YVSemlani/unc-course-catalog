@@ -1,3 +1,0 @@
-# MEJO 719: Leadership and Entrepreneurship
-
-How does one mobilize an organization to action, regardless of job title? How does an employee influence decisions up, down, and across a company? Drawing lessons from organizational psychology and change management, students will explore challenges faced by today's media innovators and anyone hoping to make an impact in government, corporate, or non-profit arenas. They will learn to drive change, adapt their thinking, and innovate more effectively, whether in an established organization or a start-up. Restricted to students in the M.A. in Digital Communication program.

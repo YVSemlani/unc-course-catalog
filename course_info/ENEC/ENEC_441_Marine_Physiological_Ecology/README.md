@@ -1,3 +1,0 @@
-# ENEC 441: Marine Physiological Ecology
-
-This course introduces students to the physiological, morphological, and behavioral factors employed by marine organisms to cope with their physical environment. Emphasis will be placed on the response of marine organisms to environmental factors such as seawater temperature, light, water salinity, ocean acidification, etc. Course previously offered as MASC 441.

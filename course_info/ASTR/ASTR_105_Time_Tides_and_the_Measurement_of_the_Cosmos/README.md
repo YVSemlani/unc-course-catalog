@@ -1,3 +1,0 @@
-# ASTR 105: Time, Tides, and the Measurement of the Cosmos
-
-This course is focused on medieval foundations of modern cosmology and is designed to take advantage of the opportunities available for enriched learning in England. The course is problem-based, e.g. How did people reckon calendars, time, and tides, both for navigation and daily life, before clocks and the printed word? Honors version available.

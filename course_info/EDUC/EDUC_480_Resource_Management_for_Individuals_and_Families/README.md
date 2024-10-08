@@ -1,3 +1,0 @@
-# EDUC 480: Resource Management for Individuals and Families
-
-This course examines individual and family resource management. Students will develop skills related to importance of time management, financial planning and budgeting, consumer decision-making, and allocation of resources to the well-being of children, youth, and families. The course also examines issues related to grant writing, consumer economics, conflict resolution, poverty alleviation, work-family balance, and stress management.

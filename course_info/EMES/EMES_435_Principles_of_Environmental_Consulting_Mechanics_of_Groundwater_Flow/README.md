@@ -1,3 +1,0 @@
-# EMES 435: Principles of Environmental Consulting: Mechanics of Groundwater Flow
-
-Water is an essential resource for all life, and the availability of clean water will become one of the most important socio-political and economic discussions over the coming decades. This course covers fundamentals of groundwater storage, subsurface flow, and contaminant transport, emphasizing the role of groundwater in the hydrologic cycle, the relation of groundwater flow to geologic structure, and the management of contaminated groundwater and drinking water resources. Course previously offered as GEOL 435.

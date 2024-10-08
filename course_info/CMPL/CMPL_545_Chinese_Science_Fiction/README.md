@@ -1,3 +1,0 @@
-# CMPL 545: Chinese Science Fiction
-
-This research seminar contextualizes the contemporary explosion of Chinese science fiction within modern Chinese intellectual history and SF studies worldwide. We read globally influential novels such as The Three-Body Problem and trace several waves of the genre's century-long evolution within Chinese literature. We ask how threats of global annihilation, the exhaustion of environmental resources, discoveries in virology, epigenetics, and innovations in cybernetics intersect with global development, climate migration, decolonization, and structures of race and class.

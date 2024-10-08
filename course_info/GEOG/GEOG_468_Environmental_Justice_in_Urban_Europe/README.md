@@ -1,3 +1,0 @@
-# GEOG 468: Environmental Justice in Urban Europe
-
-While much attention has been given to Europe's "green" cities and the region's examples of sustainable development, less attention has been given to the ways in which the uneven distributions of environmental degradation have social and spatial ramifications within and beyond the region. This course will provide an overview of environmental justice in urban Europe to consider the key concepts, topics, debates, and trends shaping people and places there.

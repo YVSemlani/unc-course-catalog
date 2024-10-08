@@ -1,3 +1,0 @@
-# PWAD 361: The History of Deception
-
-Course examines strategic, operational, and tactical deception in warfare through history. This process entails describing and assessing the objectives, methodologies, and results of specific deception operations. There is a particular emphasis on the role of deception regarding intelligence collection and analysis, as well as the methods utilized to detect deception.

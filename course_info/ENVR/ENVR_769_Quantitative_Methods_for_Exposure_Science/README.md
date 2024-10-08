@@ -1,3 +1,0 @@
-# ENVR 769: Quantitative Methods for Exposure Science
-
-SAS regression and statistics, two ENVR courses (e.g. 430, 470, 707, 740, 770, 890), or permission of the instructor. Mathematical approaches for assessing environmental and/or occupational exposures to chemicals in human populations using stochastic (group) statistics, regression analysis and modeling, and pharmacokinetic modeling; focus on human biomarker data.

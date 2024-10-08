@@ -1,3 +1,0 @@
-# ANTH 204: From Ayahuasca to Zoloft: Anthropological Approaches to Drugs and Drug Use
-
-This course considers the cultural, social, political, medical, and biological aspects of drugs (legal, illegal, pharmaceutical, botanical, and otherwise) through space and time. We take an interdisciplinary approach drawing on research from anthropology, science studies, biology, history, ethnobotany, and sociology to examine what counts as a drug, who determines what is a drug, why people use drugs, and how drugs influence us as individuals and as a society.

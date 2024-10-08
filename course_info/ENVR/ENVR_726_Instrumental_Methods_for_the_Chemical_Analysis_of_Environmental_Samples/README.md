@@ -1,3 +1,0 @@
-# ENVR 726: Instrumental Methods for the Chemical Analysis of Environmental Samples
-
-Required preparation, basic or general chemistry. Emphasis on acquiring laboratory skills and hands-on experience with instrumentation including chromatography and mass spectrometry; sample handling and preparation; quality assurance and control. Three lecture hours or one lecture hour and four laboratory hours per week.

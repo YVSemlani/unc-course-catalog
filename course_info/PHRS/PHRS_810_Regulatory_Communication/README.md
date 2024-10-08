@@ -1,3 +1,0 @@
-# PHRS 810: Regulatory Communication
-
-This advanced pharmaceutical science course will train students on strategic elements to consider when preparing for communications with regulators necessary to support and maintain pharmaceutical product marketing approval and advise on regulatory agency interactions. Students will learn how clarity and brevity should drive both presenting and summarizing of science and data considering the regulations. This graduate-level applied course will be taught synchronously and involve significant interaction with the course instructor and other students.

@@ -1,3 +1,0 @@
-# EXSS 581: Biopsychosocial Aspects of Sport Injury
-
-This course is designed to explore the theory and research related to the biopsychosocial approach to treating patients experiencing sport injury and undergoing rehabilitation. Application and synthesis of biopsychosocial theories and biopsychosocial therapy interventions into sport injury research and clinical practice will occur. The focus is on theory and application of various psychological concepts.

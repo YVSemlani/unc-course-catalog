@@ -1,3 +1,0 @@
-# ENGL 257: Video Games and Narrative Cinema
-
-In this hands-on gaming course, students decipher the narrative design of video games while exploring the legacy of cinema to gameplay. They also apply critical gaming concepts (agency, world-building, point of view, authorship, representation, narrative choice, play) to evaluate cinema as a ludic and participatory artform beyond conventional narrative elements.

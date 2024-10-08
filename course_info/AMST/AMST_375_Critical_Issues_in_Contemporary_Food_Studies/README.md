@@ -1,3 +1,0 @@
-# AMST 375: Critical Issues in Contemporary Food Studies
-
-Students explore, analyze, and research the politics and ethics of major food debates in contemporary American culture, including the history of the National School Lunch program, the proposed Universal Basic Income's effect on the restaurant business, and public food/body shaming. Studying, discussing in depth, and forming their own opinions on these debates allows students to apprehend the myriad ways in which food is embedded in local, regional, national, and global narratives and identities. Restricted to Food Studies Minors and American Studies majors.

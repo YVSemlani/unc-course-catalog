@@ -1,3 +1,0 @@
-# ENGL 116: History of Writing: From Pen to Pixel
-
-Fulfills a major core requirement. This course examines how writing has evolved from ancient times to the present, with a focus on how writing technologies (from clay tablets to typewriters, pictographs to emojis) have shaped written languages and writing instruction. Activities will include making cylinder seals, writing with wax tablets, composing videos and comic books.

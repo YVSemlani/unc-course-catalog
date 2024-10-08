@@ -1,3 +1,0 @@
-# GSLL 273: Close Your Eyes and See a Film: The Documentary in Central Europe
-
-Aesthetic experiment, agit-prop tool, and instrument of social critique: documentary film is a flexible form. In the Socialist Bloc, documentary was sanctioned by the state but often used to undermine state power. This course is a survey of Polish, Czech, Yugoslav and Hungarian documentary film. We will explore studio productions alongside home movies, amateur films, and art films. Does documentary simply record reality, or can it change reality too? Readings & discussions in English.

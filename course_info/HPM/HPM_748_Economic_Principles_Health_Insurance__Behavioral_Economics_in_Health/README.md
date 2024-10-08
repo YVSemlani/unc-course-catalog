@@ -1,3 +1,0 @@
-# HPM 748: Economic Principles, Health Insurance & Behavioral Economics in Health
-
-This course provides students with an opportunity to investigate topics of healthcare policy and insurance from a finance and economics perspective. The course covers contemporary health policy topics in great depth and with a focus on economic and financial analysis as a tool to evaluate healthcare policies and proposed new legislation.

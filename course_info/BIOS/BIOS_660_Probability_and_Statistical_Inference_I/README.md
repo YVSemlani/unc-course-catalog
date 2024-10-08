@@ -1,3 +1,0 @@
-# BIOS 660: Probability and Statistical Inference I
-
-Required preparation, three semesters of calculus (such as MATH 231, 232, 233). Introduction to probability; discrete and continuous random variables; expectation theory; bivariate and multivariate distribution theory; regression and correlation; linear functions of random variables; theory of sampling; introduction to estimation and hypothesis testing.

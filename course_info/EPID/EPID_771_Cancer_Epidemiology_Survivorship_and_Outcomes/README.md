@@ -1,3 +1,0 @@
-# EPID 771: Cancer Epidemiology: Survivorship and Outcomes
-
-Students will evaluate the strengths and weaknesses of data sources common to cancer survivorship and outcomes studies, focusing on epidemiologic study designs. The course addresses cancer detection, treatment strategies, medical surveillance, and personal behaviors as determinants for prognosis, late effects, and the long-term health of cancer survivors.

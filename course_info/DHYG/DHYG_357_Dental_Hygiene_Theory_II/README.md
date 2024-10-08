@@ -1,3 +1,0 @@
-# DHYG 357: Dental Hygiene Theory II
-
-This course is designed to provide the student with expanded concepts and theories related to practice of clinical dental hygiene. Emphasis is placed on understanding the physiological, psychological, and sociological aspects of treating patients with special needs. Lectures, self-instructional materials, and hands-on experiences will be used to prepare the student in the provision of dental care to these special population groups. Restricted to Dental Hygiene students.

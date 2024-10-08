@@ -1,3 +1,0 @@
-# BMME 568: Super Resolution-Imaging Beyond Limits
-
-All imaging systems have limitations due to hardware specifications or fundamental physical principles. This course will focus on ways to surpass these limits through experimental design, new physical principles, and deep learning/computational processing. Toward this end, we will cover the fundamental mechanisms of image formation in the most common biomedical imaging modalities and describe recent approaches to extend resolution beyond conventional limits.

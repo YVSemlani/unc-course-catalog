@@ -1,3 +1,0 @@
-# PWAD 674: Research Seminar on the History of Covert Action
-
-Examines historical dimensions of the phenomenon known as covert action, in which states are motivated to conceal their responsibility for foreign intervention. This behavior has important and far-reaching implications for international security, diplomacy, and law that are explored through class discussions and in-depth original research projects.

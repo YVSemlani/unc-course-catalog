@@ -1,3 +1,0 @@
-# GNET 760: Advanced Topics in CRISPR-Based Genome Engineering:Origins, Applications, and Ethical Considerations
-
-This graduate-level course is designed to teach students about the origins of CRISPR-Cas genome engineering technology, its applications to research and human health, and the ethical/societal considerations surrounding this powerful technology. Emphasis will be made on recent literature, new applications, discoveries and bioethics. Students interested in taking this class must have taken an advanced Genetics or Molecular Biology course.

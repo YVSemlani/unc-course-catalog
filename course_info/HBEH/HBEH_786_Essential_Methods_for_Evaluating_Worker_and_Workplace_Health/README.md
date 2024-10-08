@@ -1,3 +1,0 @@
-# HBEH 786: Essential Methods for Evaluating Worker and Workplace Health
-
-Required course for the graduate certificate in Total Worker Health. Students in this course will develop skills for deploying a comprehensive, multi-level assessment of worker and workplace health. Students will draw on the evidence base to articulate a plan for engaging employees in assessments; describe how to conduct individual worker assessments ethically and legally; conduct several types of organizational assessment; summarize administrative data (such as use of sick leave in the worksite) and practice communicating.

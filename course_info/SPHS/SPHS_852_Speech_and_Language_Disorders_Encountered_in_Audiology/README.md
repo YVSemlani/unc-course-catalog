@@ -1,3 +1,0 @@
-# SPHS 852: Speech and Language Disorders Encountered in Audiology
-
-Students will select two topics from speech disorders (fluency, voice, articulation, and craniofacial anomalies) and two topics from language disorders (receptive and expressive language disorders, communication modalities, social aspects of communication, and cognitive aspects of communication). This is an online asynchronous course with readings, videos, and quizzes.

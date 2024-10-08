@@ -1,3 +1,0 @@
-# JWST 103: Introduction to the Hebrew Bible/Old Testament Literature
-
-This course introduces students to the various books of the Hebrew Bible and to the history and culture of ancient Israel, focusing on the formation of national identity, ancient conceptualizations of divinity, ritual practice, and modes of social regulation, all of which are set against the background of the ancient Near East. Honors version available.

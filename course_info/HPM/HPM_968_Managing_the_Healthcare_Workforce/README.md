@@ -1,3 +1,0 @@
-# HPM 968: Managing the Healthcare Workforce
-
-Workforce issues play a central role in virtually all organizational problems and challenges. At times, workforce issues may be the primary cause of a problem, while in other cases, they may be one of several underlying causes. Similarly, it is difficult to identify a solution to an organizational problem that does not involve some aspect of workforce management. DrPH students only.

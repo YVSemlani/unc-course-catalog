@@ -1,3 +1,0 @@
-# AMST 720: Fugitive Philosophies: The Intellectual Tradition of Forced Movers
-
-Seminar traces the intellectual tradition of refugees, migrants, and forced movers transiting the United States. Beginning in the 19th century and progressing to the 21st century, we will examine the works of anticolonial thinkers, Caribbean philosophers, journalists of the African American and Latinx traditions, labor movement musicians, activists in the Long Civil Rights Movement, Marxist organizers, and social and political reformers. We analyze how their dislocations and multi-sited lives have created spaces for philosophical interventions.

@@ -1,3 +1,0 @@
-# POLI 449: Beg, Borrow, or Steal: How Governments Get Money and Its Effects on Accountability
-
-This course explores the politics behind taxation, foreign aid, natural resources, and debt, focusing on how each affects accountability and state capacity. Topics include when governments tax; whether taxation causes democratization; the effects of foreign aid and oil money on corruption and conflict; and how government debt shapes domestic politics.

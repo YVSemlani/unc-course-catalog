@@ -1,3 +1,0 @@
-# HBEH 770: Social Determinants of Health in the US
-
-This course examines the social, economic, cultural, organizational, and institutional factors that impact public and population health in the US. These factors include population characteristics (social class, age, gender, cultural background, race, ethnicity), individual beliefs and behaviors, and socio-political systems and practices that affect public health problems and policies. Although the course focuses on the United States, many of the same factors affect health and longevity across population subgroups in other countries.

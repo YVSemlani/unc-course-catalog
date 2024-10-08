@@ -1,3 +1,0 @@
-# RELI 913: Practices of Professional Development
-
-This course prepares doctoral students for careers in Religious Studies and cognate disciplines by focusing on the skills and practices associated with success in research, publishing and the job market. Focuses on skills development and strategies including conceptualizing and cultivating a professional persona, planning and presenting research, publishing, alt-ac career options, the academic job search, and professional ethics. Includes practical work as well as discussion.

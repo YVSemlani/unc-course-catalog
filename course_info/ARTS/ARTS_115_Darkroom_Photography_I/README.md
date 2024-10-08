@@ -1,3 +1,0 @@
-# ARTS 115: Darkroom Photography I
-
-Introduction to black and white photography in the darkroom through photograms, pinhole, and SLR cameras, processing film, and making gelatin silver prints. Concepts are developed through making, reading and writing, engaging with established and historical artists, and critiquing peers' work. B&W process and aesthetic is approached as tradition, genre, abstraction.

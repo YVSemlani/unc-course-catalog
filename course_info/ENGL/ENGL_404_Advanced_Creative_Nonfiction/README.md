@@ -1,3 +1,0 @@
-# ENGL 404: Advanced Creative Nonfiction
-
-In addition to surveying key works of creative nonfiction throughout the ages - from Montaigne in the 16th century to Solnit, Rankine, and Urrea in the 21st - we will be composing (and peer-reviewing) our own explorations of every subgenre, including memoir, literary journalism, travel writing, flash nonfiction, and the lyric essay, with an eye toward publication.

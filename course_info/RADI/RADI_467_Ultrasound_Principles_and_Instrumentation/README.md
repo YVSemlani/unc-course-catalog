@@ -1,3 +1,0 @@
-# RADI 467: Ultrasound Principles and Instrumentation
-
-Diagnostic Medical Sonography Track. The course provides comprehensive instruction on the principles of ultrasound, including wave characteristics and propagation, acoustic variables, transducers, pulsed waves, real time imaging, and image display and image archiving. More topics include Doppler physics, equipment instrumentation and operation, quality assurance, and biological effects of ultrasound. Majors only.

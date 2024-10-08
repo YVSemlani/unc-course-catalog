@@ -1,3 +1,0 @@
-# NURS 911: Carolina PhD Seminar IV: Synthesizing Determinants of Health, Syndemics and Nursing Science
-
-Evaluates the interplay among biological, physiological, psychological, behavioral, and social determinants, whether the relationships are consistent with a syndemics framework, and the potential for novel relationships across determinants in these areas to advance nursing science. Enrollment in the SON PhD Program.

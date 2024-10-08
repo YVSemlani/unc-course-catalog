@@ -1,3 +1,0 @@
-# CLAS 243: Race and Ethnicity in the Ancient Mediterranean
-
-This course examines constructions of race and ethnicity in the ancient Mediterranean through art, literature, and archaeology. Students gain a background in the history and culture of the classical world that grounds critical analysis of the primary source evidence, both textual and material. By engaging with modern scholarship on ancient ideas about race and ethnic identity, students also learn to evaluate and critique secondary source material in their original contexts.

@@ -1,3 +1,0 @@
-# HPM 620: Implementing Health Informatics Initiatives
-
-Focuses on implementing informatics programs and projects in health organizations. Informatics initiatives aim to facilitate effective information use for the purpose of improving the quality of health services and/or efficiency of processes. Therefore, these initiatives have implications for various stakeholder groups, including consumers, practitioners, administrators, and policy makers.

@@ -1,3 +1,0 @@
-# PUBH 738: Place-based Community Transformation
-
-This course explores the who, what, where, when, why, and how of community health transformation. We learn about cultural context, purpose, and approaches supporting and enacting health justice from community co-educators; engage with models (Participatory Action Research and Community-Based Participatory Research/Action) and resources; explore the roles of history, perspective, relationships, and trust in community work; visit to/with community co-educators, engage in community-collaborative activities, and analyze a community health transformation.

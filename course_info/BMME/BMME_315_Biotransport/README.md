@@ -1,3 +1,0 @@
-# BMME 315: Biotransport
-
-This course serves as introduction for engineers pursuing transport phenomena and for future pharmaco-engineers requiring predictive models of mass transfer or pharmacodynamic models. Material is designed to address heat and mass transfer issues in nanotechnology, microfabrication, mems, cell therapies, bioartificial organs, as well as pharmacodynamic modeling of dynamic "omics" datasets. Previously offered as BMME 475. Majors only.

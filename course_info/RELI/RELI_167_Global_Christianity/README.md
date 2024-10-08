@@ -1,3 +1,0 @@
-# RELI 167: Global Christianity
-
-Christianity began in Asia and Africa, followed by expansion into Europe and eventually the Americas. Now, the Global South again has the highest population of Christians. This course examines the geographical expansion of Christianity in its early history, then turns to modern and current processes of enculturation and globalization as well as inter-religious dynamics.

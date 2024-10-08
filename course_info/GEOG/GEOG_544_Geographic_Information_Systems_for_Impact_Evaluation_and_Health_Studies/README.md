@@ -1,3 +1,0 @@
-# GEOG 544: Geographic Information Systems for Impact Evaluation and Health Studies
-
-Examines the theory and application of geographic information systems (GIS) for impact evaluation for intervention studies. The course will focus especially on health and economic interventions in the developing world. The course includes an overview of the principles of GIS in impact evaluation and practical experience in its use.

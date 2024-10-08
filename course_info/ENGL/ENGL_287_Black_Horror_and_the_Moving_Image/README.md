@@ -1,3 +1,0 @@
-# ENGL 287: Black Horror and the Moving Image
-
-This course explores Black horror as a cinematic universe held together through the logics, sounds, and aesthetics of anti-blackness, violence, nostalgia, Black trauma, and themes/tropes from horror media. We will consider the relationship between horror and Black modes of expression focusing on the various ways Black filmmakers, writers, and artists have attempted to visualize the haunting connections between the body, the flesh, and the cultural geography of America and the Black Diaspora.

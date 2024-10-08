@@ -1,3 +1,0 @@
-# SPAN 682: Spanish Sociolinguistics
-
-Interdisciplinary approach to studying the Spanish language as a social and cultural phenomenon. Explores the relationship between language and culture, communicative competence and pragmatics, social and linguistic factors in language variation and change, attitudes toward language and language choice, linguistic prejudice and language myths, and language and identity.

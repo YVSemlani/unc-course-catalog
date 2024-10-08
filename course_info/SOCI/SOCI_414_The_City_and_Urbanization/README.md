@@ -1,3 +1,0 @@
-# SOCI 414: The City and Urbanization
-
-The city as a social, spatial, and political-economic phenomenon in the modern world. Analysis of urban demographic trends, spatial characteristics and economic functions. Substantive topics include segregation, social turmoil, unemployment, fiscal problems, suburbanization, and urban public policy. Students may not receive credit for both SOCI 414 and SOCI 417.

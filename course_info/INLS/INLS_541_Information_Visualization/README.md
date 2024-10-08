@@ -1,3 +1,0 @@
-# INLS 541: Information Visualization
-
-An introduction to information visualization through reading current literature and studying exemplars. The course reviews information visualization techniques, provides a framework for identifying the need for information visualization, and emphasizes interactive electronic visualizations that use freely available tools. Students will construct several visualizations. No programming skills are required.

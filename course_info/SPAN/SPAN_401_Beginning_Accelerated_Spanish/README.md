@@ -1,3 +1,0 @@
-# SPAN 401: Beginning Accelerated Spanish
-
-Covers levels one and two of the basic language sequence in one semester. Designed for highly motivated undergraduate/graduate language learners, especially those who have experienced success with learning another language. Intensive approach to developing all skills but with an emphasis on speaking. Students may not receive credit for both SPAN 401 and SPAN 101, 102, 105 or 111.

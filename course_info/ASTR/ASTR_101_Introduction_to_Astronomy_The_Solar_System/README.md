@@ -1,3 +1,0 @@
-# ASTR 101: Introduction to Astronomy: The Solar System
-
-Celestial motions of the earth, sun, moon, and planets; nature of light; ground and space-based telescopes; comparative planetology; the earth and the moon; terrestrial and gas planets and their moons; dwarf planets, asteroids, and comets; planetary system formation; extrasolar planets; the search for extraterrestrial intelligence (SETI). Honors version available.

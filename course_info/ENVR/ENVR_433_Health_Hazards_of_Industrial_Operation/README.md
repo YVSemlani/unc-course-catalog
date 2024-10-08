@@ -1,3 +1,0 @@
-# ENVR 433: Health Hazards of Industrial Operation
-
-An introduction to occupational hygiene and the health hazards associated with industrial operations. Fundamental scientific principles are used to provide the foundation for assessing and controlling the exposures found in the work environment. Topics with broad application include: noise, heat stress, and ventilation. Specific industrial operations examined include: welding, electroplating, and spray painting, among others. The concept of Total Worker Health is explored with a focus on the role of labor unions. No prerequisites.

@@ -1,3 +1,0 @@
-# EDUC 846: Personalized and Adaptive Learning
-
-This blended, seminar-and-workshop style course (1) provides an overview of learning and instructional design theories, then (2) introduces ways that theory can guide personalization of instructional materials and provision of adaptive design features to produce improved learning experiences and outcomes. Personalization topics in include definitions and policies, approaches that accommodate learners' interests, and ways to provide choice and promote ownership of learning. Adaptivity topics include provision of feedback and support, and designing for learning efficiency.

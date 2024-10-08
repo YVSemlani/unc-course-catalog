@@ -1,3 +1,0 @@
-# ENEC 431: Sustainable Cities: Exploring Ways of Making Cities More Sustainable
-
-Recommended preparation, ENEC 330. For the first time in history, a majority of the world's people live in cities with huge implications for sustainability. Students will examine the factors driving the trend toward urbanization worldwide, the challenges posed by this trend, and the efforts by cities to become more sustainable.

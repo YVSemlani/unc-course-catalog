@@ -1,3 +1,0 @@
-# MEJO 584: International Projects
-
-Permission of the instructor. Students work on a semester-long documentary multimedia project in an international location that includes photo and video journalists, audio recordists, designers, infographics artists, and programmers. Open by application to students who have completed an advanced course in visual or electronic communication. Honors version available.

@@ -1,3 +1,0 @@
-# EDUC 695: Human and Organizational Leadership Development Capstone
-
-This course provides an integrative learning experience in which HOLD students apply academic learning acquired in previous coursework to real-life situations encountered in the field. The internship serves as the capstone of the HOLD major, requiring senior students to demonstrate mastery of the skills learned in the HOLD major. Students are required to complete a Human Organizational Leadership and Development project that will be shared in both written format and an oral presentation. Restricted to Majors only.

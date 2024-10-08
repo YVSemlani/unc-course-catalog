@@ -1,3 +1,0 @@
-# GERM 426: Play Time: Theater in the Medieval and Early Modern World
-
-This course explores the vibrant world of medieval and early modern performance and theater. Students will discover how religious and secular plays were a formative component of marking time and creating community through their integration into liturgical practice, with Jews performing Purim plays and Christians staging plays at Christmas, during Carnival and Lent, and Easter. They will encounter entire cities transformed into public spaces of performance, often political and for days at a time.

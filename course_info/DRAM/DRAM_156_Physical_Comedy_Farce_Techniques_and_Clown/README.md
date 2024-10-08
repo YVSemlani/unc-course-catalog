@@ -1,3 +1,0 @@
-# DRAM 156: Physical Comedy, Farce Techniques, and Clown
-
-Beginning with a history of physical comedy and performance techniques, this experiential class will explore vulnerability and self-discovery through clown. Students will learn farce techniques which strengthen physical agility and comic timing. Through a process of rediscovering innocence in sound and movement, the student will begin to forget the filter of the socialized body, achieving a heightened presence.

@@ -1,3 +1,0 @@
-# EDUC 475: Child and Family Health
-
-This course serves to integrate our core field of human development and family studies with other public health issues and professions to help improve understanding of factors impacting the health and well-being of children, youth, and families. The course blends human development theories, family systems theories, and health promotion theories to better understand the health experiences of individuals across the lifespan.

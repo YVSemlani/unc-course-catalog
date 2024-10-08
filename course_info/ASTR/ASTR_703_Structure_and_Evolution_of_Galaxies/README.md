@@ -1,3 +1,0 @@
-# ASTR 703: Structure and Evolution of Galaxies
-
-Overview of the structure and evolution of galaxies, with emphasis on learning and applying modern research methods such as scientific literature review and computational astrostatistics. Includes galaxy morphology and dynamics, star formation, active galactic nuclei, galaxy interactions, large-scale clustering, environment-dependent physical processes, and the evolution of the galaxy population over cosmic time.

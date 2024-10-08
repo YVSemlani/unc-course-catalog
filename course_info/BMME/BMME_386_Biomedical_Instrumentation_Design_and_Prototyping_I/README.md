@@ -1,3 +1,0 @@
-# BMME 386: Biomedical Instrumentation Design and Prototyping I
-
-Students will learn advanced topics in concept development, detailed design, fabrication, assembly, testing, deployment, and incorporation of user feedback in the design and fabrication of components and systems for research and technology development in biomedical engineering. Students will interact with faculty with many decades of research and commercial design experience to develop and deploy design solutions for BME laboratories and technology spin-outs. This course is the first in a series of two courses. Majors only.

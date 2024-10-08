@@ -1,3 +1,0 @@
-# NDSS 593: Neurodiagnostics and Sleep Science Internship
-
-Sleep and Clinical neurophysiology laboratory educational and management internship with mentoring component. Direct working experience in one or more of the following setting: educational facility; clinical facility or hospital; NDSS related company or business; other as deemed appropriate by the instructor. The student and internship supervisor negotiate a learning contract outlining the internship schedule and specific tasks to be learned and completed. Majors only.

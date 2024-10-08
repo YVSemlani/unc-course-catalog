@@ -1,3 +1,0 @@
-# GSLL 280: The Dialectic of Whiteness and Blackness in Atlantic Cultures
-
-Traces the invention of race, racism, and discourses of cultural inferiority/superiority throughout Western culture. What historical events created the necessity for racist thinking? How did colonialism and transatlantic migration change Atlantic cultures? Why did black culture become fashionable? Is the 21st century "post-racial"? Readings and course descriptions in English.

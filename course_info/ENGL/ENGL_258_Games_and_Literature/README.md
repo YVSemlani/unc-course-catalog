@@ -1,3 +1,0 @@
-# ENGL 258: Games and Literature
-
-Part hands-on gaming studio, part literature seminar--students in this course will play a range of digital and analog games while reading key works of English literature. Students will use literary critical concepts (plot, narrative, dialogue, imagery, characterization, symbol, voice, genre) to interrogate games as cultural texts. They will also apply their experience of critical play to consider the shared affordances of literature and games: as frameworks for play, mechanisms for world-building, and equipment for living.

@@ -1,3 +1,0 @@
-# MEJO 751: Journalism Methods
-
-This course is designed to help you hone the reporting, interviewing, research and analytical skills necessary to convey newsworthy information in written or visual formats. You will be challenged to identify and interview sources, concisely convey information and critically consider the best ways to inform an audience about an issue or topic, all of which are the hallmarks of ''must-consume'' journalism. Restricted to students in the Master of Arts in Media and Communication program.

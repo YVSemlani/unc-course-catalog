@@ -1,3 +1,0 @@
-# GEOG 240: Introduction to Environmental Justice
-
-Environmental justice is about social equity and its relationship to the environment. This course provides an introduction to the principles, history, and scholarship of environmental justice. It traces the origins of the movement in the US and globally and its relationship to environmentalism. Students will use case studies and engagement to become familiar with environmental justice concerns related to food systems, environmental health, climate change, and economic development.

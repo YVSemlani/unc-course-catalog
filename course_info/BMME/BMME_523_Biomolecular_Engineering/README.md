@@ -1,3 +1,0 @@
-# BMME 523: Biomolecular Engineering
-
-This course introduces the use and creation of biomolecules for biomedical applications to foster the development of a mission oriented research plan to create engineered biomolecules for biomedical applications. Students will search, prepare, evaluate, design, and simulate biomolecules through lectures on the basic chemical and structural properties of biomolecules, exploiting varieties of biomolecules, practical methods to engineer biomolecules, and development of a student research plan. BME students only.

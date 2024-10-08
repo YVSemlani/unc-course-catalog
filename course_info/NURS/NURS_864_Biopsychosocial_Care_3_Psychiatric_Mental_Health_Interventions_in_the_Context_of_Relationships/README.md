@@ -1,3 +1,0 @@
-# NURS 864: Biopsychosocial Care 3: Psychiatric Mental Health Interventions in the Context of Relationships
-
-This course is third of a four course sequence that focuses delivery of care across the lifespan by the PMHNP in the context of relationships and larger systems. The influence of families, peers, groups, communities and society on client mental health and psychiatric illness will be examined.

@@ -1,3 +1,0 @@
-# GERM 481: Berlin: Mapping a (Post) Modern Metropolis
-
-This course aims to capture the spirit of the city as students engage in multiple texts from the 19th and 20th centuries representative of the city's literary, cultural, and visual history. The texts range from Theodor Fontane's bourgeoisie in Mitte to the Turkish-German minority in Kreuzberg. In addition to reading literary texts, students will also watch films and music videos, and discuss art and architecture.

@@ -1,3 +1,0 @@
-# PUBH 747: Project Management Principles and Practices
-
-Graduate students only. Provides an overview of knowledge and skills required for effective project/team leadership and management. Includes modules on leadership, management techniques, application of continuous quality improvement, and project management as well as organizational designs that complement team-based organizations. Online course.

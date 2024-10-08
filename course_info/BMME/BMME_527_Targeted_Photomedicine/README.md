@@ -1,3 +1,0 @@
-# BMME 527: Targeted Photomedicine
-
-This course will introduce students to fundamental concepts and engineering approaches in targeted photomedicine, particularly for the treatment of cancer. Students will review and present research articles on emerging applications of photomedicine. The major deliverable will be an NIH-style research proposal, based on lecture material and a literature review, to help students gain an understanding of advancements in targeted photomedicine.

@@ -1,3 +1,0 @@
-# LING 305: Race against Time: Language Revitalization
-
-Students are introduced to the causes and contexts of language endangerment and the complex process of language revitalization. Topics to be covered include assessment of endangerment level, language and thought, language attitudes, bilingual education, and language planning. We will also consider a number of case studies of endangered languages.

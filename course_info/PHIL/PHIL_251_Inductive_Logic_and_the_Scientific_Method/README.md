@@ -1,3 +1,0 @@
-# PHIL 251: Inductive Logic and the Scientific Method
-
-This course examines the role that inductive logic plays in scientific reasoning. Questions to be considered include: Are scientific theories distinguished from pseudoscience by being testable against our observations? Can we prove our best scientific theories to be true? Are we justified in making predictions about the future on the basis of past observations? The course examines these and other questions about confirming scientific theories by using the apparatus provided by the probability calculus.

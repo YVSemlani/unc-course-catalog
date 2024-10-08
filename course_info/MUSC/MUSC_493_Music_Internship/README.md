@@ -1,3 +1,0 @@
-# MUSC 493: Music Internship
-
-Permission of the director of undergraduate studies. Internship directly related to the study, practice, or the business of music. Students must complete at least 100 hours and submit a journal and report upon completion of the internship. No more than three credit hours may count toward the requirements of the music major. Excess hours may count as credit hours toward graduation, subject to the overall limit on music hours.

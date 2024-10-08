@@ -1,3 +1,0 @@
-# PLAN 655: Planning for Natural Hazards and Climate Risk
-
-An introduction to the human dimensions of natural hazards and climate change adaptation. What can we do to reduce losses from floods, fires, and other extreme weather events? How can we minimize the impacts of climate change? The focus of this course is on understanding how governance institutions, policies, politics, from individual to international influences the risks communities face. Previously offered as PLAN 755. Juniors, seniors and graduate students only.

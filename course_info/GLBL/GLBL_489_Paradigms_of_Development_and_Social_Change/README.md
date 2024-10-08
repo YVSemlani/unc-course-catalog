@@ -1,3 +1,0 @@
-# GLBL 489: Paradigms of Development and Social Change
-
-By deliberately juxtaposing questions of global development with an investigation of approaches in community organizing locally--both through course material and service-learning assignments--the course encourages students to develop a more critical understanding of the relationship between development projects and emancipatory frameworks. Honors version available.

@@ -1,3 +1,0 @@
-# SPHS 792: Pediatric Dysphagia
-
-This course will cover content on the specialty area of pediatric dysphagia assessment and intervention. The course will cover normal development of feeding skills, explore underlying etiologies of feeding disorders, current methods and philosophies of providing evaluation and intervention, existing and ongoing research in these areas, and special populations such as infants with craniofacial anomalies.

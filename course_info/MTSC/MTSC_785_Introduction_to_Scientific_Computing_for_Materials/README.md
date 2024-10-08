@@ -1,3 +1,0 @@
-# MTSC 785: Introduction to Scientific Computing for Materials
-
-An introduction to scientific computing key concepts and applying these concepts to solve problems, focusing on materials science and engineering. An overview of the mathematics basis of each numerical technique is followed with computer programming during and outside of class to apply those techniques. The course will require a final project to understand application software commonly used in materials science and engineering, including molecular dynamics (MD) software and in continuum modeling software.

@@ -1,3 +1,0 @@
-# PLCY 745: Mixed Methods and Program Evaluation
-
-Students will be introduced to the mixed-methods program evaluation design; learn how to collaborate with diverse partners and funders in developing and implementing a rigorous evaluation using mixed methods; study the fundamentals of designing exploratory, process, implementation, and impact evaluations; and learn how to select an evaluation design that best addresses the evaluation questions.

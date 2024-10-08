@@ -1,3 +1,0 @@
-# ASIA 260: Languages of Southeast Asia
-
-This course surveys languages spoken in Southeast Asia, an area rich in linguistic diversity, which is home to more than five distinct language families and well over 1,000 individual languages. Students will investigate the languages--in situ and in the diaspora--through the lens of descriptive linguistics, and will explore the social, cultural, and political aspects of languages in the region. This course is appropriate for students with an interest in linguistics or in Southeast Asia.

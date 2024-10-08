@@ -1,3 +1,0 @@
-# SWAH 404: Intermediate Kiswahili IV
-
-SWAH 404 is designed to further help students improve their fluency with particular emphasis on reading, writing, speaking, and listening. At this level students discuss varied issues in East Africa including state and local government political and economic activities, kinship ties, transportation, and Swahili oral and written literature. Students are encouraged to use the knowledge acquired in their respective areas of specializations and personal experiences to make connections and comparisons.

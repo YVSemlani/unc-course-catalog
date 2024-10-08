@@ -1,3 +1,0 @@
-# INLS 467: Introduction to Information Security
-
-Students will learn about many of the current issues facing businesses as well as how to prevent and discuss these issues and controls in depth. Focus will be placed upon preventing loss of information and protecting networks. Students should be able to understand any security control, describe its usage and rationale, as well as test and verify these controls are working as expected.

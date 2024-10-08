@@ -1,3 +1,0 @@
-# ENGL 411: Writing for Clients: Technical Communication Practicum
-
-This advanced technical writing course will help you develop skills in developing professional documents with a focus on document design, user experience, project management, and technical editing. You will assess the documentation needs for a client, propose a document or set of documents to fulfill that need, and then produce polished, professional documents for that client. These materials will lead to a professional portfolio you can share with potential employers.

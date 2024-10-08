@@ -1,3 +1,0 @@
-# POLI 405: Local Politics in the United States
-
-This course provides an overview of the politics of local governments in the United States. Topics covered include the economics and history of urban agglomerations, local governments' place in the American federal system, the role of race and immigration in how parties and coalitions govern, whether local governments are responsive to voters, and the role cities play in shaping housing, education, climate, and criminal justice policy.

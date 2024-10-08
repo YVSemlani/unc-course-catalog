@@ -1,3 +1,0 @@
-# IDST 119: Triple-I: Food: People, Politics, and Policies
-
-Have you ever thought about the food you eat? If you ate a hamburger or a salad, where did that meal come from? If you were living in a different country, what would this meal look like? Who are the laborers who made the meal possible? Is your body designed for this food? How do we make policies about food? What are the ethical concerns around food? This course will discuss these questions and more.

@@ -1,3 +1,0 @@
-# ARTS 409: Art and Science: Merging Printmaking and Biology
-
-This class explores the intersection of two disciplines, art and science. Research skills intrinsic to both include curiosity, close observation, experimentation, and visual analysis. Organized around printmaking projects informed by specific topics in biology, students adapt theory and practical skills from both disciplines to create artworks using several printmaking techniques. Permission of the instructors. Honors version available.

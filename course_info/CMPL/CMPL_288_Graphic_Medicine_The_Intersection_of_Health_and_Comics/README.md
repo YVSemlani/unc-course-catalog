@@ -1,3 +1,0 @@
-# CMPL 288: Graphic Medicine: The Intersection of Health and Comics
-
-We will explore the unique possibilities of comics in the form of graphic medicine: namely comics that thematize physical and mental health. How do comic artists work through issues of trauma and pain? How do artists with chronic illness and disabilities articulate their experience through comics? This course engages with the Medical Humanities, seeking to bring together students of medicine along with students of the humanities to contemplate how we communicate physical and mental illness.

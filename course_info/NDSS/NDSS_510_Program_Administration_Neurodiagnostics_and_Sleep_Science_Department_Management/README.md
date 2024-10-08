@@ -1,3 +1,0 @@
-# NDSS 510: Program Administration: Neurodiagnostics and Sleep Science Department Management
-
-Admittance in to NDSS program required. Students will be introduced to the concepts of project development and management related to Neurodiagnostics and Sleep Science. Administration, financial, human resources, legal and policy concepts and issues in outpatient, public, and private sector settings. Topics and emphasis may vary. Students will be required to solve a clinical question using an inter-professional team-based approach.

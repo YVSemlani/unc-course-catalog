@@ -1,3 +1,0 @@
-# ENGL 205: Word, Sound, Image: Multimedia Communication
-
-In this course, we will draw on classical and digital rhetoric to analyze contemporary forms of communication and to develop their own messages for multiple audiences. We will learn to conduct research into online discourse. We will create research-informed communication in written, oral, and digital modes. And we will share that communication with classmates and publicly with the campus and beyond.

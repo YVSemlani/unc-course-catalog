@@ -1,3 +1,0 @@
-# WGST 144: Women in United States History
-
-This course will survey the history of women, gender relations, and notions of sex difference in the United States from the colonial era to present times, with a special emphasis on women's varied experiences and expectations across divisions of class, race, and region. Key themes will include work, politics, citizenship, reproduction, sociability, and sexuality.

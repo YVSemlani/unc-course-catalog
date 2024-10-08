@@ -1,3 +1,0 @@
-# NSCI 273: Brainwaves: Human Electroencephalography Lab
-
-This research-based course is focused on understanding the neural underpinnings of electroencephalography (EEG) data. By synchronizing EEG recorded on the scalp with experimental events, Event-Related Potentials (ERPs) link human brain activity to specific mental processes. Students will gain technical skills, through hands-on experience, in processing, analyzing, and interpreting electrophysiological data. Majors only

@@ -1,3 +1,0 @@
-# LATN 224: Augustine's Confessions
-
-This class will read and examine substantial portions of the Latin text of Augustine's autobiographical masterpiece, The Confessions, the most important of his writings, and a seminal work of Greco-Roman literature. Students will also read the entire text in English translation. Through background readings and lectures students will gain a broader understanding of the Late Antiquity, the end of the Roman Empire, the conflicts of Christianity and paganism, and the genres of biography and autobiography.

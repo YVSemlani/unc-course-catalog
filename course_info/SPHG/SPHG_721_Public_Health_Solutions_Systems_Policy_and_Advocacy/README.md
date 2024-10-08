@@ -1,3 +1,0 @@
-# SPHG 721: Public Health Solutions: Systems, Policy and Advocacy
-
-This course introduces students to the health systems and the US health system in particular. It provides an introduction to the role of health policy in addressing public health problems and advancing health equity, and how evidence, law and ethics play a role in policy-making. It provides students with the skills to communicate information about public health problems and solutions to diverse audiences and introduces them to concepts of public health advocacy.

@@ -1,3 +1,0 @@
-# BMME 345: Biomedical Solid Mechanics
-
-This course covers topics ranging from multi-body systems to stress superposition to failure criteria to prepare students for the more advanced subjects of biomechanics and rehabilitation engineering. Topics include free-body diagrams, multibody statics and dynamics, linkage kinematics and kinetics, anthropometric kinematics, stress/strain/torsion, beam bending, stress superposition, constitutive relationship, strain gauges, finite-element analysis, failure analysis, and failure mechanisms. Restricted to Biomedical Engineering Majors.

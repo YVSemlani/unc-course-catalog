@@ -1,3 +1,0 @@
-# HPM 794: Patient-Reported Outcomes Measurement and Application in Healthcare Research and Practice
-
-Patient-reported outcomes (PROs) include measures of health status, quality of life, and satisfaction with healthcare. This course provides an overview of the PRO measurement and research field, and discusses how to design and evaluate a PRO measure and best practices for integrating PRO in clinical research and healthcare settings.

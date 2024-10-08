@@ -1,3 +1,0 @@
-# PLCY 795: Leading for Impact Across Sectors
-
-This course will help students understand the power of cross-sector collaboration and effective strategies to lead social and environmental change across sectors. Co-taught by an academic and practitioners, we use case studies, outside speakers, seminars, and debate to explore evolving models of cross sector collaboration to advance social impact. Students learn motivations, operations, and engagement models for stakeholders in different sectors and strategies to influence these stakeholders to advance societal change.

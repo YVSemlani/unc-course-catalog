@@ -1,3 +1,0 @@
-# ENVR 421: Environmental Health Microbiology
-
-Required preparation: introductory course in microbiology or permission of the instructor. This course covers microbes of public health importance in water, wastewater, and other environmental matrices, including detection, quantification, transport, and survival in environmental media; control measures to reduce exposures; quantitative microbial risk assessment; and the epidemiology of infectious diseases transmitted via the environment.

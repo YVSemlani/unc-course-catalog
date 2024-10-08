@@ -1,3 +1,0 @@
-# EDUC 850: Change Leadership and Systems Improvement
-
-The course is a core requirement for all students enrolled in the Interprofessional Certificate in Improvement Science and Implementation as well as the Masters of School Administration program. Introduces students to cutting-edge approaches to change leadership and system improvement. It leverages lessons from implementation and improvement sciences to help students learn to drive system change in the nation's schools, social service agencies, community organizations, and healthcare settings.

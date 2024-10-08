@@ -1,3 +1,0 @@
-# MEJO 433: UX Strategy and Design
-
-Required preparation, a prior or concurrent visual design course, internship, or work experience demonstrating basic graphic design skills. Immersion in experience design (XD) for products and services with a focus on digital user experience (UX), interface design (UI), analytics and marketing strategies. Students use design thinking, research, data, testing, business models, social media, and optimal conversion to engage diverse audiences. Previously offered as MEJO 336.

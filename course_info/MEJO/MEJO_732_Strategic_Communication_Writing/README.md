@@ -1,3 +1,0 @@
-# MEJO 732: Strategic Communication Writing
-
-This course is designed to give you hands-on experience writing to inform and persuade your audiences, with an emphasis on digital and social media. It is structured as an applied skills lab with both in-class and out-of-class writing assignments and an additional element of message production on behalf of an organizational client. Restricted to students in the Master of Arts in Media and Communication program.

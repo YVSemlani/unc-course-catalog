@@ -1,3 +1,0 @@
-# PHIL 143: AI and the Future of Humanity: Philosophical Issues about Technology and Human Survival
-
-This course investigates philosophical issues arising from advanced forms of technology, in particular artificial intelligence, virtual reality, and biological augmentation. We will consider questions about the dangers and benefits of AI, survival in non-biological ways, moral constraints on AI, the relationship between human and machine morality, and others. Honors version available.

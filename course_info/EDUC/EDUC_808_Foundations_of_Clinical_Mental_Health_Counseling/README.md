@@ -1,3 +1,0 @@
-# EDUC 808: Foundations of Clinical Mental Health Counseling
-
-An overview of the history of community mental health counseling and current topics impacting the profession. The emerging identity of the clinical mental health counselor is explored in terms of theoretical influences, diverse roles and tasks of counselors within various community settings, and professional ethics. There will be an emphasis on multicultural and social justice perspectives shaping the field of clinical mental health counseling with regards to best practice, research, and program development.
