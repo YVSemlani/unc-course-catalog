@@ -7,7 +7,7 @@ Welcome to the UNC Course Catalog Repository! This student-run repository relies
 The repository is organized as follows:
 
 - **Department Level:** Each department has its own folder, e.g., `COMP` for Computer Science, `MATH` for Mathematics.
-- **Course Level:** Within each department folder, courses are organized by Course Number -- Course Name, e.g., `1010-Introduction_to_Programming`.
+- **Course Level:** Within each department folder, courses are organized by Course Number -- Course Name, e.g., `210_Data_Structures_and_Analysis`.
 - **Professor Level:** Inside each course folder, materials are organized by Professor's name.
 - **Year Level:** Within each professor's folder, materials are organized by the Year they were taught.
 - **Multiple Edition Level:** Some courses have multiple editions or sections. These are organized as subfolders within the main course folder, coming after the top-level course folder and before the professor subfolders, e.g., `COMP_590-177` and `COMP_590-170` under `COMP_590`.
@@ -54,6 +54,8 @@ You can submit your course materials in one of the following ways:
 1. **Pull Request:** Submit a pull request to this repository with the title of the course, the material you are uploading, your name, and your university email.
 
 2. **Email:** Alternatively, you can send an email to [yashveersemlan@gmail.com](mailto:yashveersemlan@gmail.com) with the above information.
+
+**Note:** A valid university email is required to submit materials. In lieu of a valid university email, you may submit a screenshot of your student ID or some other proof of identification. This is to ensure that the authors are not responsible for any violations of the honor code and can cooperate with the university administration in any investigations.
 
 ## Upload Guidelines
 
