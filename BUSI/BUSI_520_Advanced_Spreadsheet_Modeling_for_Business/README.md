@@ -1,3 +1,0 @@
-# BUSI 520: Advanced Spreadsheet Modeling for Business
-
-Primarily online class. Students will use advanced features of Microsoft Excel to create efficient, flexible spreadsheet models of common and complex business problems. This is an extremely practical class in which skills learned can be put to immediate use in other classes, the workplace, and elsewhere. Topics: spreadsheet best practices, shortcuts and time-savers, flexible design, problem-solving, statistical analysis, charting, logic, reference functions, financial analysis, organizing data for complex analysis, what-if analysis, enhanced decision-making, and VBA.

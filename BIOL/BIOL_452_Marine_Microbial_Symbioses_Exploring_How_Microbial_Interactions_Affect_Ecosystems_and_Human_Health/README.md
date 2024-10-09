@@ -1,3 +1,0 @@
-# BIOL 452: Marine Microbial Symbioses: Exploring How Microbial Interactions Affect Ecosystems and Human Health
-
-Course material covers host-microbe and microbe-microbe interactions found in marine ecosystems, including beneficial and parasitic relationships among viruses, microbes, marine animals, and humans. Limited to upper-level undergraduate science majors and graduate students. Course previously offered as MASC 446.

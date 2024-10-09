@@ -1,3 +1,0 @@
-# ECON 882: Topics in Labor Economics-Dynamics and Search
-
-The course covers specific topics in labor economics by paying particular attention to dynamic considerations. The focus is on two groups of contributions, organized by methodology: The first group emphasizes search frictions in the labor market; the second uses discrete choice models to treat labor market dynamic. Specific topics covered in the course include: equilibrium unemployment, returns to Schooling, gender differentials, household interaction.

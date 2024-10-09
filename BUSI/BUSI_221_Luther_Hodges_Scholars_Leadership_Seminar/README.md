@@ -1,3 +1,0 @@
-# BUSI 221: Luther Hodges Scholars Leadership Seminar
-
-In this course, students delve into cross-sector collaboration and the private sector's societal role. Through readings, guided discussions, and guest presentations, students will examine key attributes of effective leaders. They'll analyze leadership attributes, interact with leaders from various sectors, plan a campus debate on a pressing business topic, and explore the Kenan Institute's Grand Challenge. Luther Hodges Scholars only.

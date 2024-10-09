@@ -1,3 +1,0 @@
-# BUSI 858: Special Topics in Organizational Behavior
-
-BUSI 858 is a second doctoral course in organizational behavior, meant to be taken after completing BUSI 851: Individual Behavior in Organizations. While BUSI 851 gave an overview of many important topics in organizational behavior, the field is too broad to be covered, in depth, with a single class. The goal of this course is to introduce developing scholars to the history and current status of important topics in organizational behavior. This course is intended for developing scholars who intend to pursue academic careers.

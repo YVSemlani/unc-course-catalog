@@ -1,3 +1,0 @@
-# BUSI 567: Customer Journeys
-
-This course covers state-of-art tactics, concepts, and tools of customer lifecycle marketing, which is the business process of (1) selecting customers that a firm can most profitably serve, and (2) shaping interactions between a company and these customers. This customer journeys framework consists of the design, implementation, and analysis of strategic initiatives including identifying and undertaking profitable customer acquisition; understanding the drivers of attrition and retention; and data-driven attribution of marketing actions and product decisions.

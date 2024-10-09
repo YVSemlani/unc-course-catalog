@@ -1,3 +1,0 @@
-# CHEM 100: Foundations of Chemistry
-
-This course is an introduction to fundamental threshold concepts in chemistry as preparation for the two-course sequence of General Descriptive Chemistry (CHEM 101 and 102). This course emphasizes developing contextualized algebra skills for solving chemistry problems including physical unit conversions, molar mass, and reaction stoichiometry. Permission of instructor required.

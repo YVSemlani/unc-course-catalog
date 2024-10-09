@@ -1,3 +1,0 @@
-# BIOL 440: Stem Cell Biology
-
-Stem cells are important for a number of biological processes and have become topics of fascination in popular science and culture. This course will build from a solid foundation of genetics, cell, and developmental biology to give students a broad appreciation of stem cells in development, aging, disease, and bioengineering. Students will understand key concepts in stem cell biology like potential and immortality as well as understand stem cells' promise and limitations in therapeutic settings.

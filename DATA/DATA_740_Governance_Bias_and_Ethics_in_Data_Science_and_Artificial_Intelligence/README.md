@@ -1,3 +1,0 @@
-# DATA 740: Governance, Bias, and Ethics in Data Science and Artificial Intelligence
-
-We will explore the foundational concepts of ethics in data science and AI. This overview will set the stage for a deep understanding of what ethical frameworks mean in practice, providing students the opportunity to create actionable examples. By focusing on a wide variety of case studies throughout a myriad of industries and settings, this class will develop leaders who can effectively integrate and leverage data science solutions while ensuring responsible use of data.

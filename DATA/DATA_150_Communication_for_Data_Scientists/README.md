@@ -1,3 +1,0 @@
-# DATA 150: Communication for Data Scientists
-
-The ability to collect and analyze data has changed virtually every field, yet data scientists often lack the ability to present their findings in effective formats. This class uses storytelling to help you connect with your audience and present your data in compelling and understandable ways so stakeholders can make the right decisions with data. Through hands-on exercises, you'll learn the advantages and disadvantages of oral, visual, and written formats.

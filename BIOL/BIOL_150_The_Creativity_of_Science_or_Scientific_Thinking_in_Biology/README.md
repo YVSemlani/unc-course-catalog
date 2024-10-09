@@ -1,3 +1,0 @@
-# BIOL 150: The Creativity of Science, or Scientific Thinking in Biology
-
-This course provides an introduction to the dynamic, creative, and open-ended process that is the scientific method. Through the analysis of news reports and primary scientific literature (covering a range of socially relevant biology topics), students will learn how to understand and interpret data, gain critical analysis skills, and begin to "think like scientists." Enrollment restricted to first-years and transfer students in their first year at UNC (transfer students, email instructor to be enrolled).

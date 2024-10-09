@@ -1,3 +1,0 @@
-# BIOL 514: Ecological and Evolutionary Developmental Biology
-
-This course explores the history, concepts, and applications of the emerging field of ecological and evolutionary developmental biology. In doing so, students will learn how traits emerge from the interplay of genes and the environment and how such developmental plasticity impacts ecology, evolution, and health. Students will also gain experience interpreting scientific literature, planning creative research, and integrating ideas from disciplines ranging from molecular biology and the health sciences to ecology and evolutionary biology. Honors version available.

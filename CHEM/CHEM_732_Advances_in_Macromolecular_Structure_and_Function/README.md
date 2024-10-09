@@ -1,3 +1,0 @@
-# CHEM 732: Advances in Macromolecular Structure and Function
-
-In-depth analysis of the structure-function relationships governing protein-protein and protein-nucleic acid interactions. Topics include replication, DNA repair, transcription, translation, RNA processing, protein complex assembly, and enzyme regulation. Course includes both the current and classic literature that highlight the techniques used to study these processes.

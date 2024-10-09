@@ -1,3 +1,0 @@
-# BIOL 118: Pre-Health Thrive-2 Pursuing Health Professions
-
-This course will provide guidance to plan a path toward a profession of interest by selecting appropriate course, service, and research opportunities to include in a portfolio useful in completing applications. Application preparation and interview skills will be addressed for health professions programs such as allopathic and osteopathic medicine, podiatric medicine, veterinary medicine, optometry, dentistry, pharmacy, nursing, social work, occupational therapy, and many others. This does not count as a course in the major.

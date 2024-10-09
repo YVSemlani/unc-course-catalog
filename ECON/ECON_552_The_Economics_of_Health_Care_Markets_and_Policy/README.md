@@ -1,3 +1,0 @@
-# ECON 552: The Economics of Health Care Markets and Policy
-
-This course explores the strategic choices of insurers and health care providers, their effect on patient welfare, and the role of government regulation in shaping health-care market outcomes. We will read academic papers covering topics such as moral hazard in health insurance provision, the impact of capitation on cost and quality of care, and the effect of hospital mergers on prices and insurance premiums. We will use tools from Industrial Organization and related empirical literatures.

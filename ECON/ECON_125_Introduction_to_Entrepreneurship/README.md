@@ -1,3 +1,0 @@
-# ECON 125: Introduction to Entrepreneurship
-
-This course covers both theoretical frameworks and practical examples of how to think like an entrepreneur and identify innovative opportunities. Students will learn about innovating, marshalling limited resources, inspiring teams, and persisting through challenges and uncertainty, often by trying, learning from what happens, and trying something better. Students will be applying the concepts of high-performing teams, design thinking, lean startup, pitching, as well as a range of different tools for evaluating venture feasibility and viability. Honors version available.

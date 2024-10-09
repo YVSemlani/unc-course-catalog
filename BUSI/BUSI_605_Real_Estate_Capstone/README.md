@@ -1,3 +1,0 @@
-# BUSI 605: Real Estate Capstone
-
-Case-based course covering a broad range of real estate issues. The cases studied focus on investment decisions made by practitioners in the industry, and will include investment feasibility and valuation, financing projects, leasing, development, individual and private equity structures, etc. This course is designed to allow students to utilize all prior real estate coursework in a practical manner. Offered to seniors completing the real estate minor or BSBA area of emphasis.

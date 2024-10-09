@@ -1,3 +1,0 @@
-# ECON 394: Advanced Entrepreneurship Practicum
-
-An advanced, hands-on course for students with the academic learning of the Shuford Minor and a passion for launching a venture, whether for-profit or nonprofit. You will work with entrepreneurship mentors and coaches to apply the lessons of the Shuford Minor and to convert your idea into an enterprise that launches your solution into its intended market. Teaching style is practical, collaborative, and devoted to learning-by-doing.

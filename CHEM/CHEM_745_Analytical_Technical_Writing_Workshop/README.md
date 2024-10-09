@@ -1,3 +1,0 @@
-# CHEM 745: Analytical Technical Writing Workshop
-
-Students will participate in 12 workshop sessions co-presented by the instructor and TA covering the basics of technical writing. Each workshop is designed to help students prepare successful proposals for external graduate fellowships, but skills practiced are readily extended to the 2nd-year prospectus, manuscript preparation, the thesis, and beyond.

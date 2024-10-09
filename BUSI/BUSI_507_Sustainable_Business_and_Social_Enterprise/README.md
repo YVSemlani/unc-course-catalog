@@ -1,3 +1,0 @@
-# BUSI 507: Sustainable Business and Social Enterprise
-
-This course concentrates on sustainability in existing businesses of all sizes, rather than starting new entrepreneurial ventures. Students will learn how to apply full triple bottom line sustainability in many industries/businesses and will explore how business fits into the sustainability landscape. Students develop skills using important innovation and sustainability frameworks (SASB, GRI, SDGs and more) that help identify profitable opportunities to simultaneously improve impact on society and the environment. Honors version available.

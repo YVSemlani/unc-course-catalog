@@ -1,3 +1,0 @@
-# CHEM 492: Molecular Modeling in Chemistry
-
-This course is offered to first-year graduate and upper-class undergraduate students in different chemistry disciplines who are interested in gaining skills in molecular modeling using modern methodologies from computational chemistry. No prior experience is required. An overview of quantum mechanics (QM) and molecular dynamics (MD) methodologies will be provided. It will also provide extensive experiences to perform different types of computations with abundant hands-on exercises using Gaussian package for QM and LAMMPS for MD simulations.

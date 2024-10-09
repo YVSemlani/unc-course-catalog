@@ -1,3 +1,0 @@
-# CHEM 443: Surface Analysis
-
-This class will focus on analytical techniques capable of probing the physical and chemical properties of surfaces and interfaces. These analyses are extremely challenging, as the sample sizes are small (e.g., 1E14 molecules/cm2 of a material). The course will focus on complementary techniques to assess surface structure and topography, atomic and molecular composition, organization or disorder, and reactivity.

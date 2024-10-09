@@ -1,3 +1,0 @@
-# BIOL 104: Biodiversity
-
-The biological diversity we see on Earth today encompasses a variety of genetic, species, and ecosystem level variation. This course will focus on the biological principles that push biologists to understand what produces and sustains the biodiversity of life on Earth. This class will address key questions about how we identify and measure biological diversity, how it changes over time, and why biological diversity matters as our planet continues to change.

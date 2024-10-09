@@ -1,3 +1,0 @@
-# BUSI 532: Healthcare and Service Operations Management
-
-This course will teach you how to design, manage, and improve the performance of service organizations through a structured analysis of firm operations. You will learn strategic analysis and operational decision-making for service firms. You will also learn how to effectively leverage data and analytics towards improved operating performance and customer satisfaction. This course will cover case studies from healthcare, e-commerce, hospitality, transportation, and online marketplaces. Honors version available.

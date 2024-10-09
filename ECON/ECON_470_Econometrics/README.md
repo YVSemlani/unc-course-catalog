@@ -1,3 +1,0 @@
-# ECON 470: Econometrics
-
-Econometrics is the application of statistical methods and economic theory to the problem of identifying, estimating, and testing economic models. This course covers concepts and methods used in empirical economic research. Students will learn how to conduct and how to critique empirical studies in economics. Students may not receive credit for both ECON 470 and 570. Honors version available.

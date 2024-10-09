@@ -1,3 +1,0 @@
-# BUSI 566: Marketing Strategy: Sustainable Competitive Advantage in Dynamic Environments
-
-This course addresses all aspects of a firm's overall strategy, from market selection to prioritization to marketing tactics. The flow of the course mirrors the strategic and tactical development processes that are used in practice with companies today: Choice of Markets; Choice of Customers and Discovery of Deep-Seated Customer Needs; and, on the Ground Strategic Execution. Course material will be reinforced through a course-long group project that requires integration and application of course principles.

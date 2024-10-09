@@ -1,3 +1,0 @@
-# BUSI 407: Financial Accounting
-
-Students will acquire the tools to understand and analyze information presented in corporate financial statements. Financial accounting results and projected results are utilized in virtually every segment of the business world. Knowledge of financial accounting and analysis is necessary for managers, investors, bankers, financial analysts, and professional accountants.

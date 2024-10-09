@@ -1,3 +1,0 @@
-# BUSI 506: Entrepreneurial Strategy: How to Think Like a Venture Capitalist
-
-In this course, we tackle venture capital as a topic of strategy rather than finance. This course is complementary to entrepreneurial finance and private equity courses, as we will focus on "the story about the numbers" more than the numbers themselves. The goal of this course is to teach students how to recognize early stage startup opportunities, mitigate risk and assess feasibility. Real startup will come pitch to class, a la TV's Shark Tank.

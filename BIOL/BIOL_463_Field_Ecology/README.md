@@ -1,3 +1,0 @@
-# BIOL 463: Field Ecology
-
-Application of ecological theory to terrestrial and/or freshwater systems. Lectures emphasize quantitative properties of interacting population and communities within these systems. Required laboratory teaches methodology applicable for analysis of these systems. Projects emphasize experimental testing of ecological theory in the field. Two lecture and six field hours a week.

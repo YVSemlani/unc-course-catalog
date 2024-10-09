@@ -1,3 +1,0 @@
-# ECON 415: Market Failures
-
-This course is a continuation of ECON 410. While ECON 410 dealt with basic price theory and market successes, this course will mainly cover market failures. In particular, we will first explore the notion of efficiency and equity in a partial and general equilibrium framework. We will then add asymmetric information, behavioral economics, externalities, public goods, and market power to models learned in ECON 101 and ECON 410 to analyze the effects on economic efficiency.

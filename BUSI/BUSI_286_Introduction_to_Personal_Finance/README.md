@@ -1,3 +1,0 @@
-# BUSI 286: Introduction to Personal Finance
-
-Introduces the fundamental principle tools of finance including time value of money (TVM), risk vs return, and asset pricing. It increases the student's understanding of the process of accumulating and protecting personal wealth by learning how to identify and analyze risk and return, understand the complexities of budgeting. It also covers investment alternatives, retirement planning, and how to transfer wealth. Intended for seniors and juniors who are not pursuing a business major/minor.

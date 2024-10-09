@@ -1,3 +1,0 @@
-# BUSI 574: Taxes and Business Strategy
-
-This course covers high-level topics related to tax planning that are relevant to future CEOs, CFOs, investment bankers, equity analysts, and marketing consultants. In this course, students will understand how taxes interact with other fields such as finance, accounting, law, marketing, human resources and compensation, operation management, risk management, etc.

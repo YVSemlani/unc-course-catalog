@@ -1,3 +1,0 @@
-# BIOL 603: MiBio Seminar
-
-This class is designed to 1) enhance students' ability to present scientific material to their peers in a comprehensive, cohesive manner, 2) familiarize students with scientific concepts and technologies used in multiple disciplines, 3) expose students to cutting edge research, 4) prepare students to gain substantial meaning from seminars and to ask questions, and 5) enhance students' ability to evaluate scientific papers and seminars.

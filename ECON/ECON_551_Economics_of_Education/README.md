@@ -1,3 +1,0 @@
-# ECON 551: Economics of Education
-
-This course will apply and build on existing economic theory and econometric skills to study education policy. Topics include education production, teacher quality, and investment in education, with a particular emphasis on recent policies aimed at reducing inequality. Students will learn how to conduct and how to critique empirical studies in economics of education.

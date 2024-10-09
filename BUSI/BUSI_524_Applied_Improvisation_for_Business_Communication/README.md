@@ -1,3 +1,0 @@
-# BUSI 524: Applied Improvisation for Business Communication
-
-Focuses on improving students' soft skills, such as presenting, expressiveness, and interviewing, by applying the principles and techniques of improvisational theater. Participants explore creativity, adaptation, awareness, self-confidence, risk taking, physicality, intuition, and teamwork. Students can stretch their abilities and discover things about themselves and others that are crucial to success.

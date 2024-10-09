@@ -1,3 +1,0 @@
-# BIOL 545: Exploring Brain, Gut, and Immunity
-
-The course will explore topics that relate to how the brain and the gut communicate with one another. The course will also examine the connection between the brain-gut axis to the immune system and the microbiota at a molecular, cellular, and organismal level. Students will survey these emerging research topics and critically think, critique, and understand the experimental evidence for what we understand today about the gut and brain relationship. Honors version available.

@@ -1,3 +1,0 @@
-# ECON 876: Advanced Topics in Data Science and Finance
-
-The course is intended for PhD students in economics, finance, and related fields. With a focus on asset pricing, it is designed to teach students how to conduct empirical research using machine learning, high-dimensional data science, and AI tools. The goal is for students to become familiar with the most recent methodological advances and to be able to analyze and evaluate new research effectively.

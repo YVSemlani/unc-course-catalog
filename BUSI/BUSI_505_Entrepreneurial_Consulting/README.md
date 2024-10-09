@@ -1,3 +1,0 @@
-# BUSI 505: Entrepreneurial Consulting
-
-Student teams engage in consulting projects to help a wide range of small business owners, early stage start-ups, and not-for-profit ventures tackle typical entrepreneurial challenges. Data is gathered through extensive fieldwork, such as client meetings, customer surveys, interviews with thought leaders, site visits, and product tests. Due to the heavy workload, students should not enroll in BUSI 505 and BUSI 554 concurrently.

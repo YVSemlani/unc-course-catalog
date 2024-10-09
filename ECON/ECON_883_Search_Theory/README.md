@@ -1,3 +1,0 @@
-# ECON 883: Search Theory
-
-Search frictions have long been recognized as a reason for the existence of labor and capital unemployment. It is also a leading explanation for the price and wage dispersion, a standard tool in monetary economics. This course covers a number of widely used models of search frictions, and discusses how they relate to imperfect information about individual or match-specific characteristics and or coordination problems.

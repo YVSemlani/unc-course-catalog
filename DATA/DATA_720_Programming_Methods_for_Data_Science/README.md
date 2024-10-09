@@ -1,3 +1,0 @@
-# DATA 720: Programming Methods for Data Science
-
-This course will provide students with advanced concepts on the construction and use of data structures and their associated algorithms. Concepts covered in this course will include: abstract data types, lists, stacks, queues, trees, and graphs; sorting, searching, hashing, and an introduction to numerical error control; techniques of algorithm analysis and problem-solving paradigms using relevant programming languages and tools.

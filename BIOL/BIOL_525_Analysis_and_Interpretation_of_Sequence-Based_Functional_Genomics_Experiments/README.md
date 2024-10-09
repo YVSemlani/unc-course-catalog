@@ -1,3 +1,0 @@
-# BIOL 525: Analysis and Interpretation of Sequence-Based Functional Genomics Experiments
-
-Practical introduction to functional genomics experiments, such as RNA-seq and ChIP-seq, and computational techniques for the analysis of these data derived from high-throughput sequencing. Interpretation of results will be stressed. Basic knowledge of molecular biology, beginning level computational skills, and familiarity with basic statistical concepts are expected. Three lecture hours a week.

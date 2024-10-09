@@ -1,3 +1,0 @@
-# BUSI 220: Persuasion with Data
-
-This class will emphasize research methods appropriate for projects that are designed to identify an important business-related problem and to evaluate potential solutions based on systematic empirical evidence. Even though the focus is on using empirical evidence, students may need to explore additional resources or skills not covered in the class as part of their research, such as data analytics, data visualization. Luther Hodges Scholars only.

@@ -1,3 +1,0 @@
-# CHEM 210: Service Learning in Chemistry
-
-This is an APPLES service-learning course that collaborates with a community partner. Students will develop research questions and test their hypotheses using chemistry lab techniques and instrumentation. Students will keep a reflection journal on their service work and a lab notebook for recording all experimentation. At the end of the semester, students will write a paper and present research posters. Findings will be shared with the community partner. Students must send applications to the instructor.

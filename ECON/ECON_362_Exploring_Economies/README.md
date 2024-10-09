@@ -1,3 +1,0 @@
-# ECON 362: Exploring Economies
-
-During this course, students will explore both microeconomic and macroeconomic principles in the context of a host country. Students will hone their ability to think like an economist while examining the host country's culture and economy through interactive discussions, activities, and site-visits. Topics will vary based on location, but could include market structures and prices, market failures, labor markets, trade, economic growth and inequality, fiscal and monetary policy, exchange rates, and costs of living.

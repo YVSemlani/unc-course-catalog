@@ -1,3 +1,0 @@
-# BIOL 523: Sex Differences in Human Disease
-
-Many human diseases including cancer, cardiovascular disease, dementia, chronic kidney disease, obesity, and auto-immune disease differ in their pathology and treatment between males and females. The class will first cover the hormonal and genetic mechanisms of sex determination, and then build on this knowledge to understand sexual disparities in the development and potential treatments of disease. The course will be based on primary literature and discussions of experimental evidence.

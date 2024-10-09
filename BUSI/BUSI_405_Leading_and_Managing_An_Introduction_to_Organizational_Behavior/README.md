@@ -1,3 +1,0 @@
-# BUSI 405: Leading and Managing: An Introduction to Organizational Behavior
-
-An introduction to leading and managing in organizations. Examines the impact of individual, group, and organizational factors on organizational performance and employee attitudes. Topics include leadership, perceptions, attitudes, motivation, group development, norms and cohesiveness, empowerment, conflict, negotiations, culture, structure, stress, innovation, and change.

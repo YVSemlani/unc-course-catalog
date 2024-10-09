@@ -1,3 +1,0 @@
-# DATA 730: Statistical Modeling and Inference for Data Science
-
-The course will be coding-oriented and cover concepts such as foundations in probability, including basic rules, Bayes' theorem, and basic distributions; sampling and the central limit theorem; bootstrapping, confidence intervals, hypothesis testing, and multiple testing; linear models, basic and multiple regression, inference for regression, regularization; classification, logistic regression, and tree-based methods; and prediction, model interpretation, and model evaluation.

@@ -1,3 +1,0 @@
-# BUSI 521: Design Thinking: The Innovation Process for Complex Problems
-
-The class teaches real world innovation -- creativity, improvisation, and design thinking -- through experiential learning and iterative project-based learning. Students will develop fluency in 21st century skills. These include storytelling, logo development, website design, video editing, audio and podcast editing, budgeting, postcard and flyer design, etc. In addition, students will discuss key innovations that will likely change their careers and lives: artificial intelligence, gene editing, autonomous vehicles, etc.

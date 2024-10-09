@@ -104,13 +104,10 @@ Explores Internet history and cyberphilosophy; online identify construction, com
 
 Elective topics in computer science for computer science majors. May not be used to satisfy any degree requirements for a computer science major. This course has variable content and may be taken multiple times for credit.
 
-## [COMP 393. Software Engineering Practicum. 1-3 Credits.
+## [COMP 393. Software Engineering Practicum. 1-3 Credits.](./COMP_393_Software_Engineering_Practicum_1-3_Credits)
 Students develop a software program for a real client under the supervision of a faculty member. Projects may be proposed by the student but must have real users. Course is intended for students desiring practical experiences in software engineering but lacking the experience required for external opportunities. Majors only.
 
-COMP 401. Foundation of Programming. 4 Credits.](./COMP_393_Software_Engineering_Practicum_1-3_Credits
-Students_develop_a_software_program_for_a_real_client_under_the_supervision_of_a_faculty_member_Projects_may_be_proposed_by_the_student_but_must_have_real_users_Course_is_intended_for_students_desiring_practical_experiences_in_software_engineering_but_lacking_the_experience_required_for_external_opportunities_Majors_only
-
-COMP_401_Foundation_of_Programming)
+## [COMP 401. Foundation of Programming. 4 Credits.](./COMP_401_Foundation_of_Programming)
 
 Required preparation, a first formal course in computer programming (e.g., COMP 110, COMP 116). Advanced programming: object-oriented design, classes, interfaces, packages, inheritance, delegation, observers, MVC (model view controller), exceptions, assertions. Students may not receive credit for this course after receiving credit for COMP 301. Honors version available.
 
@@ -436,13 +433,10 @@ Surveys form, motion, depth, scale, color, brightness, texture and shape percept
 
 Languages for knowledge engineering. Rules, semantic nets, and frames. Knowledge acquisition. Default logics. Uncertainties. Neural networks.
 
-## [COMP 790. Topics in Computer Science. 1-21 Credits.
+## [COMP 790. Topics in Computer Science. 1-21 Credits.](./COMP_790_Topics_in_Computer_Science_1-21_Credits)
 Permission of the instructor. This course has variable content and may be taken multiple times for credit.
 
-COMP 822. Topics in Discrete Optimization. 3 Credits.](./COMP_790_Topics_in_Computer_Science_1-21_Credits
-Permission_of_the_instructor_This_course_has_variable_content_and_may_be_taken_multiple_times_for_credit
-
-COMP_822_Topics_in_Discrete_Optimization)
+## [COMP 822. Topics in Discrete Optimization. 3 Credits.](./COMP_822_Topics_in_Discrete_Optimization)
 
 Topics may include polynomial algorithms, computational complexity, matching and matroid problems, and the traveling salesman problem.
 
@@ -490,25 +484,18 @@ Project course, lecture, and seminar on real-time interactive 3D graphics system
 
 Lecture and seminar on recent advances in image segmentation, registration, pattern recognition, display, restoration, and enhancement.
 
-## [COMP 892. Practicum. 0.5 Credits.
+## [COMP 892. Practicum. 0.5 Credits.](./COMP_892_Practicum_05_Credits)
 Permission of the instructor. Work experience in an area of computer science relevant to the student's research interests and pre-approved by the instructor. The grade, pass or fail only, will depend on a written report by the student and on a written evaluation by the employer.
 
-COMP 910. Computer Science Module. 0.5-21 Credits.
+## [COMP 910. Computer Science Module. 0.5-21 Credits.](./COMP_910_Computer_Science_Module_05-21_Credits)
 A variable-credit module course that can be used to configure a registration for a portion of a class.
 
-COMP 911. Professional Writing in Computer Science. 3 Credits.](./COMP_892_Practicum_05_Credits
-Permission_of_the_instructor_Work_experience_in_an_area_of_computer_science_relevant_to_the_students_research_interests_and_pre-approved_by_the_instructor_The_grade_pass_or_fail_only_will_depend_on_a_written_report_by_the_student_and_on_a_written_evaluation_by_the_employer
-
-COMP_910_Computer_Science_Module_05-21_Credits
-A_variable-credit_module_course_that_can_be_used_to_configure_a_registration_for_a_portion_of_a_class
-
-COMP_911_Professional_Writing_in_Computer_Science)
-
-Graduate computer science majors only. Analysis of good and bad writing. Exercises in organization and composition. Each student also writes a thesis-quality short technical report on a previously approved project.
+## [COMP 911. Professional Writing in Computer Science. 3 Credits.](./COMP_911_Professional_Writing_in_Computer_Science)
+Permission of the instructor. Work experience in an area of computer science relevant to the student's research interests and pre-approved by the instructor. The grade, pass or fail only, will depend on a written report by the student and on a written evaluation by the employer.
 
 ## [COMP 915. Technical Communication in Computer Science. 1 Credits.](./COMP_915_Technical_Communication_in_Computer_Science)
 
-Graduate computer science majors or permission of the instructor. Seminar on teaching, short oral presentations, and writing in computer science.
+Graduate computer science majors only. Analysis of good and bad writing. Exercises in organization and composition. Each student also writes a thesis-quality short technical report on a previously approved project.
 
 ## [COMP 916. Seminar in Professional Practice. 1 Credits.](./COMP_916_Seminar_in_Professional_Practice)
 
@@ -526,20 +513,13 @@ Graduate standing required. Introduction to grantsmanship, research grants and c
 
 Graduate computer science majors only. Seminar on social and economic effects of computers on such matters as privacy, employment, power shifts, rigidity, dehumanization, dependence, quality of life.
 
-## [COMP 990. Research Seminar in Computer Science. 1-21 Credits.
+## [COMP 990. Research Seminar in Computer Science. 1-21 Credits.](./COMP_990_Research_Seminar_in_Computer_Science_1-21_Credits)
 Permission of the instructor. Seminars in various topics offered by members of the faculty.
 
-COMP 991. Reading and Research. 1-21 Credits.
+## [COMP 991. Reading and Research. 1-21 Credits.](./COMP_991_Reading_and_Research_1-21_Credits)
 Permission of the instructor. Directed reading and research in selected advanced topics.
 
-COMP 992. Master's (Non-Thesis). 3 Credits.](./COMP_990_Research_Seminar_in_Computer_Science_1-21_Credits
-Permission_of_the_instructor_Seminars_in_various_topics_offered_by_members_of_the_faculty
-
-COMP_991_Reading_and_Research_1-21_Credits
-Permission_of_the_instructor_Directed_reading_and_research_in_selected_advanced_topics
-
-COMP_992_Masters_Non-Thesis)
-
+## [COMP 992. Master's (Non-Thesis). 3 Credits.](./COMP_992_Masters_Non-Thesis)
 Permission of the department.
 
 ## [COMP 993. Master's Research and Thesis. 3 Credits.](./COMP_993_Masters_Research_and_Thesis)

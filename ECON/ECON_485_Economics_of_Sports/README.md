@@ -1,3 +1,0 @@
-# ECON 485: Economics of Sports
-
-This course applies microeconomic techniques to study the allocation of resources in professional and collegiate sports, the determinants of an athlete's salary, racial discrimination, gender wage differentials, and the economic impact of sports within the local community. The course engages students with real-world sports stories and incorporates empirical research and statistical analysis to test different economic theories.

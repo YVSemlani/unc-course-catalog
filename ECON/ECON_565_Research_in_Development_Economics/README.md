@@ -1,3 +1,0 @@
-# ECON 565: Research in Development Economics
-
-The course is designed to advance analytical skills in the field of development economics. The course covers empirical models of development gap, economic growth, human capital, income inequality, corruption, immigration, informality, and current COVID-19 crisis. Students will learn how researchers evaluate development policies, including tax and welfare reforms, education programs, privatization, regulation, immigration, and COVID-19-related policies. Students will improve programming skills in Stata and use real-world survey data in writing a research project.

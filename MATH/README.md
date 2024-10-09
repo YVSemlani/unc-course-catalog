@@ -22,7 +22,7 @@ What properties should a fair election have and are these properties achievable 
 
 ## [MATH 69. First-Year Seminar: Unfolding Infinity: Mathematical Origami and Fractal Symmetry (3 Credits)](./MATH_69_First-Year_Seminar_Unfolding_Infinity_Mathematical_Origami_and_Fractal_Symmetry)
 
-This seminar engages students in an exploration of the interplay between mathematics, origami, and fractal symmetry. Learning objectives will include mastering basic origami folding techniques, identifying and applying fundamental symmetry operations, recognizing and analyzing fractal symmetry, and creating geometric tessellations. Students will use image editing software (Illustrator and Photoshop), mathematical imaging software (Ultra Fractal), and the laser cutter in UNC's BeAM space, to design and create modular origami and fractal tessellation artwork.
+This seminar engages students in an exploration of the interplay between mathematics, origami, and fractal symmetry. Learning objectives include mastering basic origami folding techniques, identifying and applying fundamental symmetry operations, recognizing and analyzing fractal symmetry, and creating geometric tessellations. Students will use image editing software (Illustrator and Photoshop), mathematical imaging software (Ultra Fractal), and the laser cutter in UNC's BeAM space to design and create modular origami and fractal tessellation artwork.
 
 ## [MATH 70. First-Year Seminar: Topology and Symmetry (3 Credits)](./MATH_70_First-Year_Seminar_Topology_and_Symmetry)
 
@@ -34,9 +34,9 @@ Special topics course. Content will vary each semester. Honors version available
 
 ## [MATH 110. Algebra (3 Credits)](./MATH_110_Algebra)
 
-Provides a one-semester review of the basics of algebra. Basic algebraic expressions, functions, exponents, and logarithms are included, with an emphasis on problem solving. This course does not satisfy any general education requirements. It is intended for students who need it as a prerequisite for other classes. A student cannot receive credit for this course after receiving credit for MATH 231 or higher.
+Provides a one-semester review of the basics of algebra. Basic algebraic expressions, functions, exponents, and logarithms are included, with an emphasis on problem-solving. This course does not satisfy any general education requirements. It is intended for students who need it as a prerequisite for other classes. A student cannot receive credit for this course after receiving credit for MATH 231 or higher.
 
-## [MATH 110L. Algebra Corequisite (1 Credit)](./MATH_110_This_course_is_intended_for_students_currently_enrolled_in_MATH_110_who_need_additional_review_of_algebra)
+## [MATH 110L. Algebra Corequisite (1 Credit)](./MATH_110L_Algebra_Corequisite)
 
 This course provides just-in-time instruction and practice on basic algebra to support students in Algebra. It also provides additional practice on some of the more difficult topics from MATH 110. This course is intended for students currently enrolled in MATH 110 who need additional review of algebra.
 
@@ -80,7 +80,7 @@ This course introduces students to the tools of linear algebra and optimization,
 
 Limits, derivatives, and integrals of functions of one variable. A student cannot receive credit for this course after receiving credit for MATH 152. Honors version available.
 
-## [MATH 231L. Calculus of Functions of One Variable I Corequisite (1 Credit)](./MATH_231_It_also_provides_additional_practice_on_some_of_the_more_difficult_topics_from_Calculus_1_This_course_is_intended_to_be_taken_by_students_currently_enrolled_in_MATH_231_who_need_review_of_algebra_and_trigonometry)
+## [MATH 231L. Calculus of Functions of One Variable I Corequisite (1 Credit)](./MATH_231L_Calculus_of_Functions_of_One_Variable_I_Corequisite)
 
 This course provides just-in-time instruction and practice on algebra and trigonometry to support students in Calculus of Functions of One Variable I. It also provides additional practice on some of the more difficult topics from Calculus 1. This course is intended to be taken by students currently enrolled in MATH 231 who need review of algebra and trigonometry.
 
@@ -96,7 +96,7 @@ Vector algebra, solid analytic geometry, partial derivatives, multiple integrals
 
 This course introduces students to some of the key mathematical tools underlying algorithmic data science. The primary focus of the course is matrix algebra and multivariable calculus. The mathematical topics covered in the course will be motivated and connected by concrete applications in data science, with an emphasis on machine learning and optimization.
 
-## [MATH 290. Special Topics in Mathematics (1-3 Credits)](./MATH_290_Special_Topics_in_Mathematics_1-3_Credits)
+## [MATH 290. Special Topics in Mathematics (1-3 Credits)](./MATH_290_Special_Topics_in_Mathematics)
 
 Permission of the instructor. Elective topics in mathematics. This course has variable content and may be taken multiple times for credit.
 
@@ -104,11 +104,11 @@ Permission of the instructor. Elective topics in mathematics. This course has va
 
 Permission required. Experience includes preparations, demonstrations, assistance, and attendance at weekly meetings, weekly office hours, and class sections. Assistants will not be involved in any aspects of grading. May be repeated for credit.
 
-## [MATH 294. Undergraduate Seminar in Mathematics (1-3 Credits)](./MATH_294_Undergraduate_Seminar_in_Mathematics_1-3_Credits)
+## [MATH 294. Undergraduate Seminar in Mathematics (1-3 Credits)](./MATH_294_Undergraduate_Seminar_in_Mathematics)
 
 Permission of the instructor. A seminar on a chosen topic in mathematics in which the students participate more actively than in usual courses.
 
-## [MATH 296. Directed Exploration in Mathematics (1-3 Credits)](./MATH_296_Directed_Exploration_in_Mathematics_1-3_Credits)
+## [MATH 296. Directed Exploration in Mathematics (1-3 Credits)](./MATH_296_Directed_Exploration_in_Mathematics)
 
 By permission of the director of undergraduate studies. Experimentation or deeper investigation under the supervision of a faculty member of topics in mathematics that may be, but need not be, connected with an existing course. No one may receive more than seven semester hours of credit for this course. Formerly offered as MATH 290.
 
@@ -128,7 +128,7 @@ This course serves as a transition from computational to more theoretical mathem
 
 Introductory ordinary differential equations, first- and second-order differential equations with applications, higher-order linear equations, systems of first-order linear equations (introducing linear algebra as needed). Honors version available.
 
-## [MATH 396. Undergraduate Reading and Research in Mathematics (1-3 Credits)](./MATH_396_Undergraduate_Reading_and_Research_in_Mathematics_1-3_Credits)
+## [MATH 396. Undergraduate Reading and Research in Mathematics (1-3 Credits)](./MATH_396_Undergraduate_Reading_and_Research_in_Mathematics)
 
 Permission of the director of undergraduate studies. This course is intended mainly for students working on honors projects. No one may receive more than three semester hours credit for this course.
 
@@ -356,7 +356,7 @@ Permission of the instructor. Subjects may include operator theory on Hilbert sp
 
 Permission of the instructor. Topics may include: ergodic theory, topological dynamics, stability theory of differential equations, classical dynamical systems, differentiable dynamics.
 
-## [MATH 891. Special Topics (1-3 Credits)](./MATH_891_Special_Topics_1-3_Credits)
+## [MATH 891. Special Topics (1-3 Credits)](./MATH_891_Special_Topics)
 
 Advance topics in current research in statistics and operations research.
 

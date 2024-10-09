@@ -1,3 +1,0 @@
-# DATA 750: Mathematical Tools for Data Science
-
-This course will present the mathematical intuition, theory, and techniques driving the numerical computation methods used for processing and analyzing data in various real-life problems. Topics include dimensionality reduction; linear and non-linear approximation; frequency and wavelet analysis; and a glimpse into the mathematics of deep neural networks, classification, large-scale and high-performance numerical computing, and visualization.

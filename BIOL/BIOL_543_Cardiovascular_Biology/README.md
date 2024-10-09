@@ -1,3 +1,0 @@
-# BIOL 543: Cardiovascular Biology
-
-An experimental approach to understanding cardiovascular development, function, and disease. It covers cardiovascular development (heart, blood vasculature, lymphatic vasculature) and cardiovascular function as linked to selected diseases. Focus on molecular, genetic, cell biological, and biochemical techniques used to study the cardiovascular system, with an emphasis on the genes and signaling pathways involved in cardiovascular development and disease. Most topics will be paired with a research paper from the primary literature. Honors version available.

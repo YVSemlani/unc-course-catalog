@@ -1,3 +1,0 @@
-# DATA 710: Introduction to Applied Data Science
-
-The first part of this course introduces various stages of the data life cycle, from defining data requirements to data creation and gathering to data fusion and data preparation to data cleaning and quality control to exploratory analytics, data interpretation, and visualization. We will explore FAIR data principles of curation, metadata, and digital preservation policies. The second part will introduce the concept of relational databases that provide storage and management for structured data.
